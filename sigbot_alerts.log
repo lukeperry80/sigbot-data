@@ -138,3 +138,61 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-09-24 06:00</b>
 Why     mom rank 0.04 | liq rank 99 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-09-23 15:05:18 UTC
+🛑 <b>STOPPED — UNIUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>10.355</code>  Stop <code>9.3596149</code>
+Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-09-23 15:05:19 UTC
+🛑 <b>STOPPED — ARBUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.2473</code>  Stop <code>0.22097749</code>
+Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-09-23 15:05:21 UTC
+🛑 <b>STOPPED — ADAUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.2577</code>  Stop <code>0.24276471</code>
+Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-09-23 15:05:22 UTC
+🛑 <b>STOPPED — VIRTUALUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.7581</code>  Stop <code>0.71425165</code>
+Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-09-23 15:05:23 UTC
+🛑 <b>STOPPED — ETCUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>9.5</code>  Stop <code>8.9363676</code>
+Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-09-23 15:05:24 UTC
+🛑 <b>STOPPED — XLMUSDT LONG</b>
+LONG_MAJ, grade C
+Entry <code>0.2202</code>  Stop <code>0.2078392</code>
+Loss  <b>-1.00R</b> = 0.04% of equity
+===== 2026-09-23 15:05:26 UTC
+🛑 <b>STOPPED — XRPUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>1.61</code>  Stop <code>1.5277837</code>
+Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-09-23 15:05:28 UTC
+🛑 <b>STOPPED — AAVEUSDT LONG</b>
+LONG_MAJ, grade C
+Entry <code>149.21</code>  Stop <code>140.18711</code>
+Loss  <b>-1.00R</b> = 0.04% of equity
+===== 2026-09-23 15:05:29 UTC
+<b>🟢 LONG FILLED  1000BONKUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.003698</code>
+Stop    <code>0.0034163054</code>  (7.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>44374.3</code>
+Exit by <b>2026-09-29 01:02</b>
+Why     mom rank 0.65 | liq rank 56 | BTC_UP
+===== 2026-09-23 15:05:30 UTC
+<b>🟢 LONG FILLED  NILUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.08773</code>
+Stop    <code>0.073579832</code>  (16.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>883.382</code>
+Exit by <b>2026-09-29 01:02</b>
+Why     mom rank 0.96 | liq rank 90 | BTC_UP
