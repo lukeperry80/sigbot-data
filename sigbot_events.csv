@@ -19,3 +19,15 @@ ts,symbol,event,direction,module,grade,detail
 2026-09-23 16:02,SUPERUSDT,skip_c_cap,SHORT,XREV_SHORT,C,5 C-grade already open
 2026-09-23 16:02,B3USDT,skip_c_cap,SHORT,XREV_SHORT,C,5 C-grade already open
 2026-09-23 16:02,*,scan,,,,universe=253 regime=BTC_UP signals=20 armed=16 open=3 pending=13
+2026-09-23 17:02,*,scan,,,,universe=253 regime=BTC_UP signals=0 armed=0 open=3 pending=13
+2026-09-23 18:02,UNIUSDT,fill,LONG,LONG_MAJ,A,entry 10.355 level 10.355
+2026-09-23 18:02,ARBUSDT,fill,LONG,LONG_MAJ,A,entry 0.2473 level 0.24795
+2026-09-23 18:02,ADAUSDT,fill,LONG,LONG_MAJ,A,entry 0.2577 level 0.2577
+2026-09-23 18:02,AEROUSDT,fill,LONG,LONG_MAJ,A,entry 0.7195 level 0.7195
+2026-09-23 18:02,VIRTUALUSDT,fill,LONG,LONG_MAJ,A,entry 0.7581 level 0.7596
+2026-09-23 18:02,RAYDIUMUSDT,fill,LONG,LONG_MAJ,A,entry 1.8175 level 1.8675
+2026-09-23 18:02,ETCUSDT,fill,LONG,LONG_MAJ,A,entry 9.5 level 9.5
+2026-09-23 18:02,XLMUSDT,fill,LONG,LONG_MAJ,C,entry 0.2202 level 0.2202
+2026-09-23 18:02,SAGAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.045
+2026-09-23 18:02,PENGUUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-09-23 18:02,*,scan,,,,universe=252 regime=BTC_UP signals=4 armed=1 open=11 pending=6

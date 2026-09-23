@@ -1,0 +1,81 @@
+===== 2026-09-23 08:07:13 UTC
+<b>🟢 LONG FILLED  UNIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>10.355</code>
+Stop    <code>9.3596149</code>  (9.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>12.558</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.93 | liq rank 13 | BTC_UP
+===== 2026-09-23 08:07:15 UTC
+<b>🟢 LONG FILLED  ARBUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.2473</code>
+Stop    <code>0.22097749</code>  (10.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>474.879</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.90 | liq rank 14 | BTC_UP
+===== 2026-09-23 08:07:16 UTC
+<b>🟢 LONG FILLED  ADAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.2577</code>
+Stop    <code>0.24276471</code>  (5.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>836.944</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.54 | liq rank 16 | BTC_UP
+===== 2026-09-23 08:07:17 UTC
+<b>🟢 LONG FILLED  AEROUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.7195</code>
+Stop    <code>0.67208297</code>  (6.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>263.618</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.52 | liq rank 55 | BTC_UP
+===== 2026-09-23 08:07:18 UTC
+<b>🟢 LONG FILLED  VIRTUALUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.7581</code>
+Stop    <code>0.71425165</code>  (5.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>285.073</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.29 | liq rank 60 | BTC_UP
+===== 2026-09-23 08:07:19 UTC
+<b>🟢 LONG FILLED  RAYDIUMUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>1.8175</code>
+Stop    <code>1.6938735</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>101.111</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.92 | liq rank 67 | BTC_UP
+===== 2026-09-23 08:07:20 UTC
+<b>🟢 LONG FILLED  ETCUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>9.5</code>
+Stop    <code>8.9363676</code>  (5.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>22.1776</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.28 | liq rank 92 | BTC_UP
+===== 2026-09-23 08:07:21 UTC
+<b>🟢 LONG FILLED  XLMUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>0.2202</code>
+Stop    <code>0.2078392</code>  (5.6% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>303.379</code>
+Exit by <b>2026-09-28 18:02</b>
+Why     mom rank 0.52 | liq rank 35 | BTC_UP
+===== 2026-09-23 08:07:23 UTC
+<b>🟡 LONG SETUP  SAGAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.045</code>  (post-only retest)
+Stop    <code>0.03680386</code>  (18.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-09-24 06:02</b>
+Why     mom rank 1.00 | liq rank 61 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
