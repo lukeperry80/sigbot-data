@@ -12,7 +12,7 @@
    "stop": 8.0245,
    "R": 0.7294999999999998,
    "exit_due_ts": 1790229727817,
-   "best": 7.068,
+   "best": 7.018,
    "risk_amt": 3.75,
    "qty": 5.140507196710077,
    "exit_alerted": false
@@ -176,24 +176,57 @@
    "risk_amt": 3.75,
    "qty": 303.37850083816585,
    "exit_alerted": false
-  }
- },
- "pending": {
+  },
   "XRPUSDT": {
    "symbol": "XRPUSDT",
    "direction": "LONG",
    "module": "LONG_MAJ",
    "grade": "A",
    "size_mult": 1.0,
-   "kind": "limit",
-   "level": 1.61,
-   "atr": 0.0411081729284323,
-   "created_ts": 1790143327817,
-   "expires_ts": 1790186527817,
-   "liq_rank": 5,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.39"
+   "entry": 1.61,
+   "entry_ts": 1790154123929,
+   "stop": 1.5277836541431355,
+   "R": 0.08221634585686455,
+   "exit_due_ts": 1790586123929,
+   "best": 1.61,
+   "risk_amt": 12.5,
+   "qty": 152.03789307009598,
+   "exit_alerted": false
   },
+  "MNTUSDT": {
+   "symbol": "MNTUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 0.6719,
+   "entry_ts": 1790154123929,
+   "stop": 0.6376966731319574,
+   "R": 0.034203326868042616,
+   "exit_due_ts": 1790586123929,
+   "best": 0.6719,
+   "risk_amt": 12.5,
+   "qty": 365.4615250798657,
+   "exit_alerted": false
+  },
+  "AAVEUSDT": {
+   "symbol": "AAVEUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "C",
+   "size_mult": 0.3,
+   "entry": 149.21,
+   "entry_ts": 1790154123929,
+   "stop": 140.1871120730454,
+   "R": 9.02288792695461,
+   "exit_due_ts": 1790586123929,
+   "best": 149.21,
+   "risk_amt": 3.75,
+   "qty": 0.4156097283218383,
+   "exit_alerted": false
+  }
+ },
+ "pending": {
   "1000BONKUSDT": {
    "symbol": "1000BONKUSDT",
    "direction": "LONG",
@@ -209,21 +242,6 @@
    "regime": "BTC_UP",
    "note": "mom rank 0.65"
   },
-  "MNTUSDT": {
-   "symbol": "MNTUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "limit",
-   "level": 0.6719,
-   "atr": 0.017101663434021305,
-   "created_ts": 1790143327817,
-   "expires_ts": 1790186527817,
-   "liq_rank": 70,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.29"
-  },
   "NILUSDT": {
    "symbol": "NILUSDT",
    "direction": "LONG",
@@ -238,21 +256,6 @@
    "liq_rank": 90,
    "regime": "BTC_UP",
    "note": "mom rank 0.96"
-  },
-  "AAVEUSDT": {
-   "symbol": "AAVEUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "C",
-   "size_mult": 0.3,
-   "kind": "limit",
-   "level": 149.21,
-   "atr": 4.5114439634773085,
-   "created_ts": 1790143327817,
-   "expires_ts": 1790186527817,
-   "liq_rank": 24,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.52"
   },
   "SAGAUSDT": {
    "symbol": "SAGAUSDT",
