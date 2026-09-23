@@ -1,13 +1,3 @@
-Sep 23 17:05:33 bot1 systemd[1]: sigbot.service: Consumed 5.475s CPU time.
-Sep 23 18:02:07 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
-Sep 23 18:02:09 bot1 python[2674824]: [sigbot] universe 560 | skipped {'stock': 196, 'ETF': 54, 'commodity': 4, 'forex': 3}
-Sep 23 18:07:13 bot1 python[2674824]: [sigbot] 252 eligible | regime BTC_UP
-Sep 23 18:07:24 bot1 python[2674824]: [sigbot] signals 4 armed 1 open 11 pending 6
-Sep 23 18:07:24 bot1 publish.sh[2674855]: Author identity unknown
-Sep 23 18:07:24 bot1 publish.sh[2674855]: *** Please tell me who you are.
-Sep 23 18:07:24 bot1 publish.sh[2674855]: Run
-Sep 23 18:07:24 bot1 publish.sh[2674855]:   git config --global user.email "you@example.com"
-Sep 23 18:07:24 bot1 publish.sh[2674855]:   git config --global user.name "Your Name"
 Sep 23 18:07:24 bot1 publish.sh[2674855]: to set your account's default identity.
 Sep 23 18:07:24 bot1 publish.sh[2674855]: Omit --global to set the identity only in this repository.
 Sep 23 18:07:24 bot1 publish.sh[2674855]: fatal: unable to auto-detect email address (got 'root@bot1.(none)')
@@ -38,3 +28,13 @@ Sep 23 21:02:07 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly s
 Sep 23 21:02:08 bot1 python[2678263]: [sigbot] universe 560 | skipped {'stock': 196, 'ETF': 54, 'commodity': 4, 'forex': 3}
 Sep 23 21:05:23 bot1 python[2678263]: [sigbot] 253 eligible | regime BTC_UP
 Sep 23 21:05:23 bot1 python[2678263]: [sigbot] signals 0 armed 0 open 14 pending 2
+Sep 23 21:05:25 bot1 publish.sh[2678301]: To https://github.com/lukeperry80/sigbot-data.git
+Sep 23 21:05:25 bot1 publish.sh[2678301]:    1b176f4..3bf4e62  main -> main
+Sep 23 21:05:25 bot1 publish.sh[2678286]: [publish] pushed
+Sep 23 21:05:25 bot1 systemd[1]: sigbot.service: Deactivated successfully.
+Sep 23 21:05:25 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
+Sep 23 21:05:25 bot1 systemd[1]: sigbot.service: Consumed 5.509s CPU time.
+Sep 23 22:02:07 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
+Sep 23 22:02:08 bot1 python[2678625]: [sigbot] universe 560 | skipped {'stock': 196, 'ETF': 54, 'commodity': 4, 'forex': 3}
+Sep 23 22:05:20 bot1 python[2678625]: [sigbot] 254 eligible | regime BTC_DOWN
+Sep 23 22:05:23 bot1 python[2678625]: [sigbot] signals 2 armed 2 open 14 pending 4

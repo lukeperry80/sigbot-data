@@ -120,3 +120,21 @@ Risk    0.12% of equity if stopped
 Qty     <code>1617.67</code>
 Exit by <b>2026-09-28 20:02</b>
 Why     mom rank 1.00 | liq rank 61 | BTC_UP
+===== 2026-09-23 12:05:20 UTC
+<b>🟡 SHORT SETUP  HUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.06182</code>  (needs 4h close confirm)
+Stop    <code>0.068357481</code>  (10.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-09-24 06:00</b>
+Why     mom rank 0.01 | liq rank 120 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-09-23 12:05:21 UTC
+<b>🟡 SHORT SETUP  FFUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.12631</code>  (needs 4h close confirm)
+Stop    <code>0.13669027</code>  (8.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-09-24 06:00</b>
+Why     mom rank 0.04 | liq rank 99 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

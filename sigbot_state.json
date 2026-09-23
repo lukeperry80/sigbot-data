@@ -12,7 +12,7 @@
    "stop": 8.0245,
    "R": 0.7294999999999998,
    "exit_due_ts": 1790229727817,
-   "best": 7.018,
+   "best": 6.988,
    "risk_amt": 3.75,
    "qty": 5.140507196710077,
    "exit_alerted": false
@@ -28,7 +28,7 @@
    "stop": 0.025251600000000003,
    "R": 0.002295600000000002,
    "exit_due_ts": 1790229727817,
-   "best": 0.02207,
+   "best": 0.021969,
    "risk_amt": 3.75,
    "qty": 1633.5598536330358,
    "exit_alerted": false
@@ -256,9 +256,39 @@
    "liq_rank": 90,
    "regime": "BTC_UP",
    "note": "mom rank 0.96"
+  },
+  "HUSDT": {
+   "symbol": "HUSDT",
+   "direction": "SHORT",
+   "module": "SHORT_TAIL",
+   "grade": "A",
+   "size_mult": 1.0,
+   "kind": "confirm",
+   "level": 0.06182,
+   "atr": 0.00326874058725319,
+   "created_ts": 1790164927846,
+   "expires_ts": 1790193600000,
+   "liq_rank": 120,
+   "regime": "BTC_DOWN",
+   "note": "mom rank 0.01"
+  },
+  "FFUSDT": {
+   "symbol": "FFUSDT",
+   "direction": "SHORT",
+   "module": "SHORT_TAIL",
+   "grade": "A",
+   "size_mult": 1.0,
+   "kind": "confirm",
+   "level": 0.12631,
+   "atr": 0.00519013368242819,
+   "created_ts": 1790164927846,
+   "expires_ts": 1790193600000,
+   "liq_rank": 99,
+   "regime": "BTC_DOWN",
+   "note": "mom rank 0.04"
   }
  },
- "last_4h": 1790150400000,
+ "last_4h": 1790164800000,
  "last_day": 1790121600000,
  "closed": [
   {
