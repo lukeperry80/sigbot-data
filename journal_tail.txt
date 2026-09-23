@@ -1,0 +1,40 @@
+Sep 23 15:05:20 bot1 systemd[1]: sigbot.service: Deactivated successfully.
+Sep 23 15:05:20 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
+Sep 23 15:05:20 bot1 systemd[1]: sigbot.service: Consumed 5.213s CPU time.
+Sep 23 16:02:07 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
+Sep 23 16:02:09 bot1 python[2674044]: [sigbot] universe 560 | skipped {'stock': 196, 'ETF': 54, 'commodity': 4, 'forex': 3}
+Sep 23 16:05:26 bot1 python[2674044]: [sigbot] 253 eligible | regime BTC_UP
+Sep 23 16:05:45 bot1 python[2674044]: [sigbot] signals 20 armed 16 open 3 pending 13
+Sep 23 16:05:45 bot1 systemd[1]: sigbot.service: Deactivated successfully.
+Sep 23 16:05:45 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
+Sep 23 16:05:45 bot1 systemd[1]: sigbot.service: Consumed 5.678s CPU time.
+Sep 23 17:02:07 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
+Sep 23 17:02:09 bot1 python[2674365]: [sigbot] universe 560 | skipped {'stock': 196, 'ETF': 54, 'commodity': 4, 'forex': 3}
+Sep 23 17:05:32 bot1 python[2674365]: [sigbot] 253 eligible | regime BTC_UP
+Sep 23 17:05:32 bot1 python[2674365]: [sigbot] signals 0 armed 0 open 3 pending 13
+Sep 23 17:05:32 bot1 publish.sh[2674387]: Author identity unknown
+Sep 23 17:05:32 bot1 publish.sh[2674387]: *** Please tell me who you are.
+Sep 23 17:05:32 bot1 publish.sh[2674387]: Run
+Sep 23 17:05:32 bot1 publish.sh[2674387]:   git config --global user.email "you@example.com"
+Sep 23 17:05:32 bot1 publish.sh[2674387]:   git config --global user.name "Your Name"
+Sep 23 17:05:32 bot1 publish.sh[2674387]: to set your account's default identity.
+Sep 23 17:05:32 bot1 publish.sh[2674387]: Omit --global to set the identity only in this repository.
+Sep 23 17:05:32 bot1 publish.sh[2674387]: fatal: unable to auto-detect email address (got 'root@bot1.(none)')
+Sep 23 17:05:33 bot1 systemd[1]: sigbot.service: Deactivated successfully.
+Sep 23 17:05:33 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
+Sep 23 17:05:33 bot1 systemd[1]: sigbot.service: Consumed 5.475s CPU time.
+Sep 23 18:02:07 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
+Sep 23 18:02:09 bot1 python[2674824]: [sigbot] universe 560 | skipped {'stock': 196, 'ETF': 54, 'commodity': 4, 'forex': 3}
+Sep 23 18:07:13 bot1 python[2674824]: [sigbot] 252 eligible | regime BTC_UP
+Sep 23 18:07:24 bot1 python[2674824]: [sigbot] signals 4 armed 1 open 11 pending 6
+Sep 23 18:07:24 bot1 publish.sh[2674855]: Author identity unknown
+Sep 23 18:07:24 bot1 publish.sh[2674855]: *** Please tell me who you are.
+Sep 23 18:07:24 bot1 publish.sh[2674855]: Run
+Sep 23 18:07:24 bot1 publish.sh[2674855]:   git config --global user.email "you@example.com"
+Sep 23 18:07:24 bot1 publish.sh[2674855]:   git config --global user.name "Your Name"
+Sep 23 18:07:24 bot1 publish.sh[2674855]: to set your account's default identity.
+Sep 23 18:07:24 bot1 publish.sh[2674855]: Omit --global to set the identity only in this repository.
+Sep 23 18:07:24 bot1 publish.sh[2674855]: fatal: unable to auto-detect email address (got 'root@bot1.(none)')
+Sep 23 18:07:24 bot1 systemd[1]: sigbot.service: Deactivated successfully.
+Sep 23 18:07:24 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
+Sep 23 18:07:24 bot1 systemd[1]: sigbot.service: Consumed 6.479s CPU time.
