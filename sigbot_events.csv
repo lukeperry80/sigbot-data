@@ -66,3 +66,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-09-24 02:02,SKYAI1USDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.04762
 2026-09-24 02:02,ASTERUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.7103
 2026-09-24 02:02,*,scan,,,,universe=260 regime=BTC_DOWN signals=10 armed=9 open=7 pending=11
+2026-09-24 03:02,1000BONKUSDT,stop,LONG,LONG_MAJ,A,0.0034163054
+2026-09-24 03:02,*,scan,,,,universe=261 regime=BTC_DOWN signals=0 armed=0 open=6 pending=11
