@@ -106,3 +106,17 @@ Risk    0.04% of equity if stopped
 Qty     <code>0.41561</code>
 Exit by <b>2026-09-28 19:02</b>
 Why     mom rank 0.52 | liq rank 24 | BTC_UP
+===== 2026-09-23 10:05:32 UTC
+🛑 <b>STOPPED — METUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.3547</code>  Stop <code>0.39017</code>
+Loss  <b>-1.00R</b> = 0.04% of equity
+===== 2026-09-23 10:05:33 UTC
+<b>🟢 LONG FILLED  SAGAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.044531</code>
+Stop    <code>0.03680386</code>  (17.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1617.67</code>
+Exit by <b>2026-09-28 20:02</b>
+Why     mom rank 1.00 | liq rank 61 | BTC_UP

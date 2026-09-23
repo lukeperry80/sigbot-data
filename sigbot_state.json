@@ -17,22 +17,6 @@
    "qty": 5.140507196710077,
    "exit_alerted": false
   },
-  "METUSDT": {
-   "symbol": "METUSDT",
-   "direction": "SHORT",
-   "module": "XREV_SHORT",
-   "grade": "C",
-   "size_mult": 0.3,
-   "entry": 0.3547,
-   "entry_ts": 1790143327817,
-   "stop": 0.3901700000000001,
-   "R": 0.03547000000000006,
-   "exit_due_ts": 1790229727817,
-   "best": 0.3499,
-   "risk_amt": 3.75,
-   "qty": 105.72314632083433,
-   "exit_alerted": false
-  },
   "SENTUSDT": {
    "symbol": "SENTUSDT",
    "direction": "SHORT",
@@ -224,6 +208,22 @@
    "risk_amt": 3.75,
    "qty": 0.4156097283218383,
    "exit_alerted": false
+  },
+  "SAGAUSDT": {
+   "symbol": "SAGAUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 0.044531,
+   "entry_ts": 1790157723045,
+   "stop": 0.036803859524819266,
+   "R": 0.0077271404751807354,
+   "exit_due_ts": 1790589723045,
+   "best": 0.044531,
+   "risk_amt": 12.5,
+   "qty": 1617.6747452889588,
+   "exit_alerted": false
   }
  },
  "pending": {
@@ -256,24 +256,29 @@
    "liq_rank": 90,
    "regime": "BTC_UP",
    "note": "mom rank 0.96"
-  },
-  "SAGAUSDT": {
-   "symbol": "SAGAUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "limit",
-   "level": 0.045,
-   "atr": 0.004098070237590367,
-   "created_ts": 1790150527852,
-   "expires_ts": 1790193727852,
-   "liq_rank": 61,
-   "regime": "BTC_UP",
-   "note": "mom rank 1.00"
   }
  },
  "last_4h": 1790150400000,
  "last_day": 1790121600000,
- "closed": []
+ "closed": [
+  {
+   "symbol": "METUSDT",
+   "direction": "SHORT",
+   "module": "XREV_SHORT",
+   "grade": "C",
+   "size_mult": 0.3,
+   "entry": 0.3547,
+   "entry_ts": 1790143327817,
+   "stop": 0.3901700000000001,
+   "R": 0.03547000000000006,
+   "exit_due_ts": 1790229727817,
+   "best": 0.3499,
+   "risk_amt": 3.75,
+   "qty": 105.72314632083433,
+   "exit_alerted": false,
+   "exit": 0.3901700000000001,
+   "r": -1.0,
+   "reason": "stop"
+  }
+ ]
 }
