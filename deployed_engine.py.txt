@@ -1,0 +1,228 @@
+"""
+sigbot_engine.py - WHEN to go long, WHEN to go short, and on WHICH symbols.
+
+Pure strategy logic. No network, no disk. The same functions run in the
+backtest and in the live runner, so what is tested is what trades.
+
+THE STRUCTURE THIS IS BUILT ON (measured, 1,079 contracts incl. 306 delisted):
+
+  The median altcoin's 5-day return is NEGATIVE in every year 2021-2026.
+  BTC's is positive in the up years. So drift depends on where you are in
+  the liquidity ladder, and the signals inherit that:
+
+    LONG  breakout, BTC up     top20 +0.108R  21-50 +0.032R  51-100 +0.034R  101+ -0.014R
+    SHORT breakdown, BTC down  top20 +0.054R  21-50 +0.104R  51-100 +0.109R  101+ +0.130R
+
+  Longs improve UP the ladder, shorts improve DOWN it. Two opposing monotonic
+  gradients matching an independently measured drift structure.
+
+MODULES
+  LONG_MAJ    breakout long, liquidity rank <= 50, BTC 24h return >= 0
+  SHORT_TAIL  breakdown short, liquidity rank > 20,  BTC 24h return <  0
+  XREV_SHORT  cross-sectional 6h reversal short (top 5% by 6h return),
+              turnover shock > 0, any regime - this is the daily flow module
+
+GRADES are the measured edge of the exact cell a signal falls in, so the
+grade is not a heuristic - it is the historical expectancy of that bucket.
+  A  >= +0.100R  size 1.00
+  B  >= +0.060R  size 0.60
+  C  >= +0.025R  size 0.30
+  below +0.025R -> not emitted
+"""
+from __future__ import annotations
+
+from dataclasses import dataclass, field
+from typing import Dict, List, Optional
+
+import numpy as np
+
+HOUR = 3_600_000
+H4 = 4 * HOUR
+
+# --- shared universe rules -------------------------------------------------
+MIN_HIST_H = 720
+MIN_TURNOVER_D = 1_000_000.0
+MAX_UNIVERSE = 300
+MIN_UNIVERSE = 30
+
+# --- breakout / breakdown module (from brk_engine, validated) --------------
+N_BREAK, MOM_BARS, ATR_N = 20, 84, 14
+STOP_ATR, TRAIL_ATR = 2.0, 3.0
+LONG_RANK, SHORT_RANK = 0.80, 0.20
+LONG_LIMIT_BARS, LONG_HOLD_BARS, SHORT_MAX_BARS = 12, 120, 240
+MAX_RISK_FRAC = 0.25
+
+LONG_MAJ_MAX_LIQRANK = 100    # longs work top-100; 101+ had a negative holdout
+SHORT_TAIL_MIN_LIQRANK = 51   # shorts work 51+; 21-50 had a negative holdout
+USE_RANK_FOR_LONGS = False    # measured: rank filter HURT longs (+0.005 vs +0.045)
+USE_RANK_FOR_SHORTS = True    # measured: rank filter HELPED shorts (+0.108 vs +0.091)
+
+# --- reversal module -------------------------------------------------------
+XREV_LOOKBACK_H = 6
+XREV_HOLD_H = 24
+XREV_SEL = 0.05
+XREV_STOP_PCT = 0.10
+
+# --- costs -----------------------------------------------------------------
+TAKER, MAKER, SLIP = 0.00055, 0.0002, 0.0002
+
+# --- measured edge per cell (R per trade) ----------------------------------
+# key: (module, liquidity bucket)  ->  historical net R
+EDGE_TABLE: Dict[tuple, float] = {
+    # LONG: breakout, BTC up, NO momentum rank filter (rank hurt longs)
+    ("LONG_MAJ", "top20"): 0.163,
+    ("LONG_MAJ", "51-100"): 0.104,
+    ("LONG_MAJ", "21-50"): 0.038,
+    # SHORT: breakdown, BTC down, momentum rank <= 20% (rank helps shorts)
+    ("SHORT_TAIL", "51-100"): 0.109,
+    ("SHORT_TAIL", "101+"): 0.130,
+    # XREV reversal short, any regime, turnover shock > 0
+    ("XREV_SHORT", "21-50"): 0.023,
+    ("XREV_SHORT", "51-100"): 0.026,
+    ("XREV_SHORT", "101+"): 0.035,
+}
+
+GRADE_CUTS = (("A", 0.100, 1.00), ("B", 0.060, 0.60), ("C", 0.025, 0.30))
+
+
+def liq_bucket(rank: int) -> str:
+    if rank <= 20:
+        return "top20"
+    if rank <= 50:
+        return "21-50"
+    if rank <= 100:
+        return "51-100"
+    return "101+"
+
+
+def grade_for(module: str, bucket: str):
+    """-> (grade, size_multiplier, expected_R) or None if not tradeable."""
+    e = EDGE_TABLE.get((module, bucket))
+    if e is None:
+        e = EDGE_TABLE.get((module, "any"))
+    if e is None:
+        return None
+    for g, cut, size in GRADE_CUTS:
+        if e >= cut:
+            return g, size, e
+    return None
+
+
+@dataclass
+class Signal:
+    symbol: str
+    direction: str            # LONG / SHORT
+    module: str               # LONG_MAJ / SHORT_TAIL / XREV_SHORT
+    grade: str                # A / B / C
+    size_mult: float
+    expected_r: float
+    decide_ts: int
+    level: float              # breakout level, or 0 for XREV
+    atr: float
+    entry_hint: float         # limit price (LONG_MAJ) or 0 for market
+    stop: float
+    liq_rank: int
+    regime: str               # BTC_UP / BTC_DOWN
+    exit_after_h: int         # scheduled exit horizon, for the Telegram timer
+    note: str = ""
+
+
+def regime_of(btc_close: np.ndarray) -> str:
+    """BTC 24h return sign from the last 25 hourly closes (oldest first)."""
+    if len(btc_close) < 25 or not np.isfinite(btc_close[-1]) or not np.isfinite(btc_close[-25]):
+        return "UNKNOWN"
+    return "BTC_UP" if btc_close[-1] / btc_close[-25] - 1 >= 0 else "BTC_DOWN"
+
+
+def atr_wilder(h: np.ndarray, l: np.ndarray, c: np.ndarray, n: int = ATR_N) -> float:
+    if len(c) < n + 1:
+        return float("nan")
+    pc = c[:-1]
+    tr = np.maximum.reduce([h[1:] - l[1:], np.abs(h[1:] - pc), np.abs(l[1:] - pc)])
+    a = tr[0]
+    for x in tr[1:]:
+        a = a + (x - a) / n
+    return float(a)
+
+
+def scan_breakout(bars4h: Dict[str, dict], liq_rank: Dict[str, int],
+                  regime: str, decide_ts: int) -> List[Signal]:
+    """bars4h[sym] = {'ts':int64[], 'o','h','l','c': float[]} of CLOSED 4h bars,
+    last bar closing at decide_ts. Emits LONG_MAJ and SHORT_TAIL signals."""
+    sig_ts = decide_ts - H4
+    feats = {}
+    for s, d in bars4h.items():
+        ts, c, h, l = d["ts"], d["c"], d["h"], d["l"]
+        if len(c) < MOM_BARS + 1 or int(ts[-1]) != sig_ts:
+            continue
+        if ts[-1] - ts[-1 - MOM_BARS] != MOM_BARS * H4:
+            continue
+        mom = c[-1] / c[-1 - MOM_BARS] - 1
+        a = atr_wilder(h, l, c)
+        if not (np.isfinite(mom) and np.isfinite(a) and a > 0):
+            continue
+        feats[s] = (float(c[-1]), float(h[-1 - N_BREAK:-1].max()),
+                    float(l[-1 - N_BREAK:-1].min()), a, float(mom))
+    if len(feats) < MIN_UNIVERSE:
+        return []
+
+    names = list(feats)
+    moms = np.array([feats[s][4] for s in names])
+    pct = moms.argsort().argsort() / max(1, len(moms) - 1)
+    rank = dict(zip(names, pct))
+
+    out: List[Signal] = []
+    for s in names:
+        c, hi, lo, a, _ = feats[s]
+        r = rank[s]
+        lr = liq_rank.get(s, 9999)
+        long_rank_ok = (r >= LONG_RANK) if USE_RANK_FOR_LONGS else True
+        short_rank_ok = (r <= SHORT_RANK) if USE_RANK_FOR_SHORTS else True
+        if regime == "BTC_UP" and c > hi and long_rank_ok and lr <= LONG_MAJ_MAX_LIQRANK:
+            g = grade_for("LONG_MAJ", liq_bucket(lr))
+            if g:
+                out.append(Signal(s, "LONG", "LONG_MAJ", g[0], g[1], g[2], decide_ts,
+                                  hi, a, hi, hi - STOP_ATR * a, lr, regime,
+                                  LONG_HOLD_BARS, f"mom rank {r:.2f}"))
+        elif regime == "BTC_DOWN" and c < lo and short_rank_ok and lr >= SHORT_TAIL_MIN_LIQRANK:
+            g = grade_for("SHORT_TAIL", liq_bucket(lr))
+            if g:
+                out.append(Signal(s, "SHORT", "SHORT_TAIL", g[0], g[1], g[2], decide_ts,
+                                  lo, a, 0.0, lo + STOP_ATR * a, lr, regime,
+                                  SHORT_MAX_BARS, f"mom rank {r:.2f}"))
+    return out
+
+
+def scan_xrev(ret6: Dict[str, float], shock24: Dict[str, float],
+              liq_rank: Dict[str, int], regime: str, decide_ts: int,
+              price: Dict[str, float]) -> List[Signal]:
+    """Cross-sectional reversal: short the strongest XREV_SEL by 6h return,
+    among names with expanding turnover. Runs in any regime - daily flow."""
+    cand = [s for s, r in ret6.items()
+            if np.isfinite(r) and shock24.get(s, -1) > 0 and liq_rank.get(s, 9999) <= MAX_UNIVERSE]
+    if len(cand) < MIN_UNIVERSE:
+        return []
+    cand.sort(key=lambda s: ret6[s])
+    k = max(1, int(round(len(cand) * XREV_SEL)))
+    out = []
+    for s in cand[-k:]:
+        p = price.get(s, float("nan"))
+        if not np.isfinite(p) or p <= 0:
+            continue
+        lr = liq_rank.get(s, 9999)
+        # graded by the symbol's own liquidity bucket - the top-20 cell measured
+        # -0.020R and is deliberately absent from EDGE_TABLE, so it is skipped
+        g = grade_for("XREV_SHORT", liq_bucket(lr))
+        if not g:
+            continue
+        out.append(Signal(s, "SHORT", "XREV_SHORT", g[0], g[1], g[2], decide_ts,
+                          0.0, 0.0, 0.0, p * (1 + XREV_STOP_PCT),
+                          lr, regime, XREV_HOLD_H,
+                          f"6h ret {100*ret6[s]:+.1f}%"))
+    return out
+
+
+def rank_signals(sigs: List[Signal]) -> List[Signal]:
+    """Best first: grade, then expected edge, then momentum extremity."""
+    order = {"A": 0, "B": 1, "C": 2}
+    return sorted(sigs, key=lambda s: (order.get(s.grade, 9), -s.expected_r))

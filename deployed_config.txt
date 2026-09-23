@@ -1,0 +1,6 @@
+LIVE_TRADING = False
+MAX_OPEN = 30
+MAX_PER_MODULE = 20        # safety valve only; grade cap binds first
+MAX_C_OPEN = 5            # C-grade positions can never crowd out A-grades
+RISK_FRAC = 0.00125       # 0.125% of equity per full-size (grade A) signal
+START_EQUITY = 10_000.0
