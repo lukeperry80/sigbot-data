@@ -94,3 +94,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-09T19:02:07Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=0 armed=0 open=1 pending=3 equity=10000.00 closed=0
 2026-10-09T20:02:07Z,ATOMUSDT,setup,LONG,LONG_MAJ,A,limit level 2.016
 2026-10-09T20:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=2 armed=1 open=1 pending=4 equity=10000.00 closed=0
+2026-10-09T21:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=1 pending=4 equity=10000.00 closed=0
