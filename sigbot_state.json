@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791565200000
+   "last_bar_ts": 1791568800000
   }
  },
  "pending": {
@@ -70,6 +70,6 @@
  },
  "last_4h": 1791561600000,
  "last_day": 1791504000000,
- "last_run_ms": 1791568921625,
+ "last_run_ms": 1791572527836,
  "closed": []
 }
