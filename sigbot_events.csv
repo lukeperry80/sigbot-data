@@ -84,3 +84,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-09T12:02:01Z,BTWUSDT,setup,LONG,LONG_MAJ,C,limit level 1.49895
 2026-10-09T12:02:01Z,USUSDT,setup,LONG,LONG_MAJ,C,limit level 0.027
 2026-10-09T12:02:01Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=4 armed=4 open=0 pending=4 equity=10000.00 closed=0
+2026-10-09T13:02:01Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=0 pending=4 equity=10000.00 closed=0
