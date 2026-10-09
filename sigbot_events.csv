@@ -73,3 +73,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-09T06:01:23Z,*,stale_state_archived,,,,age_h=374.0 open=6 pending=11 -> state_stale_2026-10-09T060123Z.json
 2026-10-09T06:01:23Z,*,fresh_start,,,,v1.1 first scans at next 4h boundary / 00:00 UTC
 2026-10-09T06:01:23Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=0 pending=0 equity=10000.00 closed=0
+2026-10-09T06:04:56Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=0 pending=0 equity=10000.00 closed=0
