@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791579600000
+   "last_bar_ts": 1791583200000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791579600000
+   "last_bar_ts": 1791583200000
   }
  },
  "pending": {
@@ -88,6 +88,6 @@
  },
  "last_4h": 1791576000000,
  "last_day": 1791504000000,
- "last_run_ms": 1791583327760,
+ "last_run_ms": 1791586920210,
  "closed": []
 }
