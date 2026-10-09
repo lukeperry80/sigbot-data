@@ -289,3 +289,39 @@ Entry <code>0.003698</code>  Stop <code>0.0034163054</code>
 Loss  <b>-1.00R</b> = 0.12% of equity
 ===== 2026-10-09 06:01:23 UTC
 ⚠️ sigbot v1.1: stale state (374h old, 17 open/pending) archived. Starting a fresh paper book.
+===== 2026-10-09 12:05:30 UTC
+<b>🟡 LONG SETUP  STRKUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.07201</code>  (post-only retest)
+Stop    <code>0.063857077</code>  (11.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-10 10:02</b>
+Why     mom rank 0.98 | liq rank 18 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-09 12:05:31 UTC
+<b>🟡 LONG SETUP  KAIAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.04135</code>  (post-only retest)
+Stop    <code>0.035797774</code>  (13.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-10 10:02</b>
+Why     mom rank 0.96 | liq rank 89 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-09 12:05:32 UTC
+<b>🟡 LONG SETUP  BTWUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>1.49895</code>  (post-only retest)
+Stop    <code>1.330905</code>  (11.2% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-10 10:02</b>
+Why     mom rank 0.91 | liq rank 33 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-09 12:05:33 UTC
+<b>🟡 LONG SETUP  USUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.027</code>  (post-only retest)
+Stop    <code>0.02131104</code>  (21.1% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-10 10:02</b>
+Why     mom rank 0.95 | liq rank 36 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
