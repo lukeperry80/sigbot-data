@@ -287,3 +287,5 @@ Why     mom rank 0.12 | liq rank 51 | BTC_DOWN
 LONG_MAJ, grade A
 Entry <code>0.003698</code>  Stop <code>0.0034163054</code>
 Loss  <b>-1.00R</b> = 0.12% of equity
+===== 2026-10-09 06:01:23 UTC
+⚠️ sigbot v1.1: stale state (374h old, 17 open/pending) archived. Starting a fresh paper book.
