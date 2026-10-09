@@ -88,3 +88,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-09T14:02:02Z,STRKUSDT,fill,LONG,LONG_MAJ,A,entry 0.07201 level 0.07201 bar 2026-10-09T13:00:00Z
 2026-10-09T14:02:02Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=1 pending=3 equity=10000.00 closed=0
 2026-10-09T15:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=1 pending=3 equity=10000.00 closed=0
+2026-10-09T16:02:07Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=1 armed=0 open=1 pending=3 equity=10000.00 closed=0
