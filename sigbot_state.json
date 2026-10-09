@@ -18,7 +18,25 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791576000000
+   "last_bar_ts": 1791579600000
+  },
+  "ATOMUSDT": {
+   "symbol": "ATOMUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 2.016,
+   "entry_ts": 1791579600000,
+   "stop": 1.8825656756932194,
+   "R": 0.1334343243067806,
+   "exit_due_ts": 1792011600000,
+   "best": 2.016,
+   "risk_amt": 12.5,
+   "qty": 93.67904446580842,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791579600000
   }
  },
  "pending": {
@@ -66,25 +84,10 @@
    "liq_rank": 36,
    "regime": "BTC_UP",
    "note": "mom rank 0.95"
-  },
-  "ATOMUSDT": {
-   "symbol": "ATOMUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "limit",
-   "level": 2.016,
-   "atr": 0.06671716215339032,
-   "created_ts": 1791576127855,
-   "expires_ts": 1791619327855,
-   "liq_rank": 62,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.83"
   }
  },
  "last_4h": 1791576000000,
  "last_day": 1791504000000,
- "last_run_ms": 1791579727841,
+ "last_run_ms": 1791583327760,
  "closed": []
 }
