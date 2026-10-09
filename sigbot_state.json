@@ -1,23 +1,27 @@
 {
  "version": "1.1",
  "equity": 10000.0,
- "positions": {},
- "pending": {
+ "positions": {
   "STRKUSDT": {
    "symbol": "STRKUSDT",
    "direction": "LONG",
    "module": "LONG_MAJ",
    "grade": "A",
    "size_mult": 1.0,
-   "kind": "limit",
-   "level": 0.07201,
-   "atr": 0.0040764615881642,
-   "created_ts": 1791547321986,
-   "expires_ts": 1791590521986,
-   "liq_rank": 18,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.98"
-  },
+   "entry": 0.07201,
+   "entry_ts": 1791550800000,
+   "stop": 0.0638570768236716,
+   "R": 0.008152923176328403,
+   "exit_due_ts": 1791982800000,
+   "best": 0.07201,
+   "risk_amt": 12.5,
+   "qty": 1533.1924181860456,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791550800000
+  }
+ },
+ "pending": {
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
    "direction": "LONG",
@@ -66,6 +70,6 @@
  },
  "last_4h": 1791547200000,
  "last_day": 1791504000000,
- "last_run_ms": 1791550921215,
+ "last_run_ms": 1791554522533,
  "closed": []
 }

@@ -325,3 +325,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-10-10 10:02</b>
 Why     mom rank 0.95 | liq rank 36 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-09 14:05:28 UTC
+<b>🟢 LONG FILLED  STRKUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.07201</code>
+Stop    <code>0.063857077</code>  (11.3% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1533.19</code>
+Exit by <b>2026-10-14 23:00</b>
+Why     mom rank 0.98 | liq rank 18 | BTC_UP
