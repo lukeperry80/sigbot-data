@@ -334,3 +334,12 @@ Risk    0.12% of equity if stopped
 Qty     <code>1533.19</code>
 Exit by <b>2026-10-14 23:00</b>
 Why     mom rank 0.98 | liq rank 18 | BTC_UP
+===== 2026-10-09 20:05:32 UTC
+<b>🟡 LONG SETUP  ATOMUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>2.016</code>  (post-only retest)
+Stop    <code>1.8825657</code>  (6.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-10 18:02</b>
+Why     mom rank 0.83 | liq rank 62 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
