@@ -132,3 +132,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T13:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=7 pending=2 equity=9987.50 closed=1
 2026-10-10T14:02:01Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=0 armed=0 open=7 pending=2 equity=9987.50 closed=1
 2026-10-10T15:02:04Z,*,scan,,,,v1.1 universe=234 regime=BTC_DOWN signals=0 armed=0 open=7 pending=2 equity=9987.50 closed=1
+2026-10-10T16:02:07Z,OPUSDT,expired,LONG,LONG_MAJ,A,level 0.13318
+2026-10-10T16:02:07Z,AEROUSDT,setup,LONG,LONG_MAJ,A,limit level 0.8696
+2026-10-10T16:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=2 armed=1 open=7 pending=2 equity=9987.50 closed=1

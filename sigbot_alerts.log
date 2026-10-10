@@ -474,3 +474,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-11 06:00</b>
 Why     mom rank 0.13 | liq rank 162 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 16:04:41 UTC
+<b>🟡 LONG SETUP  AEROUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.8696</code>  (post-only retest)
+Stop    <code>0.81199057</code>  (6.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-11 14:02</b>
+Why     mom rank 0.71 | liq rank 62 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
