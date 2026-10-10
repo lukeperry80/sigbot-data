@@ -106,3 +106,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T00:02:03Z,GMTUSDT,open,SHORT,XREV_SHORT,C,entry 0.009483
 2026-10-10T00:02:03Z,KAIAUSDT,open,SHORT,XREV_SHORT,C,entry 0.06027
 2026-10-10T00:02:03Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=4 armed=4 open=4 pending=2 equity=10000.00 closed=0
+2026-10-10T01:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=4 pending=2 equity=10000.00 closed=0
