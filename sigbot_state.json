@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791590400000
+   "last_bar_ts": 1791594000000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791590400000
+   "last_bar_ts": 1791594000000
   },
   "GMTUSDT": {
    "symbol": "GMTUSDT",
@@ -49,12 +49,12 @@
    "stop": 0.010431300000000001,
    "R": 0.0009483000000000009,
    "exit_due_ts": 1791676800000,
-   "best": 0.009473,
+   "best": 0.009238,
    "risk_amt": 3.75,
    "qty": 3954.4447959506447,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791590400000
+   "last_bar_ts": 1791594000000
   },
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
@@ -67,12 +67,30 @@
    "stop": 0.06629700000000001,
    "R": 0.0060270000000000115,
    "exit_due_ts": 1791676800000,
-   "best": 0.05929,
+   "best": 0.05792,
    "risk_amt": 3.75,
    "qty": 622.2000995520148,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791590400000
+   "last_bar_ts": 1791594000000
+  },
+  "MAGICUSDT": {
+   "symbol": "MAGICUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 0.12158,
+   "entry_ts": 1791594000000,
+   "stop": 0.10687901754806596,
+   "R": 0.014700982451934033,
+   "exit_due_ts": 1792026000000,
+   "best": 0.12158,
+   "risk_amt": 12.5,
+   "qty": 850.2833086747562,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791594000000
   }
  },
  "pending": {
@@ -90,25 +108,10 @@
    "liq_rank": 84,
    "regime": "BTC_UP",
    "note": "mom rank 0.63"
-  },
-  "MAGICUSDT": {
-   "symbol": "MAGICUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "limit",
-   "level": 0.12158,
-   "atr": 0.007350491225967014,
-   "created_ts": 1791590523875,
-   "expires_ts": 1791633723875,
-   "liq_rank": 89,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.99"
   }
  },
  "last_4h": 1791590400000,
  "last_day": 1791590400000,
- "last_run_ms": 1791594127771,
+ "last_run_ms": 1791597721189,
  "closed": []
 }
