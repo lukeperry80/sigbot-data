@@ -433,3 +433,26 @@ Risk    0.12% of equity if stopped
 Qty     <code>141.58</code>
 Exit by <b>2026-10-15 15:00</b>
 Why     mom rank 0.84 | liq rank 66 | BTC_UP
+===== 2026-10-10 08:04:40 UTC
+<b>🟢 LONG FILLED  DOTUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>1.2426</code>
+Stop    <code>1.1570452</code>  (6.9% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>43.8315</code>
+Exit by <b>2026-10-15 17:00</b>
+Why     mom rank 0.69 | liq rank 44 | BTC_UP
+===== 2026-10-10 08:04:41 UTC
+🛑 <b>STOPPED — MAGICUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.12158</code>  Stop <code>0.10687902</code>  Exit <code>0.10687902</code>
+Loss  <b>-1.00R net</b> ≈ 0.12% of equity
+===== 2026-10-10 08:04:42 UTC
+<b>🟡 LONG SETUP  BTWUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>1.59814</code>  (post-only retest)
+Stop    <code>1.4533575</code>  (9.1% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-11 06:02</b>
+Why     mom rank 0.98 | liq rank 34 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
