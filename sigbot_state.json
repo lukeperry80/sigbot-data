@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791594000000
+   "last_bar_ts": 1791597600000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791594000000
+   "last_bar_ts": 1791597600000
   },
   "GMTUSDT": {
    "symbol": "GMTUSDT",
@@ -49,12 +49,12 @@
    "stop": 0.010431300000000001,
    "R": 0.0009483000000000009,
    "exit_due_ts": 1791676800000,
-   "best": 0.009238,
+   "best": 0.009211,
    "risk_amt": 3.75,
    "qty": 3954.4447959506447,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791594000000
+   "last_bar_ts": 1791597600000
   },
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
@@ -72,7 +72,7 @@
    "qty": 622.2000995520148,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791594000000
+   "last_bar_ts": 1791597600000
   },
   "MAGICUSDT": {
    "symbol": "MAGICUSDT",
@@ -90,7 +90,7 @@
    "qty": 850.2833086747562,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791594000000
+   "last_bar_ts": 1791597600000
   }
  },
  "pending": {
@@ -112,6 +112,6 @@
  },
  "last_4h": 1791590400000,
  "last_day": 1791590400000,
- "last_run_ms": 1791597721189,
+ "last_run_ms": 1791601327833,
  "closed": []
 }
