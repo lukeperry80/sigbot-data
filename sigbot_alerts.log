@@ -465,3 +465,12 @@ Risk    0.04% of equity if stopped
 Qty     <code>25.8686</code>
 Exit by <b>2026-10-15 19:00</b>
 Why     mom rank 0.98 | liq rank 34 | BTC_UP
+===== 2026-10-10 12:04:34 UTC
+<b>🟡 SHORT SETUP  SENTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.019832</code>  (needs 4h close confirm)
+Stop    <code>0.022142144</code>  (11.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-11 06:00</b>
+Why     mom rank 0.13 | liq rank 162 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

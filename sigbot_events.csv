@@ -126,3 +126,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T10:02:07Z,BTWUSDT,fill,LONG,LONG_MAJ,C,entry 1.59814 level 1.59814 bar 2026-10-10T09:00:00Z
 2026-10-10T10:02:07Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=0 armed=0 open=7 pending=2 equity=9987.50 closed=1
 2026-10-10T11:02:07Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=7 pending=2 equity=9987.50 closed=1
+2026-10-10T12:02:01Z,SENTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.019832
+2026-10-10T12:02:01Z,*,scan,,,,v1.1 universe=232 regime=BTC_DOWN signals=1 armed=1 open=7 pending=3 equity=9987.50 closed=1

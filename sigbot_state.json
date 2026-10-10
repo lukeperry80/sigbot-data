@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   },
   "GMTUSDT": {
    "symbol": "GMTUSDT",
@@ -54,7 +54,7 @@
    "qty": 3954.4447959506447,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   },
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
@@ -72,7 +72,7 @@
    "qty": 622.2000995520148,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   },
   "FILUSDT": {
    "symbol": "FILUSDT",
@@ -90,7 +90,7 @@
    "qty": 141.5796160013342,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
@@ -108,7 +108,7 @@
    "qty": 43.8315336660136,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -126,7 +126,7 @@
    "qty": 25.86855870934484,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791626400000
+   "last_bar_ts": 1791630000000
   }
  },
  "pending": {
@@ -159,11 +159,26 @@
    "liq_rank": 52,
    "regime": "BTC_UP",
    "note": "mom rank 0.58"
+  },
+  "SENTUSDT": {
+   "symbol": "SENTUSDT",
+   "direction": "SHORT",
+   "module": "SHORT_TAIL",
+   "grade": "A",
+   "size_mult": 1.0,
+   "kind": "confirm",
+   "level": 0.019832,
+   "atr": 0.0011550717865265773,
+   "created_ts": 1791633721508,
+   "expires_ts": 1791662400000,
+   "liq_rank": 162,
+   "regime": "BTC_DOWN",
+   "note": "mom rank 0.13"
   }
  },
- "last_4h": 1791619200000,
+ "last_4h": 1791633600000,
  "last_day": 1791590400000,
- "last_run_ms": 1791630127844,
+ "last_run_ms": 1791633721508,
  "closed": [
   {
    "symbol": "MAGICUSDT",
