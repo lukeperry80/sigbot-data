@@ -117,3 +117,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T05:02:04Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=5 pending=4 equity=10000.00 closed=0
 2026-10-10T06:02:07Z,FILUSDT,fill,LONG,LONG_MAJ,A,entry 1.1746 level 1.1746 bar 2026-10-10T05:00:00Z
 2026-10-10T06:02:07Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=0 armed=0 open=6 pending=3 equity=10000.00 closed=0
+2026-10-10T07:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=6 pending=3 equity=10000.00 closed=0
