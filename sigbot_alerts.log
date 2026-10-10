@@ -352,3 +352,39 @@ Risk    0.12% of equity if stopped
 Qty     <code>93.679</code>
 Exit by <b>2026-10-15 07:00</b>
 Why     mom rank 0.83 | liq rank 62 | BTC_UP
+===== 2026-10-10 00:05:21 UTC
+<b>🟡 LONG SETUP  WLFIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05665</code>  (post-only retest)
+Stop    <code>0.054474718</code>  (3.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-10 22:02</b>
+Why     mom rank 0.63 | liq rank 84 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 00:05:23 UTC
+<b>🟡 LONG SETUP  MAGICUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.12158</code>  (post-only retest)
+Stop    <code>0.10687902</code>  (12.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-10 22:02</b>
+Why     mom rank 0.99 | liq rank 89 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 00:05:24 UTC
+<b>🔴 SHORT FILLED  GMTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.009483</code>
+Stop    <code>0.0104313</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3954.44</code>
+Exit by <b>2026-10-11 10:00</b>
+Why     6h ret +10.9% | liq rank 143 | BTC_UP
+===== 2026-10-10 00:05:25 UTC
+<b>🔴 SHORT FILLED  KAIAUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.06027</code>
+Stop    <code>0.066297</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>622.2</code>
+Exit by <b>2026-10-11 10:00</b>
+Why     6h ret +13.3% | liq rank 51 | BTC_UP

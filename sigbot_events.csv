@@ -98,3 +98,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-09T22:02:07Z,ATOMUSDT,fill,LONG,LONG_MAJ,A,entry 2.016 level 2.016 bar 2026-10-09T21:00:00Z
 2026-10-09T22:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=2 pending=3 equity=10000.00 closed=0
 2026-10-09T23:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=2 pending=3 equity=10000.00 closed=0
+2026-10-10T00:02:03Z,KAIAUSDT,expired,LONG,LONG_MAJ,A,level 0.04135
+2026-10-10T00:02:03Z,BTWUSDT,expired,LONG,LONG_MAJ,C,level 1.49895
+2026-10-10T00:02:03Z,USUSDT,expired,LONG,LONG_MAJ,C,level 0.027
+2026-10-10T00:02:03Z,WLFIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05665
+2026-10-10T00:02:03Z,MAGICUSDT,setup,LONG,LONG_MAJ,A,limit level 0.12158
+2026-10-10T00:02:03Z,GMTUSDT,open,SHORT,XREV_SHORT,C,entry 0.009483
+2026-10-10T00:02:03Z,KAIAUSDT,open,SHORT,XREV_SHORT,C,entry 0.06027
+2026-10-10T00:02:03Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=4 armed=4 open=4 pending=2 equity=10000.00 closed=0
