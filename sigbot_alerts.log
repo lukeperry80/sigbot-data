@@ -483,3 +483,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-11 14:02</b>
 Why     mom rank 0.71 | liq rank 62 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 20:04:32 UTC
+<b>🟡 LONG SETUP  CHIPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05579</code>  (post-only retest)
+Stop    <code>0.049580551</code>  (11.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-11 18:02</b>
+Why     mom rank 0.91 | liq rank 95 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 20:04:34 UTC
+<b>🟡 LONG SETUP  TIAUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.5302</code>  (post-only retest)
+Stop    <code>0.47378179</code>  (10.6% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-11 18:02</b>
+Why     mom rank 0.84 | liq rank 39 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
