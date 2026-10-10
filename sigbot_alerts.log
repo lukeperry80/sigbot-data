@@ -397,3 +397,30 @@ Risk    0.12% of equity if stopped
 Qty     <code>850.283</code>
 Exit by <b>2026-10-15 11:00</b>
 Why     mom rank 0.99 | liq rank 89 | BTC_UP
+===== 2026-10-10 04:05:21 UTC
+<b>🟡 LONG SETUP  OPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.13318</code>  (post-only retest)
+Stop    <code>0.12253582</code>  (8.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-11 02:02</b>
+Why     mom rank 0.58 | liq rank 52 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 04:05:22 UTC
+<b>🟡 LONG SETUP  FILUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1.1746</code>  (post-only retest)
+Stop    <code>1.0863105</code>  (7.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-11 02:02</b>
+Why     mom rank 0.84 | liq rank 66 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-10 04:05:23 UTC
+<b>🟡 LONG SETUP  DOTUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>1.2426</code>  (post-only retest)
+Stop    <code>1.1570452</code>  (6.9% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-11 02:02</b>
+Why     mom rank 0.69 | liq rank 44 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

@@ -110,3 +110,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T02:02:01Z,MAGICUSDT,fill,LONG,LONG_MAJ,A,entry 0.12158 level 0.12158 bar 2026-10-10T01:00:00Z
 2026-10-10T02:02:01Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=5 pending=1 equity=10000.00 closed=0
 2026-10-10T03:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=5 pending=1 equity=10000.00 closed=0
+2026-10-10T04:02:07Z,OPUSDT,setup,LONG,LONG_MAJ,A,limit level 0.13318
+2026-10-10T04:02:07Z,FILUSDT,setup,LONG,LONG_MAJ,A,limit level 1.1746
+2026-10-10T04:02:07Z,DOTUSDT,setup,LONG,LONG_MAJ,C,limit level 1.2426
+2026-10-10T04:02:07Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=5 armed=3 open=5 pending=4 equity=10000.00 closed=0
