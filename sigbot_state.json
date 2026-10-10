@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791604800000
+   "last_bar_ts": 1791608400000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791604800000
+   "last_bar_ts": 1791608400000
   },
   "GMTUSDT": {
    "symbol": "GMTUSDT",
@@ -49,12 +49,12 @@
    "stop": 0.010431300000000001,
    "R": 0.0009483000000000009,
    "exit_due_ts": 1791676800000,
-   "best": 0.009068,
+   "best": 0.009032,
    "risk_amt": 3.75,
    "qty": 3954.4447959506447,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791604800000
+   "last_bar_ts": 1791608400000
   },
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
@@ -72,7 +72,7 @@
    "qty": 622.2000995520148,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791604800000
+   "last_bar_ts": 1791608400000
   },
   "MAGICUSDT": {
    "symbol": "MAGICUSDT",
@@ -90,7 +90,25 @@
    "qty": 850.2833086747562,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791604800000
+   "last_bar_ts": 1791608400000
+  },
+  "FILUSDT": {
+   "symbol": "FILUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 1.1746,
+   "entry_ts": 1791608400000,
+   "stop": 1.0863104541385238,
+   "R": 0.0882895458614763,
+   "exit_due_ts": 1792040400000,
+   "best": 1.1746,
+   "risk_amt": 12.5,
+   "qty": 141.5796160013342,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791608400000
   }
  },
  "pending": {
@@ -124,21 +142,6 @@
    "regime": "BTC_UP",
    "note": "mom rank 0.58"
   },
-  "FILUSDT": {
-   "symbol": "FILUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "limit",
-   "level": 1.1746,
-   "atr": 0.044144772930738166,
-   "created_ts": 1791604927754,
-   "expires_ts": 1791648127754,
-   "liq_rank": 66,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.84"
-  },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
    "direction": "LONG",
@@ -157,6 +160,6 @@
  },
  "last_4h": 1791604800000,
  "last_day": 1791590400000,
- "last_run_ms": 1791608524502,
+ "last_run_ms": 1791612127850,
  "closed": []
 }
