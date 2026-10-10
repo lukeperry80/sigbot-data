@@ -122,3 +122,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T08:02:04Z,MAGICUSDT,stop,LONG,LONG_MAJ,A,stop 0.10687902 exit 0.10687902 bar 2026-10-10T07:00:00Z net -1.000R
 2026-10-10T08:02:04Z,BTWUSDT,setup,LONG,LONG_MAJ,C,limit level 1.59814
 2026-10-10T08:02:04Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=1 armed=1 open=6 pending=3 equity=9987.50 closed=1
+2026-10-10T09:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=0 armed=0 open=6 pending=3 equity=9987.50 closed=1
