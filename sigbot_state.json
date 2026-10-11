@@ -1,6 +1,6 @@
 {
  "version": "1.1",
- "equity": 9987.50343286448,
+ "equity": 9991.131046341285,
  "positions": {
   "STRKUSDT": {
    "symbol": "STRKUSDT",
@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791669600000
+   "last_bar_ts": 1791673200000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,43 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791669600000
-  },
-  "GMTUSDT": {
-   "symbol": "GMTUSDT",
-   "direction": "SHORT",
-   "module": "XREV_SHORT",
-   "grade": "C",
-   "size_mult": 0.3,
-   "entry": 0.009483,
-   "entry_ts": 1791590400000,
-   "stop": 0.00986145,
-   "R": 0.0009483000000000009,
-   "exit_due_ts": 1791676800000,
-   "best": 0.008439,
-   "risk_amt": 3.75,
-   "qty": 3954.4447959506447,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791669600000
-  },
-  "KAIAUSDT": {
-   "symbol": "KAIAUSDT",
-   "direction": "SHORT",
-   "module": "XREV_SHORT",
-   "grade": "C",
-   "size_mult": 0.3,
-   "entry": 0.06027,
-   "entry_ts": 1791590400000,
-   "stop": 0.06361050000000001,
-   "R": 0.0060270000000000115,
-   "exit_due_ts": 1791676800000,
-   "best": 0.05457,
-   "risk_amt": 3.75,
-   "qty": 622.2000995520148,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791669600000
+   "last_bar_ts": 1791673200000
   },
   "FILUSDT": {
    "symbol": "FILUSDT",
@@ -90,7 +54,7 @@
    "qty": 141.5796160013342,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791669600000
+   "last_bar_ts": 1791673200000
   },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
@@ -108,7 +72,7 @@
    "qty": 43.8315336660136,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791669600000
+   "last_bar_ts": 1791673200000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -126,7 +90,7 @@
    "qty": 25.86855870934484,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791669600000
+   "last_bar_ts": 1791673200000
   }
  },
  "pending": {
@@ -174,11 +138,41 @@
    "liq_rank": 39,
    "regime": "BTC_UP",
    "note": "mom rank 0.84"
+  },
+  "GRASSUSDT": {
+   "symbol": "GRASSUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "kind": "limit",
+   "level": 0.6639,
+   "atr": 0.026332421934582455,
+   "created_ts": 1791676927801,
+   "expires_ts": 1791720127801,
+   "liq_rank": 70,
+   "regime": "BTC_UP",
+   "note": "mom rank 0.83"
+  },
+  "ARBUSDT": {
+   "symbol": "ARBUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "C",
+   "size_mult": 0.3,
+   "kind": "limit",
+   "level": 0.18872,
+   "atr": 0.005201668725870143,
+   "created_ts": 1791676927801,
+   "expires_ts": 1791720127801,
+   "liq_rank": 31,
+   "regime": "BTC_UP",
+   "note": "mom rank 0.20"
   }
  },
- "last_4h": 1791662400000,
- "last_day": 1791590400000,
- "last_run_ms": 1791673320638,
+ "last_4h": 1791676800000,
+ "last_day": 1791676800000,
+ "last_run_ms": 1791676927801,
  "closed": [
   {
    "symbol": "MAGICUSDT",
@@ -213,6 +207,76 @@
    "equity_before": 10000.0,
    "equity_after": 9987.50343286448,
    "hold_h": 7.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "GMTUSDT",
+   "direction": "SHORT",
+   "module": "XREV_SHORT",
+   "grade": "C",
+   "size_mult": 0.3,
+   "entry": 0.009483,
+   "entry_ts": 1791590400000,
+   "stop": 0.00986145,
+   "R": 0.0009483000000000009,
+   "exit_due_ts": 1791676800000,
+   "best": 0.008439,
+   "risk_amt": 3.75,
+   "qty": 3954.4447959506447,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1791673200000,
+   "exit": 0.008779,
+   "exit_ts": 1791676800000,
+   "entry_ts_utc": "2026-10-10T00:00:00Z",
+   "exit_ts_utc": "2026-10-11T00:00:00Z",
+   "reason": "time",
+   "r": 0.7423811030264675,
+   "gross_r": 0.7423811030264675,
+   "cost_r": 0.014443214172730135,
+   "funding_rate_sum": 0.00024846,
+   "funding_status": "ok",
+   "funding_r": 0.002484599999999998,
+   "net_r": 0.7304224888537374,
+   "pnl_usdt": 2.7390843332015153,
+   "equity_before": 9987.50343286448,
+   "equity_after": 9990.242517197681,
+   "hold_h": 24.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "KAIAUSDT",
+   "direction": "SHORT",
+   "module": "XREV_SHORT",
+   "grade": "C",
+   "size_mult": 0.3,
+   "entry": 0.06027,
+   "entry_ts": 1791590400000,
+   "stop": 0.06361050000000001,
+   "R": 0.0060270000000000115,
+   "exit_due_ts": 1791676800000,
+   "best": 0.05457,
+   "risk_amt": 3.75,
+   "qty": 622.2000995520148,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1791673200000,
+   "exit": 0.05653,
+   "exit_ts": 1791676800000,
+   "entry_ts_utc": "2026-10-10T00:00:00Z",
+   "exit_ts_utc": "2026-10-11T00:00:00Z",
+   "reason": "time",
+   "r": 0.6205408992865428,
+   "gross_r": 0.6205408992865428,
+   "cost_r": 0.014534594325535064,
+   "funding_rate_sum": -0.03690652,
+   "funding_status": "ok",
+   "funding_r": -0.36906519999999926,
+   "net_r": 0.23694110496100845,
+   "pnl_usdt": 0.8885291436037817,
+   "equity_before": 9990.242517197681,
+   "equity_after": 9991.131046341285,
+   "hold_h": 24.0,
    "runner_version": "1.1"
   }
  ]

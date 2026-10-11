@@ -146,3 +146,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-10T21:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_UP signals=0 armed=0 open=7 pending=3 equity=9987.50 closed=1
 2026-10-10T22:02:01Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=7 pending=3 equity=9987.50 closed=1
 2026-10-10T23:02:00Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=7 pending=3 equity=9987.50 closed=1
+2026-10-11T00:02:07Z,GMTUSDT,exit_due,SHORT,XREV_SHORT,C,+0.742R gross +0.730R net
+2026-10-11T00:02:07Z,KAIAUSDT,exit_due,SHORT,XREV_SHORT,C,+0.621R gross +0.237R net
+2026-10-11T00:02:07Z,GRASSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.6639
+2026-10-11T00:02:07Z,ARBUSDT,setup,LONG,LONG_MAJ,C,limit level 0.18872
+2026-10-11T00:02:07Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=6 armed=2 open=5 pending=5 equity=9991.13 closed=3

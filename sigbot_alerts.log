@@ -501,3 +501,33 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-10-11 18:02</b>
 Why     mom rank 0.84 | liq rank 39 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-11 00:04:35 UTC
+⏰ <b>EXIT NOW — GMTUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.00986145</code>
+Entry <code>0.009483</code>  Mark <code>0.008779</code>
+Result <b>+0.74R gross / +0.73R net</b>
+Close this position now.
+===== 2026-10-11 00:04:36 UTC
+⏰ <b>EXIT NOW — KAIAUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0636105</code>
+Entry <code>0.06027</code>  Mark <code>0.05653</code>
+Result <b>+0.62R gross / +0.24R net</b>
+Close this position now.
+===== 2026-10-11 00:04:38 UTC
+<b>🟡 LONG SETUP  GRASSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.6639</code>  (post-only retest)
+Stop    <code>0.61123516</code>  (7.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-11 22:02</b>
+Why     mom rank 0.83 | liq rank 70 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-11 00:04:39 UTC
+<b>🟡 LONG SETUP  ARBUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.18872</code>  (post-only retest)
+Stop    <code>0.17831666</code>  (5.5% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-11 22:02</b>
+Why     mom rank 0.20 | liq rank 31 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
