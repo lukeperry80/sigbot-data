@@ -766,3 +766,39 @@ Risk    0.12% of equity if stopped
 Qty     <code>531.541</code>
 Exit by <b>2026-10-17 03:00</b>
 Why     mom rank 0.98 | liq rank 86 | BTC_UP
+===== 2026-10-11 19:04:40 UTC
+<b>🟢 LONG FILLED  NEARUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>5.645</code>
+Stop    <code>5.1706902</code>  (8.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>26.2873</code>
+Exit by <b>2026-10-17 04:00</b>
+Why     mom rank 0.80 | liq rank 6 | BTC_UP
+===== 2026-10-11 19:04:41 UTC
+<b>🟢 LONG FILLED  POLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.10297</code>
+Stop    <code>0.098665411</code>  (4.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>2896.52</code>
+Exit by <b>2026-10-17 04:00</b>
+Why     mom rank 0.16 | liq rank 88 | BTC_UP
+===== 2026-10-11 19:04:42 UTC
+<b>🟢 LONG FILLED  SEIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.07038</code>
+Stop    <code>0.06690559</code>  (4.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3588.61</code>
+Exit by <b>2026-10-17 04:00</b>
+Why     mom rank 0.46 | liq rank 92 | BTC_UP
+===== 2026-10-11 19:04:43 UTC
+<b>🟢 LONG FILLED  LINKUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>13.243</code>
+Stop    <code>12.784586</code>  (3.5% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>8.15964</code>
+Exit by <b>2026-10-17 04:00</b>
+Why     mom rank 0.39 | liq rank 27 | BTC_UP
