@@ -1,6 +1,6 @@
 {
  "version": "1.1",
- "equity": 9991.131046341285,
+ "equity": 9978.448455272317,
  "positions": {
   "STRKUSDT": {
    "symbol": "STRKUSDT",
@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791684000000
+   "last_bar_ts": 1791687600000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,25 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791684000000
-  },
-  "FILUSDT": {
-   "symbol": "FILUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "entry": 1.1746,
-   "entry_ts": 1791608400000,
-   "stop": 1.0863104541385238,
-   "R": 0.0882895458614763,
-   "exit_due_ts": 1792040400000,
-   "best": 1.1746,
-   "risk_amt": 12.5,
-   "qty": 141.5796160013342,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791684000000
+   "last_bar_ts": 1791687600000
   },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
@@ -72,7 +54,7 @@
    "qty": 43.8315336660136,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791684000000
+   "last_bar_ts": 1791687600000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -90,7 +72,25 @@
    "qty": 25.86855870934484,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791684000000
+   "last_bar_ts": 1791687600000
+  },
+  "GRASSUSDT": {
+   "symbol": "GRASSUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 0.6639,
+   "entry_ts": 1791687600000,
+   "stop": 0.6112351561308351,
+   "R": 0.05266484386916492,
+   "exit_due_ts": 1792119600000,
+   "best": 0.6639,
+   "risk_amt": 12.488913807926606,
+   "qty": 237.13948225029904,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791687600000
   }
  },
  "pending": {
@@ -139,21 +139,6 @@
    "regime": "BTC_UP",
    "note": "mom rank 0.84"
   },
-  "GRASSUSDT": {
-   "symbol": "GRASSUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "limit",
-   "level": 0.6639,
-   "atr": 0.026332421934582455,
-   "created_ts": 1791676927801,
-   "expires_ts": 1791720127801,
-   "liq_rank": 70,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.83"
-  },
   "ARBUSDT": {
    "symbol": "ARBUSDT",
    "direction": "LONG",
@@ -170,9 +155,9 @@
    "note": "mom rank 0.20"
   }
  },
- "last_4h": 1791676800000,
+ "last_4h": 1791691200000,
  "last_day": 1791676800000,
- "last_run_ms": 1791687727812,
+ "last_run_ms": 1791691327551,
  "closed": [
   {
    "symbol": "MAGICUSDT",
@@ -277,6 +262,41 @@
    "equity_before": 9990.242517197681,
    "equity_after": 9991.131046341285,
    "hold_h": 24.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "FILUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 1.1746,
+   "entry_ts": 1791608400000,
+   "stop": 1.0863104541385238,
+   "R": 0.0882895458614763,
+   "exit_due_ts": 1792040400000,
+   "best": 1.1746,
+   "risk_amt": 12.5,
+   "qty": 141.5796160013342,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791684000000,
+   "exit": 1.0863104541385238,
+   "exit_ts": 1791691200000,
+   "entry_ts_utc": "2026-10-10T05:00:00Z",
+   "exit_ts_utc": "2026-10-11T04:00:00Z",
+   "reason": "stop",
+   "r": -1.0,
+   "gross_r": -1.0,
+   "cost_r": 0.011888755688592706,
+   "funding_rate_sum": 0.00020434,
+   "funding_status": "ok",
+   "funding_r": -0.002718529828849509,
+   "net_r": -1.0146072855174422,
+   "pnl_usdt": -12.682591068968026,
+   "equity_before": 9991.131046341285,
+   "equity_after": 9978.448455272317,
+   "hold_h": 23.0,
    "runner_version": "1.1"
   }
  ]
