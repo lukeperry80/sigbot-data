@@ -162,3 +162,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T06:02:07Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=0 armed=0 open=5 pending=3 equity=9978.45 closed=4
 2026-10-11T07:02:07Z,BTWUSDT,stop,LONG,LONG_MAJ,C,stop 1.4533575 exit 1.4533575 bar 2026-10-11T06:00:00Z net -1.012R
 2026-10-11T07:02:07Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=0 armed=0 open=4 pending=3 equity=9974.66 closed=5
+2026-10-11T08:02:07Z,CHIPUSDT,expired,LONG,LONG_MAJ,A,level 0.05579
+2026-10-11T08:02:07Z,TIAUSDT,expired,LONG,LONG_MAJ,C,level 0.5302
+2026-10-11T08:02:07Z,AEROUSDT,setup,LONG,LONG_MAJ,A,limit level 0.9576
+2026-10-11T08:02:07Z,LUMIAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.1397
+2026-10-11T08:02:07Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=2 armed=2 open=4 pending=3 equity=9974.66 closed=5

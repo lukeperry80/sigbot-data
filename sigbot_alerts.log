@@ -550,3 +550,21 @@ Loss  <b>-1.01R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade C
 Entry <code>1.59814</code>  Stop <code>1.4533575</code>  Exit <code>1.4533575</code>
 Loss  <b>-1.01R net</b> ≈ 0.04% of equity
+===== 2026-10-11 08:04:42 UTC
+<b>🟡 LONG SETUP  AEROUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.9576</code>  (post-only retest)
+Stop    <code>0.89387692</code>  (6.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-12 06:02</b>
+Why     mom rank 0.82 | liq rank 58 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-11 08:04:43 UTC
+<b>🟡 LONG SETUP  LUMIAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.1397</code>  (post-only retest)
+Stop    <code>0.1115892</code>  (20.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-12 06:02</b>
+Why     mom rank 0.98 | liq rank 73 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
