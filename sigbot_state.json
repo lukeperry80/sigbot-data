@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791691200000
+   "last_bar_ts": 1791694800000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791691200000
+   "last_bar_ts": 1791694800000
   },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
@@ -54,7 +54,7 @@
    "qty": 43.8315336660136,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791691200000
+   "last_bar_ts": 1791694800000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -72,7 +72,7 @@
    "qty": 25.86855870934484,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791691200000
+   "last_bar_ts": 1791694800000
   },
   "GRASSUSDT": {
    "symbol": "GRASSUSDT",
@@ -90,7 +90,7 @@
    "qty": 237.13948225029904,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791691200000
+   "last_bar_ts": 1791694800000
   }
  },
  "pending": {
@@ -142,7 +142,7 @@
  },
  "last_4h": 1791691200000,
  "last_day": 1791676800000,
- "last_run_ms": 1791694927139,
+ "last_run_ms": 1791698527835,
  "closed": [
   {
    "symbol": "MAGICUSDT",
