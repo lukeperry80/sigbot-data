@@ -218,3 +218,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T20:02:07Z,TRUMPUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-10-11T20:02:07Z,FARTCOINUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-10-11T20:02:07Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=11 armed=0 open=16 pending=4 equity=9974.66 closed=5
+2026-10-11T21:02:07Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=16 pending=4 equity=9974.66 closed=5
