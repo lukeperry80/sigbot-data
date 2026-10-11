@@ -209,3 +209,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T19:02:07Z,SEIUSDT,fill,LONG,LONG_MAJ,A,entry 0.07038 level 0.07038 bar 2026-10-11T18:00:00Z
 2026-10-11T19:02:07Z,LINKUSDT,fill,LONG,LONG_MAJ,C,entry 13.243 level 13.243 bar 2026-10-11T18:00:00Z
 2026-10-11T19:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=16 pending=4 equity=9974.66 closed=5
+2026-10-11T20:02:07Z,ZECUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-11T20:02:07Z,ONDOUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-11T20:02:07Z,ICPUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-11T20:02:07Z,WUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-11T20:02:07Z,SUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-11T20:02:07Z,SKYUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-11T20:02:07Z,TRUMPUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-11T20:02:07Z,FARTCOINUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-11T20:02:07Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=11 armed=0 open=16 pending=4 equity=9974.66 closed=5
