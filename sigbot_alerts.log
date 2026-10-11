@@ -568,3 +568,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-12 06:02</b>
 Why     mom rank 0.98 | liq rank 73 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-11 12:04:34 UTC
+<b>🟡 LONG SETUP  NILUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.09377</code>  (post-only retest)
+Stop    <code>0.084579194</code>  (9.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-12 10:02</b>
+Why     mom rank 0.31 | liq rank 68 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
