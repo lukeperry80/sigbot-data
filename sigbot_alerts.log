@@ -802,3 +802,21 @@ Risk    0.04% of equity if stopped
 Qty     <code>8.15964</code>
 Exit by <b>2026-10-17 04:00</b>
 Why     mom rank 0.39 | liq rank 27 | BTC_UP
+===== 2026-10-11 22:04:24 UTC
+<b>🟢 LONG FILLED  BTCUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>83497</code>
+Stop    <code>82302.072</code>  (1.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.0104344</code>
+Exit by <b>2026-10-17 07:00</b>
+Why     mom rank 0.55 | liq rank 1 | BTC_UP
+===== 2026-10-11 22:04:25 UTC
+<b>🟢 LONG FILLED  TAOUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>289.03</code>
+Stop    <code>275.1522</code>  (4.8% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>0.269531</code>
+Exit by <b>2026-10-17 07:00</b>
+Why     mom rank 0.29 | liq rank 25 | BTC_UP
