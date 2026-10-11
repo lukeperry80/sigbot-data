@@ -172,3 +172,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T11:02:00Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=4 pending=3 equity=9974.66 closed=5
 2026-10-11T12:02:03Z,NILUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09377
 2026-10-11T12:02:03Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=4 armed=1 open=4 pending=4 equity=9974.66 closed=5
+2026-10-11T13:02:02Z,ARBUSDT,expired,LONG,LONG_MAJ,C,level 0.18872
+2026-10-11T13:02:02Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=4 pending=3 equity=9974.66 closed=5

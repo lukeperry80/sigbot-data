@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791716400000
+   "last_bar_ts": 1791720000000
   },
   "ATOMUSDT": {
    "symbol": "ATOMUSDT",
@@ -36,7 +36,7 @@
    "qty": 93.67904446580842,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791716400000
+   "last_bar_ts": 1791720000000
   },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
@@ -54,7 +54,7 @@
    "qty": 43.8315336660136,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791716400000
+   "last_bar_ts": 1791720000000
   },
   "GRASSUSDT": {
    "symbol": "GRASSUSDT",
@@ -72,25 +72,10 @@
    "qty": 237.13948225029904,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791716400000
+   "last_bar_ts": 1791720000000
   }
  },
  "pending": {
-  "ARBUSDT": {
-   "symbol": "ARBUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "C",
-   "size_mult": 0.3,
-   "kind": "limit",
-   "level": 0.18872,
-   "atr": 0.005201668725870143,
-   "created_ts": 1791676927801,
-   "expires_ts": 1791720127801,
-   "liq_rank": 31,
-   "regime": "BTC_UP",
-   "note": "mom rank 0.20"
-  },
   "AEROUSDT": {
    "symbol": "AEROUSDT",
    "direction": "LONG",
@@ -139,7 +124,7 @@
  },
  "last_4h": 1791720000000,
  "last_day": 1791676800000,
- "last_run_ms": 1791720123222,
+ "last_run_ms": 1791723722749,
  "closed": [
   {
    "symbol": "MAGICUSDT",
