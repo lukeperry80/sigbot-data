@@ -198,3 +198,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T16:02:07Z,FARTCOINUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-10-11T16:02:07Z,*,scan,,,,v1.1 universe=233 regime=BTC_UP signals=18 armed=13 open=7 pending=13 equity=9974.66 closed=5
 2026-10-11T17:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=7 pending=13 equity=9974.66 closed=5
+2026-10-11T18:02:07Z,XRPUSDT,fill,LONG,LONG_MAJ,A,entry 1.4176 level 1.4176 bar 2026-10-11T17:00:00Z
+2026-10-11T18:02:07Z,WLDUSDT,fill,LONG,LONG_MAJ,A,entry 0.5763 level 0.5763 bar 2026-10-11T17:00:00Z
+2026-10-11T18:02:07Z,MONUSDT,fill,LONG,LONG_MAJ,A,entry 0.02636 level 0.02636 bar 2026-10-11T17:00:00Z
+2026-10-11T18:02:07Z,1000BONKUSDT,fill,LONG,LONG_MAJ,A,entry 0.003499 level 0.003499 bar 2026-10-11T17:00:00Z
+2026-10-11T18:02:07Z,BATUSDT,fill,LONG,LONG_MAJ,A,entry 0.15906 level 0.15906 bar 2026-10-11T17:00:00Z
+2026-10-11T18:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=12 pending=8 equity=9974.66 closed=5
