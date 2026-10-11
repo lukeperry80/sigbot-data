@@ -177,3 +177,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T14:02:01Z,LUMIAUSDT,fill,LONG,LONG_MAJ,A,entry 0.1397 level 0.1397 bar 2026-10-11T13:00:00Z
 2026-10-11T14:02:01Z,NILUSDT,fill,LONG,LONG_MAJ,A,entry 0.09377 level 0.09377 bar 2026-10-11T13:00:00Z
 2026-10-11T14:02:01Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=0 armed=0 open=6 pending=1 equity=9974.66 closed=5
+2026-10-11T15:02:04Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=0 armed=0 open=6 pending=1 equity=9974.66 closed=5
