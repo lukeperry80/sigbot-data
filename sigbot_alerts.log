@@ -884,3 +884,21 @@ Risk    0.12% of equity if stopped
 Qty     <code>4.72745</code>
 Exit by <b>2026-10-17 18:00</b>
 Why     mom rank 0.42 | liq rank 7 | BTC_UP
+===== 2026-10-12 10:04:27 UTC
+<b>🟢 LONG FILLED  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>1299.6</code>
+Stop    <code>1232.3841</code>  (5.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.185026</code>
+Exit by <b>2026-10-17 19:00</b>
+Why     mom rank 0.09 | liq rank 4 | BTC_UP
+===== 2026-10-12 10:04:28 UTC
+<b>🟢 LONG FILLED  DOGEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.08762</code>
+Stop    <code>0.084993769</code>  (3.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4735.56</code>
+Exit by <b>2026-10-17 19:00</b>
+Why     mom rank 0.26 | liq rank 11 | BTC_UP
