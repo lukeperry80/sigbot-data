@@ -247,3 +247,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T05:02:01Z,1000PEPEUSDT,expired,LONG,LONG_MAJ,C,level 0.00408
 2026-10-12T05:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=18 pending=1 equity=9962.12 closed=6
 2026-10-12T06:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=18 pending=1 equity=9962.12 closed=6
+2026-10-12T07:02:01Z,ATOMUSDT,stop,LONG,LONG_MAJ,A,stop 1.8825657 exit 1.8825657 bar 2026-10-12T06:00:00Z net -1.023R
+2026-10-12T07:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9949.34 closed=7
