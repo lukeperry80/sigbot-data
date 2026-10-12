@@ -223,3 +223,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-11T22:02:01Z,TAOUSDT,fill,LONG,LONG_MAJ,C,entry 289.03 level 289.03 bar 2026-10-11T21:00:00Z
 2026-10-11T22:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=18 pending=2 equity=9974.66 closed=5
 2026-10-11T23:02:07Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=18 pending=2 equity=9974.66 closed=5
+2026-10-12T00:02:07Z,ONDOUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T00:02:07Z,FILUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T00:02:07Z,ICPUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T00:02:07Z,LITUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T00:02:07Z,TRUMPUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T00:02:07Z,CKBUSDT,open,SHORT,XREV_SHORT,C,entry 0.0019348
+2026-10-12T00:02:07Z,WUSDT,skip_c_cap,SHORT,XREV_SHORT,C,5 C-grade already open
+2026-10-12T00:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=10 armed=1 open=19 pending=2 equity=9974.66 closed=5
