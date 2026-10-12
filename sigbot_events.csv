@@ -266,3 +266,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T10:02:00Z,ZECUSDT,fill,LONG,LONG_MAJ,A,entry 1299.6 level 1299.6 bar 2026-10-12T09:00:00Z
 2026-10-12T10:02:00Z,DOGEUSDT,fill,LONG,LONG_MAJ,A,entry 0.08762 level 0.08762 bar 2026-10-12T09:00:00Z
 2026-10-12T10:02:00Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=20 pending=1 equity=9949.34 closed=7
+2026-10-12T11:02:02Z,BTWUSDT,fill,LONG,LONG_MAJ,A,entry 1.69664 level 1.69664 bar 2026-10-12T10:00:00Z
+2026-10-12T11:02:02Z,*,scan,,,,v1.1 universe=236 regime=BTC_UP signals=0 armed=0 open=21 pending=0 equity=9949.34 closed=7

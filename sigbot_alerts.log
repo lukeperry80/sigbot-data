@@ -902,3 +902,12 @@ Risk    0.12% of equity if stopped
 Qty     <code>4735.56</code>
 Exit by <b>2026-10-17 19:00</b>
 Why     mom rank 0.26 | liq rank 11 | BTC_UP
+===== 2026-10-12 11:04:32 UTC
+<b>🟢 LONG FILLED  BTWUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>1.69664</code>
+Stop    <code>1.5104461</code>  (11.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>66.7942</code>
+Exit by <b>2026-10-17 20:00</b>
+Why     mom rank 0.84 | liq rank 51 | BTC_UP
