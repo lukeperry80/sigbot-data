@@ -1,6 +1,6 @@
 {
  "version": "1.1",
- "equity": 9834.615571290191,
+ "equity": 9821.22922062632,
  "positions": {
   "STRKUSDT": {
    "symbol": "STRKUSDT",
@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "DOTUSDT": {
    "symbol": "DOTUSDT",
@@ -36,7 +36,7 @@
    "qty": 43.8315336660136,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "GRASSUSDT": {
    "symbol": "GRASSUSDT",
@@ -54,7 +54,7 @@
    "qty": 237.13948225029904,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "MONUSDT": {
    "symbol": "MONUSDT",
@@ -72,7 +72,7 @@
    "qty": 7312.894665091261,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "BATUSDT": {
    "symbol": "BATUSDT",
@@ -90,7 +90,7 @@
    "qty": 531.5411120840754,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "NEARUSDT": {
    "symbol": "NEARUSDT",
@@ -108,7 +108,7 @@
    "qty": 26.287293488975045,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "POLUSDT": {
    "symbol": "POLUSDT",
@@ -126,7 +126,7 @@
    "qty": 2896.517940056509,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "LINKUSDT": {
    "symbol": "LINKUSDT",
@@ -144,25 +144,7 @@
    "qty": 8.159638914953053,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
-  },
-  "BTCUSDT": {
-   "symbol": "BTCUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "entry": 83497.0,
-   "entry_ts": 1791752400000,
-   "stop": 82302.0723932018,
-   "R": 1194.9276067981991,
-   "exit_due_ts": 1792184400000,
-   "best": 83497.0,
-   "risk_amt": 12.468320425720293,
-   "qty": 0.010434373057234051,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "TAOUSDT": {
    "symbol": "TAOUSDT",
@@ -180,7 +162,7 @@
    "qty": 0.2695308976526127,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "CKBUSDT": {
    "symbol": "CKBUSDT",
@@ -198,7 +180,7 @@
    "qty": 19332.72755693655,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -216,7 +198,7 @@
    "qty": 66.79422194983951,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791824400000
+   "last_bar_ts": 1791828000000
   }
  },
  "pending": {
@@ -433,7 +415,7 @@
  },
  "last_4h": 1791820800000,
  "last_day": 1791763200000,
- "last_run_ms": 1791828120881,
+ "last_run_ms": 1791831725131,
  "closed": [
   {
    "symbol": "MAGICUSDT",
@@ -993,6 +975,41 @@
    "equity_before": 9847.295401827138,
    "equity_after": 9834.615571290191,
    "hold_h": 9.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "BTCUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 83497.0,
+   "entry_ts": 1791752400000,
+   "stop": 82302.0723932018,
+   "R": 1194.9276067981991,
+   "exit_due_ts": 1792184400000,
+   "best": 83497.0,
+   "risk_amt": 12.468320425720293,
+   "qty": 0.010434373057234051,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1791824400000,
+   "exit": 82302.0723932018,
+   "exit_ts": 1791831600000,
+   "entry_ts_utc": "2026-10-11T21:00:00Z",
+   "exit_ts_utc": "2026-10-12T19:00:00Z",
+   "reason": "stop",
+   "r": -1.0,
+   "gross_r": -1.0,
+   "cost_r": 0.06563238965165698,
+   "funding_rate_sum": 0.00011444,
+   "funding_status": "ok",
+   "funding_r": -0.007996632286037498,
+   "net_r": -1.0736290219376945,
+   "pnl_usdt": -13.386350663871857,
+   "equity_before": 9834.615571290191,
+   "equity_after": 9821.22922062632,
+   "hold_h": 22.0,
    "runner_version": "1.1"
   }
  ]

@@ -300,3 +300,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T17:02:07Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=13 pending=14 equity=9847.30 closed=15
 2026-10-12T18:02:00Z,ZECUSDT,stop,LONG,LONG_MAJ,A,stop 1232.3841 exit 1232.3841 bar 2026-10-12T17:00:00Z net -1.020R
 2026-10-12T18:02:00Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=12 pending=14 equity=9834.62 closed=16
+2026-10-12T19:02:05Z,BTCUSDT,stop,LONG,LONG_MAJ,A,stop 82302.072 exit 82302.072 bar 2026-10-12T18:00:00Z net -1.074R
+2026-10-12T19:02:05Z,*,scan,,,,v1.1 universe=239 regime=BTC_DOWN signals=0 armed=0 open=11 pending=14 equity=9821.23 closed=17
