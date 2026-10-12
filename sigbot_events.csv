@@ -249,3 +249,15 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T06:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=18 pending=1 equity=9962.12 closed=6
 2026-10-12T07:02:01Z,ATOMUSDT,stop,LONG,LONG_MAJ,A,stop 1.8825657 exit 1.8825657 bar 2026-10-12T06:00:00Z net -1.023R
 2026-10-12T07:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9949.34 closed=7
+2026-10-12T08:02:05Z,ZECUSDT,setup,LONG,LONG_MAJ,A,limit level 1299.6
+2026-10-12T08:02:05Z,DOGEUSDT,setup,LONG,LONG_MAJ,A,limit level 0.08762
+2026-10-12T08:02:05Z,BTWUSDT,setup,LONG,LONG_MAJ,A,limit level 1.69664
+2026-10-12T08:02:05Z,VVVUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T08:02:05Z,ALGOUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T08:02:05Z,LDOUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T08:02:05Z,RENDERUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T08:02:05Z,1000PEPEUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T08:02:05Z,ZROUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T08:02:05Z,WUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T08:02:05Z,LTCUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T08:02:05Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=13 armed=3 open=17 pending=4 equity=9949.34 closed=7

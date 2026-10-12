@@ -848,3 +848,30 @@ Why     mom rank 0.42 | liq rank 7 | BTC_UP
 LONG_MAJ, grade A
 Entry <code>2.016</code>  Stop <code>1.8825657</code>  Exit <code>1.8825657</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-12 08:04:35 UTC
+<b>🟡 LONG SETUP  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1299.6</code>  (post-only retest)
+Stop    <code>1232.3841</code>  (5.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-13 06:02</b>
+Why     mom rank 0.09 | liq rank 4 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-12 08:04:36 UTC
+<b>🟡 LONG SETUP  DOGEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.08762</code>  (post-only retest)
+Stop    <code>0.084993769</code>  (3.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-13 06:02</b>
+Why     mom rank 0.26 | liq rank 11 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-12 08:04:37 UTC
+<b>🟡 LONG SETUP  BTWUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1.69664</code>  (post-only retest)
+Stop    <code>1.5104461</code>  (11.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-13 06:02</b>
+Why     mom rank 0.84 | liq rank 51 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
