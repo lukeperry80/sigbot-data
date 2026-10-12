@@ -261,3 +261,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T08:02:05Z,WUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-10-12T08:02:05Z,LTCUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-10-12T08:02:05Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=13 armed=3 open=17 pending=4 equity=9949.34 closed=7
+2026-10-12T09:02:01Z,HYPEUSDT,fill,LONG,LONG_MAJ,A,entry 87.28 level 87.28 bar 2026-10-12T08:00:00Z
+2026-10-12T09:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=18 pending=3 equity=9949.34 closed=7

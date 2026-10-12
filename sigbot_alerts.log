@@ -875,3 +875,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-13 06:02</b>
 Why     mom rank 0.84 | liq rank 51 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-12 09:04:31 UTC
+<b>🟢 LONG FILLED  HYPEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>87.28</code>
+Stop    <code>84.649262</code>  (3.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4.72745</code>
+Exit by <b>2026-10-17 18:00</b>
+Why     mom rank 0.42 | liq rank 7 | BTC_UP
