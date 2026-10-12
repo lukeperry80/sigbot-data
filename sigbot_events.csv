@@ -231,3 +231,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T00:02:07Z,CKBUSDT,open,SHORT,XREV_SHORT,C,entry 0.0019348
 2026-10-12T00:02:07Z,WUSDT,skip_c_cap,SHORT,XREV_SHORT,C,5 C-grade already open
 2026-10-12T00:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=10 armed=1 open=19 pending=2 equity=9974.66 closed=5
+2026-10-12T01:02:07Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=19 pending=2 equity=9974.66 closed=5
