@@ -304,3 +304,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T19:02:05Z,*,scan,,,,v1.1 universe=239 regime=BTC_DOWN signals=0 armed=0 open=11 pending=14 equity=9821.23 closed=17
 2026-10-12T20:02:02Z,MONUSDT,stop,LONG,LONG_MAJ,A,stop 0.024655023 exit 0.024655023 bar 2026-10-12T19:00:00Z net -1.008R
 2026-10-12T20:02:02Z,*,scan,,,,v1.1 universe=239 regime=BTC_DOWN signals=1 armed=0 open=10 pending=14 equity=9808.66 closed=18
+2026-10-12T21:02:02Z,*,scan,,,,v1.1 universe=240 regime=BTC_DOWN signals=0 armed=0 open=10 pending=14 equity=9808.66 closed=18
