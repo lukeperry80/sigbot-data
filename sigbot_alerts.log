@@ -1092,3 +1092,13 @@ Loss  <b>-1.07R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade A
 Entry <code>0.02636</code>  Stop <code>0.024655023</code>  Exit <code>0.024655023</code>
 Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-10-12 22:04:34 UTC
+🛑 <b>STOPPED — NEARUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>5.645</code>  Stop <code>5.1706902</code>  Exit <code>5.1706902</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-10-12 22:04:35 UTC
+🛑 <b>STOPPED — LINKUSDT LONG</b>
+LONG_MAJ, grade C
+Entry <code>13.243</code>  Stop <code>12.784586</code>  Exit <code>12.784586</code>
+Loss  <b>-1.03R net</b> ≈ 0.04% of equity
