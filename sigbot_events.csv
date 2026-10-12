@@ -235,3 +235,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-12T02:02:07Z,*,scan,,,,v1.1 universe=232 regime=BTC_UP signals=0 armed=0 open=19 pending=2 equity=9974.66 closed=5
 2026-10-12T03:02:00Z,LUMIAUSDT,stop,LONG,LONG_MAJ,A,stop 0.1115892 exit 0.1115892 bar 2026-10-12T02:00:00Z net -1.005R
 2026-10-12T03:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_UP signals=0 armed=0 open=18 pending=2 equity=9962.12 closed=6
+2026-10-12T04:02:01Z,HYPEUSDT,setup,LONG,LONG_MAJ,A,limit level 87.28
+2026-10-12T04:02:01Z,JTOUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T04:02:01Z,ZKUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-10-12T04:02:01Z,ZROUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T04:02:01Z,LITUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T04:02:01Z,LTCUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T04:02:01Z,WUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-10-12T04:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=9 armed=1 open=18 pending=3 equity=9962.12 closed=6
