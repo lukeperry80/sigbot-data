@@ -1421,3 +1421,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-14 06:00</b>
 Why     mom rank 0.12 | liq rank 196 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-13 16:04:37 UTC
+<b>🔴 SHORT FILLED  BLURUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.011627</code>
+Stop    <code>0.014278631</code>  (22.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4604.55</code>
+Exit by <b>2026-10-24 02:00</b>
+Why     mom rank 0.05 | liq rank 135 | BTC_DOWN
+===== 2026-10-13 16:04:39 UTC
+<b>🟡 LONG SETUP  QUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.04076</code>  (post-only retest)
+Stop    <code>0.035266994</code>  (13.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 14:02</b>
+Why     mom rank 0.98 | liq rank 94 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
