@@ -383,3 +383,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T12:02:02Z,BRUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-13T12:02:02Z,CASHCATUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-13T12:02:02Z,*,scan,,,,v1.1 universe=242 regime=BTC_DOWN signals=11 armed=3 open=22 pending=5 equity=9767.65 closed=26
+2026-10-13T13:02:00Z,*,scan,,,,v1.1 universe=242 regime=BTC_UP signals=0 armed=0 open=22 pending=5 equity=9767.65 closed=26
