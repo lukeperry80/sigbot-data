@@ -397,3 +397,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T20:02:02Z,WLFIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05757
 2026-10-13T20:02:02Z,OPUSDT,setup,LONG,LONG_MAJ,C,limit level 0.14632
 2026-10-13T20:02:02Z,*,scan,,,,v1.1 universe=238 regime=BTC_UP signals=3 armed=2 open=24 pending=2 equity=9767.65 closed=26
+2026-10-13T21:02:01Z,*,scan,,,,v1.1 universe=237 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9767.65 closed=26
