@@ -1349,3 +1349,48 @@ Loss  <b>-1.02R net</b> ≈ 0.04% of equity
 SHORT_TAIL, grade A
 Entry <code>0.07211</code>  Stop <code>0.076954082</code>  Exit <code>0.076954082</code>
 Loss  <b>-0.72R net</b> ≈ 0.09% of equity
+===== 2026-10-13 08:04:32 UTC
+<b>🔴 SHORT FILLED  ARKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.18762</code>
+Stop    <code>0.20684195</code>  (10.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>635.189</code>
+Exit by <b>2026-10-23 18:00</b>
+Why     mom rank 0.10 | liq rank 115 | BTC_DOWN
+===== 2026-10-13 08:04:33 UTC
+<b>🔴 SHORT FILLED  BOMEUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.0007976</code>
+Stop    <code>0.00092034568</code>  (15.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>99470.4</code>
+Exit by <b>2026-10-23 18:00</b>
+Why     mom rank 0.10 | liq rank 123 | BTC_DOWN
+===== 2026-10-13 08:04:34 UTC
+<b>🔴 SHORT FILLED  RVNUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.001608</code>
+Stop    <code>0.0018089225</code>  (12.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>60767.5</code>
+Exit by <b>2026-10-23 18:00</b>
+Why     mom rank 0.06 | liq rank 138 | BTC_DOWN
+===== 2026-10-13 08:04:35 UTC
+<b>🟡 SHORT SETUP  BLURUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.012603</code>  (needs 4h close confirm)
+Stop    <code>0.014278631</code>  (13.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 02:00</b>
+Why     mom rank 0.05 | liq rank 135 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-13 08:04:36 UTC
+<b>🟡 SHORT SETUP  ARCUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0343</code>  (needs 4h close confirm)
+Stop    <code>0.04185399</code>  (22.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 02:00</b>
+Why     mom rank 0.01 | liq rank 180 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

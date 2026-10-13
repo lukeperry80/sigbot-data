@@ -363,3 +363,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T06:02:07Z,NIULAIUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.076954082 exit 0.076954082 bar 2026-10-13T05:00:00Z net -0.721R
 2026-10-13T06:02:07Z,*,scan,,,,v1.1 universe=244 regime=BTC_DOWN signals=0 armed=0 open=19 pending=7 equity=9767.65 closed=26
 2026-10-13T07:02:01Z,*,scan,,,,v1.1 universe=243 regime=BTC_DOWN signals=0 armed=0 open=19 pending=7 equity=9767.65 closed=26
+2026-10-13T08:02:00Z,SPXUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.3666 >= level 0.3617
+2026-10-13T08:02:00Z,ARKUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.18762
+2026-10-13T08:02:00Z,BOMEUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.0007976
+2026-10-13T08:02:00Z,RVNUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.001608
+2026-10-13T08:02:00Z,2ZUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.03549 >= level 0.03539
+2026-10-13T08:02:00Z,CROUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.06008 >= level 0.05889
+2026-10-13T08:02:00Z,BLURUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.012603
+2026-10-13T08:02:00Z,ARCUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0343
+2026-10-13T08:02:00Z,*,scan,,,,v1.1 universe=243 regime=BTC_DOWN signals=2 armed=2 open=22 pending=2 equity=9767.65 closed=26
