@@ -348,3 +348,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T00:02:01Z,STXUSDT,open,SHORT,XREV_SHORT,C,entry 0.4101
 2026-10-13T00:02:01Z,RENDERUSDT,skip_c_cap,SHORT,XREV_SHORT,C,5 C-grade already open
 2026-10-13T00:02:01Z,*,scan,,,,v1.1 universe=240 regime=BTC_DOWN signals=31 armed=11 open=22 pending=7 equity=9784.05 closed=23
+2026-10-13T01:02:04Z,DOTUSDT,stop,LONG,LONG_MAJ,C,stop 1.1570452 exit 1.1570452 bar 2026-10-13T00:00:00Z net -1.026R
+2026-10-13T01:02:04Z,*,scan,,,,v1.1 universe=242 regime=BTC_DOWN signals=0 armed=0 open=21 pending=7 equity=9780.20 closed=24
