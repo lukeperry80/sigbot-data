@@ -1394,3 +1394,30 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-14 02:00</b>
 Why     mom rank 0.01 | liq rank 180 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-13 12:04:31 UTC
+<b>🟡 SHORT SETUP  APRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.068</code>  (needs 4h close confirm)
+Stop    <code>0.080873866</code>  (18.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 06:00</b>
+Why     mom rank 0.01 | liq rank 139 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-13 12:04:32 UTC
+<b>🟡 SHORT SETUP  1000RATSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.01962</code>  (needs 4h close confirm)
+Stop    <code>0.024093896</code>  (22.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 06:00</b>
+Why     mom rank 0.02 | liq rank 159 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-13 12:04:33 UTC
+<b>🟡 SHORT SETUP  HUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.05489</code>  (needs 4h close confirm)
+Stop    <code>0.058300283</code>  (6.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 06:00</b>
+Why     mom rank 0.12 | liq rank 196 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

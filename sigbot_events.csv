@@ -375,3 +375,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T09:02:07Z,*,scan,,,,v1.1 universe=243 regime=BTC_UP signals=0 armed=0 open=22 pending=2 equity=9767.65 closed=26
 2026-10-13T10:02:07Z,*,scan,,,,v1.1 universe=243 regime=BTC_UP signals=0 armed=0 open=22 pending=2 equity=9767.65 closed=26
 2026-10-13T11:02:00Z,*,scan,,,,v1.1 universe=242 regime=BTC_DOWN signals=0 armed=0 open=22 pending=2 equity=9767.65 closed=26
+2026-10-13T12:02:02Z,APRUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.068
+2026-10-13T12:02:02Z,1000RATSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.01962
+2026-10-13T12:02:02Z,HUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.05489
+2026-10-13T12:02:02Z,FOLKSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-13T12:02:02Z,KGENUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-13T12:02:02Z,BRUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-13T12:02:02Z,CASHCATUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-13T12:02:02Z,*,scan,,,,v1.1 universe=242 regime=BTC_DOWN signals=11 armed=3 open=22 pending=5 equity=9767.65 closed=26
