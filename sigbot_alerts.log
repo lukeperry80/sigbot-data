@@ -1466,3 +1466,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-10-14 18:02</b>
 Why     mom rank 0.86 | liq rank 39 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-13 22:04:33 UTC
+<b>🟢 LONG FILLED  WLFIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.05757</code>
+Stop    <code>0.055958883</code>  (2.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>7578.32</code>
+Exit by <b>2026-10-19 07:00</b>
+Why     mom rank 0.68 | liq rank 88 | BTC_UP
