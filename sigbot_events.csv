@@ -390,3 +390,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T16:02:07Z,QUSDT,setup,LONG,LONG_MAJ,A,limit level 0.04076
 2026-10-13T16:02:07Z,*,scan,,,,v1.1 universe=240 regime=BTC_UP signals=2 armed=1 open=23 pending=4 equity=9767.65 closed=26
 2026-10-13T17:02:02Z,*,scan,,,,v1.1 universe=240 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9767.65 closed=26
+2026-10-13T18:02:07Z,*,scan,,,,v1.1 universe=240 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9767.65 closed=26
