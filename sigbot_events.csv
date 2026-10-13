@@ -359,3 +359,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T04:02:07Z,1000RATSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-13T04:02:07Z,KGENUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-13T04:02:07Z,*,scan,,,,v1.1 universe=244 regime=BTC_DOWN signals=9 armed=0 open=20 pending=7 equity=9776.48 closed=25
+2026-10-13T05:02:00Z,*,scan,,,,v1.1 universe=244 regime=BTC_DOWN signals=0 armed=0 open=20 pending=7 equity=9776.48 closed=25
