@@ -392,3 +392,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T17:02:02Z,*,scan,,,,v1.1 universe=240 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9767.65 closed=26
 2026-10-13T18:02:07Z,*,scan,,,,v1.1 universe=240 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9767.65 closed=26
 2026-10-13T19:02:00Z,*,scan,,,,v1.1 universe=238 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9767.65 closed=26
+2026-10-13T20:02:02Z,HUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.05571 >= level 0.05489
+2026-10-13T20:02:02Z,QUSDT,fill,LONG,LONG_MAJ,A,entry 0.04076 level 0.04076 bar 2026-10-13T19:00:00Z
+2026-10-13T20:02:02Z,WLFIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05757
+2026-10-13T20:02:02Z,OPUSDT,setup,LONG,LONG_MAJ,C,limit level 0.14632
+2026-10-13T20:02:02Z,*,scan,,,,v1.1 universe=238 regime=BTC_UP signals=3 armed=2 open=24 pending=2 equity=9767.65 closed=26
