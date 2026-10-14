@@ -441,3 +441,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-14T17:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=25 pending=2 equity=9784.97 closed=31
 2026-10-14T18:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=0 armed=0 open=25 pending=2 equity=9784.97 closed=31
 2026-10-14T19:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=25 pending=2 equity=9784.97 closed=31
+2026-10-14T20:02:00Z,NILUSDT,stop,SHORT,XREV_SHORT,C,stop 0.085877 exit 0.085877 bar 2026-10-14T19:00:00Z net -1.013R
+2026-10-14T20:02:00Z,EPICUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-14T20:02:00Z,LONGXIAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-14T20:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=5 armed=0 open=24 pending=2 equity=9781.26 closed=32
