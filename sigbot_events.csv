@@ -401,3 +401,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-13T22:02:07Z,WLFIUSDT,fill,LONG,LONG_MAJ,A,entry 0.05757 level 0.05757 bar 2026-10-13T21:00:00Z
 2026-10-13T22:02:07Z,*,scan,,,,v1.1 universe=236 regime=BTC_UP signals=0 armed=0 open=25 pending=1 equity=9767.65 closed=26
 2026-10-13T23:02:02Z,*,scan,,,,v1.1 universe=236 regime=BTC_UP signals=0 armed=0 open=25 pending=1 equity=9767.65 closed=26
+2026-10-14T00:02:00Z,DATAUSDT,exit_due,SHORT,XREV_SHORT,C,+0.038R gross +0.023R net
+2026-10-14T00:02:00Z,BILLUSDT,exit_due,SHORT,XREV_SHORT,C,+1.723R gross +1.712R net
+2026-10-14T00:02:00Z,STXUSDT,exit_due,SHORT,XREV_SHORT,C,-0.595R gross -0.610R net
+2026-10-14T00:02:00Z,XMRUSDT,setup,LONG,LONG_MAJ,A,limit level 545.19
+2026-10-14T00:02:00Z,TRUTHUSDT,open,SHORT,XREV_SHORT,C,entry 0.020269
+2026-10-14T00:02:00Z,NILUSDT,open,SHORT,XREV_SHORT,C,entry 0.07807
+2026-10-14T00:02:00Z,*,scan,,,,v1.1 universe=237 regime=BTC_UP signals=5 armed=3 open=24 pending=2 equity=9771.78 closed=29

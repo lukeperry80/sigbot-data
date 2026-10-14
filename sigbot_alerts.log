@@ -1475,3 +1475,48 @@ Risk    0.12% of equity if stopped
 Qty     <code>7578.32</code>
 Exit by <b>2026-10-19 07:00</b>
 Why     mom rank 0.68 | liq rank 88 | BTC_UP
+===== 2026-10-14 00:04:28 UTC
+⏰ <b>EXIT NOW — DATAUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.231225</code>
+Entry <code>0.2115</code>  Mark <code>0.2107</code>
+Result <b>+0.04R gross / +0.02R net</b>
+Close this position now.
+===== 2026-10-14 00:04:29 UTC
+⏰ <b>EXIT NOW — BILLUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0098685</code>
+Entry <code>0.01039</code>  Mark <code>0.0086</code>
+Result <b>+1.72R gross / +1.71R net</b>
+Close this position now.
+===== 2026-10-14 00:04:30 UTC
+⏰ <b>EXIT NOW — STXUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.45111</code>
+Entry <code>0.4101</code>  Mark <code>0.4345</code>
+Result <b>-0.59R gross / -0.61R net</b>
+Close this position now.
+===== 2026-10-14 00:04:31 UTC
+<b>🟡 LONG SETUP  XMRUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>545.19</code>  (post-only retest)
+Stop    <code>523.81614</code>  (3.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-14 22:02</b>
+Why     mom rank 0.63 | liq rank 56 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-14 00:04:33 UTC
+<b>🔴 SHORT FILLED  TRUTHUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.020269</code>
+Stop    <code>0.0222959</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1807.89</code>
+Exit by <b>2026-10-15 10:00</b>
+Why     6h ret +11.6% | liq rank 133 | BTC_UP
+===== 2026-10-14 00:04:34 UTC
+<b>🔴 SHORT FILLED  NILUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.07807</code>
+Stop    <code>0.085877</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>469.376</code>
+Exit by <b>2026-10-15 10:00</b>
+Why     6h ret +6.5% | liq rank 96 | BTC_UP
