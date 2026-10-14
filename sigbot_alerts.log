@@ -1558,3 +1558,12 @@ LONG_MAJ, grade A  |  stop was <code>0.063857077</code>
 Entry <code>0.07201</code>  Mark <code>0.07891</code>
 Result <b>+0.85R gross / +0.83R net</b>
 Close this position now.
+===== 2026-10-14 14:04:34 UTC
+<b>🟢 LONG FILLED  WALUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.05072</code>
+Stop    <code>0.04490326</code>  (11.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>2102.76</code>
+Exit by <b>2026-10-19 23:00</b>
+Why     mom rank 0.96 | liq rank 95 | BTC_UP

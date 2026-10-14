@@ -428,3 +428,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-14T12:02:07Z,*,scan,,,,v1.1 universe=233 regime=BTC_UP signals=1 armed=1 open=23 pending=3 equity=9774.59 closed=30
 2026-10-14T13:02:07Z,STRKUSDT,exit_due,LONG,LONG_MAJ,A,+0.846R gross +0.830R net
 2026-10-14T13:02:07Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=22 pending=3 equity=9784.97 closed=31
+2026-10-14T14:02:07Z,WALUSDT,fill,LONG,LONG_MAJ,A,entry 0.05072 level 0.05072 bar 2026-10-14T13:00:00Z
+2026-10-14T14:02:07Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9784.97 closed=31
