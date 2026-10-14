@@ -1525,3 +1525,21 @@ Why     6h ret +6.5% | liq rank 96 | BTC_UP
 XREV_SHORT, grade C
 Entry <code>0.020269</code>  Stop <code>0.01868735</code>  Exit <code>0.01868735</code>
 Loss  <b>+0.77R net</b> ≈ 0.03% of equity
+===== 2026-10-14 08:04:33 UTC
+<b>🟡 SHORT SETUP  KGENUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1064</code>  (needs 4h close confirm)
+Stop    <code>0.11858226</code>  (11.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-15 02:00</b>
+Why     mom rank 0.06 | liq rank 215 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-14 08:04:34 UTC
+<b>🟡 SHORT SETUP  CRVUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.3336</code>  (needs 4h close confirm)
+Stop    <code>0.35733855</code>  (7.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-15 02:00</b>
+Why     mom rank 0.19 | liq rank 64 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

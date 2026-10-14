@@ -416,3 +416,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-14T05:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_UP signals=0 armed=0 open=23 pending=2 equity=9774.59 closed=30
 2026-10-14T06:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9774.59 closed=30
 2026-10-14T07:02:04Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9774.59 closed=30
+2026-10-14T08:02:05Z,OPUSDT,expired,LONG,LONG_MAJ,C,level 0.14632
+2026-10-14T08:02:05Z,KGENUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1064
+2026-10-14T08:02:05Z,CRVUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3336
+2026-10-14T08:02:05Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=3 armed=2 open=23 pending=3 equity=9774.59 closed=30
