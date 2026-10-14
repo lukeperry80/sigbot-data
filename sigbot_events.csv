@@ -446,3 +446,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-14T20:02:00Z,LONGXIAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-14T20:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=5 armed=0 open=24 pending=2 equity=9781.26 closed=32
 2026-10-14T21:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9781.26 closed=32
+2026-10-14T22:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9781.26 closed=32
