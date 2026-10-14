@@ -1567,3 +1567,39 @@ Risk    0.12% of equity if stopped
 Qty     <code>2102.76</code>
 Exit by <b>2026-10-19 23:00</b>
 Why     mom rank 0.96 | liq rank 95 | BTC_UP
+===== 2026-10-14 16:04:34 UTC
+<b>🔴 SHORT FILLED  KGENUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.0999</code>
+Stop    <code>0.11858226</code>  (18.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>654.697</code>
+Exit by <b>2026-10-25 02:00</b>
+Why     mom rank 0.06 | liq rank 215 | BTC_DOWN
+===== 2026-10-14 16:04:35 UTC
+<b>🔴 SHORT FILLED  CRVUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.3246</code>
+Stop    <code>0.35733855</code>  (10.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>373.603</code>
+Exit by <b>2026-10-25 02:00</b>
+Why     mom rank 0.19 | liq rank 64 | BTC_DOWN
+===== 2026-10-14 16:04:37 UTC
+<b>🟡 SHORT SETUP  BRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.41175</code>  (needs 4h close confirm)
+Stop    <code>0.45998267</code>  (11.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-15 10:00</b>
+Why     mom rank 0.04 | liq rank 118 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-14 16:04:38 UTC
+<b>🟡 SHORT SETUP  PHAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.05272</code>  (needs 4h close confirm)
+Stop    <code>0.057367112</code>  (8.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-15 10:00</b>
+Why     mom rank 0.08 | liq rank 210 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
