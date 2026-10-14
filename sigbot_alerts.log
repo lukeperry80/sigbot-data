@@ -1543,3 +1543,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-15 02:00</b>
 Why     mom rank 0.19 | liq rank 64 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-14 12:04:40 UTC
+<b>🟡 LONG SETUP  WALUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05072</code>  (post-only retest)
+Stop    <code>0.04490326</code>  (11.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-15 10:02</b>
+Why     mom rank 0.96 | liq rank 95 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
