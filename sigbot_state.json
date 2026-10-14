@@ -1,6 +1,6 @@
 {
  "version": "1.1",
- "equity": 9771.781065490977,
+ "equity": 9774.594335539776,
  "positions": {
   "STRKUSDT": {
    "symbol": "STRKUSDT",
@@ -18,7 +18,7 @@
    "qty": 1533.1924181860456,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "GRASSUSDT": {
    "symbol": "GRASSUSDT",
@@ -36,7 +36,7 @@
    "qty": 237.13948225029904,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "BATUSDT": {
    "symbol": "BATUSDT",
@@ -54,7 +54,7 @@
    "qty": 531.5411120840754,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -72,7 +72,7 @@
    "qty": 66.79422194983951,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "MARSCOINUSDT": {
    "symbol": "MARSCOINUSDT",
@@ -90,7 +90,7 @@
    "qty": 726.974585476897,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "LSKUSDT": {
    "symbol": "LSKUSDT",
@@ -108,7 +108,7 @@
    "qty": 549.4329899124348,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "KASUSDT": {
    "symbol": "KASUSDT",
@@ -126,7 +126,7 @@
    "qty": 3658.926036143352,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "EGLDUSDT": {
    "symbol": "EGLDUSDT",
@@ -144,7 +144,7 @@
    "qty": 34.982273785899395,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "VETUSDT": {
    "symbol": "VETUSDT",
@@ -162,7 +162,7 @@
    "qty": 17179.035407387648,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "4STOCKUSDT": {
    "symbol": "4STOCKUSDT",
@@ -180,7 +180,7 @@
    "qty": 12415.936923854006,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "FLOCKUSDT": {
    "symbol": "FLOCKUSDT",
@@ -198,7 +198,7 @@
    "qty": 1780.790886972641,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "SAGAUSDT": {
    "symbol": "SAGAUSDT",
@@ -216,7 +216,7 @@
    "qty": 5471.115099911027,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "BICOUSDT": {
    "symbol": "BICOUSDT",
@@ -234,7 +234,7 @@
    "qty": 6843.282482326688,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "PIEVERSEUSDT": {
    "symbol": "PIEVERSEUSDT",
@@ -252,7 +252,7 @@
    "qty": 131.11622192743377,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "PENGUUSDT": {
    "symbol": "PENGUUSDT",
@@ -270,7 +270,7 @@
    "qty": 16317.710858298471,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "GRAMUSDT": {
    "symbol": "GRAMUSDT",
@@ -288,7 +288,7 @@
    "qty": 130.10055908970068,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "ARKUSDT": {
    "symbol": "ARKUSDT",
@@ -306,7 +306,7 @@
    "qty": 635.1886004917935,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "BOMEUSDT": {
    "symbol": "BOMEUSDT",
@@ -324,7 +324,7 @@
    "qty": 99470.42458778028,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "RVNUSDT": {
    "symbol": "RVNUSDT",
@@ -342,7 +342,7 @@
    "qty": 60767.520321148164,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "BLURUSDT": {
    "symbol": "BLURUSDT",
@@ -360,7 +360,7 @@
    "qty": 4604.548379525941,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "QUSDT": {
    "symbol": "QUSDT",
@@ -378,7 +378,7 @@
    "qty": 2222.747519298391,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "WLFIUSDT": {
    "symbol": "WLFIUSDT",
@@ -396,25 +396,7 @@
    "qty": 7578.323334590105,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1791946800000
-  },
-  "TRUTHUSDT": {
-   "symbol": "TRUTHUSDT",
-   "direction": "SHORT",
-   "module": "XREV_SHORT",
-   "grade": "C",
-   "size_mult": 0.3,
-   "entry": 0.020269,
-   "entry_ts": 1791936000000,
-   "stop": 0.018687350000000005,
-   "R": 0.0020269000000000016,
-   "exit_due_ts": 1792022400000,
-   "best": 0.015647,
-   "risk_amt": 3.6644178995591163,
-   "qty": 1807.8927917307778,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   },
   "NILUSDT": {
    "symbol": "NILUSDT",
@@ -432,7 +414,7 @@
    "qty": 469.37593179955326,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1791946800000
+   "last_bar_ts": 1791950400000
   }
  },
  "pending": {
@@ -469,7 +451,7 @@
  },
  "last_4h": 1791950400000,
  "last_day": 1791936000000,
- "last_run_ms": 1791950527818,
+ "last_run_ms": 1791954121742,
  "closed": [
   {
    "symbol": "MAGICUSDT",
@@ -1484,6 +1466,41 @@
    "equity_before": 9774.018701064835,
    "equity_after": 9771.781065490977,
    "hold_h": 24.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "TRUTHUSDT",
+   "direction": "SHORT",
+   "module": "XREV_SHORT",
+   "grade": "C",
+   "size_mult": 0.3,
+   "entry": 0.020269,
+   "entry_ts": 1791936000000,
+   "stop": 0.018687350000000005,
+   "R": 0.0020269000000000016,
+   "exit_due_ts": 1792022400000,
+   "best": 0.015647,
+   "risk_amt": 3.6644178995591163,
+   "qty": 1807.8927917307778,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1791946800000,
+   "exit": 0.018687350000000005,
+   "exit_ts": 1791954000000,
+   "entry_ts_utc": "2026-10-14T00:00:00Z",
+   "exit_ts_utc": "2026-10-14T05:00:00Z",
+   "reason": "stop",
+   "r": 0.7803295673195482,
+   "gross_r": 0.7803295673195482,
+   "cost_r": 0.014414752824510326,
+   "funding_rate_sum": 0.00018115,
+   "funding_status": "ok",
+   "funding_r": 0.0018114999999999984,
+   "net_r": 0.7677263144950378,
+   "pnl_usdt": 2.813270048798168,
+   "equity_before": 9771.781065490977,
+   "equity_after": 9774.594335539776,
+   "hold_h": 5.0,
    "runner_version": "1.1"
   }
  ]
