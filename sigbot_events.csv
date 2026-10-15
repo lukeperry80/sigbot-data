@@ -490,3 +490,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-15T13:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9758.93 closed=35
 2026-10-15T14:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9758.93 closed=35
 2026-10-15T15:02:00Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9758.93 closed=35
+2026-10-15T16:02:01Z,CRVUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.35733855 exit 0.35733855 bar 2026-10-15T15:00:00Z net -1.013R
+2026-10-15T16:02:01Z,PYTHUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09065
+2026-10-15T16:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=1 armed=1 open=25 pending=1 equity=9746.54 closed=36

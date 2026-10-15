@@ -1668,3 +1668,17 @@ Loss  <b>-1.04R net</b> ≈ 0.13% of equity
 XREV_SHORT, grade C
 Entry <code>0.04758</code>  Stop <code>0.043427</code>  Exit <code>0.043427</code>
 Loss  <b>+0.86R net</b> ≈ 0.03% of equity
+===== 2026-10-15 16:05:15 UTC
+🛑 <b>STOPPED — CRVUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.3246</code>  Stop <code>0.35733855</code>  Exit <code>0.35733855</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-10-15 16:05:17 UTC
+<b>🟡 LONG SETUP  PYTHUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.09065</code>  (post-only retest)
+Stop    <code>0.079063099</code>  (12.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-16 14:02</b>
+Why     mom rank 0.93 | liq rank 56 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
