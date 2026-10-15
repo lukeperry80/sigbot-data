@@ -458,3 +458,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-15T01:02:00Z,GRASSUSDT,stop,LONG,LONG_MAJ,A,stop 0.61123516 exit 0.61123516 bar 2026-10-15T00:00:00Z net -1.025R
 2026-10-15T01:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=28 pending=0 equity=9768.46 closed=33
 2026-10-15T02:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=28 pending=0 equity=9768.46 closed=33
+2026-10-15T03:02:00Z,WLFIUSDT,stop,LONG,LONG_MAJ,A,stop 0.055958883 exit 0.055958883 bar 2026-10-15T02:00:00Z net -1.039R
+2026-10-15T03:02:00Z,ZEREBROUSDT,stop,SHORT,XREV_SHORT,C,stop 0.043427 exit 0.043427 bar 2026-10-15T02:00:00Z net +0.859R
+2026-10-15T03:02:00Z,*,scan,,,,v1.1 universe=234 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9758.93 closed=35

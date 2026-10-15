@@ -1658,3 +1658,13 @@ Why     6h ret +16.5% | liq rank 95 | BTC_DOWN
 LONG_MAJ, grade A
 Entry <code>0.6639</code>  Stop <code>0.61123516</code>  Exit <code>0.61123516</code>
 Loss  <b>-1.03R net</b> ≈ 0.13% of equity
+===== 2026-10-15 03:04:30 UTC
+🛑 <b>STOPPED — WLFIUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.05757</code>  Stop <code>0.055958883</code>  Exit <code>0.055958883</code>
+Loss  <b>-1.04R net</b> ≈ 0.13% of equity
+===== 2026-10-15 03:04:32 UTC
+🛑 <b>STOPPED — ZEREBROUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.04758</code>  Stop <code>0.043427</code>  Exit <code>0.043427</code>
+Loss  <b>+0.86R net</b> ≈ 0.03% of equity
