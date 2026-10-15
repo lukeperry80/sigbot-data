@@ -1691,3 +1691,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-16 18:02</b>
 Why     mom rank 0.44 | liq rank 51 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-15 22:05:12 UTC
+<b>🟢 LONG FILLED  XPLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.08793</code>
+Stop    <code>0.081682301</code>  (7.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1950.03</code>
+Exit by <b>2026-10-21 07:00</b>
+Why     mom rank 0.44 | liq rank 51 | BTC_UP
