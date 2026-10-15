@@ -448,3 +448,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-14T21:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9781.26 closed=32
 2026-10-14T22:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9781.26 closed=32
 2026-10-14T23:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9781.26 closed=32
+2026-10-15T00:02:00Z,BRUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.40563
+2026-10-15T00:02:00Z,PHAUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.05067
+2026-10-15T00:02:00Z,FFUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-15T00:02:00Z,ZEREBROUSDT,open,SHORT,XREV_SHORT,C,entry 0.04758
+2026-10-15T00:02:00Z,MUBARAKUSDT,open,SHORT,XREV_SHORT,C,entry 0.060781
+2026-10-15T00:02:00Z,NILUSDT,open,SHORT,XREV_SHORT,C,entry 0.0916
+2026-10-15T00:02:00Z,*,scan,,,,v1.1 universe=234 regime=BTC_DOWN signals=4 armed=3 open=29 pending=0 equity=9781.26 closed=32

@@ -1608,3 +1608,48 @@ Why     mom rank 0.08 | liq rank 210 | BTC_DOWN
 XREV_SHORT, grade C
 Entry <code>0.07807</code>  Stop <code>0.085877</code>  Exit <code>0.085877</code>
 Loss  <b>-1.01R net</b> ≈ 0.04% of equity
+===== 2026-10-15 00:04:26 UTC
+<b>🔴 SHORT FILLED  BRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.40563</code>
+Stop    <code>0.45998267</code>  (13.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>224.949</code>
+Exit by <b>2026-10-25 10:00</b>
+Why     mom rank 0.04 | liq rank 118 | BTC_DOWN
+===== 2026-10-15 00:04:27 UTC
+<b>🔴 SHORT FILLED  PHAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.05067</code>
+Stop    <code>0.057367112</code>  (13.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1825.65</code>
+Exit by <b>2026-10-25 10:00</b>
+Why     mom rank 0.08 | liq rank 210 | BTC_DOWN
+===== 2026-10-15 00:04:29 UTC
+<b>🔴 SHORT FILLED  ZEREBROUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.04758</code>
+Stop    <code>0.052338</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>770.906</code>
+Exit by <b>2026-10-16 10:00</b>
+Why     6h ret +23.0% | liq rank 109 | BTC_DOWN
+===== 2026-10-15 00:04:30 UTC
+<b>🔴 SHORT FILLED  MUBARAKUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.060781</code>
+Stop    <code>0.0668591</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>603.474</code>
+Exit by <b>2026-10-16 10:00</b>
+Why     6h ret +13.0% | liq rank 99 | BTC_DOWN
+===== 2026-10-15 00:04:31 UTC
+<b>🔴 SHORT FILLED  NILUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.0916</code>
+Stop    <code>0.10076</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>400.434</code>
+Exit by <b>2026-10-16 10:00</b>
+Why     6h ret +16.5% | liq rank 95 | BTC_DOWN
