@@ -487,3 +487,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-15T11:02:00Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9758.93 closed=35
 2026-10-15T12:02:00Z,EPICUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-15T12:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=1 armed=0 open=26 pending=0 equity=9758.93 closed=35
+2026-10-15T13:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9758.93 closed=35
