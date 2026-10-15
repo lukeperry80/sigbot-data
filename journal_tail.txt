@@ -1,13 +1,3 @@
-Oct 16 02:05:20 bot1 publish.sh[927159]: To https://github.com/lukeperry80/sigbot-data.git
-Oct 16 02:05:20 bot1 publish.sh[927159]:    e0145df..a2ae74f  main -> main
-Oct 16 02:05:20 bot1 publish.sh[927144]: [publish] pushed
-Oct 16 02:05:20 bot1 systemd[1]: sigbot.service: Deactivated successfully.
-Oct 16 02:05:20 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
-Oct 16 02:05:20 bot1 systemd[1]: sigbot.service: Consumed 5.689s CPU time.
-Oct 16 03:02:01 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
-Oct 16 03:02:02 bot1 python[927924]: [sigbot] universe 561 | skipped {'stock': 213, 'ETF': 57, 'commodity': 4, 'forex': 3}
-Oct 16 03:05:22 bot1 python[927924]: [sigbot] v1.1 233 eligible | regime BTC_UP
-Oct 16 03:05:22 bot1 python[927924]: [sigbot] signals 0 armed 0 open 25 pending 1 equity 9746.54
 Oct 16 03:05:24 bot1 publish.sh[927994]: To https://github.com/lukeperry80/sigbot-data.git
 Oct 16 03:05:24 bot1 publish.sh[927994]:    a2ae74f..cd33565  main -> main
 Oct 16 03:05:24 bot1 publish.sh[927980]: [publish] pushed
@@ -38,3 +28,13 @@ Oct 16 06:02:01 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly s
 Oct 16 06:02:02 bot1 python[930951]: [sigbot] universe 561 | skipped {'stock': 213, 'ETF': 57, 'commodity': 4, 'forex': 3}
 Oct 16 06:05:12 bot1 python[930951]: [sigbot] v1.1 234 eligible | regime BTC_UP
 Oct 16 06:05:14 bot1 python[930951]: [sigbot] signals 2 armed 1 open 25 pending 2 equity 9746.54
+Oct 16 06:05:16 bot1 publish.sh[930986]: To https://github.com/lukeperry80/sigbot-data.git
+Oct 16 06:05:16 bot1 publish.sh[930986]:    d9e97e1..a739cbf  main -> main
+Oct 16 06:05:16 bot1 publish.sh[930972]: [publish] pushed
+Oct 16 06:05:16 bot1 systemd[1]: sigbot.service: Deactivated successfully.
+Oct 16 06:05:16 bot1 systemd[1]: Finished sigbot.service - Signal bot - hourly scan, paper mode.
+Oct 16 06:05:16 bot1 systemd[1]: sigbot.service: Consumed 6.052s CPU time.
+Oct 16 07:02:01 bot1 systemd[1]: Starting sigbot.service - Signal bot - hourly scan, paper mode...
+Oct 16 07:02:01 bot1 python[931470]: [sigbot] universe 561 | skipped {'stock': 213, 'ETF': 57, 'commodity': 4, 'forex': 3}
+Oct 16 07:05:22 bot1 python[931470]: [sigbot] v1.1 236 eligible | regime BTC_UP
+Oct 16 07:05:22 bot1 python[931470]: [sigbot] signals 0 armed 0 open 25 pending 2 equity 9746.54
