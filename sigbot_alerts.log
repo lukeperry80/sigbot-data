@@ -1864,3 +1864,8 @@ LONG_MAJ, grade A  |  stop was <code>0.13560307</code>
 Entry <code>0.15906</code>  Mark <code>0.20116</code>
 Result <b>+1.79R gross / +1.82R net</b>
 Close this position now.
+===== 2026-10-16 18:04:25 UTC
+🛑 <b>STOPPED — XPLUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.08793</code>  Stop <code>0.081682301</code>  Exit <code>0.081682301</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
