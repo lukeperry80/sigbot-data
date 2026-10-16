@@ -514,3 +514,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-16T01:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=28 pending=2 equity=9750.25 closed=38
 2026-10-16T02:02:01Z,AVAUSDT,stop,SHORT,XREV_SHORT,C,stop 0.31328 exit 0.31328 bar 2026-10-16T01:00:00Z net -1.016R
 2026-10-16T02:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9746.54 closed=39
+2026-10-16T03:02:01Z,AEROUSDT,fill,LONG,LONG_MAJ,A,entry 0.9208 level 0.9208 bar 2026-10-16T02:00:00Z
+2026-10-16T03:02:01Z,WALUSDT,stop,LONG,LONG_MAJ,A,stop 0.04490326 exit 0.04490326 bar 2026-10-16T02:00:00Z net -0.780R
+2026-10-16T03:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=27 pending=1 equity=9736.99 closed=40

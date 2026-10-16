@@ -1762,3 +1762,17 @@ Why     6h ret +15.8% | liq rank 195 | BTC_UP
 XREV_SHORT, grade C
 Entry <code>0.2848</code>  Stop <code>0.31328</code>  Exit <code>0.31328</code>
 Loss  <b>-1.02R net</b> ≈ 0.04% of equity
+===== 2026-10-16 03:05:21 UTC
+<b>🟢 LONG FILLED  AEROUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.9208</code>
+Stop    <code>0.85233944</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>177.959</code>
+Exit by <b>2026-10-21 12:00</b>
+Why     mom rank 0.90 | liq rank 59 | BTC_UP
+===== 2026-10-16 03:05:22 UTC
+🛑 <b>STOPPED — WALUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.05072</code>  Stop <code>0.04490326</code>  Exit <code>0.04490326</code>
+Loss  <b>-0.78R net</b> ≈ 0.10% of equity
