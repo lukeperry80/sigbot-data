@@ -1858,3 +1858,9 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-17 10:00</b>
 Why     mom rank 0.12 | liq rank 196 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-16 17:04:27 UTC
+⏰ <b>EXIT NOW — BATUSDT LONG</b>
+LONG_MAJ, grade A  |  stop was <code>0.13560307</code>
+Entry <code>0.15906</code>  Mark <code>0.20116</code>
+Result <b>+1.79R gross / +1.82R net</b>
+Close this position now.

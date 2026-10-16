@@ -547,3 +547,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-16T15:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=28 pending=1 equity=9736.07 closed=42
 2026-10-16T16:02:01Z,ZILUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.002581
 2026-10-16T16:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=1 armed=1 open=28 pending=2 equity=9736.07 closed=42
+2026-10-16T17:02:01Z,BATUSDT,exit_due,LONG,LONG_MAJ,A,+1.795R gross +1.816R net
+2026-10-16T17:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_DOWN signals=0 armed=0 open=27 pending=2 equity=9758.71 closed=43
