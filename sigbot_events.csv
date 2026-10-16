@@ -502,3 +502,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-15T22:02:01Z,XPLUSDT,fill,LONG,LONG_MAJ,A,entry 0.08793 level 0.08793 bar 2026-10-15T21:00:00Z
 2026-10-15T22:02:01Z,*,scan,,,,v1.1 universe=236 regime=BTC_UP signals=0 armed=0 open=26 pending=1 equity=9746.54 closed=36
 2026-10-15T23:02:00Z,*,scan,,,,v1.1 universe=236 regime=BTC_UP signals=0 armed=0 open=26 pending=1 equity=9746.54 closed=36
+2026-10-16T00:02:01Z,MUBARAKUSDT,exit_due,SHORT,XREV_SHORT,C,+0.353R gross +0.342R net
+2026-10-16T00:02:01Z,NILUSDT,exit_due,SHORT,XREV_SHORT,C,+0.681R gross +0.670R net
+2026-10-16T00:02:01Z,AEROUSDT,setup,LONG,LONG_MAJ,A,limit level 0.9208
+2026-10-16T00:02:01Z,AVAUSDT,open,SHORT,XREV_SHORT,C,entry 0.2848
+2026-10-16T00:02:01Z,INITUSDT,open,SHORT,XREV_SHORT,C,entry 0.14137
+2026-10-16T00:02:01Z,ANIMEUSDT,open,SHORT,XREV_SHORT,C,entry 0.003266
+2026-10-16T00:02:01Z,ICNTUSDT,open,SHORT,XREV_SHORT,C,entry 0.1498
+2026-10-16T00:02:01Z,FILUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-16T00:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=7 armed=5 open=28 pending=2 equity=9750.25 closed=38

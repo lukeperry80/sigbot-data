@@ -1700,3 +1700,60 @@ Risk    0.12% of equity if stopped
 Qty     <code>1950.03</code>
 Exit by <b>2026-10-21 07:00</b>
 Why     mom rank 0.44 | liq rank 51 | BTC_UP
+===== 2026-10-16 00:05:13 UTC
+⏰ <b>EXIT NOW — MUBARAKUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.06627215</code>
+Entry <code>0.060781</code>  Mark <code>0.058634</code>
+Result <b>+0.35R gross / +0.34R net</b>
+Close this position now.
+===== 2026-10-16 00:05:14 UTC
+⏰ <b>EXIT NOW — NILUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.09501</code>
+Entry <code>0.0916</code>  Mark <code>0.08536</code>
+Result <b>+0.68R gross / +0.67R net</b>
+Close this position now.
+===== 2026-10-16 00:05:16 UTC
+<b>🟡 LONG SETUP  AEROUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.9208</code>  (post-only retest)
+Stop    <code>0.85233944</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-16 22:02</b>
+Why     mom rank 0.90 | liq rank 59 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-16 00:05:17 UTC
+<b>🔴 SHORT FILLED  AVAUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.2848</code>
+Stop    <code>0.31328</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>128.383</code>
+Exit by <b>2026-10-17 10:00</b>
+Why     6h ret +4.6% | liq rank 115 | BTC_UP
+===== 2026-10-16 00:05:18 UTC
+<b>🔴 SHORT FILLED  INITUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.14137</code>
+Stop    <code>0.155507</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>258.636</code>
+Exit by <b>2026-10-17 10:00</b>
+Why     6h ret +6.8% | liq rank 174 | BTC_UP
+===== 2026-10-16 00:05:19 UTC
+<b>🔴 SHORT FILLED  ANIMEUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.003266</code>
+Stop    <code>0.0035926</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>11195.2</code>
+Exit by <b>2026-10-17 10:00</b>
+Why     6h ret +7.8% | liq rank 208 | BTC_UP
+===== 2026-10-16 00:05:20 UTC
+<b>🔴 SHORT FILLED  ICNTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.1498</code>
+Stop    <code>0.16478</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>244.082</code>
+Exit by <b>2026-10-17 10:00</b>
+Why     6h ret +15.8% | liq rank 195 | BTC_UP
