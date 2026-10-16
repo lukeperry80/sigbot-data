@@ -1776,3 +1776,21 @@ Why     mom rank 0.90 | liq rank 59 | BTC_UP
 LONG_MAJ, grade A
 Entry <code>0.05072</code>  Stop <code>0.04490326</code>  Exit <code>0.04490326</code>
 Loss  <b>-0.78R net</b> ≈ 0.10% of equity
+===== 2026-10-16 04:05:08 UTC
+<b>🟡 LONG SETUP  XMRUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>560</code>  (post-only retest)
+Stop    <code>536.97021</code>  (4.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-17 02:02</b>
+Why     mom rank 0.78 | liq rank 57 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-16 04:05:10 UTC
+<b>🟡 LONG SETUP  TRXUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.3346</code>  (post-only retest)
+Stop    <code>0.33061406</code>  (1.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-17 02:02</b>
+Why     mom rank 0.72 | liq rank 99 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
