@@ -540,3 +540,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-16T12:02:01Z,AAVEUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-16T12:02:01Z,APTUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-16T12:02:01Z,*,scan,,,,v1.1 universe=238 regime=BTC_UP signals=5 armed=1 open=28 pending=2 equity=9736.80 closed=41
+2026-10-16T13:02:01Z,*,scan,,,,v1.1 universe=238 regime=BTC_UP signals=0 armed=0 open=28 pending=2 equity=9736.80 closed=41
