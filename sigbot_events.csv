@@ -523,3 +523,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-16T04:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=3 armed=2 open=27 pending=3 equity=9736.99 closed=40
 2026-10-16T05:02:01Z,PYTHUSDT,expired,LONG,LONG_MAJ,A,level 0.09065
 2026-10-16T05:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9736.99 closed=40
+2026-10-16T06:02:01Z,XMRUSDT,fill,LONG,LONG_MAJ,A,entry 560 level 560 bar 2026-10-16T05:00:00Z
+2026-10-16T06:02:01Z,TRXUSDT,fill,LONG,LONG_MAJ,A,entry 0.3346 level 0.3346 bar 2026-10-16T05:00:00Z
+2026-10-16T06:02:01Z,*,scan,,,,v1.1 universe=235 regime=BTC_UP signals=0 armed=0 open=29 pending=0 equity=9736.99 closed=40
