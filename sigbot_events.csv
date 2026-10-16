@@ -552,3 +552,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-16T18:02:01Z,XPLUSDT,stop,LONG,LONG_MAJ,A,stop 0.081682301 exit 0.081682301 bar 2026-10-16T17:00:00Z net -1.016R
 2026-10-16T18:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=26 pending=2 equity=9746.34 closed=44
 2026-10-16T19:02:01Z,*,scan,,,,v1.1 universe=234 regime=BTC_DOWN signals=0 armed=0 open=26 pending=2 equity=9746.34 closed=44
+2026-10-16T20:02:01Z,TIAUSDT,expired,LONG,LONG_MAJ,A,level 0.6321
+2026-10-16T20:02:01Z,SOPHUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.002352
+2026-10-16T20:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=2 armed=1 open=26 pending=2 equity=9746.34 closed=44

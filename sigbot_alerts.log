@@ -1869,3 +1869,12 @@ Close this position now.
 LONG_MAJ, grade A
 Entry <code>0.08793</code>  Stop <code>0.081682301</code>  Exit <code>0.081682301</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-16 20:04:27 UTC
+<b>🟡 SHORT SETUP  SOPHUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.002352</code>  (needs 4h close confirm)
+Stop    <code>0.0026161428</code>  (11.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-17 14:00</b>
+Why     mom rank 0.04 | liq rank 216 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
