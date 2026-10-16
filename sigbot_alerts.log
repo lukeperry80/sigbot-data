@@ -1835,3 +1835,17 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-17 10:02</b>
 Why     mom rank 0.69 | liq rank 10 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-16 15:04:25 UTC
+<b>🟢 LONG FILLED  WLDUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.5253</code>
+Stop    <code>0.48208261</code>  (8.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>281.623</code>
+Exit by <b>2026-10-22 00:00</b>
+Why     mom rank 0.69 | liq rank 10 | BTC_UP
+===== 2026-10-16 15:04:27 UTC
+🛑 <b>STOPPED — BRUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.40563</code>  Stop <code>0.40843901</code>  Exit <code>0.40843901</code>
+Loss  <b>-0.06R net</b> ≈ 0.01% of equity
