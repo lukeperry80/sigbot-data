@@ -1849,3 +1849,12 @@ Why     mom rank 0.69 | liq rank 10 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.40563</code>  Stop <code>0.40843901</code>  Exit <code>0.40843901</code>
 Loss  <b>-0.06R net</b> ≈ 0.01% of equity
+===== 2026-10-16 16:04:25 UTC
+<b>🟡 SHORT SETUP  ZILUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.002581</code>  (needs 4h close confirm)
+Stop    <code>0.0028987556</code>  (12.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-17 10:00</b>
+Why     mom rank 0.12 | liq rank 196 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
