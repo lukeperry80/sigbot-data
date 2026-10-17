@@ -575,3 +575,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T04:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_DOWN signals=3 armed=0 open=28 pending=0 equity=9750.46 closed=47
 2026-10-17T05:02:01Z,SIRENUSDT,stop,SHORT,XREV_SHORT,C,stop 0.036146 exit 0.036146 bar 2026-10-17T04:00:00Z net -1.015R
 2026-10-17T05:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9746.75 closed=48
+2026-10-17T06:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9746.75 closed=48
