@@ -598,3 +598,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T21:02:01Z,*,scan,,,,v1.1 universe=226 regime=BTC_DOWN signals=0 armed=0 open=25 pending=0 equity=9751.87 closed=51
 2026-10-17T22:02:02Z,WLDUSDT,stop,LONG,LONG_MAJ,A,stop 0.48208261 exit 0.48208261 bar 2026-10-17T21:00:00Z net -1.015R
 2026-10-17T22:02:02Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9739.51 closed=52
+2026-10-17T23:02:02Z,*,scan,,,,v1.1 universe=228 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9739.51 closed=52
