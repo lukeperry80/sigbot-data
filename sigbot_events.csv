@@ -566,3 +566,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T00:02:01Z,ICNTUSDT,open,SHORT,XREV_SHORT,C,entry 0.1791
 2026-10-17T00:02:01Z,SIRENUSDT,open,SHORT,XREV_SHORT,C,entry 0.03286
 2026-10-17T00:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=5 armed=3 open=28 pending=1 equity=9754.18 closed=46
+2026-10-17T01:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=28 pending=1 equity=9754.18 closed=46
