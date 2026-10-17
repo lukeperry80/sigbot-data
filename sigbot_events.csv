@@ -593,3 +593,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T17:02:02Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9751.87 closed=51
 2026-10-17T18:02:02Z,SANDUSDT,fill,LONG,LONG_MAJ,C,entry 0.06148 level 0.06148 bar 2026-10-17T17:00:00Z
 2026-10-17T18:02:02Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=0 armed=0 open=25 pending=0 equity=9751.87 closed=51
+2026-10-17T19:02:02Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=0 armed=0 open=25 pending=0 equity=9751.87 closed=51
