@@ -581,3 +581,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T09:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9746.75 closed=48
 2026-10-17T10:02:01Z,BTWUSDT,exit_due,LONG,LONG_MAJ,A,+1.703R gross +1.692R net
 2026-10-17T10:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9767.79 closed=49
+2026-10-17T11:02:01Z,*,scan,,,,v1.1 universe=229 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9767.79 closed=49
