@@ -1878,3 +1878,51 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-17 14:00</b>
 Why     mom rank 0.04 | liq rank 216 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-17 00:04:25 UTC
+<b>🔴 SHORT FILLED  ZILUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.002499</code>
+Stop    <code>0.0028987556</code>  (16.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>30475.9</code>
+Exit by <b>2026-10-27 10:00</b>
+Why     mom rank 0.12 | liq rank 196 | BTC_DOWN
+===== 2026-10-17 00:04:26 UTC
+⏰ <b>EXIT NOW — INITUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.1404755</code>
+Entry <code>0.14137</code>  Mark <code>0.12552</code>
+Result <b>+1.12R gross / +1.11R net</b>
+Close this position now.
+===== 2026-10-17 00:04:28 UTC
+⏰ <b>EXIT NOW — ANIMEUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0033659</code>
+Entry <code>0.003266</code>  Mark <code>0.002921</code>
+Result <b>+1.06R gross / +1.04R net</b>
+Close this position now.
+===== 2026-10-17 00:04:29 UTC
+<b>🔴 SHORT FILLED  FOLKSUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>2.3144</code>
+Stop    <code>2.54584</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>15.8046</code>
+Exit by <b>2026-10-18 10:00</b>
+Why     6h ret +8.8% | liq rank 177 | BTC_DOWN
+===== 2026-10-17 00:04:30 UTC
+<b>🔴 SHORT FILLED  ICNTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.1791</code>
+Stop    <code>0.19701</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>204.233</code>
+Exit by <b>2026-10-18 10:00</b>
+Why     6h ret +13.1% | liq rank 101 | BTC_DOWN
+===== 2026-10-17 00:04:31 UTC
+<b>🔴 SHORT FILLED  SIRENUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.03286</code>
+Stop    <code>0.036146</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1113.15</code>
+Exit by <b>2026-10-18 10:00</b>
+Why     6h ret +12.5% | liq rank 81 | BTC_DOWN
