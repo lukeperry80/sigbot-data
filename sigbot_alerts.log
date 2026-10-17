@@ -1926,3 +1926,8 @@ Risk    0.04% of equity if stopped
 Qty     <code>1113.15</code>
 Exit by <b>2026-10-18 10:00</b>
 Why     6h ret +12.5% | liq rank 81 | BTC_DOWN
+===== 2026-10-17 02:04:28 UTC
+🛑 <b>STOPPED — ICNTUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.1791</code>  Stop <code>0.19701</code>  Exit <code>0.19701</code>
+Loss  <b>-1.02R net</b> ≈ 0.04% of equity
