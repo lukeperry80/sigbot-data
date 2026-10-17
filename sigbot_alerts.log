@@ -1956,3 +1956,17 @@ Close this position now.
 SHORT_TAIL, grade A
 Entry <code>0.21189</code>  Stop <code>0.21874682</code>  Exit <code>0.21874682</code>
 Loss  <b>-0.29R net</b> ≈ 0.04% of equity
+===== 2026-10-17 16:04:35 UTC
+🛑 <b>STOPPED — AEROUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.9208</code>  Stop <code>0.85233944</code>  Exit <code>0.85233944</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-17 16:04:36 UTC
+<b>🟡 LONG SETUP  SANDUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.06148</code>  (post-only retest)
+Stop    <code>0.056342058</code>  (8.4% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-18 14:02</b>
+Why     mom rank 0.35 | liq rank 44 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
