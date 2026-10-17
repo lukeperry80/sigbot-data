@@ -570,3 +570,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T02:02:01Z,ICNTUSDT,stop,SHORT,XREV_SHORT,C,stop 0.19701 exit 0.19701 bar 2026-10-17T01:00:00Z net -1.016R
 2026-10-17T02:02:01Z,*,scan,,,,v1.1 universe=232 regime=BTC_DOWN signals=0 armed=0 open=27 pending=1 equity=9750.46 closed=47
 2026-10-17T03:02:01Z,*,scan,,,,v1.1 universe=231 regime=BTC_DOWN signals=0 armed=0 open=27 pending=1 equity=9750.46 closed=47
+2026-10-17T04:02:01Z,SOPHUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.002287
+2026-10-17T04:02:01Z,NXPCUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-17T04:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_DOWN signals=3 armed=0 open=28 pending=0 equity=9750.46 closed=47
