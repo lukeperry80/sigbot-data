@@ -1940,3 +1940,8 @@ Risk    0.12% of equity if stopped
 Qty     <code>37029.8</code>
 Exit by <b>2026-10-27 14:00</b>
 Why     mom rank 0.04 | liq rank 216 | BTC_DOWN
+===== 2026-10-17 05:04:27 UTC
+🛑 <b>STOPPED — SIRENUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.03286</code>  Stop <code>0.036146</code>  Exit <code>0.036146</code>
+Loss  <b>-1.02R net</b> ≈ 0.04% of equity
