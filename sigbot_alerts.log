@@ -2055,3 +2055,8 @@ Close this position now.
 XREV_SHORT, grade C
 Entry <code>0.45056</code>  Stop <code>0.461804</code>  Exit <code>0.461804</code>
 Loss  <b>-0.31R net</b> ≈ 0.01% of equity
+===== 2026-10-18 20:04:29 UTC
+🛑 <b>STOPPED — HBARUSDT LONG</b>
+LONG_MAJ, grade C
+Entry <code>0.08852</code>  Stop <code>0.083937229</code>  Exit <code>0.083937229</code>
+Loss  <b>-1.02R net</b> ≈ 0.04% of equity
