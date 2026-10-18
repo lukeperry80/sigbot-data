@@ -670,3 +670,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-18T20:02:02Z,JTOUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-18T20:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=32 armed=0 open=24 pending=0 equity=9914.37 closed=56
 2026-10-18T21:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9914.37 closed=56
+2026-10-18T22:02:02Z,SANDUSDT,stop,LONG,LONG_MAJ,C,stop 0.056342058 exit 0.056342058 bar 2026-10-18T21:00:00Z net -0.675R
+2026-10-18T22:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9911.90 closed=57
