@@ -599,3 +599,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-17T22:02:02Z,WLDUSDT,stop,LONG,LONG_MAJ,A,stop 0.48208261 exit 0.48208261 bar 2026-10-17T21:00:00Z net -1.015R
 2026-10-17T22:02:02Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9739.51 closed=52
 2026-10-17T23:02:02Z,*,scan,,,,v1.1 universe=228 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9739.51 closed=52
+2026-10-18T00:02:00Z,FOLKSUSDT,exit_due,SHORT,XREV_SHORT,C,+0.785R gross +0.774R net
+2026-10-18T00:02:00Z,REDUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.13853
+2026-10-18T00:02:00Z,KITEUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T00:02:00Z,DUSKUSDT,open,SHORT,XREV_SHORT,C,entry 0.13205
+2026-10-18T00:02:00Z,BRUSDT,open,SHORT,XREV_SHORT,C,entry 0.45056
+2026-10-18T00:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_DOWN signals=5 armed=3 open=25 pending=1 equity=9742.34 closed=53

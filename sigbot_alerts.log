@@ -1984,3 +1984,36 @@ Why     mom rank 0.35 | liq rank 44 | BTC_UP
 LONG_MAJ, grade A
 Entry <code>0.5253</code>  Stop <code>0.48208261</code>  Exit <code>0.48208261</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-18 00:04:28 UTC
+⏰ <b>EXIT NOW — FOLKSUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>2.40006</code>
+Entry <code>2.3144</code>  Mark <code>2.1327</code>
+Result <b>+0.79R gross / +0.77R net</b>
+Close this position now.
+===== 2026-10-18 00:04:29 UTC
+<b>🟡 SHORT SETUP  REDUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.13853</code>  (needs 4h close confirm)
+Stop    <code>0.14949329</code>  (7.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-18 18:00</b>
+Why     mom rank 0.13 | liq rank 164 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-18 00:04:30 UTC
+<b>🔴 SHORT FILLED  DUSKUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.13205</code>
+Stop    <code>0.145255</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>276.666</code>
+Exit by <b>2026-10-19 10:00</b>
+Why     6h ret +12.4% | liq rank 145 | BTC_DOWN
+===== 2026-10-18 00:04:31 UTC
+<b>🔴 SHORT FILLED  BRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.45056</code>
+Stop    <code>0.495616</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>81.0853</code>
+Exit by <b>2026-10-19 10:00</b>
+Why     6h ret +16.4% | liq rank 99 | BTC_DOWN
