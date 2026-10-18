@@ -626,3 +626,16 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-18T14:02:02Z,HBARUSDT,fill,LONG,LONG_MAJ,C,entry 0.08852 level 0.08852 bar 2026-10-18T13:00:00Z
 2026-10-18T14:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=27 pending=0 equity=9742.34 closed=53
 2026-10-18T15:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9742.34 closed=53
+2026-10-18T16:02:02Z,BERAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,DEEPUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,GALAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,SYRUPUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,BILLUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,STONKUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,AXSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,ATHUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,0GUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,2ZUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,USELESSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,MONUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-18T16:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=18 armed=0 open=27 pending=0 equity=9742.34 closed=53
