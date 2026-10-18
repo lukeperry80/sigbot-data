@@ -640,3 +640,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-18T16:02:02Z,MONUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-18T16:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=18 armed=0 open=27 pending=0 equity=9742.34 closed=53
 2026-10-18T17:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9742.34 closed=53
+2026-10-18T18:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9742.34 closed=53
