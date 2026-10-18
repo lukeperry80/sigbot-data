@@ -641,3 +641,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-18T16:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=18 armed=0 open=27 pending=0 equity=9742.34 closed=53
 2026-10-18T17:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9742.34 closed=53
 2026-10-18T18:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=27 pending=0 equity=9742.34 closed=53
+2026-10-18T19:02:02Z,QUSDT,exit_due,LONG,LONG_MAJ,A,+14.457R gross +14.487R net
+2026-10-18T19:02:02Z,BRUSDT,stop,SHORT,XREV_SHORT,C,stop 0.461804 exit 0.461804 bar 2026-10-18T18:00:00Z net -0.310R
+2026-10-18T19:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=25 pending=0 equity=9918.10 closed=55
