@@ -2026,3 +2026,12 @@ Risk    0.12% of equity if stopped
 Qty     <code>993.849</code>
 Exit by <b>2026-10-28 18:00</b>
 Why     mom rank 0.13 | liq rank 164 | BTC_DOWN
+===== 2026-10-18 12:04:28 UTC
+<b>🟡 LONG SETUP  HBARUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.08852</code>  (post-only retest)
+Stop    <code>0.083937229</code>  (5.2% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-19 10:02</b>
+Why     mom rank 0.57 | liq rank 44 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

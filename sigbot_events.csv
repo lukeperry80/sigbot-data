@@ -620,3 +620,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-18T09:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=26 pending=0 equity=9742.34 closed=53
 2026-10-18T10:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=26 pending=0 equity=9742.34 closed=53
 2026-10-18T11:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=26 pending=0 equity=9742.34 closed=53
+2026-10-18T12:02:00Z,HBARUSDT,setup,LONG,LONG_MAJ,C,limit level 0.08852
+2026-10-18T12:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=1 armed=1 open=26 pending=1 equity=9742.34 closed=53
