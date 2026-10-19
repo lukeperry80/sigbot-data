@@ -2089,3 +2089,8 @@ Risk    0.04% of equity if stopped
 Qty     <code>80.5194</code>
 Exit by <b>2026-10-20 10:00</b>
 Why     6h ret +6.8% | liq rank 84 | BTC_UP
+===== 2026-10-19 03:04:26 UTC
+🛑 <b>STOPPED — APRUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.0293</code>  Stop <code>0.03223</code>  Exit <code>0.03223</code>
+Loss  <b>-1.02R net</b> ≈ 0.04% of equity
