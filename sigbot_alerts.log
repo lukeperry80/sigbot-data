@@ -2131,3 +2131,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-20 10:02</b>
 Why     mom rank 0.07 | liq rank 76 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-19 15:04:36 UTC
+<b>🟢 LONG FILLED  ARCUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.04424</code>
+Stop    <code>0.038415407</code>  (13.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>2123.71</code>
+Exit by <b>2026-10-25 00:00</b>
+Why     mom rank 0.07 | liq rank 76 | BTC_UP
