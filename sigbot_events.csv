@@ -699,3 +699,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-19T14:02:00Z,*,scan,,,,v1.1 universe=219 regime=BTC_UP signals=0 armed=0 open=22 pending=1 equity=9895.80 closed=61
 2026-10-19T15:02:01Z,ARCUSDT,fill,LONG,LONG_MAJ,A,entry 0.04424 level 0.04424 bar 2026-10-19T14:00:00Z
 2026-10-19T15:02:01Z,*,scan,,,,v1.1 universe=219 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9895.80 closed=61
+2026-10-19T16:02:00Z,CRVUSDT,setup,LONG,LONG_MAJ,A,limit level 0.3618
+2026-10-19T16:02:00Z,BRUSDT,setup,LONG,LONG_MAJ,A,limit level 0.54544
+2026-10-19T16:02:00Z,*,scan,,,,v1.1 universe=215 regime=BTC_UP signals=2 armed=2 open=23 pending=2 equity=9895.80 closed=61

@@ -2140,3 +2140,21 @@ Risk    0.12% of equity if stopped
 Qty     <code>2123.71</code>
 Exit by <b>2026-10-25 00:00</b>
 Why     mom rank 0.07 | liq rank 76 | BTC_UP
+===== 2026-10-19 16:04:42 UTC
+<b>🟡 LONG SETUP  CRVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.3618</code>  (post-only retest)
+Stop    <code>0.33767523</code>  (6.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-20 14:02</b>
+Why     mom rank 0.80 | liq rank 54 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-19 16:04:43 UTC
+<b>🟡 LONG SETUP  BRUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.54544</code>  (post-only retest)
+Stop    <code>0.4256576</code>  (22.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-20 14:02</b>
+Why     mom rank 0.98 | liq rank 64 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
