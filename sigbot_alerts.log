@@ -2181,3 +2181,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-10-20 18:02</b>
 Why     mom rank 0.95 | liq rank 50 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-19 22:04:31 UTC
+<b>🟢 LONG FILLED  SUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>0.05716</code>
+Stop    <code>0.051800273</code>  (9.4% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>691.652</code>
+Exit by <b>2026-10-25 07:00</b>
+Why     mom rank 0.95 | liq rank 50 | BTC_UP

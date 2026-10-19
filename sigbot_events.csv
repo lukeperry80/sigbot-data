@@ -710,3 +710,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-19T20:02:03Z,SUSDT,setup,LONG,LONG_MAJ,C,limit level 0.05716
 2026-10-19T20:02:03Z,*,scan,,,,v1.1 universe=215 regime=BTC_UP signals=2 armed=1 open=23 pending=2 equity=9885.51 closed=62
 2026-10-19T21:02:03Z,*,scan,,,,v1.1 universe=215 regime=BTC_UP signals=0 armed=0 open=23 pending=2 equity=9885.51 closed=62
+2026-10-19T22:02:03Z,SUSDT,fill,LONG,LONG_MAJ,C,entry 0.05716 level 0.05716 bar 2026-10-19T21:00:00Z
+2026-10-19T22:02:03Z,*,scan,,,,v1.1 universe=215 regime=BTC_UP signals=0 armed=0 open=24 pending=1 equity=9885.51 closed=62
