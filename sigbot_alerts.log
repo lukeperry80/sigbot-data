@@ -2163,3 +2163,12 @@ Why     mom rank 0.98 | liq rank 64 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.05067</code>  Stop <code>0.056295668</code>  Exit <code>0.056295668</code>
 Loss  <b>-0.84R net</b> ≈ 0.11% of equity
+===== 2026-10-19 19:04:43 UTC
+<b>🟢 LONG FILLED  CRVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.3618</code>
+Stop    <code>0.33767523</code>  (6.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>512.208</code>
+Exit by <b>2026-10-25 04:00</b>
+Why     mom rank 0.80 | liq rank 54 | BTC_UP
