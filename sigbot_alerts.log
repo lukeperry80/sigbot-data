@@ -2158,3 +2158,8 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-20 14:02</b>
 Why     mom rank 0.98 | liq rank 64 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-19 18:04:37 UTC
+🛑 <b>STOPPED — PHAUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.05067</code>  Stop <code>0.056295668</code>  Exit <code>0.056295668</code>
+Loss  <b>-0.84R net</b> ≈ 0.11% of equity
