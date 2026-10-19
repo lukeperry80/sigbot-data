@@ -685,3 +685,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-19T05:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9912.35 closed=59
 2026-10-19T06:02:02Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9912.35 closed=59
 2026-10-19T07:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9912.35 closed=59
+2026-10-19T08:02:02Z,TRXUSDT,stop,LONG,LONG_MAJ,A,stop 0.33061406 exit 0.33061406 bar 2026-10-19T07:00:00Z net -1.093R
+2026-10-19T08:02:02Z,BRUSDT,stop,SHORT,XREV_SHORT,C,stop 0.501073 exit 0.501073 bar 2026-10-19T07:00:00Z net -0.874R
+2026-10-19T08:02:02Z,ETHFIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.712
+2026-10-19T08:02:02Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=1 armed=1 open=21 pending=1 equity=9895.80 closed=61
