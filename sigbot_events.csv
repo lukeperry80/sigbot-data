@@ -678,3 +678,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-19T00:02:02Z,BRUSDT,open,SHORT,XREV_SHORT,C,entry 0.46182
 2026-10-19T00:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=2 armed=2 open=24 pending=0 equity=9916.13 closed=58
 2026-10-19T01:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=24 pending=0 equity=9916.13 closed=58
+2026-10-19T02:02:02Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=24 pending=0 equity=9916.13 closed=58
