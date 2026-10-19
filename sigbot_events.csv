@@ -673,3 +673,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-18T22:02:02Z,SANDUSDT,stop,LONG,LONG_MAJ,C,stop 0.056342058 exit 0.056342058 bar 2026-10-18T21:00:00Z net -0.675R
 2026-10-18T22:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9911.90 closed=57
 2026-10-18T23:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9911.90 closed=57
+2026-10-19T00:02:02Z,DUSKUSDT,exit_due,SHORT,XREV_SHORT,C,+1.168R gross +1.157R net
+2026-10-19T00:02:02Z,APRUSDT,open,SHORT,XREV_SHORT,C,entry 0.0293
+2026-10-19T00:02:02Z,BRUSDT,open,SHORT,XREV_SHORT,C,entry 0.46182
+2026-10-19T00:02:02Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=2 armed=2 open=24 pending=0 equity=9916.13 closed=58

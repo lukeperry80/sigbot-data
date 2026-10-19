@@ -2065,3 +2065,27 @@ Loss  <b>-1.02R net</b> ≈ 0.04% of equity
 LONG_MAJ, grade C
 Entry <code>0.06148</code>  Stop <code>0.056342058</code>  Exit <code>0.056342058</code>
 Loss  <b>-0.67R net</b> ≈ 0.03% of equity
+===== 2026-10-19 00:04:28 UTC
+⏰ <b>EXIT NOW — DUSKUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.1311075</code>
+Entry <code>0.13205</code>  Mark <code>0.11663</code>
+Result <b>+1.17R gross / +1.16R net</b>
+Close this position now.
+===== 2026-10-19 00:04:30 UTC
+<b>🔴 SHORT FILLED  APRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.0293</code>
+Stop    <code>0.03223</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1269.13</code>
+Exit by <b>2026-10-20 10:00</b>
+Why     6h ret +12.7% | liq rank 114 | BTC_UP
+===== 2026-10-19 00:04:31 UTC
+<b>🔴 SHORT FILLED  BRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.46182</code>
+Stop    <code>0.508002</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>80.5194</code>
+Exit by <b>2026-10-20 10:00</b>
+Why     6h ret +6.8% | liq rank 84 | BTC_UP
