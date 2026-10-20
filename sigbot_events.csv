@@ -721,3 +721,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-20T04:02:00Z,BRUSDT,expired,LONG,LONG_MAJ,A,level 0.54544
 2026-10-20T04:02:00Z,DATAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.151
 2026-10-20T04:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=2 armed=1 open=25 pending=1 equity=9885.51 closed=62
+2026-10-20T05:02:03Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9885.51 closed=62
