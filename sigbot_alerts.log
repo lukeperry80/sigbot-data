@@ -2217,3 +2217,39 @@ Risk    0.12% of equity if stopped
 Qty     <code>609.433</code>
 Exit by <b>2026-10-30 22:00</b>
 Why     mom rank 0.11 | liq rank 170 | BTC_DOWN
+===== 2026-10-20 16:04:32 UTC
+<b>🟡 LONG SETUP  XRPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1.3211</code>  (post-only retest)
+Stop    <code>1.2774562</code>  (3.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-21 14:02</b>
+Why     mom rank 0.50 | liq rank 6 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-20 16:04:33 UTC
+<b>🟡 LONG SETUP  WLDUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.5539</code>  (post-only retest)
+Stop    <code>0.50750855</code>  (8.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-21 14:02</b>
+Why     mom rank 0.80 | liq rank 10 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-20 16:04:34 UTC
+<b>🟡 LONG SETUP  1000PEPEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.004233</code>  (post-only retest)
+Stop    <code>0.0039786031</code>  (6.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-21 14:02</b>
+Why     mom rank 0.84 | liq rank 17 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-20 16:04:35 UTC
+<b>🟡 LONG SETUP  BATUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.20733</code>  (post-only retest)
+Stop    <code>0.18229365</code>  (12.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-21 14:02</b>
+Why     mom rank 0.99 | liq rank 51 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

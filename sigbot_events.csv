@@ -738,3 +738,13 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-20T13:02:02Z,*,scan,,,,v1.1 universe=207 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9885.51 closed=62
 2026-10-20T14:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=0 armed=0 open=26 pending=0 equity=9885.51 closed=62
 2026-10-20T15:02:03Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=0 armed=0 open=26 pending=0 equity=9885.51 closed=62
+2026-10-20T16:02:03Z,XRPUSDT,setup,LONG,LONG_MAJ,A,limit level 1.3211
+2026-10-20T16:02:03Z,WLDUSDT,setup,LONG,LONG_MAJ,A,limit level 0.5539
+2026-10-20T16:02:03Z,1000PEPEUSDT,setup,LONG,LONG_MAJ,A,limit level 0.004233
+2026-10-20T16:02:03Z,BATUSDT,setup,LONG,LONG_MAJ,A,limit level 0.20733
+2026-10-20T16:02:03Z,JCTUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T16:02:03Z,VVVUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T16:02:03Z,JUPUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T16:02:03Z,JTOUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T16:02:03Z,BNBUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-20T16:02:03Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=11 armed=4 open=26 pending=4 equity=9885.51 closed=62
