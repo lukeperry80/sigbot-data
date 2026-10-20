@@ -715,3 +715,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-19T23:02:03Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=0 armed=0 open=24 pending=1 equity=9885.51 closed=62
 2026-10-20T00:02:03Z,PHAUSDT,open,SHORT,XREV_SHORT,C,entry 0.06226
 2026-10-20T00:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=2 armed=1 open=25 pending=1 equity=9885.51 closed=62
+2026-10-20T01:02:03Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9885.51 closed=62
