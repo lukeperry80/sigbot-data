@@ -2199,3 +2199,12 @@ Risk    0.04% of equity if stopped
 Qty     <code>595.417</code>
 Exit by <b>2026-10-21 10:00</b>
 Why     6h ret +7.7% | liq rank 129 | BTC_DOWN
+===== 2026-10-20 04:04:25 UTC
+<b>🟡 SHORT SETUP  DATAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.151</code>  (needs 4h close confirm)
+Stop    <code>0.16127606</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-20 22:00</b>
+Why     mom rank 0.11 | liq rank 170 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
