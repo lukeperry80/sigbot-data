@@ -2253,3 +2253,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-21 14:02</b>
 Why     mom rank 0.99 | liq rank 51 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-20 18:05:14 UTC
+<b>🟢 LONG FILLED  BATUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.20733</code>
+Stop    <code>0.18229365</code>  (12.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>493.558</code>
+Exit by <b>2026-10-26 03:00</b>
+Why     mom rank 0.99 | liq rank 51 | BTC_UP
