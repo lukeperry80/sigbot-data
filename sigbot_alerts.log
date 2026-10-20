@@ -2208,3 +2208,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-20 22:00</b>
 Why     mom rank 0.11 | liq rank 170 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-20 12:04:31 UTC
+<b>🔴 SHORT FILLED  DATAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.141</code>
+Stop    <code>0.16127606</code>  (14.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>609.433</code>
+Exit by <b>2026-10-30 22:00</b>
+Why     mom rank 0.11 | liq rank 170 | BTC_DOWN
