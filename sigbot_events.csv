@@ -754,3 +754,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-20T19:02:03Z,XRPUSDT,fill,LONG,LONG_MAJ,A,entry 1.3211 level 1.3211 bar 2026-10-20T18:00:00Z
 2026-10-20T19:02:03Z,PENGUUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.0081741764 exit 0.0081741764 bar 2026-10-20T18:00:00Z net -0.759R
 2026-10-20T19:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9876.22 closed=63
+2026-10-20T20:02:03Z,CASHCATUSDT,setup,LONG,LONG_MAJ,A,limit level 0.115
+2026-10-20T20:02:03Z,PENGUUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T20:02:03Z,LDOUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T20:02:03Z,RAYDIUMUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-20T20:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=6 armed=1 open=27 pending=3 equity=9876.22 closed=63
