@@ -2466,3 +2466,8 @@ Why     mom rank 0.30 | liq rank 3 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.00461</code>  Stop <code>0.004538769</code>  Exit <code>0.004538769</code>
 Loss  <b>+0.08R net</b> ≈ 0.01% of equity
+===== 2026-10-21 22:04:35 UTC
+🛑 <b>STOPPED — DATAUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.141</code>  Stop <code>0.16127606</code>  Exit <code>0.16127606</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity

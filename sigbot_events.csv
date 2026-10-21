@@ -867,3 +867,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T20:02:00Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=15 armed=0 open=27 pending=3 equity=9854.63 closed=69
 2026-10-21T21:02:04Z,4STOCKUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.004538769 exit 0.004538769 bar 2026-10-21T20:00:00Z net +0.076R
 2026-10-21T21:02:04Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=0 armed=0 open=26 pending=3 equity=9855.55 closed=70
+2026-10-21T22:02:04Z,DATAUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.16127606 exit 0.16127606 bar 2026-10-21T21:00:00Z net -1.012R
+2026-10-21T22:02:04Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=0 armed=0 open=25 pending=3 equity=9843.05 closed=71
