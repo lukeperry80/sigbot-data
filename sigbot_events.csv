@@ -773,3 +773,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T00:02:03Z,CVXUSDT,skip_cap,SHORT,XREV_SHORT,C,
 2026-10-21T00:02:03Z,IOSTUSDT,skip_cap,SHORT,XREV_SHORT,C,
 2026-10-21T00:02:03Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=11 armed=1 open=26 pending=4 equity=9878.60 closed=64
+2026-10-21T01:02:03Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=26 pending=4 equity=9878.60 closed=64
