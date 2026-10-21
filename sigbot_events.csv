@@ -780,3 +780,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T04:02:03Z,ASTERUSDT,skip_cap,LONG,LONG_MAJ,A,
 2026-10-21T04:02:03Z,DOODUSDT,skip_cap,LONG,LONG_MAJ,A,
 2026-10-21T04:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=3 armed=0 open=26 pending=4 equity=9878.60 closed=64
+2026-10-21T05:02:03Z,WLDUSDT,expired,LONG,LONG_MAJ,A,level 0.5539
+2026-10-21T05:02:03Z,1000PEPEUSDT,expired,LONG,LONG_MAJ,A,level 0.004233
+2026-10-21T05:02:03Z,XMRUSDT,exit_due,LONG,LONG_MAJ,A,+0.640R gross +0.581R net
+2026-10-21T05:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=0 armed=0 open=25 pending=2 equity=9885.66 closed=65
