@@ -797,3 +797,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T08:02:03Z,VIRTUALUSDT,skip_cap,LONG,LONG_MAJ,A,
 2026-10-21T08:02:03Z,BNBUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-21T08:02:03Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=9 armed=4 open=24 pending=6 equity=9873.21 closed=66
+2026-10-21T09:02:03Z,CASHCATUSDT,expired,LONG,LONG_MAJ,A,level 0.115
+2026-10-21T09:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=0 armed=0 open=24 pending=5 equity=9873.21 closed=66
