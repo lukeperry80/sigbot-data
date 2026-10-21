@@ -2285,3 +2285,18 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-21 18:02</b>
 Why     mom rank 0.30 | liq rank 60 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-21 00:04:32 UTC
+⏰ <b>EXIT NOW — PHAUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.066339</code>
+Entry <code>0.06226</code>  Mark <code>0.05803</code>
+Result <b>+0.68R gross / +0.64R net</b>
+Close this position now.
+===== 2026-10-21 00:04:34 UTC
+<b>🟡 LONG SETUP  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1234.32</code>  (post-only retest)
+Stop    <code>1136.983</code>  (7.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-21 22:02</b>
+Why     mom rank 0.60 | liq rank 4 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

@@ -762,3 +762,14 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-20T21:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=27 pending=3 equity=9876.22 closed=63
 2026-10-20T22:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=27 pending=3 equity=9876.22 closed=63
 2026-10-20T23:02:04Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=27 pending=3 equity=9876.22 closed=63
+2026-10-21T00:02:03Z,PHAUSDT,exit_due,SHORT,XREV_SHORT,C,+0.679R gross +0.640R net
+2026-10-21T00:02:03Z,ZECUSDT,setup,LONG,LONG_MAJ,A,limit level 1234.32
+2026-10-21T00:02:03Z,PUMPFUNUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T00:02:03Z,TRUTHUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T00:02:03Z,LITUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-21T00:02:03Z,LTCUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-21T00:02:03Z,AEROUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-21T00:02:03Z,CTRUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-21T00:02:03Z,CVXUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-21T00:02:03Z,IOSTUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-21T00:02:03Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=11 armed=1 open=26 pending=4 equity=9878.60 closed=64
