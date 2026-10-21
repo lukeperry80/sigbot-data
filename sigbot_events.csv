@@ -799,3 +799,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T08:02:03Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=9 armed=4 open=24 pending=6 equity=9873.21 closed=66
 2026-10-21T09:02:03Z,CASHCATUSDT,expired,LONG,LONG_MAJ,A,level 0.115
 2026-10-21T09:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=0 armed=0 open=24 pending=5 equity=9873.21 closed=66
+2026-10-21T10:02:03Z,ENAUSDT,fill,LONG,LONG_MAJ,A,entry 0.203 level 0.203 bar 2026-10-21T09:00:00Z
+2026-10-21T10:02:03Z,XLMUSDT,fill,LONG,LONG_MAJ,A,entry 0.1836 level 0.1836 bar 2026-10-21T09:00:00Z
+2026-10-21T10:02:03Z,WUSDT,fill,LONG,LONG_MAJ,A,entry 0.0141 level 0.0141 bar 2026-10-21T09:00:00Z
+2026-10-21T10:02:03Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9873.21 closed=66

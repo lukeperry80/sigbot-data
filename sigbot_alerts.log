@@ -2347,3 +2347,30 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-22 06:02</b>
 Why     mom rank 0.67 | liq rank 60 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-21 10:04:38 UTC
+<b>🟢 LONG FILLED  ENAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.203</code>
+Stop    <code>0.18776174</code>  (7.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>809.903</code>
+Exit by <b>2026-10-26 19:00</b>
+Why     mom rank 0.23 | liq rank 9 | BTC_UP
+===== 2026-10-21 10:04:39 UTC
+<b>🟢 LONG FILLED  XLMUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.1836</code>
+Stop    <code>0.17719468</code>  (3.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1926.76</code>
+Exit by <b>2026-10-26 19:00</b>
+Why     mom rank 0.31 | liq rank 58 | BTC_UP
+===== 2026-10-21 10:04:40 UTC
+<b>🟢 LONG FILLED  WUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.0141</code>
+Stop    <code>0.012890979</code>  (8.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>10207.8</code>
+Exit by <b>2026-10-26 19:00</b>
+Why     mom rank 0.67 | liq rank 60 | BTC_UP
