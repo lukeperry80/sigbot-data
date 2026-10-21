@@ -776,3 +776,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T01:02:03Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=26 pending=4 equity=9878.60 closed=64
 2026-10-21T02:02:02Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=26 pending=4 equity=9878.60 closed=64
 2026-10-21T03:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=26 pending=4 equity=9878.60 closed=64
+2026-10-21T04:02:03Z,TRUTHUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T04:02:03Z,ASTERUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T04:02:03Z,DOODUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T04:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=3 armed=0 open=26 pending=4 equity=9878.60 closed=64
