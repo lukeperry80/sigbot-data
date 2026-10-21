@@ -805,3 +805,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T10:02:03Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9873.21 closed=66
 2026-10-21T11:02:00Z,NEARUSDT,fill,LONG,LONG_MAJ,A,entry 5.133 level 5.133 bar 2026-10-21T10:00:00Z
 2026-10-21T11:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=0 armed=0 open=28 pending=1 equity=9873.21 closed=66
+2026-10-21T12:02:03Z,BTCUSDT,setup,LONG,LONG_MAJ,A,limit level 83429.2
+2026-10-21T12:02:03Z,DOODUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T12:02:03Z,IOSTUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T12:02:03Z,MNTUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T12:02:03Z,VIRTUALUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T12:02:03Z,DASHUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T12:02:03Z,XPLUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-21T12:02:03Z,TRUMPUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-21T12:02:03Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=11 armed=1 open=28 pending=2 equity=9873.21 closed=66
