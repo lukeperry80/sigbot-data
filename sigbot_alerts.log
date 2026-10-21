@@ -2306,3 +2306,8 @@ LONG_MAJ, grade A  |  stop was <code>536.97021</code>
 Entry <code>560</code>  Mark <code>574.73</code>
 Result <b>+0.64R gross / +0.58R net</b>
 Close this position now.
+===== 2026-10-21 07:04:30 UTC
+🛑 <b>STOPPED — BATUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.20733</code>  Stop <code>0.18229365</code>  Exit <code>0.18229365</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity

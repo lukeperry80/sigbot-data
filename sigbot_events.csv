@@ -785,3 +785,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T05:02:03Z,XMRUSDT,exit_due,LONG,LONG_MAJ,A,+0.640R gross +0.581R net
 2026-10-21T05:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=0 armed=0 open=25 pending=2 equity=9885.66 closed=65
 2026-10-21T06:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=25 pending=2 equity=9885.66 closed=65
+2026-10-21T07:02:01Z,BATUSDT,stop,LONG,LONG_MAJ,A,stop 0.18229365 exit 0.18229365 bar 2026-10-21T06:00:00Z net -1.008R
+2026-10-21T07:02:01Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9873.21 closed=66
