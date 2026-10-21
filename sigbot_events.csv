@@ -818,3 +818,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T13:02:02Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=28 pending=1 equity=9873.21 closed=66
 2026-10-21T14:02:03Z,BTCUSDT,fill,LONG,LONG_MAJ,A,entry 83429.2 level 83429.2 bar 2026-10-21T13:00:00Z
 2026-10-21T14:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=29 pending=0 equity=9873.21 closed=66
+2026-10-21T15:02:03Z,REDUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.14949329 exit 0.14949329 bar 2026-10-21T14:00:00Z net -1.014R
+2026-10-21T15:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=28 pending=0 equity=9860.86 closed=67

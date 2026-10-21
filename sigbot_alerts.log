@@ -2401,3 +2401,8 @@ Risk    0.12% of equity if stopped
 Qty     <code>0.00785653</code>
 Exit by <b>2026-10-26 23:00</b>
 Why     mom rank 0.63 | liq rank 1 | BTC_UP
+===== 2026-10-21 15:04:36 UTC
+🛑 <b>STOPPED — REDUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.13724</code>  Stop <code>0.14949329</code>  Exit <code>0.14949329</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
