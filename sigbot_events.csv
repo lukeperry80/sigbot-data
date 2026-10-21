@@ -816,3 +816,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T12:02:03Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=11 armed=1 open=28 pending=2 equity=9873.21 closed=66
 2026-10-21T13:02:02Z,ZECUSDT,expired,LONG,LONG_MAJ,A,level 1234.32
 2026-10-21T13:02:02Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=28 pending=1 equity=9873.21 closed=66
+2026-10-21T14:02:03Z,BTCUSDT,fill,LONG,LONG_MAJ,A,entry 83429.2 level 83429.2 bar 2026-10-21T13:00:00Z
+2026-10-21T14:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=29 pending=0 equity=9873.21 closed=66
