@@ -2471,3 +2471,12 @@ Loss  <b>+0.08R net</b> ≈ 0.01% of equity
 SHORT_TAIL, grade A
 Entry <code>0.141</code>  Stop <code>0.16127606</code>  Exit <code>0.16127606</code>
 Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-10-21 23:05:36 UTC
+<b>🟢 LONG FILLED  DOGEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.08229</code>
+Stop    <code>0.079522828</code>  (3.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4446.35</code>
+Exit by <b>2026-10-27 08:00</b>
+Why     mom rank 0.36 | liq rank 12 | BTC_UP
