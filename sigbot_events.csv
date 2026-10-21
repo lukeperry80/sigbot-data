@@ -814,3 +814,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T12:02:03Z,XPLUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-21T12:02:03Z,TRUMPUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-21T12:02:03Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=11 armed=1 open=28 pending=2 equity=9873.21 closed=66
+2026-10-21T13:02:02Z,ZECUSDT,expired,LONG,LONG_MAJ,A,level 1234.32
+2026-10-21T13:02:02Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=28 pending=1 equity=9873.21 closed=66
