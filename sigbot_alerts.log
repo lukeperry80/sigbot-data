@@ -2311,3 +2311,39 @@ Close this position now.
 LONG_MAJ, grade A
 Entry <code>0.20733</code>  Stop <code>0.18229365</code>  Exit <code>0.18229365</code>
 Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-10-21 08:04:32 UTC
+<b>🟡 LONG SETUP  NEARUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>5.133</code>  (post-only retest)
+Stop    <code>4.724132</code>  (8.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-22 06:02</b>
+Why     mom rank 0.70 | liq rank 5 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-21 08:04:33 UTC
+<b>🟡 LONG SETUP  ENAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.203</code>  (post-only retest)
+Stop    <code>0.18776174</code>  (7.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-22 06:02</b>
+Why     mom rank 0.23 | liq rank 9 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-21 08:04:34 UTC
+<b>🟡 LONG SETUP  XLMUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.1836</code>  (post-only retest)
+Stop    <code>0.17719468</code>  (3.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-22 06:02</b>
+Why     mom rank 0.31 | liq rank 58 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-21 08:04:35 UTC
+<b>🟡 LONG SETUP  WUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.0141</code>  (post-only retest)
+Stop    <code>0.012890979</code>  (8.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-22 06:02</b>
+Why     mom rank 0.67 | liq rank 60 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

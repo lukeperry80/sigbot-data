@@ -787,3 +787,13 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T06:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=25 pending=2 equity=9885.66 closed=65
 2026-10-21T07:02:01Z,BATUSDT,stop,LONG,LONG_MAJ,A,stop 0.18229365 exit 0.18229365 bar 2026-10-21T06:00:00Z net -1.008R
 2026-10-21T07:02:01Z,*,scan,,,,v1.1 universe=212 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9873.21 closed=66
+2026-10-21T08:02:03Z,NEARUSDT,setup,LONG,LONG_MAJ,A,limit level 5.133
+2026-10-21T08:02:03Z,ENAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.203
+2026-10-21T08:02:03Z,XLMUSDT,setup,LONG,LONG_MAJ,A,limit level 0.1836
+2026-10-21T08:02:03Z,WUSDT,setup,LONG,LONG_MAJ,A,limit level 0.0141
+2026-10-21T08:02:03Z,ASTERUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T08:02:03Z,GRASSUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T08:02:03Z,IOSTUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T08:02:03Z,VIRTUALUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-21T08:02:03Z,BNBUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-21T08:02:03Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=9 armed=4 open=24 pending=6 equity=9873.21 closed=66
