@@ -784,3 +784,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T05:02:03Z,1000PEPEUSDT,expired,LONG,LONG_MAJ,A,level 0.004233
 2026-10-21T05:02:03Z,XMRUSDT,exit_due,LONG,LONG_MAJ,A,+0.640R gross +0.581R net
 2026-10-21T05:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=0 armed=0 open=25 pending=2 equity=9885.66 closed=65
+2026-10-21T06:02:03Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=25 pending=2 equity=9885.66 closed=65
