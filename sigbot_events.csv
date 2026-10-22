@@ -893,3 +893,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T09:02:04Z,XLMUSDT,stop,LONG,LONG_MAJ,A,stop 0.17719468 exit 0.17719468 bar 2026-10-22T08:00:00Z net -1.032R
 2026-10-22T09:02:04Z,BTCUSDT,stop,LONG,LONG_MAJ,A,stop 81858.34 exit 81858.34 bar 2026-10-22T08:00:00Z net -1.058R
 2026-10-22T09:02:04Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9782.60 closed=77
+2026-10-22T10:02:04Z,ETHUSDT,stop,LONG,LONG_MAJ,A,stop 2401.8755 exit 2401.8755 bar 2026-10-22T09:00:00Z net -1.031R
+2026-10-22T10:02:04Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9769.91 closed=78
