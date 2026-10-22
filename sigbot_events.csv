@@ -883,3 +883,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T03:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=29 pending=0 equity=9836.28 closed=72
 2026-10-22T04:02:04Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=0 armed=0 open=29 pending=0 equity=9836.28 closed=72
 2026-10-22T05:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=29 pending=0 equity=9836.28 closed=72
+2026-10-22T06:02:04Z,DOGEUSDT,stop,LONG,LONG_MAJ,A,stop 0.079522828 exit 0.079522828 bar 2026-10-22T05:00:00Z net -1.027R
+2026-10-22T06:02:04Z,PTBUSDT,stop,SHORT,XREV_SHORT,C,stop 0.00069336 exit 0.00069336 bar 2026-10-22T05:00:00Z net -0.702R
+2026-10-22T06:02:04Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=27 pending=0 equity=9821.05 closed=74
