@@ -890,3 +890,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T07:02:04Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=0 armed=0 open=26 pending=0 equity=9808.39 closed=75
 2026-10-22T08:02:04Z,NMRUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 10.696
 2026-10-22T08:02:04Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=2 armed=1 open=26 pending=1 equity=9808.39 closed=75
+2026-10-22T09:02:04Z,XLMUSDT,stop,LONG,LONG_MAJ,A,stop 0.17719468 exit 0.17719468 bar 2026-10-22T08:00:00Z net -1.032R
+2026-10-22T09:02:04Z,BTCUSDT,stop,LONG,LONG_MAJ,A,stop 81858.34 exit 81858.34 bar 2026-10-22T08:00:00Z net -1.058R
+2026-10-22T09:02:04Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9782.60 closed=77
