@@ -915,3 +915,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T20:02:05Z,PONSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.2524
 2026-10-22T20:02:05Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=3 armed=3 open=21 pending=5 equity=9741.11 closed=81
 2026-10-22T21:02:04Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=21 pending=5 equity=9741.11 closed=81
+2026-10-22T22:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=21 pending=5 equity=9741.11 closed=81
