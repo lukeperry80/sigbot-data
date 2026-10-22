@@ -2592,3 +2592,13 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-23 10:00</b>
 Why     mom rank 0.11 | liq rank 195 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-22 17:04:38 UTC
+🛑 <b>STOPPED — SUSDT LONG</b>
+LONG_MAJ, grade C
+Entry <code>0.05716</code>  Stop <code>0.051800273</code>  Exit <code>0.051800273</code>
+Loss  <b>-1.01R net</b> ≈ 0.04% of equity
+===== 2026-10-22 17:04:39 UTC
+🛑 <b>STOPPED — ZECUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>1296.39</code>  Stop <code>1200.7922</code>  Exit <code>1200.7922</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity

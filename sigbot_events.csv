@@ -905,3 +905,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T16:02:05Z,RLCUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.6694
 2026-10-22T16:02:05Z,ACEUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.14467
 2026-10-22T16:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=4 armed=2 open=23 pending=2 equity=9757.32 closed=79
+2026-10-22T17:02:05Z,SUSDT,stop,LONG,LONG_MAJ,C,stop 0.051800273 exit 0.051800273 bar 2026-10-22T16:00:00Z net -1.008R
+2026-10-22T17:02:05Z,ZECUSDT,stop,LONG,LONG_MAJ,A,stop 1200.7922 exit 1200.7922 bar 2026-10-22T16:00:00Z net -1.014R
+2026-10-22T17:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9741.11 closed=81
