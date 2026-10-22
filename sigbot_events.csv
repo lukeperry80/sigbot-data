@@ -871,3 +871,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-21T22:02:04Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=0 armed=0 open=25 pending=3 equity=9843.05 closed=71
 2026-10-21T23:02:01Z,DOGEUSDT,fill,LONG,LONG_MAJ,A,entry 0.08229 level 0.08229 bar 2026-10-21T22:00:00Z
 2026-10-21T23:02:01Z,*,scan,,,,v1.1 universe=214 regime=BTC_UP signals=0 armed=0 open=26 pending=2 equity=9843.05 closed=71
+2026-10-22T00:02:00Z,ETHUSDT,fill,LONG,LONG_MAJ,A,entry 2477.44 level 2477.44 bar 2026-10-21T23:00:00Z
+2026-10-22T00:02:00Z,PTBUSDT,open,SHORT,XREV_SHORT,C,entry 0.0006484
+2026-10-22T00:02:00Z,BILLUSDT,open,SHORT,XREV_SHORT,C,entry 0.0071
+2026-10-22T00:02:00Z,ARIAUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-22T00:02:00Z,*,scan,,,,v1.1 universe=215 regime=BTC_UP signals=4 armed=2 open=29 pending=1 equity=9843.05 closed=71
