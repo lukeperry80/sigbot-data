@@ -901,3 +901,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T13:02:01Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9757.32 closed=79
 2026-10-22T14:02:04Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9757.32 closed=79
 2026-10-22T15:02:04Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9757.32 closed=79
+2026-10-22T16:02:05Z,NMRUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 10.61
+2026-10-22T16:02:05Z,RLCUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.6694
+2026-10-22T16:02:05Z,ACEUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.14467
+2026-10-22T16:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=4 armed=2 open=23 pending=2 equity=9757.32 closed=79
