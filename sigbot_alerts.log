@@ -2771,3 +2771,36 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-24 06:00</b>
 Why     mom rank 0.16 | liq rank 75 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 16:04:34 UTC
+⏰ <b>EXIT NOW — BLURUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.012510447</code>
+Entry <code>0.011627</code>  Mark <code>0.008753</code>
+Result <b>+1.08R gross / +0.68R net</b>
+Close this position now.
+===== 2026-10-23 16:04:36 UTC
+<b>🟡 LONG SETUP  IRYSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.043612</code>  (post-only retest)
+Stop    <code>0.031488009</code>  (27.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-24 14:02</b>
+Why     mom rank 1.00 | liq rank 20 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 16:04:37 UTC
+<b>🟡 LONG SETUP  BIRBUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.07629</code>  (post-only retest)
+Stop    <code>0.061457658</code>  (19.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-24 14:02</b>
+Why     mom rank 0.97 | liq rank 59 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 16:04:38 UTC
+<b>🟡 LONG SETUP  JCTUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.005219</code>  (post-only retest)
+Stop    <code>0.0040447106</code>  (22.5% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-10-24 14:02</b>
+Why     mom rank 0.99 | liq rank 24 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
