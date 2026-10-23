@@ -962,3 +962,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T16:02:05Z,BIRBUSDT,setup,LONG,LONG_MAJ,A,limit level 0.07629
 2026-10-23T16:02:05Z,JCTUSDT,setup,LONG,LONG_MAJ,C,limit level 0.005219
 2026-10-23T16:02:05Z,*,scan,,,,v1.1 universe=205 regime=BTC_UP signals=3 armed=3 open=12 pending=4 equity=9858.12 closed=94
+2026-10-23T17:02:05Z,BTRUSDT,stop,SHORT,XREV_SHORT,C,stop 0.0656005 exit 0.0656005 bar 2026-10-23T16:00:00Z net +0.089R
+2026-10-23T17:02:05Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=0 armed=0 open=11 pending=4 equity=9858.45 closed=95
