@@ -917,3 +917,19 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-22T21:02:04Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=21 pending=5 equity=9741.11 closed=81
 2026-10-22T22:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=21 pending=5 equity=9741.11 closed=81
 2026-10-22T23:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=21 pending=5 equity=9741.11 closed=81
+2026-10-23T00:02:05Z,RLCUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.6522
+2026-10-23T00:02:05Z,ACEUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.1439
+2026-10-23T00:02:05Z,MARSCOINUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.426R gross +0.433R net
+2026-10-23T00:02:05Z,EGLDUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.423R gross +0.416R net
+2026-10-23T00:02:05Z,FLOCKUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.758R gross +0.765R net
+2026-10-23T00:02:05Z,SAGAUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.612R gross +0.626R net
+2026-10-23T00:02:05Z,BICOUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.855R gross +0.859R net
+2026-10-23T00:02:05Z,PIEVERSEUSDT,exit_due,SHORT,SHORT_TAIL,A,+2.288R gross +2.310R net
+2026-10-23T00:02:05Z,GRAMUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.457R gross +0.470R net
+2026-10-23T00:02:05Z,BILLUSDT,exit_due,SHORT,XREV_SHORT,C,+1.239R gross +1.226R net
+2026-10-23T00:02:05Z,STXUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3243
+2026-10-23T00:02:05Z,EPICUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1336
+2026-10-23T00:02:05Z,PTBUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.000455
+2026-10-23T00:02:05Z,BTRUSDT,open,SHORT,XREV_SHORT,C,entry 0.06627
+2026-10-23T00:02:05Z,DASHUSDT,open,SHORT,XREV_SHORT,C,entry 53.07
+2026-10-23T00:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=7 armed=5 open=17 pending=6 equity=9817.60 closed=89

@@ -2629,3 +2629,114 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-23 14:00</b>
 Why     mom rank 0.07 | liq rank 60 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 00:05:14 UTC
+<b>🔴 SHORT FILLED  RLCUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.6522</code>
+Stop    <code>0.72336766</code>  (10.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>171.094</code>
+Exit by <b>2026-11-02 10:00</b>
+Why     mom rank 0.20 | liq rank 130 | BTC_DOWN
+===== 2026-10-23 00:05:15 UTC
+<b>🔴 SHORT FILLED  ACEUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.1439</code>
+Stop    <code>0.15527089</code>  (7.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1070.84</code>
+Exit by <b>2026-11-02 10:00</b>
+Why     mom rank 0.11 | liq rank 195 | BTC_DOWN
+===== 2026-10-23 00:05:16 UTC
+⏰ <b>EXIT NOW — MARSCOINUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.09577577</code>
+Entry <code>0.08072</code>  Mark <code>0.07354</code>
+Result <b>+0.43R gross / +0.43R net</b>
+Close this position now.
+===== 2026-10-23 00:05:18 UTC
+⏰ <b>EXIT NOW — EGLDUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>3.8928459</code>
+Entry <code>3.69</code>  Mark <code>3.542</code>
+Result <b>+0.42R gross / +0.42R net</b>
+Close this position now.
+===== 2026-10-23 00:05:19 UTC
+⏰ <b>EXIT NOW — FLOCKUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.051840196</code>
+Entry <code>0.04917</code>  Mark <code>0.04396</code>
+Result <b>+0.76R gross / +0.77R net</b>
+Close this position now.
+===== 2026-10-23 00:05:20 UTC
+⏰ <b>EXIT NOW — SAGAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.021066861</code>
+Entry <code>0.020486</code>  Mark <code>0.019117</code>
+Result <b>+0.61R gross / +0.63R net</b>
+Close this position now.
+===== 2026-10-23 00:05:22 UTC
+⏰ <b>EXIT NOW — BICOUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.018143967</code>
+Entry <code>0.017422</code>  Mark <code>0.015893</code>
+Result <b>+0.85R gross / +0.86R net</b>
+Close this position now.
+===== 2026-10-23 00:05:23 UTC
+⏰ <b>EXIT NOW — PIEVERSEUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>1.1504308</code>
+Entry <code>1.2331</code>  Mark <code>1.0195</code>
+Result <b>+2.29R gross / +2.31R net</b>
+Close this position now.
+===== 2026-10-23 00:05:24 UTC
+⏰ <b>EXIT NOW — GRAMUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>1.4421239</code>
+Entry <code>1.358</code>  Mark <code>1.315</code>
+Result <b>+0.46R gross / +0.47R net</b>
+Close this position now.
+===== 2026-10-23 00:05:26 UTC
+⏰ <b>EXIT NOW — BILLUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.006955</code>
+Entry <code>0.0071</code>  Mark <code>0.00622</code>
+Result <b>+1.24R gross / +1.23R net</b>
+Close this position now.
+===== 2026-10-23 00:05:27 UTC
+<b>🟡 SHORT SETUP  STXUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.3243</code>  (needs 4h close confirm)
+Stop    <code>0.35005465</code>  (7.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-23 18:00</b>
+Why     mom rank 0.19 | liq rank 74 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 00:05:28 UTC
+<b>🟡 SHORT SETUP  EPICUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1336</code>  (needs 4h close confirm)
+Stop    <code>0.17438091</code>  (30.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-23 18:00</b>
+Why     mom rank 0.00 | liq rank 81 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 00:05:29 UTC
+<b>🟡 SHORT SETUP  PTBUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.000455</code>  (needs 4h close confirm)
+Stop    <code>0.00066445191</code>  (46.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-23 18:00</b>
+Why     mom rank 0.03 | liq rank 89 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-23 00:05:30 UTC
+<b>🔴 SHORT FILLED  BTRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.06627</code>
+Stop    <code>0.072897</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>555.545</code>
+Exit by <b>2026-10-24 10:00</b>
+Why     6h ret +12.0% | liq rank 111 | BTC_DOWN
+===== 2026-10-23 00:05:31 UTC
+<b>🔴 SHORT FILLED  DASHUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>53.07</code>
+Stop    <code>58.377</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>0.693725</code>
+Exit by <b>2026-10-24 10:00</b>
+Why     6h ret +4.5% | liq rank 76 | BTC_DOWN
