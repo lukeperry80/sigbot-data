@@ -2745,3 +2745,15 @@ Why     6h ret +4.5% | liq rank 76 | BTC_DOWN
 SHORT_TAIL, grade A
 Entry <code>0.18762</code>  Stop <code>0.19505293</code>  Exit <code>0.19505293</code>
 Loss  <b>-0.37R net</b> ≈ 0.05% of equity
+===== 2026-10-23 08:04:37 UTC
+⏰ <b>EXIT NOW — BOMEUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.00076831852</code>
+Entry <code>0.0007976</code>  Mark <code>0.000634</code>
+Result <b>+1.33R gross / +1.33R net</b>
+Close this position now.
+===== 2026-10-23 08:04:38 UTC
+⏰ <b>EXIT NOW — RVNUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.0016503838</code>
+Entry <code>0.001608</code>  Mark <code>0.001433</code>
+Result <b>+0.87R gross / +0.88R net</b>
+Close this position now.

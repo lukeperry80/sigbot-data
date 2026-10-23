@@ -944,3 +944,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T06:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=17 pending=3 equity=9817.60 closed=89
 2026-10-23T07:02:02Z,ARKUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.19505293 exit 0.19505293 bar 2026-10-23T06:00:00Z net -0.374R
 2026-10-23T07:02:02Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=16 pending=3 equity=9813.03 closed=90
+2026-10-23T08:02:05Z,STXUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.3258 >= level 0.3243
+2026-10-23T08:02:05Z,BOMEUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.333R gross +1.329R net
+2026-10-23T08:02:05Z,RVNUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.871R gross +0.884R net
+2026-10-23T08:02:05Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=14 pending=0 equity=9840.04 closed=92
