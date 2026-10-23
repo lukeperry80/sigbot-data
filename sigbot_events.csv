@@ -980,3 +980,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T20:02:00Z,APRUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.025
 2026-10-23T20:02:00Z,EPICUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.125
 2026-10-23T20:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=9 armed=8 open=12 pending=9 equity=9842.26 closed=97
+2026-10-23T21:02:05Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=0 armed=0 open=12 pending=9 equity=9842.26 closed=97
