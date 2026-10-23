@@ -983,3 +983,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T21:02:05Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=0 armed=0 open=12 pending=9 equity=9842.26 closed=97
 2026-10-23T22:02:00Z,WUSDT,stop,LONG,LONG_MAJ,A,stop 0.012890979 exit 0.012890979 bar 2026-10-23T21:00:00Z net -0.955R
 2026-10-23T22:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=11 pending=9 equity=9830.48 closed=98
+2026-10-23T23:02:03Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=11 pending=9 equity=9830.48 closed=98
