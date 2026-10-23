@@ -18,7 +18,7 @@
    "qty": 30475.919588119847,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "ARCUSDT": {
    "symbol": "ARCUSDT",
@@ -36,7 +36,7 @@
    "qty": 2123.710892948064,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "CRVUSDT": {
    "symbol": "CRVUSDT",
@@ -54,7 +54,7 @@
    "qty": 512.2078138678805,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "XRPUSDT": {
    "symbol": "XRPUSDT",
@@ -72,7 +72,7 @@
    "qty": 283.13036383543084,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "ENAUSDT": {
    "symbol": "ENAUSDT",
@@ -90,7 +90,7 @@
    "qty": 809.9030124370264,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "WUSDT": {
    "symbol": "WUSDT",
@@ -108,7 +108,7 @@
    "qty": 10207.849697851703,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "NEARUSDT": {
    "symbol": "NEARUSDT",
@@ -126,7 +126,7 @@
    "qty": 30.18458013361594,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "NMRUSDT": {
    "symbol": "NMRUSDT",
@@ -144,7 +144,7 @@
    "qty": 17.86021140092454,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "RLCUSDT": {
    "symbol": "RLCUSDT",
@@ -162,7 +162,7 @@
    "qty": 171.09442244068606,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "ACEUSDT": {
    "symbol": "ACEUSDT",
@@ -180,7 +180,7 @@
    "qty": 1070.8388366496229,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   },
   "DASHUSDT": {
    "symbol": "DASHUSDT",
@@ -198,7 +198,7 @@
    "qty": 0.6937251276323512,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1792774800000
+   "last_bar_ts": 1792778400000
   }
  },
  "pending": {
@@ -250,7 +250,7 @@
  },
  "last_4h": 1792771200000,
  "last_day": 1792713600000,
- "last_run_ms": 1792778520727,
+ "last_run_ms": 1792782121133,
  "closed": [
   {
    "symbol": "MAGICUSDT",
