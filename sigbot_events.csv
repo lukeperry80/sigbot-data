@@ -949,3 +949,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T08:02:05Z,RVNUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.871R gross +0.884R net
 2026-10-23T08:02:05Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=14 pending=0 equity=9840.04 closed=92
 2026-10-23T09:02:02Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=14 pending=0 equity=9840.04 closed=92
+2026-10-23T10:02:05Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=14 pending=0 equity=9840.04 closed=92
