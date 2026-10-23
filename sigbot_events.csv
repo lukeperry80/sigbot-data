@@ -940,3 +940,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T04:02:01Z,LONGXIAUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.0208 >= level 0.01921
 2026-10-23T04:02:01Z,PONSUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.2587 >= level 0.2524
 2026-10-23T04:02:01Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=1 armed=0 open=17 pending=3 equity=9817.60 closed=89
+2026-10-23T05:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=17 pending=3 equity=9817.60 closed=89
