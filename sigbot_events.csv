@@ -942,3 +942,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T04:02:01Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=1 armed=0 open=17 pending=3 equity=9817.60 closed=89
 2026-10-23T05:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=17 pending=3 equity=9817.60 closed=89
 2026-10-23T06:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=17 pending=3 equity=9817.60 closed=89
+2026-10-23T07:02:02Z,ARKUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.19505293 exit 0.19505293 bar 2026-10-23T06:00:00Z net -0.374R
+2026-10-23T07:02:02Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=16 pending=3 equity=9813.03 closed=90
