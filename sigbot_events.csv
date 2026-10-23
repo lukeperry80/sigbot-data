@@ -934,3 +934,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T00:02:05Z,DASHUSDT,open,SHORT,XREV_SHORT,C,entry 53.07
 2026-10-23T00:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=7 armed=5 open=17 pending=6 equity=9817.60 closed=89
 2026-10-23T01:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=17 pending=6 equity=9817.60 closed=89
+2026-10-23T02:02:05Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=17 pending=6 equity=9817.60 closed=89
