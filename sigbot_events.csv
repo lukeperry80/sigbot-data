@@ -1057,3 +1057,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T16:02:05Z,SEIUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-24T16:02:05Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=27 armed=0 open=21 pending=2 equity=9834.16 closed=104
 2026-10-24T17:02:06Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9834.16 closed=104
+2026-10-24T18:02:01Z,CRVUSDT,exit_due,LONG,LONG_MAJ,A,-0.593R gross -0.617R net
+2026-10-24T18:02:01Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9826.54 closed=105
