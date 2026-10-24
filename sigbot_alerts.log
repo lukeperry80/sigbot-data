@@ -3178,3 +3178,14 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-25 06:00</b>
 Why     mom rank 0.04 | liq rank 155 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-24 14:04:34 UTC
+⏰ <b>EXIT NOW — ARCUSDT LONG</b>
+LONG_MAJ, grade A  |  stop was <code>0.038415407</code>
+Entry <code>0.04424</code>  Mark <code>0.06137</code>
+Result <b>+2.94R gross / +2.90R net</b>
+Close this position now.
+===== 2026-10-24 14:04:35 UTC
+🛑 <b>STOPPED — ENAUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.203</code>  Stop <code>0.18776174</code>  Exit <code>0.18776174</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
