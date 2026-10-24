@@ -3001,3 +3001,57 @@ Risk    0.04% of equity if stopped
 Qty     <code>602.802</code>
 Exit by <b>2026-10-25 10:00</b>
 Why     6h ret +4.3% | liq rank 203 | BTC_DOWN
+===== 2026-10-24 04:04:36 UTC
+<b>🔴 SHORT FILLED  MARSCOINUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.06962</code>
+Stop    <code>0.078323988</code>  (12.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1411.9</code>
+Exit by <b>2026-11-03 14:00</b>
+Why     mom rank 0.15 | liq rank 126 | BTC_DOWN
+===== 2026-10-24 04:04:37 UTC
+<b>🔴 SHORT FILLED  BLURUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.008143</code>
+Stop    <code>0.009125152</code>  (12.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>12512.4</code>
+Exit by <b>2026-11-03 14:00</b>
+Why     mom rank 0.03 | liq rank 155 | BTC_DOWN
+===== 2026-10-24 04:04:38 UTC
+<b>🔴 SHORT FILLED  SYRUPUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.18137</code>
+Stop    <code>0.20075459</code>  (10.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>633.964</code>
+Exit by <b>2026-11-03 14:00</b>
+Why     mom rank 0.17 | liq rank 208 | BTC_DOWN
+===== 2026-10-24 04:04:40 UTC
+<b>🟡 SHORT SETUP  SOPHUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.001523</code>  (needs 4h close confirm)
+Stop    <code>0.0018402093</code>  (20.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-24 22:00</b>
+Why     mom rank 0.02 | liq rank 121 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-24 04:04:41 UTC
+<b>🟡 SHORT SETUP  OGNUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.028074</code>  (needs 4h close confirm)
+Stop    <code>0.029969733</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-24 22:00</b>
+Why     mom rank 0.14 | liq rank 173 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-24 04:04:42 UTC
+<b>🟡 SHORT SETUP  ENSOUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.6376</code>  (needs 4h close confirm)
+Stop    <code>0.68346023</code>  (7.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-24 22:00</b>
+Why     mom rank 0.06 | liq rank 203 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
