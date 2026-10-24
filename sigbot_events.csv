@@ -1025,3 +1025,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T08:02:00Z,LSKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.17562
 2026-10-24T08:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=7 armed=4 open=19 pending=7 equity=9823.82 closed=101
 2026-10-24T09:02:00Z,*,scan,,,,v1.1 universe=215 regime=BTC_DOWN signals=0 armed=0 open=19 pending=7 equity=9823.82 closed=101
+2026-10-24T10:02:05Z,XRPUSDT,stop,LONG,LONG_MAJ,A,stop 1.2774562 exit 1.2774562 bar 2026-10-24T09:00:00Z net -1.048R
+2026-10-24T10:02:05Z,*,scan,,,,v1.1 universe=217 regime=BTC_DOWN signals=0 armed=0 open=18 pending=7 equity=9810.87 closed=102
