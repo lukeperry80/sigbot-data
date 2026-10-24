@@ -1028,3 +1028,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T10:02:05Z,XRPUSDT,stop,LONG,LONG_MAJ,A,stop 1.2774562 exit 1.2774562 bar 2026-10-24T09:00:00Z net -1.048R
 2026-10-24T10:02:05Z,*,scan,,,,v1.1 universe=217 regime=BTC_DOWN signals=0 armed=0 open=18 pending=7 equity=9810.87 closed=102
 2026-10-24T11:02:05Z,*,scan,,,,v1.1 universe=217 regime=BTC_DOWN signals=0 armed=0 open=18 pending=7 equity=9810.87 closed=102
+2026-10-24T12:02:05Z,SOPHUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.00157 >= level 0.001523
+2026-10-24T12:02:05Z,OGNUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.028034
+2026-10-24T12:02:05Z,ENSOUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.6638 >= level 0.6376
+2026-10-24T12:02:05Z,USUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.00525
+2026-10-24T12:02:05Z,MOVRUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 1.1293
+2026-10-24T12:02:05Z,NIGHTUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-24T12:02:05Z,WUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-24T12:02:05Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=14 armed=2 open=19 pending=6 equity=9810.87 closed=102

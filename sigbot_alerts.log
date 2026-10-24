@@ -3151,3 +3151,30 @@ Why     mom rank 0.13 | liq rank 93 | BTC_DOWN
 LONG_MAJ, grade A
 Entry <code>1.3211</code>  Stop <code>1.2774562</code>  Exit <code>1.2774562</code>
 Loss  <b>-1.05R net</b> ≈ 0.13% of equity
+===== 2026-10-24 12:04:32 UTC
+<b>🔴 SHORT FILLED  OGNUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.028034</code>
+Stop    <code>0.029969733</code>  (6.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>6335.37</code>
+Exit by <b>2026-11-03 22:00</b>
+Why     mom rank 0.14 | liq rank 173 | BTC_DOWN
+===== 2026-10-24 12:04:34 UTC
+<b>🟡 SHORT SETUP  USUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.00525</code>  (needs 4h close confirm)
+Stop    <code>0.0059224804</code>  (12.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-25 06:00</b>
+Why     mom rank 0.00 | liq rank 103 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-24 12:04:35 UTC
+<b>🟡 SHORT SETUP  MOVRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>1.1293</code>  (needs 4h close confirm)
+Stop    <code>1.2131187</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-25 06:00</b>
+Why     mom rank 0.04 | liq rank 155 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
