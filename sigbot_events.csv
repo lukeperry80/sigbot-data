@@ -1010,3 +1010,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T04:02:01Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=3 armed=3 open=16 pending=9 equity=9831.30 closed=99
 2026-10-24T05:02:05Z,IRYSUSDT,expired,LONG,LONG_MAJ,A,level 0.043612
 2026-10-24T05:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=16 pending=8 equity=9831.30 closed=99
+2026-10-24T06:02:05Z,LAUSDT,stop,SHORT,XREV_SHORT,C,stop 0.067276 exit 0.067276 bar 2026-10-24T05:00:00Z net -1.015R
+2026-10-24T06:02:05Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=15 pending=8 equity=9827.56 closed=100
