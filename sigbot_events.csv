@@ -1040,3 +1040,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T14:02:03Z,ARCUSDT,exit_due,LONG,LONG_MAJ,A,+2.941R gross +2.899R net
 2026-10-24T14:02:03Z,ENAUSDT,stop,LONG,LONG_MAJ,A,stop 0.18776174 exit 0.18776174 bar 2026-10-24T13:00:00Z net -1.018R
 2026-10-24T14:02:03Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=17 pending=6 equity=9834.16 closed=104
+2026-10-24T15:02:05Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=17 pending=6 equity=9834.16 closed=104
