@@ -984,3 +984,13 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-23T22:02:00Z,WUSDT,stop,LONG,LONG_MAJ,A,stop 0.012890979 exit 0.012890979 bar 2026-10-23T21:00:00Z net -0.955R
 2026-10-23T22:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=11 pending=9 equity=9830.48 closed=98
 2026-10-23T23:02:03Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=11 pending=9 equity=9830.48 closed=98
+2026-10-24T00:02:05Z,DASHUSDT,exit_due,SHORT,XREV_SHORT,C,+0.236R gross +0.223R net
+2026-10-24T00:02:05Z,METUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3227
+2026-10-24T00:02:05Z,KAIAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.03745
+2026-10-24T00:02:05Z,MAGICUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.08932
+2026-10-24T00:02:05Z,PONSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.2444
+2026-10-24T00:02:05Z,JUPUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3021
+2026-10-24T00:02:05Z,LUMIAUSDT,open,SHORT,XREV_SHORT,C,entry 0.07298
+2026-10-24T00:02:05Z,MUSDT,open,SHORT,XREV_SHORT,C,entry 0.9333
+2026-10-24T00:02:05Z,LAUSDT,open,SHORT,XREV_SHORT,C,entry 0.06116
+2026-10-24T00:02:05Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=17 armed=8 open=13 pending=14 equity=9831.30 closed=99
