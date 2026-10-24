@@ -3231,3 +3231,21 @@ LONG_MAJ, grade A  |  stop was <code>0.33767523</code>
 Entry <code>0.3618</code>  Mark <code>0.3475</code>
 Result <b>-0.59R gross / -0.62R net</b>
 Close this position now.
+===== 2026-10-24 20:04:29 UTC
+<b>🔴 SHORT FILLED  USUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.00484</code>
+Stop    <code>0.0059224804</code>  (22.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>11347.3</code>
+Exit by <b>2026-11-04 06:00</b>
+Why     mom rank 0.00 | liq rank 103 | BTC_DOWN
+===== 2026-10-24 20:04:30 UTC
+<b>🔴 SHORT FILLED  MOVRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>1.0909</code>
+Stop    <code>1.2131187</code>  (11.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>100.502</code>
+Exit by <b>2026-11-04 06:00</b>
+Why     mom rank 0.04 | liq rank 155 | BTC_DOWN

@@ -1060,3 +1060,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T18:02:01Z,CRVUSDT,exit_due,LONG,LONG_MAJ,A,-0.593R gross -0.617R net
 2026-10-24T18:02:01Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9826.54 closed=105
 2026-10-24T19:02:06Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9826.54 closed=105
+2026-10-24T20:02:03Z,USUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.00484
+2026-10-24T20:02:03Z,MOVRUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 1.0909
+2026-10-24T20:02:03Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=2 armed=0 open=22 pending=0 equity=9826.54 closed=105
