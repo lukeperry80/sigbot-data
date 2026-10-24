@@ -1063,3 +1063,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T20:02:03Z,USUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.00484
 2026-10-24T20:02:03Z,MOVRUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 1.0909
 2026-10-24T20:02:03Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=2 armed=0 open=22 pending=0 equity=9826.54 closed=105
+2026-10-24T21:02:06Z,ORCAUSDT,stop,SHORT,SHORT_TAIL,A,stop 1.8204904 exit 1.8204904 bar 2026-10-24T20:00:00Z net -1.016R
+2026-10-24T21:02:06Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9814.05 closed=106
