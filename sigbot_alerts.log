@@ -3254,3 +3254,36 @@ Why     mom rank 0.04 | liq rank 155 | BTC_DOWN
 SHORT_TAIL, grade A
 Entry <code>1.6631</code>  Stop <code>1.8204904</code>  Exit <code>1.8204904</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-25 00:04:35 UTC
+⏰ <b>EXIT NOW — LUMIAUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.080278</code>
+Entry <code>0.07298</code>  Mark <code>0.07559</code>
+Result <b>-0.36R gross / -0.37R net</b>
+Close this position now.
+===== 2026-10-25 00:04:37 UTC
+<b>🔴 SHORT FILLED  LIGHTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.31104</code>
+Stop    <code>0.342144</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>118.305</code>
+Exit by <b>2026-10-26 10:00</b>
+Why     6h ret +14.0% | liq rank 153 | BTC_DOWN
+===== 2026-10-25 00:04:38 UTC
+<b>🔴 SHORT FILLED  INITUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.15931</code>
+Stop    <code>0.175241</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>230.981</code>
+Exit by <b>2026-10-26 10:00</b>
+Why     6h ret +7.2% | liq rank 94 | BTC_DOWN
+===== 2026-10-25 00:04:39 UTC
+<b>🔴 SHORT FILLED  APRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.0278</code>
+Stop    <code>0.03058</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1323.65</code>
+Exit by <b>2026-10-26 10:00</b>
+Why     6h ret +9.9% | liq rank 74 | BTC_DOWN

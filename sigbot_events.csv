@@ -1067,3 +1067,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-24T21:02:06Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9814.05 closed=106
 2026-10-24T22:02:02Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9814.05 closed=106
 2026-10-24T23:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9814.05 closed=106
+2026-10-25T00:02:00Z,LUMIAUSDT,exit_due,SHORT,XREV_SHORT,C,-0.358R gross -0.370R net
+2026-10-25T00:02:00Z,LIGHTUSDT,open,SHORT,XREV_SHORT,C,entry 0.31104
+2026-10-25T00:02:00Z,INITUSDT,open,SHORT,XREV_SHORT,C,entry 0.15931
+2026-10-25T00:02:00Z,APRUSDT,open,SHORT,XREV_SHORT,C,entry 0.0278
+2026-10-25T00:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=3 armed=3 open=23 pending=0 equity=9812.69 closed=107
