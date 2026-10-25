@@ -1096,3 +1096,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-25T16:02:06Z,GRASSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.7055
 2026-10-25T16:02:06Z,CAPUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09919
 2026-10-25T16:02:06Z,*,scan,,,,v1.1 universe=217 regime=BTC_UP signals=2 armed=2 open=21 pending=2 equity=9811.15 closed=109
+2026-10-25T17:02:06Z,*,scan,,,,v1.1 universe=216 regime=BTC_UP signals=0 armed=0 open=21 pending=2 equity=9811.15 closed=109
