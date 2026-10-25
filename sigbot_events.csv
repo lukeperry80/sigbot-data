@@ -1101,3 +1101,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-25T19:02:06Z,*,scan,,,,v1.1 universe=215 regime=BTC_UP signals=0 armed=0 open=21 pending=2 equity=9811.15 closed=109
 2026-10-25T20:02:01Z,*,scan,,,,v1.1 universe=213 regime=BTC_UP signals=0 armed=0 open=21 pending=2 equity=9811.15 closed=109
 2026-10-25T21:02:06Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9811.15 closed=109
+2026-10-25T22:02:06Z,GRASSUSDT,fill,LONG,LONG_MAJ,A,entry 0.7055 level 0.7055 bar 2026-10-25T21:00:00Z
+2026-10-25T22:02:06Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9811.15 closed=109

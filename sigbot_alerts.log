@@ -3324,3 +3324,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-26 14:02</b>
 Why     mom rank 0.92 | liq rank 71 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-25 22:04:41 UTC
+<b>🟢 LONG FILLED  GRASSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.7055</code>
+Stop    <code>0.64144484</code>  (9.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>191.459</code>
+Exit by <b>2026-10-31 07:00</b>
+Why     mom rank 0.77 | liq rank 66 | BTC_UP
