@@ -1083,3 +1083,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-25T07:02:06Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9811.15 closed=109
 2026-10-25T08:02:06Z,PTBUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0002193
 2026-10-25T08:02:06Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=5 armed=1 open=21 pending=1 equity=9811.15 closed=109
+2026-10-25T09:02:06Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=21 pending=1 equity=9811.15 closed=109
