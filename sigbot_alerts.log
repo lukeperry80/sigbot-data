@@ -3306,3 +3306,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-26 02:00</b>
 Why     mom rank 0.00 | liq rank 76 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-25 16:04:34 UTC
+<b>🟡 LONG SETUP  GRASSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.7055</code>  (post-only retest)
+Stop    <code>0.64144484</code>  (9.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-26 14:02</b>
+Why     mom rank 0.77 | liq rank 66 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-25 16:04:35 UTC
+<b>🟡 LONG SETUP  CAPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.09919</code>  (post-only retest)
+Stop    <code>0.087573902</code>  (11.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-26 14:02</b>
+Why     mom rank 0.92 | liq rank 71 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
