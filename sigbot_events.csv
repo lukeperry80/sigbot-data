@@ -1112,3 +1112,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-26T01:02:06Z,*,scan,,,,v1.1 universe=215 regime=BTC_DOWN signals=0 armed=0 open=22 pending=2 equity=9813.10 closed=110
 2026-10-26T02:02:06Z,*,scan,,,,v1.1 universe=214 regime=BTC_DOWN signals=0 armed=0 open=22 pending=2 equity=9813.10 closed=110
 2026-10-26T03:02:00Z,*,scan,,,,v1.1 universe=214 regime=BTC_DOWN signals=0 armed=0 open=22 pending=2 equity=9813.10 closed=110
+2026-10-26T04:02:00Z,1000RATSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-26T04:02:00Z,ENSOUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-26T04:02:00Z,SANDUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-26T04:02:00Z,AEROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-26T04:02:00Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=9 armed=0 open=22 pending=2 equity=9813.10 closed=110
