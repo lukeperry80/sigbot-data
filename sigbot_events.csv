@@ -1120,3 +1120,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-26T05:02:02Z,CAPUSDT,expired,LONG,LONG_MAJ,A,level 0.09919
 2026-10-26T05:02:02Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9813.10 closed=110
 2026-10-26T06:02:02Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9813.10 closed=110
+2026-10-26T07:02:03Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9813.10 closed=110
