@@ -1104,3 +1104,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-25T22:02:06Z,GRASSUSDT,fill,LONG,LONG_MAJ,A,entry 0.7055 level 0.7055 bar 2026-10-25T21:00:00Z
 2026-10-25T22:02:06Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9811.15 closed=109
 2026-10-25T23:02:06Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9811.15 closed=109
+2026-10-26T00:02:06Z,INITUSDT,exit_due,SHORT,XREV_SHORT,C,+0.545R gross +0.530R net
+2026-10-26T00:02:06Z,SOPHUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.001422
+2026-10-26T00:02:06Z,ENSOUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-26T00:02:06Z,NILUSDT,open,SHORT,XREV_SHORT,C,entry 0.08976
+2026-10-26T00:02:06Z,*,scan,,,,v1.1 universe=213 regime=BTC_DOWN signals=8 armed=2 open=22 pending=2 equity=9813.10 closed=110

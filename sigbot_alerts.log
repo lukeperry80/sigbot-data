@@ -3333,3 +3333,27 @@ Risk    0.12% of equity if stopped
 Qty     <code>191.459</code>
 Exit by <b>2026-10-31 07:00</b>
 Why     mom rank 0.77 | liq rank 66 | BTC_UP
+===== 2026-10-26 00:04:42 UTC
+⏰ <b>EXIT NOW — INITUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.1687365</code>
+Entry <code>0.15931</code>  Mark <code>0.15062</code>
+Result <b>+0.55R gross / +0.53R net</b>
+Close this position now.
+===== 2026-10-26 00:04:43 UTC
+<b>🟡 SHORT SETUP  SOPHUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.001422</code>  (needs 4h close confirm)
+Stop    <code>0.0016548011</code>  (16.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-26 18:00</b>
+Why     mom rank 0.02 | liq rank 114 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-26 00:04:44 UTC
+<b>🔴 SHORT FILLED  NILUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.08976</code>
+Stop    <code>0.098736</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>409.972</code>
+Exit by <b>2026-10-27 10:00</b>
+Why     6h ret +0.6% | liq rank 89 | BTC_DOWN
