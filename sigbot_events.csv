@@ -1169,3 +1169,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-27T13:02:07Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=23 pending=2 equity=9815.40 closed=113
 2026-10-27T14:02:07Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=23 pending=2 equity=9815.40 closed=113
 2026-10-27T15:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9815.40 closed=113
+2026-10-27T16:02:07Z,ZECUSDT,setup,LONG,LONG_MAJ,A,limit level 1268.38
+2026-10-27T16:02:07Z,XRPUSDT,setup,LONG,LONG_MAJ,A,limit level 1.3152
+2026-10-27T16:02:07Z,WUSDT,setup,LONG,LONG_MAJ,A,limit level 0.013023
+2026-10-27T16:02:07Z,XAUTUSDT,setup,LONG,LONG_MAJ,C,limit level 4028.64
+2026-10-27T16:02:07Z,BNBUSDT,setup,LONG,LONG_MAJ,C,limit level 748.63
+2026-10-27T16:02:07Z,INJUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-10-27T16:02:07Z,BCHUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-10-27T16:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=7 armed=5 open=23 pending=6 equity=9815.40 closed=113
