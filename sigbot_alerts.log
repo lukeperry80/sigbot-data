@@ -3491,3 +3491,21 @@ Risk    0.04% of equity if stopped
 Qty     <code>0.219299</code>
 Exit by <b>2026-11-02 04:00</b>
 Why     mom rank 0.74 | liq rank 36 | BTC_UP
+===== 2026-10-27 20:04:31 UTC
+<b>🟡 LONG SETUP  HYPEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>80.58</code>  (post-only retest)
+Stop    <code>77.374457</code>  (4.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-28 18:02</b>
+Why     mom rank 0.73 | liq rank 8 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-27 20:04:32 UTC
+<b>🟡 LONG SETUP  VVVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>26.025</code>  (post-only retest)
+Stop    <code>24.293083</code>  (6.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-28 18:02</b>
+Why     mom rank 0.89 | liq rank 54 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

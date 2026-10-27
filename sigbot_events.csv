@@ -1182,3 +1182,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-27T18:02:02Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=24 pending=5 equity=9815.40 closed=113
 2026-10-27T19:02:00Z,BNBUSDT,fill,LONG,LONG_MAJ,C,entry 748.63 level 748.63 bar 2026-10-27T18:00:00Z
 2026-10-27T19:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=25 pending=4 equity=9815.40 closed=113
+2026-10-27T20:02:02Z,SUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.04618 >= level 0.04579
+2026-10-27T20:02:02Z,HYPEUSDT,setup,LONG,LONG_MAJ,A,limit level 80.58
+2026-10-27T20:02:02Z,VVVUSDT,setup,LONG,LONG_MAJ,A,limit level 26.025
+2026-10-27T20:02:02Z,INITUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-27T20:02:02Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=5 armed=2 open=25 pending=5 equity=9815.40 closed=113
