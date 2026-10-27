@@ -3509,3 +3509,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-28 18:02</b>
 Why     mom rank 0.89 | liq rank 54 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-27 22:04:28 UTC
+<b>🟢 LONG FILLED  VVVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>26.025</code>
+Stop    <code>24.293083</code>  (6.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>7.0842</code>
+Exit by <b>2026-11-02 07:00</b>
+Why     mom rank 0.89 | liq rank 54 | BTC_UP
