@@ -3410,3 +3410,12 @@ Risk    0.04% of equity if stopped
 Qty     <code>409.293</code>
 Exit by <b>2026-10-28 10:00</b>
 Why     6h ret +3.8% | liq rank 56 | BTC_DOWN
+===== 2026-10-27 08:04:39 UTC
+<b>🟡 SHORT SETUP  EPICUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1081</code>  (needs 4h close confirm)
+Stop    <code>0.13819151</code>  (27.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-28 02:00</b>
+Why     mom rank 0.00 | liq rank 158 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
