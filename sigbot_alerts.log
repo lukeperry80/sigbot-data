@@ -3419,3 +3419,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-28 02:00</b>
 Why     mom rank 0.00 | liq rank 158 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-27 12:04:30 UTC
+<b>🟡 SHORT SETUP  SUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04579</code>  (needs 4h close confirm)
+Stop    <code>0.048445284</code>  (5.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-28 06:00</b>
+Why     mom rank 0.09 | liq rank 113 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
