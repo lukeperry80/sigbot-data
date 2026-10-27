@@ -1144,3 +1144,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-26T21:02:00Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9813.10 closed=110
 2026-10-26T22:02:01Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9813.10 closed=110
 2026-10-26T23:02:07Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9813.10 closed=110
+2026-10-27T00:02:01Z,ZILUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.338R gross +1.224R net
+2026-10-27T00:02:01Z,USUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.0059224804 exit 0.0059224804 bar 2026-10-26T23:00:00Z net -1.005R
+2026-10-27T00:02:01Z,NILUSDT,exit_due,SHORT,XREV_SHORT,C,-0.064R gross -0.076R net
+2026-10-27T00:02:01Z,LONGXIAUSDT,open,SHORT,XREV_SHORT,C,entry 0.01883
+2026-10-27T00:02:01Z,USUSDT,open,SHORT,XREV_SHORT,C,entry 0.00587
+2026-10-27T00:02:01Z,ARIAUSDT,open,SHORT,XREV_SHORT,C,entry 0.08993
+2026-10-27T00:02:01Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=3 armed=3 open=23 pending=0 equity=9815.40 closed=113

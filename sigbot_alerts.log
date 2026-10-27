@@ -3366,3 +3366,47 @@ Risk    0.12% of equity if stopped
 Qty     <code>43374.6</code>
 Exit by <b>2026-11-05 18:00</b>
 Why     mom rank 0.02 | liq rank 114 | BTC_DOWN
+===== 2026-10-27 00:04:33 UTC
+⏰ <b>EXIT NOW — ZILUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.0024486334</code>
+Entry <code>0.002499</code>  Mark <code>0.001964</code>
+Result <b>+1.34R gross / +1.22R net</b>
+Close this position now.
+===== 2026-10-27 00:04:34 UTC
+🛑 <b>STOPPED — USUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.00484</code>  Stop <code>0.0059224804</code>  Exit <code>0.0059224804</code>
+Loss  <b>-1.00R net</b> ≈ 0.13% of equity
+===== 2026-10-27 00:04:35 UTC
+⏰ <b>EXIT NOW — NILUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.098736</code>
+Entry <code>0.08976</code>  Mark <code>0.09033</code>
+Result <b>-0.06R gross / -0.08R net</b>
+Close this position now.
+===== 2026-10-27 00:04:37 UTC
+<b>🔴 SHORT FILLED  LONGXIAUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.01883</code>
+Stop    <code>0.020713</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1954.74</code>
+Exit by <b>2026-10-28 10:00</b>
+Why     6h ret +2.7% | liq rank 180 | BTC_DOWN
+===== 2026-10-27 00:04:38 UTC
+<b>🔴 SHORT FILLED  USUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.00587</code>
+Stop    <code>0.006457</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>6270.49</code>
+Exit by <b>2026-10-28 10:00</b>
+Why     6h ret +28.4% | liq rank 107 | BTC_DOWN
+===== 2026-10-27 00:04:39 UTC
+<b>🔴 SHORT FILLED  ARIAUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.08993</code>
+Stop    <code>0.098923</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>409.293</code>
+Exit by <b>2026-10-28 10:00</b>
+Why     6h ret +3.8% | liq rank 56 | BTC_DOWN
