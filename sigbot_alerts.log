@@ -3754,3 +3754,9 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-29 10:00</b>
 Why     mom rank 0.08 | liq rank 112 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-28 19:04:48 UTC
+⏰ <b>EXIT NOW — BIRBUSDT LONG</b>
+LONG_MAJ, grade A  |  stop was <code>0.061457658</code>
+Entry <code>0.07629</code>  Mark <code>0.07422</code>
+Result <b>-0.14R gross / +0.65R net</b>
+Close this position now.
