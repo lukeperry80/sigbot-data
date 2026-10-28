@@ -1243,3 +1243,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T12:02:07Z,DOSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.2928
 2026-10-28T12:02:07Z,LTCUSDT,setup,LONG,LONG_MAJ,C,limit level 57.73
 2026-10-28T12:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=6 armed=5 open=24 pending=5 equity=9778.28 closed=120
+2026-10-28T13:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=24 pending=5 equity=9778.28 closed=120
