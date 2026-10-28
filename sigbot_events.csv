@@ -1249,3 +1249,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T14:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=26 pending=3 equity=9778.28 closed=120
 2026-10-28T15:02:07Z,XPLUSDT,fill,LONG,LONG_MAJ,A,entry 0.07534 level 0.07534 bar 2026-10-28T14:00:00Z
 2026-10-28T15:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9778.28 closed=120
+2026-10-28T16:02:07Z,INITUSDT,fill,LONG,LONG_MAJ,A,entry 0.19792 level 0.19792 bar 2026-10-28T15:00:00Z
+2026-10-28T16:02:07Z,ZKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.011811
+2026-10-28T16:02:07Z,BATUSDT,skip_cap,SHORT,SHORT_TAIL,A,
+2026-10-28T16:02:07Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=2 armed=1 open=28 pending=2 equity=9778.28 closed=120
