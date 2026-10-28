@@ -1234,3 +1234,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T10:02:04Z,BEATUSDT,stop,LONG,LONG_MAJ,A,stop 0.086978478 exit 0.086978478 bar 2026-10-28T09:00:00Z net -1.007R
 2026-10-28T10:02:04Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=23 pending=3 equity=9778.28 closed=120
 2026-10-28T11:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=23 pending=3 equity=9778.28 closed=120
+2026-10-28T12:02:07Z,DOGEUSDT,expired,LONG,LONG_MAJ,A,level 0.07866
+2026-10-28T12:02:07Z,PONSUSDT,expired,LONG,LONG_MAJ,A,level 0.2611
+2026-10-28T12:02:07Z,MUSDT,fill,LONG,LONG_MAJ,A,entry 1.0928 level 1.0928 bar 2026-10-28T11:00:00Z
+2026-10-28T12:02:07Z,BTCUSDT,setup,LONG,LONG_MAJ,A,limit level 81272.2
+2026-10-28T12:02:07Z,XPLUSDT,setup,LONG,LONG_MAJ,A,limit level 0.07534
+2026-10-28T12:02:07Z,INITUSDT,setup,LONG,LONG_MAJ,A,limit level 0.19792
+2026-10-28T12:02:07Z,DOSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.2928
+2026-10-28T12:02:07Z,LTCUSDT,setup,LONG,LONG_MAJ,C,limit level 57.73
+2026-10-28T12:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=6 armed=5 open=24 pending=5 equity=9778.28 closed=120
