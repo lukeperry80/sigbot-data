@@ -1219,3 +1219,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T05:02:07Z,XRPUSDT,expired,LONG,LONG_MAJ,A,level 1.3152
 2026-10-28T05:02:07Z,XAUTUSDT,expired,LONG,LONG_MAJ,C,level 4028.64
 2026-10-28T05:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=24 pending=3 equity=9810.25 closed=117
+2026-10-28T06:02:07Z,VVVUSDT,stop,LONG,LONG_MAJ,A,stop 24.293083 exit 24.293083 bar 2026-10-28T05:00:00Z net -1.015R
+2026-10-28T06:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=23 pending=3 equity=9797.80 closed=118
