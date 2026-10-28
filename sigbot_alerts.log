@@ -3627,3 +3627,8 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-29 06:02</b>
 Why     mom rank 0.94 | liq rank 93 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-28 09:05:26 UTC
+🛑 <b>STOPPED — BLURUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.008143</code>  Stop <code>0.0086592279</code>  Exit <code>0.0086592279</code>
+Loss  <b>-0.59R net</b> ≈ 0.07% of equity

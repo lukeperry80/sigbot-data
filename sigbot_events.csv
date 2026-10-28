@@ -1226,3 +1226,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T08:02:01Z,MUSDT,setup,LONG,LONG_MAJ,A,limit level 1.0928
 2026-10-28T08:02:01Z,BEATUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09984
 2026-10-28T08:02:01Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=3 armed=3 open=23 pending=6 equity=9797.80 closed=118
+2026-10-28T09:02:03Z,HYPEUSDT,expired,LONG,LONG_MAJ,A,level 80.58
+2026-10-28T09:02:03Z,BLURUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.0086592279 exit 0.0086592279 bar 2026-10-28T08:00:00Z net -0.586R
+2026-10-28T09:02:03Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=22 pending=5 equity=9790.60 closed=119
