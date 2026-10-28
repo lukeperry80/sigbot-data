@@ -3709,3 +3709,21 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-10-29 10:02</b>
 Why     mom rank 0.54 | liq rank 48 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-28 14:05:24 UTC
+<b>🟢 LONG FILLED  BTCUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>81272.2</code>
+Stop    <code>79872.537</code>  (1.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.00873271</code>
+Exit by <b>2026-11-02 23:00</b>
+Why     mom rank 0.63 | liq rank 1 | BTC_UP
+===== 2026-10-28 14:05:26 UTC
+<b>🟢 LONG FILLED  LTCUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>57.73</code>
+Stop    <code>56.157703</code>  (2.7% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>2.33216</code>
+Exit by <b>2026-11-02 23:00</b>
+Why     mom rank 0.54 | liq rank 48 | BTC_UP
