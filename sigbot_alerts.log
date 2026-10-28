@@ -3760,3 +3760,35 @@ LONG_MAJ, grade A  |  stop was <code>0.061457658</code>
 Entry <code>0.07629</code>  Mark <code>0.07422</code>
 Result <b>-0.14R gross / +0.65R net</b>
 Close this position now.
+===== 2026-10-28 20:04:49 UTC
+<b>🟢 LONG FILLED  DOSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.2928</code>
+Stop    <code>0.25377902</code>  (13.3% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>313.496</code>
+Exit by <b>2026-11-03 05:00</b>
+Why     mom rank 0.96 | liq rank 79 | BTC_UP
+===== 2026-10-28 20:04:50 UTC
+🛑 <b>STOPPED — DOSUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.2928</code>  Stop <code>0.25377902</code>  Exit <code>0.25377902</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-10-28 20:04:51 UTC
+<b>🟡 LONG SETUP  SUIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.9477</code>  (post-only retest)
+Stop    <code>0.91032787</code>  (3.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-29 18:02</b>
+Why     mom rank 0.37 | liq rank 16 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-28 20:04:53 UTC
+<b>🟡 LONG SETUP  PUMPFUNUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.004415</code>  (post-only retest)
+Stop    <code>0.004109242</code>  (6.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-29 18:02</b>
+Why     mom rank 0.44 | liq rank 20 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
