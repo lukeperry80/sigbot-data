@@ -1275,3 +1275,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T20:02:07Z,TIAUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-28T20:02:07Z,FARTCOINUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-28T20:02:07Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=18 armed=2 open=27 pending=3 equity=9774.03 closed=122
+2026-10-28T21:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=27 pending=3 equity=9774.03 closed=122
