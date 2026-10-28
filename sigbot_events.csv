@@ -1206,3 +1206,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T02:02:00Z,1000PEPEUSDT,fill,LONG,LONG_MAJ,A,entry 0.004586 level 0.004586 bar 2026-10-28T01:00:00Z
 2026-10-28T02:02:00Z,CASHCATUSDT,fill,LONG,LONG_MAJ,A,entry 0.10266 level 0.10266 bar 2026-10-28T01:00:00Z
 2026-10-28T02:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=24 pending=6 equity=9810.25 closed=117
+2026-10-28T03:02:06Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=24 pending=6 equity=9810.25 closed=117
