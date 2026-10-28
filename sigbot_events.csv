@@ -1254,3 +1254,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T16:02:07Z,BATUSDT,skip_cap,SHORT,SHORT_TAIL,A,
 2026-10-28T16:02:07Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=2 armed=1 open=28 pending=2 equity=9778.28 closed=120
 2026-10-28T17:02:05Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=28 pending=2 equity=9778.28 closed=120
+2026-10-28T18:02:07Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=28 pending=2 equity=9778.28 closed=120
