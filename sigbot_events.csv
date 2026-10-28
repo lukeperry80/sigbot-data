@@ -1247,3 +1247,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T14:02:07Z,BTCUSDT,fill,LONG,LONG_MAJ,A,entry 81272.2 level 81272.2 bar 2026-10-28T13:00:00Z
 2026-10-28T14:02:07Z,LTCUSDT,fill,LONG,LONG_MAJ,C,entry 57.73 level 57.73 bar 2026-10-28T13:00:00Z
 2026-10-28T14:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=26 pending=3 equity=9778.28 closed=120
+2026-10-28T15:02:07Z,XPLUSDT,fill,LONG,LONG_MAJ,A,entry 0.07534 level 0.07534 bar 2026-10-28T14:00:00Z
+2026-10-28T15:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=27 pending=2 equity=9778.28 closed=120
