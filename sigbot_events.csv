@@ -1202,3 +1202,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T00:02:07Z,BCHUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-28T00:02:07Z,EVAAUSDT,skip_cap,SHORT,XREV_SHORT,C,
 2026-10-28T00:02:07Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=8 armed=4 open=22 pending=8 equity=9810.25 closed=117
+2026-10-28T01:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=22 pending=8 equity=9810.25 closed=117
