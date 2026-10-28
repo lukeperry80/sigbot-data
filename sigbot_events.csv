@@ -1222,3 +1222,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T06:02:07Z,VVVUSDT,stop,LONG,LONG_MAJ,A,stop 24.293083 exit 24.293083 bar 2026-10-28T05:00:00Z net -1.015R
 2026-10-28T06:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=23 pending=3 equity=9797.80 closed=118
 2026-10-28T07:02:06Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=23 pending=3 equity=9797.80 closed=118
+2026-10-28T08:02:01Z,EVAAUSDT,setup,LONG,LONG_MAJ,A,limit level 1.2877
+2026-10-28T08:02:01Z,MUSDT,setup,LONG,LONG_MAJ,A,limit level 1.0928
+2026-10-28T08:02:01Z,BEATUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09984
+2026-10-28T08:02:01Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=3 armed=3 open=23 pending=6 equity=9797.80 closed=118
