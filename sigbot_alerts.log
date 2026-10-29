@@ -3976,3 +3976,30 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-30 14:02</b>
 Why     mom rank 0.26 | liq rank 79 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 18:04:46 UTC
+<b>🟢 LONG FILLED  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>1331.29</code>
+Stop    <code>1244.1728</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.138822</code>
+Exit by <b>2026-11-04 03:00</b>
+Why     mom rank 0.87 | liq rank 4 | BTC_UP
+===== 2026-10-29 18:04:47 UTC
+<b>🟢 LONG FILLED  PENGUUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.00807</code>
+Stop    <code>0.0076190589</code>  (5.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>26819</code>
+Exit by <b>2026-11-04 03:00</b>
+Why     mom rank 0.79 | liq rank 66 | BTC_UP
+===== 2026-10-29 18:04:48 UTC
+<b>🟢 LONG FILLED  SANDUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.04897</code>
+Stop    <code>0.046371618</code>  (5.3% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4654.35</code>
+Exit by <b>2026-11-04 03:00</b>
+Why     mom rank 0.26 | liq rank 79 | BTC_UP
