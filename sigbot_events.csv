@@ -1361,3 +1361,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T21:02:07Z,SANDUSDT,stop,LONG,LONG_MAJ,A,stop 0.046371618 exit 0.046371618 bar 2026-10-29T20:00:00Z net -1.017R
 2026-10-29T21:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9593.14 closed=138
 2026-10-29T22:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9593.14 closed=138
+2026-10-29T23:02:07Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9593.14 closed=138
