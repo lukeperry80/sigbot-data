@@ -1279,3 +1279,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-28T22:02:07Z,SUIUSDT,fill,LONG,LONG_MAJ,A,entry 0.9477 level 0.9477 bar 2026-10-28T21:00:00Z
 2026-10-28T22:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=28 pending=2 equity=9774.03 closed=122
 2026-10-28T23:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=28 pending=2 equity=9774.03 closed=122
+2026-10-29T00:02:07Z,ZKUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.012043 >= level 0.011811
+2026-10-29T00:02:07Z,PENGUUSDT,setup,LONG,LONG_MAJ,A,limit level 0.007886
+2026-10-29T00:02:07Z,ETHFIUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-29T00:02:07Z,SPXUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-29T00:02:07Z,NAORISUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-29T00:02:07Z,XANUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-10-29T00:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=5 armed=1 open=28 pending=2 equity=9774.03 closed=122
