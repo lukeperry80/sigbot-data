@@ -1327,3 +1327,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T12:02:07Z,DATAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1364
 2026-10-29T12:02:07Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=1 armed=1 open=27 pending=1 equity=9698.82 closed=128
 2026-10-29T13:02:07Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=27 pending=1 equity=9698.82 closed=128
+2026-10-29T14:02:07Z,PYTHUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.075004077 exit 0.075004077 bar 2026-10-29T13:00:00Z net -1.021R
+2026-10-29T14:02:07Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=26 pending=1 equity=9686.44 closed=129
