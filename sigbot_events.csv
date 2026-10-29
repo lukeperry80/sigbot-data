@@ -1340,3 +1340,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T16:02:02Z,ONDOUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-29T16:02:02Z,UNIUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-10-29T16:02:02Z,*,scan,,,,v1.1 universe=220 regime=BTC_UP signals=9 armed=4 open=25 pending=5 equity=9675.02 closed=130
+2026-10-29T17:02:07Z,*,scan,,,,v1.1 universe=220 regime=BTC_UP signals=0 armed=0 open=25 pending=5 equity=9675.02 closed=130
