@@ -3810,3 +3810,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-10-29 22:02</b>
 Why     mom rank 0.74 | liq rank 69 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 02:04:36 UTC
+<b>🟢 LONG FILLED  PUMPFUNUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.004415</code>
+Stop    <code>0.004109242</code>  (6.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>39958.2</code>
+Exit by <b>2026-11-03 11:00</b>
+Why     mom rank 0.44 | liq rank 20 | BTC_UP
+===== 2026-10-29 02:04:37 UTC
+<b>🟢 LONG FILLED  PENGUUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.007886</code>
+Stop    <code>0.007525575</code>  (4.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>33897.6</code>
+Exit by <b>2026-11-03 11:00</b>
+Why     mom rank 0.74 | liq rank 69 | BTC_UP

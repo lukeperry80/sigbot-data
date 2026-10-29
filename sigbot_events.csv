@@ -1287,3 +1287,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T00:02:07Z,XANUSDT,skip_cap,SHORT,XREV_SHORT,C,
 2026-10-29T00:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=5 armed=1 open=28 pending=2 equity=9774.03 closed=122
 2026-10-29T01:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=28 pending=2 equity=9774.03 closed=122
+2026-10-29T02:02:07Z,PUMPFUNUSDT,fill,LONG,LONG_MAJ,A,entry 0.004415 level 0.004415 bar 2026-10-29T01:00:00Z
+2026-10-29T02:02:07Z,PENGUUSDT,fill,LONG,LONG_MAJ,A,entry 0.007886 level 0.007886 bar 2026-10-29T01:00:00Z
+2026-10-29T02:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=30 pending=0 equity=9774.03 closed=122
