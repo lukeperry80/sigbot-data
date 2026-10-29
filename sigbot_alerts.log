@@ -3848,3 +3848,39 @@ Loss  <b>-1.02R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade A
 Entry <code>0.007886</code>  Stop <code>0.007525575</code>  Exit <code>0.007525575</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-29 04:04:30 UTC
+<b>🟡 SHORT SETUP  ZKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.011519</code>  (needs 4h close confirm)
+Stop    <code>0.012255257</code>  (6.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-29 22:00</b>
+Why     mom rank 0.05 | liq rank 113 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 04:04:32 UTC
+<b>🟡 SHORT SETUP  PYTHUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.07039</code>  (needs 4h close confirm)
+Stop    <code>0.075004077</code>  (6.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-29 22:00</b>
+Why     mom rank 0.15 | liq rank 114 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 04:04:33 UTC
+<b>🟡 SHORT SETUP  SUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04509</code>  (needs 4h close confirm)
+Stop    <code>0.047428249</code>  (5.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-29 22:00</b>
+Why     mom rank 0.13 | liq rank 134 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 04:04:34 UTC
+<b>🟡 SHORT SETUP  JASMYUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.004076</code>  (needs 4h close confirm)
+Stop    <code>0.0043358808</code>  (6.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-29 22:00</b>
+Why     mom rank 0.20 | liq rank 140 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
