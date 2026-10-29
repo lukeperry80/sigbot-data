@@ -3940,3 +3940,39 @@ Loss  <b>-1.02R net</b> ≈ 0.13% of equity
 SHORT_TAIL, grade A
 Entry <code>0.1681</code>  Stop <code>0.18757407</code>  Exit <code>0.18757407</code>
 Loss  <b>-0.93R net</b> ≈ 0.12% of equity
+===== 2026-10-29 16:04:36 UTC
+<b>🟡 LONG SETUP  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1331.29</code>  (post-only retest)
+Stop    <code>1244.1728</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-30 14:02</b>
+Why     mom rank 0.87 | liq rank 4 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 16:04:37 UTC
+<b>🟡 LONG SETUP  HYPEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>87.99</code>  (post-only retest)
+Stop    <code>83.000832</code>  (5.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-30 14:02</b>
+Why     mom rank 0.88 | liq rank 7 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 16:04:38 UTC
+<b>🟡 LONG SETUP  PENGUUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.00807</code>  (post-only retest)
+Stop    <code>0.0076190589</code>  (5.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-30 14:02</b>
+Why     mom rank 0.79 | liq rank 66 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-29 16:04:39 UTC
+<b>🟡 LONG SETUP  SANDUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.04897</code>  (post-only retest)
+Stop    <code>0.046371618</code>  (5.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-30 14:02</b>
+Why     mom rank 0.26 | liq rank 79 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

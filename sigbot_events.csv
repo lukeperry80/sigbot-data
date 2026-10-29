@@ -1331,3 +1331,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T14:02:07Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=26 pending=1 equity=9686.44 closed=129
 2026-10-29T15:02:00Z,LSKUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.18757407 exit 0.18757407 bar 2026-10-29T14:00:00Z net -0.929R
 2026-10-29T15:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_UP signals=0 armed=0 open=25 pending=1 equity=9675.02 closed=130
+2026-10-29T16:02:02Z,ZECUSDT,setup,LONG,LONG_MAJ,A,limit level 1331.29
+2026-10-29T16:02:02Z,HYPEUSDT,setup,LONG,LONG_MAJ,A,limit level 87.99
+2026-10-29T16:02:02Z,PENGUUSDT,setup,LONG,LONG_MAJ,A,limit level 0.00807
+2026-10-29T16:02:02Z,SANDUSDT,setup,LONG,LONG_MAJ,A,limit level 0.04897
+2026-10-29T16:02:02Z,ASTERUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-10-29T16:02:02Z,LITUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-29T16:02:02Z,ONDOUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-29T16:02:02Z,UNIUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-10-29T16:02:02Z,*,scan,,,,v1.1 universe=220 regime=BTC_UP signals=9 armed=4 open=25 pending=5 equity=9675.02 closed=130
