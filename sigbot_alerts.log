@@ -3935,3 +3935,8 @@ Why     mom rank 0.08 | liq rank 156 | BTC_DOWN
 SHORT_TAIL, grade A
 Entry <code>0.06986</code>  Stop <code>0.075004077</code>  Exit <code>0.075004077</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-29 15:04:30 UTC
+🛑 <b>STOPPED — LSKUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.1681</code>  Stop <code>0.18757407</code>  Exit <code>0.18757407</code>
+Loss  <b>-0.93R net</b> ≈ 0.12% of equity
