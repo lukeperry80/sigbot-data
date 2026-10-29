@@ -1312,3 +1312,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T06:02:01Z,EVAAUSDT,stop,LONG,LONG_MAJ,A,stop 1.0499767 exit 1.0499767 bar 2026-10-29T05:00:00Z net -1.015R
 2026-10-29T06:02:01Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=24 pending=4 equity=9698.82 closed=128
 2026-10-29T07:02:00Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=24 pending=4 equity=9698.82 closed=128
+2026-10-29T08:02:02Z,EIGENUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-29T08:02:02Z,PLUMEUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-29T08:02:02Z,ORCAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-29T08:02:02Z,NILUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-29T08:02:02Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=7 armed=0 open=24 pending=4 equity=9698.82 closed=128
