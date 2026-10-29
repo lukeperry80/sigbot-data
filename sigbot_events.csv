@@ -1309,3 +1309,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-29T04:02:01Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=14 armed=4 open=26 pending=4 equity=9723.74 closed=126
 2026-10-29T05:02:07Z,GRASSUSDT,stop,LONG,LONG_MAJ,A,stop 0.64144484 exit 0.64144484 bar 2026-10-29T04:00:00Z net -1.019R
 2026-10-29T05:02:07Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=25 pending=4 equity=9711.24 closed=127
+2026-10-29T06:02:01Z,EVAAUSDT,stop,LONG,LONG_MAJ,A,stop 1.0499767 exit 1.0499767 bar 2026-10-29T05:00:00Z net -1.015R
+2026-10-29T06:02:01Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=0 armed=0 open=24 pending=4 equity=9698.82 closed=128
