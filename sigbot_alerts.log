@@ -4052,3 +4052,57 @@ Loss  <b>-1.02R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade A
 Entry <code>0.04897</code>  Stop <code>0.046371618</code>  Exit <code>0.046371618</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-10-30 00:04:36 UTC
+<b>🟡 SHORT SETUP  ZKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.011307</code>  (needs 4h close confirm)
+Stop    <code>0.012190799</code>  (7.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-30 18:00</b>
+Why     mom rank 0.05 | liq rank 113 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-30 00:04:38 UTC
+<b>🟡 SHORT SETUP  RENDERUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>1.61</code>  (needs 4h close confirm)
+Stop    <code>1.7190897</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-10-30 18:00</b>
+Why     mom rank 0.19 | liq rank 114 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-10-30 00:04:39 UTC
+<b>🔴 SHORT FILLED  SKYUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.06619</code>
+Stop    <code>0.072809</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>543.5</code>
+Exit by <b>2026-10-31 10:00</b>
+Why     6h ret -0.1% | liq rank 147 | BTC_DOWN
+===== 2026-10-30 00:04:41 UTC
+<b>🔴 SHORT FILLED  PAXGUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>4013.41</code>
+Stop    <code>4414.751</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>0.00896352</code>
+Exit by <b>2026-10-31 10:00</b>
+Why     6h ret +0.0% | liq rank 131 | BTC_DOWN
+===== 2026-10-30 00:04:42 UTC
+<b>🔴 SHORT FILLED  TRUTHUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.020885</code>
+Stop    <code>0.0229735</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1722.49</code>
+Exit by <b>2026-10-31 10:00</b>
+Why     6h ret +2.1% | liq rank 166 | BTC_DOWN
+===== 2026-10-30 00:04:43 UTC
+<b>🔴 SHORT FILLED  PARTIUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.05996</code>
+Stop    <code>0.065956</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>599.971</code>
+Exit by <b>2026-10-31 10:00</b>
+Why     6h ret +5.8% | liq rank 78 | BTC_DOWN
