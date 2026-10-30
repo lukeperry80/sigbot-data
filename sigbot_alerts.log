@@ -4148,3 +4148,13 @@ Risk    0.12% of equity if stopped
 Qty     <code>77.1361</code>
 Exit by <b>2026-11-09 18:00</b>
 Why     mom rank 0.19 | liq rank 114 | BTC_DOWN
+===== 2026-10-30 10:05:11 UTC
+🛑 <b>STOPPED — OGNUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.028034</code>  Stop <code>0.023648599</code>  Exit <code>0.023648599</code>
+Loss  <b>+2.31R net</b> ≈ 0.29% of equity
+===== 2026-10-30 10:05:12 UTC
+🛑 <b>STOPPED — PARTIUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.05996</code>  Stop <code>0.056164</code>  Exit <code>0.056164</code>
+Loss  <b>+0.62R net</b> ≈ 0.02% of equity

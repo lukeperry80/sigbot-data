@@ -1413,3 +1413,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-30T08:02:02Z,RENDERUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 1.564
 2026-10-30T08:02:02Z,*,scan,,,,v1.1 universe=243 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9570.41 closed=141
 2026-10-30T09:02:07Z,*,scan,,,,v1.1 universe=240 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9570.41 closed=141
+2026-10-30T10:02:01Z,OGNUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.023648599 exit 0.023648599 bar 2026-10-30T09:00:00Z net +2.312R
+2026-10-30T10:02:01Z,PARTIUSDT,stop,SHORT,XREV_SHORT,C,stop 0.056164 exit 0.056164 bar 2026-10-30T09:00:00Z net +0.618R
+2026-10-30T10:02:01Z,*,scan,,,,v1.1 universe=240 regime=BTC_DOWN signals=0 armed=0 open=22 pending=0 equity=9600.99 closed=143
