@@ -4111,3 +4111,12 @@ Why     6h ret +5.8% | liq rank 78 | BTC_DOWN
 LONG_MAJ, grade A
 Entry <code>0.004586</code>  Stop <code>0.0043218712</code>  Exit <code>0.0043218712</code>
 Loss  <b>-1.03R net</b> ≈ 0.13% of equity
+===== 2026-10-30 04:04:39 UTC
+<b>🔴 SHORT FILLED  PYTHUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.06095</code>
+Stop    <code>0.074746324</code>  (22.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>868.036</code>
+Exit by <b>2026-11-09 14:00</b>
+Why     mom rank 0.09 | liq rank 107 | BTC_DOWN

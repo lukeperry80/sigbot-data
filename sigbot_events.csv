@@ -1390,3 +1390,17 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-30T01:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9580.56 closed=139
 2026-10-30T02:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9580.56 closed=139
 2026-10-30T03:02:07Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9580.56 closed=139
+2026-10-30T04:02:07Z,HYPEUSDT,expired,LONG,LONG_MAJ,A,level 87.99
+2026-10-30T04:02:07Z,PYTHUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.06095
+2026-10-30T04:02:07Z,ALTUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,EIGENUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,PUFFERUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,ZEREBROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,PLUMEUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,PHAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,APEUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,DATAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,RSRUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,IMXUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,AEROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-10-30T04:02:07Z,*,scan,,,,v1.1 universe=240 regime=BTC_DOWN signals=15 armed=0 open=24 pending=2 equity=9580.56 closed=139
