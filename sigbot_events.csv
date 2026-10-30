@@ -1389,3 +1389,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-30T01:02:01Z,1000PEPEUSDT,stop,LONG,LONG_MAJ,A,stop 0.0043218712 exit 0.0043218712 bar 2026-10-30T00:00:00Z net -1.026R
 2026-10-30T01:02:01Z,*,scan,,,,v1.1 universe=233 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9580.56 closed=139
 2026-10-30T02:02:00Z,*,scan,,,,v1.1 universe=235 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9580.56 closed=139
+2026-10-30T03:02:07Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9580.56 closed=139
