@@ -4120,3 +4120,8 @@ Risk    0.12% of equity if stopped
 Qty     <code>868.036</code>
 Exit by <b>2026-11-09 14:00</b>
 Why     mom rank 0.09 | liq rank 107 | BTC_DOWN
+===== 2026-10-30 06:04:32 UTC
+🛑 <b>STOPPED — SOPHUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.001372</code>  Stop <code>0.0016082017</code>  Exit <code>0.0016082017</code>
+Loss  <b>-0.86R net</b> ≈ 0.11% of equity

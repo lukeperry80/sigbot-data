@@ -1405,3 +1405,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-30T04:02:07Z,AEROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-10-30T04:02:07Z,*,scan,,,,v1.1 universe=240 regime=BTC_DOWN signals=15 armed=0 open=24 pending=2 equity=9580.56 closed=139
 2026-10-30T05:02:07Z,*,scan,,,,v1.1 universe=241 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9580.56 closed=139
+2026-10-30T06:02:00Z,SOPHUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.0016082017 exit 0.0016082017 bar 2026-10-30T05:00:00Z net -0.864R
+2026-10-30T06:02:00Z,*,scan,,,,v1.1 universe=241 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9569.96 closed=140
