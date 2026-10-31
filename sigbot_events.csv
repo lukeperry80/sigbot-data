@@ -1440,3 +1440,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-31T00:02:07Z,BLURUSDT,open,SHORT,XREV_SHORT,C,entry 0.008951
 2026-10-31T00:02:07Z,OPUSDT,open,SHORT,XREV_SHORT,C,entry 0.11976
 2026-10-31T00:02:07Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=6 armed=5 open=22 pending=0 equity=9593.10 closed=148
+2026-10-31T01:02:00Z,*,scan,,,,v1.1 universe=238 regime=BTC_UP signals=0 armed=0 open=22 pending=0 equity=9593.10 closed=148
