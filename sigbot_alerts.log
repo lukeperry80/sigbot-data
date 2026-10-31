@@ -4245,3 +4245,17 @@ Why     mom rank 0.16 | liq rank 205 | BTC_DOWN
 SHORT_TAIL, grade A
 Entry <code>0.319</code>  Stop <code>0.30476074</code>  Exit <code>0.30476074</code>
 Loss  <b>+0.57R net</b> ≈ 0.07% of equity
+===== 2026-10-31 12:04:41 UTC
+🛑 <b>STOPPED — NMRUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>10.61</code>  Stop <code>9.6213423</code>  Exit <code>9.6213423</code>
+Loss  <b>+1.39R net</b> ≈ 0.17% of equity
+===== 2026-10-31 12:04:42 UTC
+<b>🟡 LONG SETUP  LSKUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.24883</code>  (post-only retest)
+Stop    <code>0.20512012</code>  (17.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-01 10:02</b>
+Why     mom rank 0.95 | liq rank 51 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
