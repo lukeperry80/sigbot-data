@@ -1451,3 +1451,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-31T08:02:07Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=1 armed=1 open=22 pending=1 equity=9593.10 closed=148
 2026-10-31T09:02:01Z,STXUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.30476074 exit 0.30476074 bar 2026-10-31T08:00:00Z net +0.566R
 2026-10-31T09:02:01Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=21 pending=1 equity=9600.08 closed=149
+2026-10-31T10:02:00Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=0 armed=0 open=21 pending=1 equity=9600.08 closed=149
