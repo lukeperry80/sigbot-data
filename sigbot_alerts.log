@@ -4259,3 +4259,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-01 10:02</b>
 Why     mom rank 0.95 | liq rank 51 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-31 16:04:46 UTC
+<b>🟡 SHORT SETUP  MUBARAKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.045598</code>  (needs 4h close confirm)
+Stop    <code>0.0485101</code>  (6.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-01 10:00</b>
+Why     mom rank 0.09 | liq rank 225 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
