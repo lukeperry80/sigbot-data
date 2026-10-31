@@ -4268,3 +4268,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-01 10:00</b>
 Why     mom rank 0.09 | liq rank 225 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-31 20:04:27 UTC
+<b>🟢 LONG FILLED  LSKUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.24883</code>
+Stop    <code>0.20512012</code>  (17.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>275.025</code>
+Exit by <b>2026-11-06 05:00</b>
+Why     mom rank 0.95 | liq rank 51 | BTC_UP
