@@ -4240,3 +4240,8 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-01 02:00</b>
 Why     mom rank 0.16 | liq rank 205 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-10-31 09:04:36 UTC
+🛑 <b>STOPPED — STXUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.319</code>  Stop <code>0.30476074</code>  Exit <code>0.30476074</code>
+Loss  <b>+0.57R net</b> ≈ 0.07% of equity
