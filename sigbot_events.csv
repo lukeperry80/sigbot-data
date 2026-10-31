@@ -1447,3 +1447,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-31T05:02:01Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=0 armed=0 open=22 pending=0 equity=9593.10 closed=148
 2026-10-31T06:02:06Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=0 armed=0 open=22 pending=0 equity=9593.10 closed=148
 2026-10-31T07:02:07Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=0 armed=0 open=22 pending=0 equity=9593.10 closed=148
+2026-10-31T08:02:07Z,KMNOUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0318
+2026-10-31T08:02:07Z,*,scan,,,,v1.1 universe=237 regime=BTC_DOWN signals=1 armed=1 open=22 pending=1 equity=9593.10 closed=148
