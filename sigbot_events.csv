@@ -1462,3 +1462,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-31T16:02:04Z,KMNOUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.0322 >= level 0.0318
 2026-10-31T16:02:04Z,MUBARAKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.045598
 2026-10-31T16:02:04Z,*,scan,,,,v1.1 universe=232 regime=BTC_DOWN signals=1 armed=1 open=20 pending=2 equity=9617.06 closed=150
+2026-10-31T17:02:00Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=20 pending=2 equity=9617.06 closed=150
