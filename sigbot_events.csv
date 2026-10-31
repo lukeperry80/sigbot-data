@@ -1430,3 +1430,13 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-30T21:02:07Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9588.40 closed=144
 2026-10-30T22:02:01Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9588.40 closed=144
 2026-10-30T23:02:07Z,*,scan,,,,v1.1 universe=239 regime=BTC_DOWN signals=0 armed=0 open=21 pending=0 equity=9588.40 closed=144
+2026-10-31T00:02:07Z,ACEUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.14112633 exit 0.14112633 bar 2026-10-30T23:00:00Z net +0.260R
+2026-10-31T00:02:07Z,SKYUSDT,exit_due,SHORT,XREV_SHORT,C,-0.147R gross -0.159R net
+2026-10-31T00:02:07Z,PAXGUSDT,exit_due,SHORT,XREV_SHORT,C,+0.282R gross +0.270R net
+2026-10-31T00:02:07Z,TRUTHUSDT,exit_due,SHORT,XREV_SHORT,C,+0.327R gross +0.315R net
+2026-10-31T00:02:07Z,BIOUSDT,open,SHORT,XREV_SHORT,C,entry 0.02206
+2026-10-31T00:02:07Z,POPCATUSDT,open,SHORT,XREV_SHORT,C,entry 0.04225
+2026-10-31T00:02:07Z,ETHFIUSDT,open,SHORT,XREV_SHORT,C,entry 0.621
+2026-10-31T00:02:07Z,BLURUSDT,open,SHORT,XREV_SHORT,C,entry 0.008951
+2026-10-31T00:02:07Z,OPUSDT,open,SHORT,XREV_SHORT,C,entry 0.11976
+2026-10-31T00:02:07Z,*,scan,,,,v1.1 universe=238 regime=BTC_DOWN signals=6 armed=5 open=22 pending=0 equity=9593.10 closed=148

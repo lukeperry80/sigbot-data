@@ -4163,3 +4163,71 @@ Loss  <b>+0.62R net</b> ≈ 0.02% of equity
 LONG_MAJ, grade A
 Entry <code>1.0928</code>  Stop <code>0.99384399</code>  Exit <code>0.99384399</code>
 Loss  <b>-1.03R net</b> ≈ 0.13% of equity
+===== 2026-10-31 00:04:37 UTC
+🛑 <b>STOPPED — ACEUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.1439</code>  Stop <code>0.14112633</code>  Exit <code>0.14112633</code>
+Loss  <b>+0.26R net</b> ≈ 0.03% of equity
+===== 2026-10-31 00:04:38 UTC
+⏰ <b>EXIT NOW — SKYUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0715485</code>
+Entry <code>0.06619</code>  Mark <code>0.06716</code>
+Result <b>-0.15R gross / -0.16R net</b>
+Close this position now.
+===== 2026-10-31 00:04:40 UTC
+⏰ <b>EXIT NOW — PAXGUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>4414.751</code>
+Entry <code>4013.41</code>  Mark <code>3900.15</code>
+Result <b>+0.28R gross / +0.27R net</b>
+Close this position now.
+===== 2026-10-31 00:04:41 UTC
+⏰ <b>EXIT NOW — TRUTHUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.02280675</code>
+Entry <code>0.020885</code>  Mark <code>0.020202</code>
+Result <b>+0.33R gross / +0.32R net</b>
+Close this position now.
+===== 2026-10-31 00:04:42 UTC
+<b>🔴 SHORT FILLED  BIOUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.02206</code>
+Stop    <code>0.024266</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1630.74</code>
+Exit by <b>2026-11-01 10:00</b>
+Why     6h ret +5.3% | liq rank 227 | BTC_DOWN
+===== 2026-10-31 00:04:43 UTC
+<b>🔴 SHORT FILLED  POPCATUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.04225</code>
+Stop    <code>0.046475</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>851.459</code>
+Exit by <b>2026-11-01 10:00</b>
+Why     6h ret +8.1% | liq rank 187 | BTC_DOWN
+===== 2026-10-31 00:04:44 UTC
+<b>🔴 SHORT FILLED  ETHFIUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.621</code>
+Stop    <code>0.6831</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>57.9294</code>
+Exit by <b>2026-11-01 10:00</b>
+Why     6h ret +4.6% | liq rank 97 | BTC_DOWN
+===== 2026-10-31 00:04:47 UTC
+<b>🔴 SHORT FILLED  BLURUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.008951</code>
+Stop    <code>0.0098461</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>4019.01</code>
+Exit by <b>2026-11-01 10:00</b>
+Why     6h ret +5.9% | liq rank 73 | BTC_DOWN
+===== 2026-10-31 00:04:48 UTC
+<b>🔴 SHORT FILLED  OPUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.11976</code>
+Stop    <code>0.131736</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>300.385</code>
+Exit by <b>2026-11-01 10:00</b>
+Why     6h ret +8.2% | liq rank 61 | BTC_DOWN
