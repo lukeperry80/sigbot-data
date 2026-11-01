@@ -1511,3 +1511,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-01T17:02:07Z,*,scan,,,,v1.1 universe=230 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9589.18 closed=159
 2026-11-01T18:02:07Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9589.18 closed=159
 2026-11-01T19:02:00Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9589.18 closed=159
+2026-11-01T20:02:07Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=1 armed=0 open=17 pending=1 equity=9589.18 closed=159
