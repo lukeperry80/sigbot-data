@@ -4277,3 +4277,51 @@ Risk    0.12% of equity if stopped
 Qty     <code>275.025</code>
 Exit by <b>2026-11-06 05:00</b>
 Why     mom rank 0.95 | liq rank 51 | BTC_UP
+===== 2026-11-01 00:04:26 UTC
+<b>🔴 SHORT FILLED  MUBARAKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.044995</code>
+Stop    <code>0.0485101</code>  (7.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3419.91</code>
+Exit by <b>2026-11-11 10:00</b>
+Why     mom rank 0.09 | liq rank 225 | BTC_DOWN
+===== 2026-11-01 00:04:27 UTC
+⏰ <b>EXIT NOW — BIOUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.024266</code>
+Entry <code>0.02206</code>  Mark <code>0.02149</code>
+Result <b>+0.26R gross / +0.23R net</b>
+Close this position now.
+===== 2026-11-01 00:04:28 UTC
+⏰ <b>EXIT NOW — POPCATUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.046475</code>
+Entry <code>0.04225</code>  Mark <code>0.04076</code>
+Result <b>+0.35R gross / +0.34R net</b>
+Close this position now.
+===== 2026-11-01 00:04:30 UTC
+⏰ <b>EXIT NOW — ETHFIUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.6831</code>
+Entry <code>0.621</code>  Mark <code>0.6235</code>
+Result <b>-0.04R gross / -0.06R net</b>
+Close this position now.
+===== 2026-11-01 00:04:31 UTC
+⏰ <b>EXIT NOW — BLURUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.00931965</code>
+Entry <code>0.008951</code>  Mark <code>0.008051</code>
+Result <b>+1.01R gross / +0.98R net</b>
+Close this position now.
+===== 2026-11-01 00:04:32 UTC
+⏰ <b>EXIT NOW — OPUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.129334</code>
+Entry <code>0.11976</code>  Mark <code>0.11293</code>
+Result <b>+0.57R gross / +0.55R net</b>
+Close this position now.
+===== 2026-11-01 00:04:34 UTC
+<b>🟡 LONG SETUP  ZROUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>1.8156</code>  (post-only retest)
+Stop    <code>1.644284</code>  (9.4% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-01 22:02</b>
+Why     mom rank 0.70 | liq rank 31 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

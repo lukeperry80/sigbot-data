@@ -1470,3 +1470,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-10-31T21:02:07Z,*,scan,,,,v1.1 universe=231 regime=BTC_UP signals=0 armed=0 open=21 pending=1 equity=9617.06 closed=150
 2026-10-31T22:02:07Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=0 armed=0 open=21 pending=1 equity=9617.06 closed=150
 2026-10-31T23:02:02Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=0 armed=0 open=21 pending=1 equity=9617.06 closed=150
+2026-11-01T00:02:00Z,MUBARAKUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.044995
+2026-11-01T00:02:00Z,BIOUSDT,exit_due,SHORT,XREV_SHORT,C,+0.258R gross +0.234R net
+2026-11-01T00:02:00Z,POPCATUSDT,exit_due,SHORT,XREV_SHORT,C,+0.353R gross +0.341R net
+2026-11-01T00:02:00Z,ETHFIUSDT,exit_due,SHORT,XREV_SHORT,C,-0.040R gross -0.057R net
+2026-11-01T00:02:00Z,BLURUSDT,exit_due,SHORT,XREV_SHORT,C,+1.005R gross +0.985R net
+2026-11-01T00:02:00Z,OPUSDT,exit_due,SHORT,XREV_SHORT,C,+0.570R gross +0.554R net
+2026-11-01T00:02:00Z,ZROUSDT,setup,LONG,LONG_MAJ,C,limit level 1.8156
+2026-11-01T00:02:00Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=1 armed=1 open=17 pending=1 equity=9624.46 closed=155
