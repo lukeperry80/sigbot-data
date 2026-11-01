@@ -1479,3 +1479,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-01T00:02:00Z,ZROUSDT,setup,LONG,LONG_MAJ,C,limit level 1.8156
 2026-11-01T00:02:00Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=1 armed=1 open=17 pending=1 equity=9624.46 closed=155
 2026-11-01T01:02:01Z,*,scan,,,,v1.1 universe=230 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9624.46 closed=155
+2026-11-01T02:02:07Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9624.46 closed=155
