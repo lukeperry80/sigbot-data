@@ -4325,3 +4325,26 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-01 22:02</b>
 Why     mom rank 0.70 | liq rank 31 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-01 04:04:32 UTC
+🛑 <b>STOPPED — INITUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.19792</code>  Stop <code>0.165835</code>  Exit <code>0.165835</code>
+Loss  <b>-0.99R net</b> ≈ 0.12% of equity
+===== 2026-11-01 04:04:33 UTC
+<b>🟡 LONG SETUP  MAGMAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.4385</code>  (post-only retest)
+Stop    <code>0.37668595</code>  (14.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-02 02:02</b>
+Why     mom rank 0.99 | liq rank 70 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-01 04:04:35 UTC
+<b>🟡 LONG SETUP  XPLUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.083</code>  (post-only retest)
+Stop    <code>0.077471969</code>  (6.7% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-02 02:02</b>
+Why     mom rank 0.82 | liq rank 50 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
