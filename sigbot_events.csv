@@ -1504,3 +1504,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-01T14:02:00Z,*,scan,,,,v1.1 universe=230 regime=BTC_UP signals=0 armed=0 open=18 pending=3 equity=9604.74 closed=157
 2026-11-01T15:02:07Z,APRUSDT,fill,LONG,LONG_MAJ,C,entry 0.0637 level 0.0637 bar 2026-11-01T14:00:00Z
 2026-11-01T15:02:07Z,*,scan,,,,v1.1 universe=230 regime=BTC_UP signals=0 armed=0 open=19 pending=2 equity=9604.74 closed=157
+2026-11-01T16:02:07Z,MAGMAUSDT,expired,LONG,LONG_MAJ,A,level 0.4385
+2026-11-01T16:02:07Z,BEAMUSDT,stop,LONG,LONG_MAJ,C,stop 0.0046373515 exit 0.0046373515 bar 2026-11-01T15:00:00Z net -1.005R
+2026-11-01T16:02:07Z,*,scan,,,,v1.1 universe=230 regime=BTC_UP signals=2 armed=0 open=18 pending=1 equity=9601.12 closed=158

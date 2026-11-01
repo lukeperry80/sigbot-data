@@ -4416,3 +4416,8 @@ Risk    0.04% of equity if stopped
 Qty     <code>310.92</code>
 Exit by <b>2026-11-07 00:00</b>
 Why     mom rank 1.00 | liq rank 30 | BTC_UP
+===== 2026-11-01 16:05:15 UTC
+🛑 <b>STOPPED — BEAMUSDT LONG</b>
+LONG_MAJ, grade C
+Entry <code>0.005558</code>  Stop <code>0.0046373515</code>  Exit <code>0.0046373515</code>
+Loss  <b>-1.01R net</b> ≈ 0.04% of equity
