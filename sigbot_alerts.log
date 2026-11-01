@@ -4389,3 +4389,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-02 06:02</b>
 Why     mom rank 0.99 | liq rank 30 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-01 10:05:21 UTC
+<b>🟢 LONG FILLED  BEAMUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>0.005558</code>
+Stop    <code>0.0046373515</code>  (16.6% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3912.22</code>
+Exit by <b>2026-11-06 19:00</b>
+Why     mom rank 0.99 | liq rank 30 | BTC_UP
