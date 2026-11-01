@@ -4407,3 +4407,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-02 10:02</b>
 Why     mom rank 1.00 | liq rank 30 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-01 15:05:16 UTC
+<b>🟢 LONG FILLED  APRUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>0.0637</code>
+Stop    <code>0.052115745</code>  (18.2% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>310.92</code>
+Exit by <b>2026-11-07 00:00</b>
+Why     mom rank 1.00 | liq rank 30 | BTC_UP
