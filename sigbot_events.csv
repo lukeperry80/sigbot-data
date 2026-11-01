@@ -1490,3 +1490,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-01T06:02:01Z,XPLUSDT,stop,LONG,LONG_MAJ,C,stop 0.077471969 exit 0.07135 bar 2026-11-01T05:00:00Z net -2.120R
 2026-11-01T06:02:01Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=0 armed=0 open=16 pending=2 equity=9604.74 closed=157
 2026-11-01T07:02:07Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=0 armed=0 open=16 pending=2 equity=9604.74 closed=157
+2026-11-01T08:02:07Z,ZROUSDT,fill,LONG,LONG_MAJ,C,entry 1.8156 level 1.8156 bar 2026-11-01T07:00:00Z
+2026-11-01T08:02:07Z,ESPORTSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.01179
+2026-11-01T08:02:07Z,BEAMUSDT,setup,LONG,LONG_MAJ,C,limit level 0.005558
+2026-11-01T08:02:07Z,*,scan,,,,v1.1 universe=229 regime=BTC_UP signals=2 armed=2 open=17 pending=3 equity=9604.74 closed=157
