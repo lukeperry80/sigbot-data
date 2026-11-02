@@ -1536,3 +1536,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-02T12:02:00Z,ORCAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 1.4749
 2026-11-02T12:02:00Z,HUMAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02493
 2026-11-02T12:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=4 armed=4 open=15 pending=5 equity=9618.24 closed=161
+2026-11-02T13:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9618.24 closed=161
