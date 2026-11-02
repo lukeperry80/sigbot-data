@@ -18,7 +18,7 @@
    "qty": 1411.895811803416,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "SYRUPUSDT": {
    "symbol": "SYRUPUSDT",
@@ -36,7 +36,7 @@
    "qty": 633.9637260150784,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "METUSDT": {
    "symbol": "METUSDT",
@@ -54,7 +54,7 @@
    "qty": 333.37905531370143,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
@@ -72,7 +72,7 @@
    "qty": 3466.401326245215,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "MAGICUSDT": {
    "symbol": "MAGICUSDT",
@@ -90,7 +90,7 @@
    "qty": 1461.0640273402432,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "JUPUSDT": {
    "symbol": "JUPUSDT",
@@ -108,7 +108,7 @@
    "qty": 501.3152602117109,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "BERAUSDT": {
    "symbol": "BERAUSDT",
@@ -126,7 +126,7 @@
    "qty": 824.8580937019666,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "MINAUSDT": {
    "symbol": "MINAUSDT",
@@ -136,15 +136,15 @@
    "size_mult": 1.0,
    "entry": 0.06376,
    "entry_ts": 1792857600000,
-   "stop": 0.06671022518358702,
+   "stop": 0.06634022518358702,
    "R": 0.00787348345572468,
    "exit_due_ts": 1793721600000,
-   "best": 0.0549,
+   "best": 0.05453,
    "risk_amt": 12.29270272416359,
    "qty": 1561.2787901682536,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "MOVRUSDT": {
    "symbol": "MOVRUSDT",
@@ -162,7 +162,7 @@
    "qty": 100.50165636729571,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "JASMYUSDT": {
    "symbol": "JASMYUSDT",
@@ -180,7 +180,7 @@
    "qty": 24301.450217822035,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "PYTHUSDT": {
    "symbol": "PYTHUSDT",
@@ -198,7 +198,7 @@
    "qty": 868.0355536914298,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "ZKUSDT": {
    "symbol": "ZKUSDT",
@@ -216,7 +216,7 @@
    "qty": 5946.428668816709,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "RENDERUSDT": {
    "symbol": "RENDERUSDT",
@@ -229,12 +229,12 @@
    "stop": 1.7190896764886643,
    "R": 0.15508967648866423,
    "exit_due_ts": 1794211200000,
-   "best": 1.5,
+   "best": 1.494,
    "risk_amt": 11.96301859064906,
    "qty": 77.1361373722606,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "MUBARAKUSDT": {
    "symbol": "MUBARAKUSDT",
@@ -252,7 +252,7 @@
    "qty": 3419.910741089631,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793642400000
+   "last_bar_ts": 1793646000000
   },
   "ZROUSDT": {
    "symbol": "ZROUSDT",
@@ -270,24 +270,25 @@
    "qty": 21.024167151170193,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1793642400000
-  }
- },
- "pending": {
+   "last_bar_ts": 1793646000000
+  },
   "SUSDT": {
    "symbol": "SUSDT",
    "direction": "SHORT",
    "module": "SHORT_TAIL",
    "grade": "A",
    "size_mult": 1.0,
-   "kind": "confirm",
-   "level": 0.03841,
-   "atr": 0.0009805397393527235,
-   "created_ts": 1793620920189,
-   "expires_ts": 1793649600000,
-   "liq_rank": 137,
-   "regime": "BTC_DOWN",
-   "note": "mom rank 0.04"
+   "entry": 0.03772,
+   "entry_ts": 1793649600000,
+   "stop": 0.04037107947870545,
+   "R": 0.002651079478705451,
+   "exit_due_ts": 1794513600000,
+   "best": 0.03772,
+   "risk_amt": 12.022800976582303,
+   "qty": 4535.058670686538,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1793646000000
   },
   "DATAUSDT": {
    "symbol": "DATAUSDT",
@@ -295,14 +296,17 @@
    "module": "SHORT_TAIL",
    "grade": "A",
    "size_mult": 1.0,
-   "kind": "confirm",
-   "level": 0.1228,
-   "atr": 0.00355844975088967,
-   "created_ts": 1793620920189,
-   "expires_ts": 1793649600000,
-   "liq_rank": 178,
-   "regime": "BTC_DOWN",
-   "note": "mom rank 0.14"
+   "entry": 0.1213,
+   "entry_ts": 1793649600000,
+   "stop": 0.12991689950177934,
+   "R": 0.008616899501779338,
+   "exit_due_ts": 1794513600000,
+   "best": 0.1213,
+   "risk_amt": 12.022800976582303,
+   "qty": 1395.258349490982,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1793646000000
   },
   "ORCAUSDT": {
    "symbol": "ORCAUSDT",
@@ -310,14 +314,17 @@
    "module": "SHORT_TAIL",
    "grade": "A",
    "size_mult": 1.0,
-   "kind": "confirm",
-   "level": 1.4749,
-   "atr": 0.03730172342917861,
-   "created_ts": 1793620920189,
-   "expires_ts": 1793649600000,
-   "liq_rank": 195,
-   "regime": "BTC_DOWN",
-   "note": "mom rank 0.18"
+   "entry": 1.4251,
+   "entry_ts": 1793649600000,
+   "stop": 1.5495034468583573,
+   "R": 0.12440344685835725,
+   "exit_due_ts": 1794513600000,
+   "best": 1.4251,
+   "risk_amt": 12.022800976582303,
+   "qty": 96.64363231246456,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1793646000000
   },
   "HUMAUSDT": {
    "symbol": "HUMAUSDT",
@@ -325,15 +332,20 @@
    "module": "SHORT_TAIL",
    "grade": "A",
    "size_mult": 1.0,
-   "kind": "confirm",
-   "level": 0.02493,
-   "atr": 0.0014239983696730108,
-   "created_ts": 1793620920189,
-   "expires_ts": 1793649600000,
-   "liq_rank": 96,
-   "regime": "BTC_DOWN",
-   "note": "mom rank 0.17"
-  },
+   "entry": 0.02228,
+   "entry_ts": 1793649600000,
+   "stop": 0.02777799673934602,
+   "R": 0.00549799673934602,
+   "exit_due_ts": 1794513600000,
+   "best": 0.02228,
+   "risk_amt": 12.022800976582303,
+   "qty": 2186.760295898684,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1793646000000
+  }
+ },
+ "pending": {
   "RAYDIUMUSDT": {
    "symbol": "RAYDIUMUSDT",
    "direction": "SHORT",
@@ -365,9 +377,9 @@
    "note": "mom rank 0.07"
   }
  },
- "last_4h": 1793635200000,
+ "last_4h": 1793649600000,
  "last_day": 1793577600000,
- "last_run_ms": 1793646127844,
+ "last_run_ms": 1793649727846,
  "closed": [
   {
    "symbol": "MAGICUSDT",

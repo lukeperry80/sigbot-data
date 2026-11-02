@@ -4500,3 +4500,39 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-03 10:00</b>
 Why     mom rank 0.07 | liq rank 142 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-02 20:04:32 UTC
+<b>🔴 SHORT FILLED  SUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.03772</code>
+Stop    <code>0.040371079</code>  (7.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4535.06</code>
+Exit by <b>2026-11-13 06:00</b>
+Why     mom rank 0.04 | liq rank 137 | BTC_DOWN
+===== 2026-11-02 20:04:33 UTC
+<b>🔴 SHORT FILLED  DATAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.1213</code>
+Stop    <code>0.1299169</code>  (7.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1395.26</code>
+Exit by <b>2026-11-13 06:00</b>
+Why     mom rank 0.14 | liq rank 178 | BTC_DOWN
+===== 2026-11-02 20:04:34 UTC
+<b>🔴 SHORT FILLED  ORCAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>1.4251</code>
+Stop    <code>1.5495034</code>  (8.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>96.6436</code>
+Exit by <b>2026-11-13 06:00</b>
+Why     mom rank 0.18 | liq rank 195 | BTC_DOWN
+===== 2026-11-02 20:04:35 UTC
+<b>🔴 SHORT FILLED  HUMAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.02228</code>
+Stop    <code>0.027777997</code>  (24.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>2186.76</code>
+Exit by <b>2026-11-13 06:00</b>
+Why     mom rank 0.17 | liq rank 96 | BTC_DOWN
