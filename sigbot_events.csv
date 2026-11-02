@@ -1528,3 +1528,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-02T07:02:07Z,APRUSDT,stop,LONG,LONG_MAJ,C,stop 0.052115745 exit 0.052115745 bar 2026-11-02T06:00:00Z net -1.006R
 2026-11-02T07:02:07Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=0 armed=0 open=15 pending=1 equity=9618.24 closed=161
 2026-11-02T08:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=0 armed=0 open=15 pending=1 equity=9618.24 closed=161
+2026-11-02T09:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_DOWN signals=0 armed=0 open=15 pending=1 equity=9618.24 closed=161
