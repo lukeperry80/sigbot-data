@@ -4432,3 +4432,12 @@ SHORT_TAIL, grade A  |  stop was <code>0.55885148</code>
 Entry <code>0.6522</code>  Mark <code>0.4613</code>
 Result <b>+2.68R gross / +2.68R net</b>
 Close this position now.
+===== 2026-11-02 04:05:10 UTC
+<b>🟡 LONG SETUP  HAEDALUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.02523</code>  (post-only retest)
+Stop    <code>0.022286403</code>  (11.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-03 02:02</b>
+Why     mom rank 0.95 | liq rank 82 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

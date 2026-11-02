@@ -18,7 +18,7 @@
    "qty": 1411.895811803416,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "SYRUPUSDT": {
    "symbol": "SYRUPUSDT",
@@ -36,7 +36,7 @@
    "qty": 633.9637260150784,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "METUSDT": {
    "symbol": "METUSDT",
@@ -54,7 +54,7 @@
    "qty": 333.37905531370143,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "KAIAUSDT": {
    "symbol": "KAIAUSDT",
@@ -72,7 +72,7 @@
    "qty": 3466.401326245215,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "MAGICUSDT": {
    "symbol": "MAGICUSDT",
@@ -90,7 +90,7 @@
    "qty": 1461.0640273402432,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "JUPUSDT": {
    "symbol": "JUPUSDT",
@@ -108,7 +108,7 @@
    "qty": 501.3152602117109,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "BERAUSDT": {
    "symbol": "BERAUSDT",
@@ -126,7 +126,7 @@
    "qty": 824.8580937019666,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "MINAUSDT": {
    "symbol": "MINAUSDT",
@@ -144,7 +144,7 @@
    "qty": 1561.2787901682536,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "MOVRUSDT": {
    "symbol": "MOVRUSDT",
@@ -162,7 +162,7 @@
    "qty": 100.50165636729571,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "JASMYUSDT": {
    "symbol": "JASMYUSDT",
@@ -180,7 +180,7 @@
    "qty": 24301.450217822035,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "PYTHUSDT": {
    "symbol": "PYTHUSDT",
@@ -198,7 +198,7 @@
    "qty": 868.0355536914298,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "ZKUSDT": {
    "symbol": "ZKUSDT",
@@ -216,7 +216,7 @@
    "qty": 5946.428668816709,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "RENDERUSDT": {
    "symbol": "RENDERUSDT",
@@ -234,7 +234,7 @@
    "qty": 77.1361373722606,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "MUBARAKUSDT": {
    "symbol": "MUBARAKUSDT",
@@ -252,7 +252,7 @@
    "qty": 3419.910741089631,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "ZROUSDT": {
    "symbol": "ZROUSDT",
@@ -270,7 +270,7 @@
    "qty": 21.024167151170193,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   },
   "APRUSDT": {
    "symbol": "APRUSDT",
@@ -288,13 +288,29 @@
    "qty": 310.920047545864,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1793584800000
+   "last_bar_ts": 1793588400000
   }
  },
- "pending": {},
- "last_4h": 1793577600000,
+ "pending": {
+  "HAEDALUSDT": {
+   "symbol": "HAEDALUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "kind": "limit",
+   "level": 0.02523,
+   "atr": 0.0014717985644913058,
+   "created_ts": 1793592127801,
+   "expires_ts": 1793635327801,
+   "liq_rank": 82,
+   "regime": "BTC_UP",
+   "note": "mom rank 0.95"
+  }
+ },
+ "last_4h": 1793592000000,
  "last_day": 1793577600000,
- "last_run_ms": 1793588527834,
+ "last_run_ms": 1793592127801,
  "closed": [
   {
    "symbol": "MAGICUSDT",
