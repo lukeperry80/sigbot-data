@@ -4756,3 +4756,45 @@ Risk    0.12% of equity if stopped
 Qty     <code>3099.02</code>
 Exit by <b>2026-11-09 03:00</b>
 Why     mom rank 0.81 | liq rank 99 | BTC_UP
+===== 2026-11-03 20:04:30 UTC
+<b>🔴 SHORT FILLED  JTOUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.3439</code>
+Stop    <code>0.36741939</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>518.198</code>
+Exit by <b>2026-11-14 06:00</b>
+Why     mom rank 0.10 | liq rank 133 | BTC_DOWN
+===== 2026-11-03 20:04:31 UTC
+<b>🟢 LONG FILLED  CASHCATUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.10744</code>
+Stop    <code>0.097239781</code>  (9.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1194.85</code>
+Exit by <b>2026-11-09 05:00</b>
+Why     mom rank 0.80 | liq rank 70 | BTC_UP
+===== 2026-11-03 20:04:32 UTC
+<b>🟢 LONG FILLED  LITUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>3.33</code>
+Stop    <code>3.0430624</code>  (8.6% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>12.7425</code>
+Exit by <b>2026-11-09 05:00</b>
+Why     mom rank 0.89 | liq rank 21 | BTC_UP
+===== 2026-11-03 20:04:33 UTC
+⏰ <b>EXIT NOW — MOVRUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>1.151328</code>
+Entry <code>1.0909</code>  Mark <code>1.0679</code>
+Result <b>+0.19R gross / +0.20R net</b>
+Close this position now.
+===== 2026-11-03 20:04:34 UTC
+<b>🟡 LONG SETUP  TRXUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.3237</code>  (post-only retest)
+Stop    <code>0.31621271</code>  (2.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 18:02</b>
+Why     mom rank 0.81 | liq rank 12 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

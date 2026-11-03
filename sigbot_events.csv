@@ -1626,3 +1626,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-03T18:02:00Z,POLUSDT,fill,LONG,LONG_MAJ,A,entry 0.093 level 0.093 bar 2026-11-03T17:00:00Z
 2026-11-03T18:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=16 pending=4 equity=9750.16 closed=171
 2026-11-03T19:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=16 pending=4 equity=9750.16 closed=171
+2026-11-03T20:02:07Z,JTOUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.3439
+2026-11-03T20:02:07Z,CASHCATUSDT,fill,LONG,LONG_MAJ,A,entry 0.10744 level 0.10744 bar 2026-11-03T19:00:00Z
+2026-11-03T20:02:07Z,LITUSDT,fill,LONG,LONG_MAJ,C,entry 3.33 level 3.33 bar 2026-11-03T19:00:00Z
+2026-11-03T20:02:07Z,MOVRUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.188R gross +0.202R net
+2026-11-03T20:02:07Z,TRXUSDT,setup,LONG,LONG_MAJ,A,limit level 0.3237
+2026-11-03T20:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=1 armed=1 open=18 pending=2 equity=9752.64 closed=172
