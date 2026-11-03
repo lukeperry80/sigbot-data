@@ -4572,3 +4572,33 @@ Risk    0.04% of equity if stopped
 Qty     <code>188.052</code>
 Exit by <b>2026-11-04 10:00</b>
 Why     6h ret +14.2% | liq rank 144 | BTC_DOWN
+===== 2026-11-03 04:05:10 UTC
+⏰ <b>EXIT NOW — MARSCOINUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.062315983</code>
+Entry <code>0.06962</code>  Mark <code>0.05181</code>
+Result <b>+2.05R gross / +2.07R net</b>
+Close this position now.
+===== 2026-11-03 04:05:12 UTC
+⏰ <b>EXIT NOW — SYRUPUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.16811688</code>
+Entry <code>0.18137</code>  Mark <code>0.15354</code>
+Result <b>+1.44R gross / +1.45R net</b>
+Close this position now.
+===== 2026-11-03 04:05:13 UTC
+<b>🟡 SHORT SETUP  SOONUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.2366</code>  (needs 4h close confirm)
+Stop    <code>0.26072249</code>  (10.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-03 22:00</b>
+Why     mom rank 0.13 | liq rank 107 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 04:05:14 UTC
+<b>🟡 SHORT SETUP  2ZUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02321</code>  (needs 4h close confirm)
+Stop    <code>0.024551861</code>  (5.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-03 22:00</b>
+Why     mom rank 0.15 | liq rank 164 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
