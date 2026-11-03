@@ -4676,3 +4676,60 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-04 06:00</b>
 Why     mom rank 0.10 | liq rank 133 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 16:04:26 UTC
+⏰ <b>EXIT NOW — BERAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.15145421</code>
+Entry <code>0.151</code>  Mark <code>0.1313</code>
+Result <b>+1.32R gross / +1.26R net</b>
+Close this position now.
+===== 2026-11-03 16:04:27 UTC
+⏰ <b>EXIT NOW — MINAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.066100225</code>
+Entry <code>0.06376</code>  Mark <code>0.05605</code>
+Result <b>+0.98R gross / +0.98R net</b>
+Close this position now.
+===== 2026-11-03 16:04:28 UTC
+<b>🟡 LONG SETUP  XRPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1.2638</code>  (post-only retest)
+Stop    <code>1.2304484</code>  (2.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 14:02</b>
+Why     mom rank 0.76 | liq rank 6 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 16:04:30 UTC
+<b>🟡 LONG SETUP  CASHCATUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.10744</code>  (post-only retest)
+Stop    <code>0.097239781</code>  (9.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 14:02</b>
+Why     mom rank 0.80 | liq rank 70 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 16:04:31 UTC
+<b>🟡 LONG SETUP  WLFIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05131</code>  (post-only retest)
+Stop    <code>0.049881827</code>  (2.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 14:02</b>
+Why     mom rank 0.73 | liq rank 96 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 16:04:32 UTC
+<b>🟡 LONG SETUP  POLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.093</code>  (post-only retest)
+Stop    <code>0.089067242</code>  (4.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 14:02</b>
+Why     mom rank 0.81 | liq rank 99 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 16:04:33 UTC
+<b>🟡 LONG SETUP  LITUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>3.33</code>  (post-only retest)
+Stop    <code>3.0430624</code>  (8.6% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-04 14:02</b>
+Why     mom rank 0.89 | liq rank 21 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

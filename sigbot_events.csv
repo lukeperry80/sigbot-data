@@ -1609,3 +1609,14 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-03T13:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=17 pending=4 equity=9726.33 closed=168
 2026-11-03T14:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=17 pending=4 equity=9726.33 closed=168
 2026-11-03T15:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=17 pending=4 equity=9726.33 closed=168
+2026-11-03T16:02:00Z,MARSCOINUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.05085 >= level 0.05016
+2026-11-03T16:02:00Z,PONSUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.2019 >= level 0.2003
+2026-11-03T16:02:00Z,APTUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.6221 >= level 0.6121
+2026-11-03T16:02:00Z,BERAUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.322R gross +1.255R net
+2026-11-03T16:02:00Z,MINAUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.979R gross +0.980R net
+2026-11-03T16:02:00Z,XRPUSDT,setup,LONG,LONG_MAJ,A,limit level 1.2638
+2026-11-03T16:02:00Z,CASHCATUSDT,setup,LONG,LONG_MAJ,A,limit level 0.10744
+2026-11-03T16:02:00Z,WLFIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05131
+2026-11-03T16:02:00Z,POLUSDT,setup,LONG,LONG_MAJ,A,limit level 0.093
+2026-11-03T16:02:00Z,LITUSDT,setup,LONG,LONG_MAJ,C,limit level 3.33
+2026-11-03T16:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=5 armed=5 open=15 pending=6 equity=9753.81 closed=170
