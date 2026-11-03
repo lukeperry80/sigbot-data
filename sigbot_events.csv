@@ -1607,3 +1607,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-03T12:02:00Z,JTOUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3484
 2026-11-03T12:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=1 armed=1 open=17 pending=4 equity=9726.33 closed=168
 2026-11-03T13:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=17 pending=4 equity=9726.33 closed=168
+2026-11-03T14:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=17 pending=4 equity=9726.33 closed=168
