@@ -4738,3 +4738,21 @@ Why     mom rank 0.89 | liq rank 21 | BTC_UP
 XREV_SHORT, grade C
 Entry <code>0.44653</code>  Stop <code>0.491183</code>  Exit <code>0.491183</code>
 Loss  <b>-1.01R net</b> ≈ 0.04% of equity
+===== 2026-11-03 18:04:24 UTC
+<b>🟢 LONG FILLED  WLFIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.05131</code>
+Stop    <code>0.049881827</code>  (2.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>8533.77</code>
+Exit by <b>2026-11-09 03:00</b>
+Why     mom rank 0.73 | liq rank 96 | BTC_UP
+===== 2026-11-03 18:04:25 UTC
+<b>🟢 LONG FILLED  POLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.093</code>
+Stop    <code>0.089067242</code>  (4.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3099.02</code>
+Exit by <b>2026-11-09 03:00</b>
+Why     mom rank 0.81 | liq rank 99 | BTC_UP
