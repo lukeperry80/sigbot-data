@@ -4602,3 +4602,54 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-03 22:00</b>
 Why     mom rank 0.15 | liq rank 164 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 08:04:32 UTC
+⏰ <b>EXIT NOW — METUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.31617243</code>
+Entry <code>0.3081</code>  Mark <code>0.2704</code>
+Result <b>+1.02R gross / +1.01R net</b>
+Close this position now.
+===== 2026-11-03 08:04:33 UTC
+⏰ <b>EXIT NOW — KAIAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.035895792</code>
+Entry <code>0.03606</code>  Mark <code>0.03182</code>
+Result <b>+1.20R gross / +1.19R net</b>
+Close this position now.
+===== 2026-11-03 08:04:35 UTC
+⏰ <b>EXIT NOW — MAGICUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.088521815</code>
+Entry <code>0.0875</code>  Mark <code>0.07703</code>
+Result <b>+1.25R gross / +1.24R net</b>
+Close this position now.
+===== 2026-11-03 08:04:36 UTC
+⏰ <b>EXIT NOW — JUPUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.27255665</code>
+Entry <code>0.2948</code>  Mark <code>0.242</code>
+Result <b>+2.15R gross / +2.14R net</b>
+Close this position now.
+===== 2026-11-03 08:04:37 UTC
+<b>🟡 SHORT SETUP  MARSCOINUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.05016</code>  (needs 4h close confirm)
+Stop    <code>0.055502043</code>  (10.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 02:00</b>
+Why     mom rank 0.04 | liq rank 128 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 08:04:38 UTC
+<b>🟡 SHORT SETUP  PONSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.2003</code>  (needs 4h close confirm)
+Stop    <code>0.22359647</code>  (11.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 02:00</b>
+Why     mom rank 0.09 | liq rank 53 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 08:04:40 UTC
+<b>🟡 SHORT SETUP  APTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.6121</code>  (needs 4h close confirm)
+Stop    <code>0.64295042</code>  (5.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 02:00</b>
+Why     mom rank 0.19 | liq rank 59 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
