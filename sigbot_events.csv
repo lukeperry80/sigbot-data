@@ -1600,3 +1600,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-03T08:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=4 armed=3 open=17 pending=5 equity=9729.99 closed=167
 2026-11-03T09:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=17 pending=5 equity=9729.99 closed=167
 2026-11-03T10:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=17 pending=5 equity=9729.99 closed=167
+2026-11-03T11:02:00Z,ICNTUSDT,stop,SHORT,XREV_SHORT,C,stop 0.21098 exit 0.21098 bar 2026-11-03T10:00:00Z net -1.015R
+2026-11-03T11:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=16 pending=5 equity=9726.33 closed=168
