@@ -1633,3 +1633,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-03T20:02:07Z,TRXUSDT,setup,LONG,LONG_MAJ,A,limit level 0.3237
 2026-11-03T20:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=1 armed=1 open=18 pending=2 equity=9752.64 closed=172
 2026-11-03T21:02:01Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=18 pending=2 equity=9752.64 closed=172
+2026-11-03T22:02:00Z,TRXUSDT,fill,LONG,LONG_MAJ,A,entry 0.3237 level 0.3237 bar 2026-11-03T21:00:00Z
+2026-11-03T22:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=19 pending=1 equity=9752.64 closed=172

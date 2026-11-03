@@ -4798,3 +4798,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-04 18:02</b>
 Why     mom rank 0.81 | liq rank 12 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-03 22:04:22 UTC
+<b>🟢 LONG FILLED  TRXUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.3237</code>
+Stop    <code>0.31621271</code>  (2.3% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1628.2</code>
+Exit by <b>2026-11-09 07:00</b>
+Why     mom rank 0.81 | liq rank 12 | BTC_UP
