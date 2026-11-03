@@ -4536,3 +4536,39 @@ Risk    0.12% of equity if stopped
 Qty     <code>2186.76</code>
 Exit by <b>2026-11-13 06:00</b>
 Why     mom rank 0.17 | liq rank 96 | BTC_DOWN
+===== 2026-11-03 00:04:38 UTC
+<b>🔴 SHORT FILLED  RAYDIUMUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>1.5325</code>
+Stop    <code>1.6488269</code>  (7.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>103.354</code>
+Exit by <b>2026-11-13 10:00</b>
+Why     mom rank 0.19 | liq rank 132 | BTC_DOWN
+===== 2026-11-03 00:04:39 UTC
+<b>🔴 SHORT FILLED  WALUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.02802</code>
+Stop    <code>0.029765097</code>  (6.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>6889.47</code>
+Exit by <b>2026-11-13 10:00</b>
+Why     mom rank 0.07 | liq rank 142 | BTC_DOWN
+===== 2026-11-03 00:04:40 UTC
+<b>🔴 SHORT FILLED  BRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.44653</code>
+Stop    <code>0.491183</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>80.7749</code>
+Exit by <b>2026-11-04 10:00</b>
+Why     6h ret +5.5% | liq rank 215 | BTC_DOWN
+===== 2026-11-03 00:04:42 UTC
+<b>🔴 SHORT FILLED  ICNTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.1918</code>
+Stop    <code>0.21098</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>188.052</code>
+Exit by <b>2026-11-04 10:00</b>
+Why     6h ret +14.2% | liq rank 144 | BTC_DOWN

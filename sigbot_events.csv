@@ -1571,3 +1571,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-02T21:02:00Z,*,scan,,,,v1.1 universe=229 regime=BTC_DOWN signals=0 armed=0 open=19 pending=2 equity=9618.24 closed=161
 2026-11-02T22:02:00Z,*,scan,,,,v1.1 universe=229 regime=BTC_DOWN signals=0 armed=0 open=19 pending=2 equity=9618.24 closed=161
 2026-11-02T23:02:00Z,*,scan,,,,v1.1 universe=229 regime=BTC_DOWN signals=0 armed=0 open=19 pending=2 equity=9618.24 closed=161
+2026-11-03T00:02:07Z,RAYDIUMUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 1.5325
+2026-11-03T00:02:07Z,WALUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.02802
+2026-11-03T00:02:07Z,SOONUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-03T00:02:07Z,BRUSDT,open,SHORT,XREV_SHORT,C,entry 0.44653
+2026-11-03T00:02:07Z,ICNTUSDT,open,SHORT,XREV_SHORT,C,entry 0.1918
+2026-11-03T00:02:07Z,*,scan,,,,v1.1 universe=228 regime=BTC_DOWN signals=3 armed=2 open=23 pending=0 equity=9618.24 closed=161
