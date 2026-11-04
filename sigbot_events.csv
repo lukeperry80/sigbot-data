@@ -1641,3 +1641,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T01:02:01Z,XRPUSDT,fill,LONG,LONG_MAJ,A,entry 1.2638 level 1.2638 bar 2026-11-04T00:00:00Z
 2026-11-04T01:02:01Z,WLFIUSDT,stop,LONG,LONG_MAJ,A,stop 0.049881827 exit 0.049881827 bar 2026-11-04T00:00:00Z net -1.037R
 2026-11-04T01:02:01Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=20 pending=0 equity=9740.00 closed=173
+2026-11-04T02:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9740.00 closed=173
