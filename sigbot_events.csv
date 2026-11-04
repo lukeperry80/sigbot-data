@@ -1643,3 +1643,20 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T01:02:01Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=20 pending=0 equity=9740.00 closed=173
 2026-11-04T02:02:07Z,*,scan,,,,v1.1 universe=226 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9740.00 closed=173
 2026-11-04T03:02:03Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9740.00 closed=173
+2026-11-04T04:02:01Z,EIGENUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1766
+2026-11-04T04:02:01Z,MARSCOINUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.04865
+2026-11-04T04:02:01Z,CVXUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 1.8671
+2026-11-04T04:02:01Z,BERAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1277
+2026-11-04T04:02:01Z,PHAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.03709
+2026-11-04T04:02:01Z,RLCUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.437
+2026-11-04T04:02:01Z,AZTECUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.01377
+2026-11-04T04:02:01Z,IMXUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,MEWUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,ARCUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,THETAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,LONGXIAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,APTUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,CRVUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,DOODUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,NILUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-04T04:02:01Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=16 armed=7 open=20 pending=7 equity=9740.00 closed=173

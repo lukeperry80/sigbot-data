@@ -4830,3 +4830,66 @@ Why     mom rank 0.76 | liq rank 6 | BTC_UP
 LONG_MAJ, grade A
 Entry <code>0.05131</code>  Stop <code>0.049881827</code>  Exit <code>0.049881827</code>
 Loss  <b>-1.04R net</b> ≈ 0.13% of equity
+===== 2026-11-04 04:04:31 UTC
+<b>🟡 SHORT SETUP  EIGENUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1766</code>  (needs 4h close confirm)
+Stop    <code>0.18733173</code>  (6.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.17 | liq rank 119 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 04:04:33 UTC
+<b>🟡 SHORT SETUP  MARSCOINUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04865</code>  (needs 4h close confirm)
+Stop    <code>0.053662509</code>  (10.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.04 | liq rank 125 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 04:04:34 UTC
+<b>🟡 SHORT SETUP  CVXUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>1.8671</code>  (needs 4h close confirm)
+Stop    <code>1.9769571</code>  (5.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.10 | liq rank 160 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 04:04:35 UTC
+<b>🟡 SHORT SETUP  BERAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1277</code>  (needs 4h close confirm)
+Stop    <code>0.13497401</code>  (5.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.15 | liq rank 169 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 04:04:36 UTC
+<b>🟡 SHORT SETUP  PHAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.03709</code>  (needs 4h close confirm)
+Stop    <code>0.039842977</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.05 | liq rank 188 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 04:04:37 UTC
+<b>🟡 SHORT SETUP  RLCUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.437</code>  (needs 4h close confirm)
+Stop    <code>0.46520575</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.04 | liq rank 189 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 04:04:38 UTC
+<b>🟡 SHORT SETUP  AZTECUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.01377</code>  (needs 4h close confirm)
+Stop    <code>0.014873137</code>  (8.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-04 22:00</b>
+Why     mom rank 0.11 | liq rank 192 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
