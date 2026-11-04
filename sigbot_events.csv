@@ -1724,3 +1724,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T16:02:03Z,HBARUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-11-04T16:02:03Z,FARTCOINUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-11-04T16:02:03Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=21 armed=3 open=21 pending=6 equity=9681.30 closed=180
+2026-11-04T17:02:07Z,*,scan,,,,v1.1 universe=227 regime=BTC_UP signals=0 armed=0 open=21 pending=6 equity=9681.30 closed=180
