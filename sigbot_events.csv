@@ -1675,3 +1675,21 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T10:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=20 pending=10 equity=9740.00 closed=173
 2026-11-04T11:02:07Z,SUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.040371079 exit 0.040371079 bar 2026-11-04T10:00:00Z net -1.016R
 2026-11-04T11:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=19 pending=10 equity=9727.79 closed=174
+2026-11-04T12:02:05Z,EIGENUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.1869 >= level 0.1766
+2026-11-04T12:02:05Z,MARSCOINUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.05251 >= level 0.04865
+2026-11-04T12:02:05Z,CVXUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 1.9099 >= level 1.8671
+2026-11-04T12:02:05Z,BERAUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.1277 >= level 0.1277
+2026-11-04T12:02:05Z,PHAUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.03773 >= level 0.03709
+2026-11-04T12:02:05Z,RLCUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.4498 >= level 0.437
+2026-11-04T12:02:05Z,AZTECUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.01428 >= level 0.01377
+2026-11-04T12:02:05Z,RAYDIUMUSDT,stop,SHORT,SHORT_TAIL,A,stop 1.6488269 exit 1.6488269 bar 2026-11-04T11:00:00Z net -1.029R
+2026-11-04T12:02:05Z,ETHUSDT,setup,LONG,LONG_MAJ,A,limit level 2317.5
+2026-11-04T12:02:05Z,ZECUSDT,setup,LONG,LONG_MAJ,A,limit level 1289.52
+2026-11-04T12:02:05Z,SUIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.9085
+2026-11-04T12:02:05Z,CAPUSDT,setup,LONG,LONG_MAJ,A,limit level 0.07559
+2026-11-04T12:02:05Z,SEIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.049
+2026-11-04T12:02:05Z,PAXGUSDT,setup,LONG,LONG_MAJ,A,limit level 4029.99
+2026-11-04T12:02:05Z,XAUTUSDT,setup,LONG,LONG_MAJ,C,limit level 4016
+2026-11-04T12:02:05Z,INJUSDT,setup,LONG,LONG_MAJ,C,limit level 7.671
+2026-11-04T12:02:05Z,PARTIUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-11-04T12:02:05Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=12 armed=8 open=18 pending=11 equity=9715.41 closed=175
