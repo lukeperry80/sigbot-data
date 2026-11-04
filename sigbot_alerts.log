@@ -5002,3 +5002,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-05 10:02</b>
 Why     mom rank 0.52 | liq rank 42 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 13:03:55 UTC
+<b>🟢 LONG FILLED  UNIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>7.418</code>
+Stop    <code>6.9363779</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>25.2153</code>
+Exit by <b>2026-11-09 22:00</b>
+Why     mom rank 0.83 | liq rank 14 | BTC_UP
