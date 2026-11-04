@@ -1673,3 +1673,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T08:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=8 armed=3 open=20 pending=10 equity=9740.00 closed=173
 2026-11-04T09:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=20 pending=10 equity=9740.00 closed=173
 2026-11-04T10:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=20 pending=10 equity=9740.00 closed=173
+2026-11-04T11:02:07Z,SUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.040371079 exit 0.040371079 bar 2026-11-04T10:00:00Z net -1.016R
+2026-11-04T11:02:07Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=19 pending=10 equity=9727.79 closed=174

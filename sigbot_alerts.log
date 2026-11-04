@@ -4920,3 +4920,8 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-05 06:02</b>
 Why     mom rank 0.79 | liq rank 86 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 11:04:40 UTC
+🛑 <b>STOPPED — SUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.03772</code>  Stop <code>0.040371079</code>  Exit <code>0.040371079</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
