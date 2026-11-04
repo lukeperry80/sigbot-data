@@ -5011,3 +5011,66 @@ Risk    0.12% of equity if stopped
 Qty     <code>25.2153</code>
 Exit by <b>2026-11-09 22:00</b>
 Why     mom rank 0.83 | liq rank 14 | BTC_UP
+===== 2026-11-04 14:03:39 UTC
+<b>🟢 LONG FILLED  ETHUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>2317.5</code>
+Stop    <code>2251.2904</code>  (2.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.183422</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.71 | liq rank 2 | BTC_UP
+===== 2026-11-04 14:03:40 UTC
+<b>🟢 LONG FILLED  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>1289.52</code>
+Stop    <code>1192.3379</code>  (7.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.124964</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.83 | liq rank 5 | BTC_UP
+===== 2026-11-04 14:03:41 UTC
+<b>🟢 LONG FILLED  SUIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.9085</code>
+Stop    <code>0.86938845</code>  (4.3% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>310.503</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.54 | liq rank 12 | BTC_UP
+===== 2026-11-04 14:03:42 UTC
+<b>🟢 LONG FILLED  SEIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.049</code>
+Stop    <code>0.046759546</code>  (4.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>5420.45</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.21 | liq rank 89 | BTC_UP
+===== 2026-11-04 14:03:43 UTC
+<b>🟢 LONG FILLED  PAXGUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>4029.99</code>
+Stop    <code>3972.456</code>  (1.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.21108</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.78 | liq rank 93 | BTC_UP
+===== 2026-11-04 14:03:44 UTC
+<b>🟢 LONG FILLED  XAUTUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>4016</code>
+Stop    <code>3957.7335</code>  (1.5% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>0.0625279</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.78 | liq rank 28 | BTC_UP
+===== 2026-11-04 14:03:46 UTC
+<b>🟢 LONG FILLED  INJUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>7.671</code>
+Stop    <code>7.1828509</code>  (6.4% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>7.46346</code>
+Exit by <b>2026-11-09 23:00</b>
+Why     mom rank 0.52 | liq rank 42 | BTC_UP
