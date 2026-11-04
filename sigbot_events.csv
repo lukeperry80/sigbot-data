@@ -1703,3 +1703,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T14:02:06Z,XAUTUSDT,fill,LONG,LONG_MAJ,C,entry 4016 level 4016 bar 2026-11-04T13:00:00Z
 2026-11-04T14:02:06Z,INJUSDT,fill,LONG,LONG_MAJ,C,entry 7.671 level 7.671 bar 2026-11-04T13:00:00Z
 2026-11-04T14:02:06Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=26 pending=3 equity=9715.41 closed=175
+2026-11-04T15:02:07Z,WALUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.029765097 exit 0.029765097 bar 2026-11-04T14:00:00Z net -1.029R
+2026-11-04T15:02:07Z,CLANKERUSDT,stop,SHORT,XREV_SHORT,C,stop 16.42255 exit 16.42255 bar 2026-11-04T14:00:00Z net -0.711R
+2026-11-04T15:02:07Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=24 pending=3 equity=9700.45 closed=177
