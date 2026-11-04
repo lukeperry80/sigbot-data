@@ -1728,3 +1728,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T18:02:07Z,SOLUSDT,fill,LONG,LONG_MAJ,A,entry 95.9 level 95.9 bar 2026-11-04T17:00:00Z
 2026-11-04T18:02:07Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=0 armed=0 open=22 pending=5 equity=9681.30 closed=180
 2026-11-04T19:02:07Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=0 armed=0 open=22 pending=5 equity=9681.30 closed=180
+2026-11-04T20:02:00Z,DOGEUSDT,fill,LONG,LONG_MAJ,A,entry 0.07631 level 0.07631 bar 2026-11-04T19:00:00Z
+2026-11-04T20:02:00Z,DGAIUSDT,skip_module_cap,LONG,LONG_MAJ,A,
+2026-11-04T20:02:00Z,CLANKERUSDT,skip_module_cap,LONG,LONG_MAJ,C,
+2026-11-04T20:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=4 armed=0 open=23 pending=4 equity=9681.30 closed=180
