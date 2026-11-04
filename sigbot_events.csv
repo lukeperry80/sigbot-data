@@ -1663,3 +1663,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-04T05:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=20 pending=7 equity=9740.00 closed=173
 2026-11-04T06:02:06Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=0 armed=0 open=20 pending=7 equity=9740.00 closed=173
 2026-11-04T07:02:01Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=20 pending=7 equity=9740.00 closed=173
+2026-11-04T08:02:07Z,UNIUSDT,setup,LONG,LONG_MAJ,A,limit level 7.418
+2026-11-04T08:02:07Z,USELESSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.13573
+2026-11-04T08:02:07Z,1000BONKUSDT,setup,LONG,LONG_MAJ,A,limit level 0.002978
+2026-11-04T08:02:07Z,PAXGUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-11-04T08:02:07Z,CCUSDT,skip_cap,LONG,LONG_MAJ,A,
+2026-11-04T08:02:07Z,XAUTUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-11-04T08:02:07Z,INJUSDT,skip_cap,LONG,LONG_MAJ,C,
+2026-11-04T08:02:07Z,*,scan,,,,v1.1 universe=225 regime=BTC_UP signals=8 armed=3 open=20 pending=10 equity=9740.00 closed=173

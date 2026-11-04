@@ -4893,3 +4893,30 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-04 22:00</b>
 Why     mom rank 0.11 | liq rank 192 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 08:04:32 UTC
+<b>🟡 LONG SETUP  UNIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>7.418</code>  (post-only retest)
+Stop    <code>6.9363779</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-05 06:02</b>
+Why     mom rank 0.83 | liq rank 14 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 08:04:33 UTC
+<b>🟡 LONG SETUP  USELESSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.13573</code>  (post-only retest)
+Stop    <code>0.12102308</code>  (10.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-05 06:02</b>
+Why     mom rank 0.54 | liq rank 59 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-04 08:04:34 UTC
+<b>🟡 LONG SETUP  1000BONKUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.002978</code>  (post-only retest)
+Stop    <code>0.002801254</code>  (5.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-05 06:02</b>
+Why     mom rank 0.79 | liq rank 86 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
