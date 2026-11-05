@@ -5162,3 +5162,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-06 02:02</b>
 Why     mom rank 0.40 | liq rank 89 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-05 08:03:46 UTC
+<b>🟡 LONG SETUP  ICPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>2.629</code>  (post-only retest)
+Stop    <code>2.5164744</code>  (4.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-06 06:02</b>
+Why     mom rank 0.62 | liq rank 90 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
