@@ -1799,3 +1799,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-05T16:02:07Z,DOODUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-05T16:02:07Z,*,scan,,,,v1.1 universe=217 regime=BTC_DOWN signals=24 armed=13 open=15 pending=13 equity=9553.32 closed=191
 2026-11-05T17:02:00Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=0 armed=0 open=15 pending=13 equity=9553.32 closed=191
+2026-11-05T18:02:03Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=0 armed=0 open=15 pending=13 equity=9553.32 closed=191
