@@ -1800,3 +1800,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-05T16:02:07Z,*,scan,,,,v1.1 universe=217 regime=BTC_DOWN signals=24 armed=13 open=15 pending=13 equity=9553.32 closed=191
 2026-11-05T17:02:00Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=0 armed=0 open=15 pending=13 equity=9553.32 closed=191
 2026-11-05T18:02:03Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=0 armed=0 open=15 pending=13 equity=9553.32 closed=191
+2026-11-05T19:02:07Z,XRPUSDT,stop,LONG,LONG_MAJ,A,stop 1.2304484 exit 1.2304484 bar 2026-11-05T18:00:00Z net -1.050R
+2026-11-05T19:02:07Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=0 armed=0 open=14 pending=13 equity=9540.52 closed=192
