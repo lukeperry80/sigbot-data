@@ -1805,3 +1805,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-05T20:02:01Z,MAGMAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-05T20:02:01Z,*,scan,,,,v1.1 universe=218 regime=BTC_DOWN signals=2 armed=0 open=14 pending=13 equity=9540.52 closed=192
 2026-11-05T21:02:07Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=14 pending=13 equity=9540.52 closed=192
+2026-11-05T22:02:07Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=14 pending=13 equity=9540.52 closed=192
