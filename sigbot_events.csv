@@ -1749,3 +1749,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-05T04:02:02Z,ATOMUSDT,setup,LONG,LONG_MAJ,A,limit level 1.489
 2026-11-05T04:02:02Z,LSKUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
 2026-11-05T04:02:02Z,*,scan,,,,v1.1 universe=219 regime=BTC_UP signals=4 armed=1 open=24 pending=2 equity=9681.30 closed=180
+2026-11-05T05:02:02Z,BTCUSDT,expired,LONG,LONG_MAJ,A,level 78829.1
+2026-11-05T05:02:02Z,*,scan,,,,v1.1 universe=216 regime=BTC_UP signals=0 armed=0 open=24 pending=1 equity=9681.30 closed=180
