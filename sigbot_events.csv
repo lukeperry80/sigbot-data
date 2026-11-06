@@ -1833,3 +1833,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-06T03:02:07Z,*,scan,,,,v1.1 universe=205 regime=BTC_DOWN signals=0 armed=0 open=23 pending=4 equity=9545.07 closed=193
 2026-11-06T04:02:02Z,MAGMAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3471
 2026-11-06T04:02:02Z,*,scan,,,,v1.1 universe=202 regime=BTC_DOWN signals=1 armed=1 open=23 pending=5 equity=9545.07 closed=193
+2026-11-06T05:02:00Z,*,scan,,,,v1.1 universe=202 regime=BTC_DOWN signals=0 armed=0 open=23 pending=5 equity=9545.07 closed=193
