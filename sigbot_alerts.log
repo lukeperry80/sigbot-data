@@ -5507,3 +5507,8 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-06 22:00</b>
 Why     mom rank 0.06 | liq rank 58 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-06 07:03:51 UTC
+🛑 <b>STOPPED — ICNTUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.2206</code>  Stop <code>0.24266</code>  Exit <code>0.24266</code>
+Loss  <b>-1.02R net</b> ≈ 0.04% of equity
