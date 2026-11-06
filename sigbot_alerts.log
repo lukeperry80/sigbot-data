@@ -5521,3 +5521,12 @@ Risk    0.12% of equity if stopped
 Qty     <code>880.381</code>
 Exit by <b>2026-11-16 18:00</b>
 Why     mom rank 0.02 | liq rank 126 | BTC_DOWN
+===== 2026-11-06 12:03:46 UTC
+<b>🔴 SHORT FILLED  MAGMAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.3383</code>
+Stop    <code>0.40419174</code>  (19.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>181.006</code>
+Exit by <b>2026-11-16 22:00</b>
+Why     mom rank 0.06 | liq rank 58 | BTC_DOWN
