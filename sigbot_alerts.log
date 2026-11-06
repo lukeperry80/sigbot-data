@@ -5512,3 +5512,12 @@ Why     mom rank 0.06 | liq rank 58 | BTC_DOWN
 XREV_SHORT, grade C
 Entry <code>0.2206</code>  Stop <code>0.24266</code>  Exit <code>0.24266</code>
 Loss  <b>-1.02R net</b> ≈ 0.04% of equity
+===== 2026-11-06 08:03:53 UTC
+<b>🔴 SHORT FILLED  CTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.1211</code>
+Stop    <code>0.13464731</code>  (11.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>880.381</code>
+Exit by <b>2026-11-16 18:00</b>
+Why     mom rank 0.02 | liq rank 126 | BTC_DOWN
