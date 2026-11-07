@@ -1888,3 +1888,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-07T16:02:07Z,BATUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.12263
 2026-11-07T16:02:07Z,*,scan,,,,v1.1 universe=186 regime=BTC_DOWN signals=4 armed=2 open=24 pending=3 equity=9527.85 closed=197
 2026-11-07T17:02:02Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
+2026-11-07T18:02:07Z,*,scan,,,,v1.1 universe=187 regime=BTC_UP signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
