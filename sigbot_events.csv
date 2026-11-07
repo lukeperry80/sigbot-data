@@ -1876,3 +1876,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-07T09:02:00Z,ACTUSDT,stop,SHORT,XREV_SHORT,C,stop 0.0116842 exit 0.0116842 bar 2026-11-07T08:00:00Z net -1.027R
 2026-11-07T09:02:00Z,*,scan,,,,v1.1 universe=189 regime=BTC_UP signals=0 armed=0 open=23 pending=2 equity=9527.85 closed=197
 2026-11-07T10:02:00Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9527.85 closed=197
+2026-11-07T11:02:07Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9527.85 closed=197
