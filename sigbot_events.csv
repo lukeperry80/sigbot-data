@@ -1895,3 +1895,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-07T20:02:02Z,FOGOUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-07T20:02:02Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=2 armed=1 open=24 pending=3 equity=9527.85 closed=197
 2026-11-07T21:02:02Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
+2026-11-07T22:02:07Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
