@@ -5530,3 +5530,27 @@ Risk    0.12% of equity if stopped
 Qty     <code>181.006</code>
 Exit by <b>2026-11-16 22:00</b>
 Why     mom rank 0.06 | liq rank 58 | BTC_DOWN
+===== 2026-11-07 00:03:41 UTC
+⏰ <b>EXIT NOW — STONKUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.11698</code>
+Entry <code>0.1092</code>  Mark <code>0.1025</code>
+Result <b>+0.61R gross / +0.60R net</b>
+Close this position now.
+===== 2026-11-07 00:03:42 UTC
+<b>🔴 SHORT FILLED  ACTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.010622</code>
+Stop    <code>0.0116842</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3369.28</code>
+Exit by <b>2026-11-08 10:00</b>
+Why     6h ret +9.9% | liq rank 177 | BTC_DOWN
+===== 2026-11-07 00:03:43 UTC
+<b>🔴 SHORT FILLED  BTWUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>1.24706</code>
+Stop    <code>1.371766</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>28.6983</code>
+Exit by <b>2026-11-08 10:00</b>
+Why     6h ret +3.6% | liq rank 55 | BTC_DOWN
