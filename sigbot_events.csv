@@ -1881,3 +1881,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-07T12:02:01Z,BMTUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.022668
 2026-11-07T12:02:01Z,MONUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.01654
 2026-11-07T12:02:01Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=3 armed=1 open=24 pending=1 equity=9527.85 closed=197
+2026-11-07T13:02:01Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9527.85 closed=197

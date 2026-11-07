@@ -18,7 +18,7 @@
    "qty": 24301.450217822035,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "PYTHUSDT": {
    "symbol": "PYTHUSDT",
@@ -36,7 +36,7 @@
    "qty": 868.0355536914298,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "ZKUSDT": {
    "symbol": "ZKUSDT",
@@ -54,7 +54,7 @@
    "qty": 5946.428668816709,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "RENDERUSDT": {
    "symbol": "RENDERUSDT",
@@ -72,7 +72,7 @@
    "qty": 77.1361373722606,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "DATAUSDT": {
    "symbol": "DATAUSDT",
@@ -90,7 +90,7 @@
    "qty": 1395.258349490982,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "ORCAUSDT": {
    "symbol": "ORCAUSDT",
@@ -108,7 +108,7 @@
    "qty": 96.64363231246456,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "HUMAUSDT": {
    "symbol": "HUMAUSDT",
@@ -118,15 +118,15 @@
    "size_mult": 1.0,
    "entry": 0.02228,
    "entry_ts": 1793649600000,
-   "stop": 0.02061699510901903,
+   "stop": 0.02034699510901903,
    "R": 0.00549799673934602,
    "exit_due_ts": 1794513600000,
-   "best": 0.01237,
+   "best": 0.0121,
    "risk_amt": 12.022800976582303,
    "qty": 2186.760295898684,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "POLUSDT": {
    "symbol": "POLUSDT",
@@ -144,7 +144,7 @@
    "qty": 3099.0201946139846,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "LITUSDT": {
    "symbol": "LITUSDT",
@@ -162,7 +162,7 @@
    "qty": 12.74252094682296,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "ZECUSDT": {
    "symbol": "ZECUSDT",
@@ -180,7 +180,7 @@
    "qty": 0.12496408064187652,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "PAXGUSDT": {
    "symbol": "PAXGUSDT",
@@ -198,7 +198,7 @@
    "qty": 0.211079772122563,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "XAUTUSDT": {
    "symbol": "XAUTUSDT",
@@ -216,7 +216,7 @@
    "qty": 0.06252786062961506,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "INJUSDT": {
    "symbol": "INJUSDT",
@@ -234,7 +234,7 @@
    "qty": 7.463458882995172,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "JTOUSDT": {
    "symbol": "JTOUSDT",
@@ -252,7 +252,7 @@
    "qty": 382.8988328484113,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "MARSCOINUSDT": {
    "symbol": "MARSCOINUSDT",
@@ -270,7 +270,7 @@
    "qty": 1362.1282412476316,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "EIGENUSDT": {
    "symbol": "EIGENUSDT",
@@ -288,7 +288,7 @@
    "qty": 578.7072808375099,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "2ZUSDT": {
    "symbol": "2ZUSDT",
@@ -306,7 +306,7 @@
    "qty": 4414.971549911155,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "ALTUSDT": {
    "symbol": "ALTUSDT",
@@ -324,7 +324,7 @@
    "qty": 25523.744098180254,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "BERAUSDT": {
    "symbol": "BERAUSDT",
@@ -342,7 +342,7 @@
    "qty": 657.1824190565145,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "BILLUSDT": {
    "symbol": "BILLUSDT",
@@ -360,7 +360,7 @@
    "qty": 25937.248085892534,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "VETUSDT": {
    "symbol": "VETUSDT",
@@ -373,12 +373,12 @@
    "stop": 0.005765429372855602,
    "R": 0.00040742937285560225,
    "exit_due_ts": 1794787200000,
-   "best": 0.005319,
+   "best": 0.005303,
    "risk_amt": 11.925644129220489,
    "qty": 29270.45746759912,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "MAGMAUSDT": {
    "symbol": "MAGMAUSDT",
@@ -396,7 +396,7 @@
    "qty": 181.00582830815685,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "BTWUSDT": {
    "symbol": "BTWUSDT",
@@ -414,7 +414,7 @@
    "qty": 28.698259592041932,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   },
   "BMTUSDT": {
    "symbol": "BMTUSDT",
@@ -427,12 +427,12 @@
    "stop": 0.02624759068325036,
    "R": 0.0035795906832503596,
    "exit_due_ts": 1794916800000,
-   "best": 0.022668,
+   "best": 0.022633,
    "risk_amt": 11.909807808487852,
    "qty": 3327.1423641301476,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794049200000
+   "last_bar_ts": 1794052800000
   }
  },
  "pending": {
@@ -454,7 +454,7 @@
  },
  "last_4h": 1794052800000,
  "last_day": 1794009600000,
- "last_run_ms": 1794052921514,
+ "last_run_ms": 1794056521100,
  "closed": [
   {
    "symbol": "MAGICUSDT",
