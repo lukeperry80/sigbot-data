@@ -5600,3 +5600,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-08 06:00</b>
 Why     mom rank 0.14 | liq rank 94 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-07 16:03:42 UTC
+<b>🟡 SHORT SETUP  KASUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02923</code>  (needs 4h close confirm)
+Stop    <code>0.030751933</code>  (5.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-08 10:00</b>
+Why     mom rank 0.17 | liq rank 111 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-07 16:03:43 UTC
+<b>🟡 SHORT SETUP  BATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.12263</code>  (needs 4h close confirm)
+Stop    <code>0.13176344</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-08 10:00</b>
+Why     mom rank 0.11 | liq rank 141 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
