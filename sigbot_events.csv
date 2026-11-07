@@ -1862,3 +1862,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-07T00:02:07Z,ACTUSDT,open,SHORT,XREV_SHORT,C,entry 0.010622
 2026-11-07T00:02:07Z,BTWUSDT,open,SHORT,XREV_SHORT,C,entry 1.24706
 2026-11-07T00:02:07Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=2 armed=2 open=25 pending=0 equity=9543.59 closed=195
+2026-11-07T01:02:07Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=25 pending=0 equity=9543.59 closed=195
