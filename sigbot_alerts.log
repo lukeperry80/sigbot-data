@@ -5618,3 +5618,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-08 10:00</b>
 Why     mom rank 0.11 | liq rank 141 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-07 20:03:39 UTC
+<b>🟡 SHORT SETUP  STONKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0915</code>  (needs 4h close confirm)
+Stop    <code>0.10704521</code>  (17.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-08 14:00</b>
+Why     mom rank 0.14 | liq rank 122 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
