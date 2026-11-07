@@ -5554,3 +5554,21 @@ Risk    0.04% of equity if stopped
 Qty     <code>28.6983</code>
 Exit by <b>2026-11-08 10:00</b>
 Why     6h ret +3.6% | liq rank 55 | BTC_DOWN
+===== 2026-11-07 04:03:40 UTC
+<b>🟡 SHORT SETUP  BATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.12394</code>  (needs 4h close confirm)
+Stop    <code>0.13362915</code>  (7.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-07 22:00</b>
+Why     mom rank 0.09 | liq rank 143 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-07 04:03:41 UTC
+<b>🟡 SHORT SETUP  BMTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02331</code>  (needs 4h close confirm)
+Stop    <code>0.026247591</code>  (12.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-07 22:00</b>
+Why     mom rank 0.03 | liq rank 71 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
