@@ -5734,3 +5734,9 @@ Risk    0.12% of equity if stopped
 Qty     <code>4020.28</code>
 Exit by <b>2026-11-19 02:00</b>
 Why     mom rank 0.04 | liq rank 134 | BTC_DOWN
+===== 2026-11-08 17:03:45 UTC
+⏰ <b>EXIT NOW — POLUSDT LONG</b>
+LONG_MAJ, grade A  |  stop was <code>0.089067242</code>
+Entry <code>0.093</code>  Mark <code>0.08921</code>
+Result <b>-0.96R gross / -1.01R net</b>
+Close this position now.
