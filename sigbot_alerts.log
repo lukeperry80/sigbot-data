@@ -5698,3 +5698,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-09 10:02</b>
 Why     mom rank 0.89 | liq rank 93 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 14:03:37 UTC
+<b>🟢 LONG FILLED  MEGAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.05141</code>
+Stop    <code>0.047768628</code>  (7.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3268.72</code>
+Exit by <b>2026-11-13 23:00</b>
+Why     mom rank 0.89 | liq rank 93 | BTC_UP
