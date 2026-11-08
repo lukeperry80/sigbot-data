@@ -5746,3 +5746,8 @@ LONG_MAJ, grade C  |  stop was <code>3.0430624</code>
 Entry <code>3.33</code>  Mark <code>3.1816</code>
 Result <b>-0.52R gross / -0.52R net</b>
 Close this position now.
+===== 2026-11-08 22:03:42 UTC
+🛑 <b>STOPPED — ZECUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>1289.52</code>  Stop <code>1192.3379</code>  Exit <code>1192.3379</code>
+Loss  <b>-1.03R net</b> ≈ 0.13% of equity

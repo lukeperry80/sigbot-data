@@ -1937,3 +1937,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-08T19:02:07Z,*,scan,,,,v1.1 universe=186 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9507.87 closed=202
 2026-11-08T20:02:07Z,*,scan,,,,v1.1 universe=186 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9507.87 closed=202
 2026-11-08T21:02:00Z,*,scan,,,,v1.1 universe=186 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9507.87 closed=202
+2026-11-08T22:02:07Z,ZECUSDT,stop,LONG,LONG_MAJ,A,stop 1192.3379 exit 1192.3379 bar 2026-11-08T21:00:00Z net -1.028R
+2026-11-08T22:02:07Z,*,scan,,,,v1.1 universe=189 regime=BTC_DOWN signals=0 armed=0 open=22 pending=1 equity=9495.39 closed=203
