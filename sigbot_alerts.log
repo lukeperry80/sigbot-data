@@ -5633,3 +5633,35 @@ XREV_SHORT, grade C  |  stop was <code>1.299539</code>
 Entry <code>1.24706</code>  Mark <code>1.21134</code>
 Result <b>+0.29R gross / +0.27R net</b>
 Close this position now.
+===== 2026-11-08 08:03:40 UTC
+🛑 <b>STOPPED — BMTUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.022668</code>  Stop <code>0.026247591</code>  Exit <code>0.026247591</code>
+Loss  <b>-1.10R net</b> ≈ 0.14% of equity
+===== 2026-11-08 08:03:42 UTC
+<b>🟡 SHORT SETUP  CHIPUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.03431</code>  (needs 4h close confirm)
+Stop    <code>0.037281043</code>  (8.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-09 02:00</b>
+Why     mom rank 0.15 | liq rank 103 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 08:03:43 UTC
+<b>🟡 SHORT SETUP  ORDERUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.03083</code>  (needs 4h close confirm)
+Stop    <code>0.032950646</code>  (6.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-09 02:00</b>
+Why     mom rank 0.04 | liq rank 134 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 08:03:44 UTC
+<b>🟡 SHORT SETUP  BATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.12051</code>  (needs 4h close confirm)
+Stop    <code>0.12855667</code>  (6.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-09 02:00</b>
+Why     mom rank 0.13 | liq rank 144 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
