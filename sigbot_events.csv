@@ -1933,3 +1933,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-08T17:02:07Z,POLUSDT,exit_due,LONG,LONG_MAJ,A,-0.964R gross -1.012R net
 2026-11-08T17:02:07Z,*,scan,,,,v1.1 universe=186 regime=BTC_UP signals=0 armed=0 open=24 pending=1 equity=9509.76 closed=201
 2026-11-08T18:02:07Z,*,scan,,,,v1.1 universe=185 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9509.76 closed=201
+2026-11-08T19:02:07Z,LITUSDT,exit_due,LONG,LONG_MAJ,C,-0.517R gross -0.518R net
+2026-11-08T19:02:07Z,*,scan,,,,v1.1 universe=186 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9507.87 closed=202
