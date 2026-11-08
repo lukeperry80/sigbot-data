@@ -5665,3 +5665,36 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-09 02:00</b>
 Why     mom rank 0.13 | liq rank 144 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 12:03:40 UTC
+⏰ <b>EXIT NOW — JASMYUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.0042413212</code>
+Entry <code>0.003837</code>  Mark <code>0.003577</code>
+Result <b>+0.52R gross / +0.52R net</b>
+Close this position now.
+===== 2026-11-08 12:03:42 UTC
+<b>🟡 LONG SETUP  JCTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.007265</code>  (post-only retest)
+Stop    <code>0.0048618966</code>  (33.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-09 10:02</b>
+Why     mom rank 0.94 | liq rank 15 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 12:03:43 UTC
+<b>🟡 LONG SETUP  QUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.02964</code>  (post-only retest)
+Stop    <code>0.025405976</code>  (14.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-09 10:02</b>
+Why     mom rank 0.01 | liq rank 57 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 12:03:44 UTC
+<b>🟡 LONG SETUP  MEGAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05141</code>  (post-only retest)
+Stop    <code>0.047768628</code>  (7.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-09 10:02</b>
+Why     mom rank 0.89 | liq rank 93 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

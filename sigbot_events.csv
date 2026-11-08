@@ -1916,3 +1916,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-08T09:02:04Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=22 pending=3 equity=9515.77 closed=199
 2026-11-08T10:02:07Z,*,scan,,,,v1.1 universe=185 regime=BTC_DOWN signals=0 armed=0 open=22 pending=3 equity=9515.77 closed=199
 2026-11-08T11:02:07Z,*,scan,,,,v1.1 universe=185 regime=BTC_DOWN signals=0 armed=0 open=22 pending=3 equity=9515.77 closed=199
+2026-11-08T12:02:07Z,JASMYUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.521R gross +0.522R net
+2026-11-08T12:02:07Z,JCTUSDT,setup,LONG,LONG_MAJ,A,limit level 0.007265
+2026-11-08T12:02:07Z,QUSDT,setup,LONG,LONG_MAJ,A,limit level 0.02964
+2026-11-08T12:02:07Z,MEGAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05141
+2026-11-08T12:02:07Z,*,scan,,,,v1.1 universe=185 regime=BTC_UP signals=3 armed=3 open=21 pending=6 equity=9522.10 closed=200
