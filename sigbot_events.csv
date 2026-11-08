@@ -1897,3 +1897,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-07T21:02:02Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
 2026-11-07T22:02:07Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
 2026-11-07T23:02:01Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9527.85 closed=197
+2026-11-08T00:02:07Z,KASUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.02964 >= level 0.02923
+2026-11-08T00:02:07Z,BATUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.12355 >= level 0.12263
+2026-11-08T00:02:07Z,BTWUSDT,exit_due,SHORT,XREV_SHORT,C,+0.286R gross +0.270R net
+2026-11-08T00:02:07Z,*,scan,,,,v1.1 universe=187 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9528.81 closed=198

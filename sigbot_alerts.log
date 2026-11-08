@@ -5627,3 +5627,9 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-08 14:00</b>
 Why     mom rank 0.14 | liq rank 122 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-08 00:03:42 UTC
+⏰ <b>EXIT NOW — BTWUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>1.299539</code>
+Entry <code>1.24706</code>  Mark <code>1.21134</code>
+Result <b>+0.29R gross / +0.27R net</b>
+Close this position now.
