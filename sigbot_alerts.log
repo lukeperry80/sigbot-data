@@ -5796,3 +5796,9 @@ Risk    0.04% of equity if stopped
 Qty     <code>1437.94</code>
 Exit by <b>2026-11-10 10:00</b>
 Why     6h ret +1.5% | liq rank 67 | BTC_DOWN
+===== 2026-11-09 04:03:45 UTC
+⏰ <b>EXIT NOW — PYTHUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.074746324</code>
+Entry <code>0.06095</code>  Mark <code>0.0611</code>
+Result <b>-0.01R gross / -0.01R net</b>
+Close this position now.
