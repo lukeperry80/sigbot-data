@@ -1984,3 +1984,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T17:02:05Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=19 pending=0 equity=9518.72 closed=210
 2026-11-09T18:02:05Z,QUSDT,stop,LONG,LONG_MAJ,A,stop 0.025405976 exit 0.025405976 bar 2026-11-09T17:00:00Z net -1.008R
 2026-11-09T18:02:05Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=18 pending=0 equity=9506.72 closed=211
+2026-11-09T19:02:07Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=18 pending=0 equity=9506.72 closed=211
