@@ -1955,3 +1955,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T00:02:01Z,ETHFIUSDT,open,SHORT,XREV_SHORT,C,entry 0.5769
 2026-11-09T00:02:01Z,BMTUSDT,open,SHORT,XREV_SHORT,C,entry 0.024763
 2026-11-09T00:02:01Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=24 armed=5 open=24 pending=4 equity=9495.39 closed=203
+2026-11-09T01:02:07Z,JCTUSDT,expired,LONG,LONG_MAJ,A,level 0.007265
+2026-11-09T01:02:07Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=24 pending=3 equity=9495.39 closed=203
