@@ -1980,3 +1980,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T14:02:07Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
 2026-11-09T15:02:06Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
 2026-11-09T16:02:00Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
+2026-11-09T17:02:05Z,SUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.03856814 exit 0.03856814 bar 2026-11-09T16:00:00Z net -1.014R
+2026-11-09T17:02:05Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=19 pending=0 equity=9518.72 closed=210

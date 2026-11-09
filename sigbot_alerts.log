@@ -5850,3 +5850,8 @@ LONG_MAJ, grade C  |  stop was <code>7.1828509</code>
 Entry <code>7.671</code>  Mark <code>8.149</code>
 Result <b>+0.98R gross / +0.94R net</b>
 Close this position now.
+===== 2026-11-09 17:03:44 UTC
+🛑 <b>STOPPED — SUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.03499</code>  Stop <code>0.03856814</code>  Exit <code>0.03856814</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
