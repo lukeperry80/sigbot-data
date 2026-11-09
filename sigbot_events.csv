@@ -1990,3 +1990,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T20:02:07Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=1 armed=1 open=17 pending=1 equity=9503.11 closed=212
 2026-11-09T21:02:01Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=0 armed=0 open=17 pending=1 equity=9503.11 closed=212
 2026-11-09T22:02:03Z,*,scan,,,,v1.1 universe=192 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9503.11 closed=212
+2026-11-09T23:02:01Z,*,scan,,,,v1.1 universe=192 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9503.11 closed=212
