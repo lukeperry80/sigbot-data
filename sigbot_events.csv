@@ -1978,3 +1978,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T13:02:05Z,INJUSDT,exit_due,LONG,LONG_MAJ,C,+0.979R gross +0.944R net
 2026-11-09T13:02:05Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
 2026-11-09T14:02:07Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
+2026-11-09T15:02:06Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
