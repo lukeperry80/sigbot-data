@@ -1970,3 +1970,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T08:02:07Z,RENDERUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.239R gross +0.245R net
 2026-11-09T08:02:07Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9506.96 closed=206
 2026-11-09T09:02:04Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9506.96 closed=206
+2026-11-09T10:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9506.96 closed=206
