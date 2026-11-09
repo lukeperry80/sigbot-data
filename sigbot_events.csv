@@ -1973,3 +1973,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-09T10:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9506.96 closed=206
 2026-11-09T11:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9506.96 closed=206
 2026-11-09T12:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=1 armed=0 open=23 pending=0 equity=9506.96 closed=206
+2026-11-09T13:02:05Z,PAXGUSDT,exit_due,LONG,LONG_MAJ,A,+1.385R gross +1.224R net
+2026-11-09T13:02:05Z,XAUTUSDT,exit_due,LONG,LONG_MAJ,C,+1.564R gross +1.509R net
+2026-11-09T13:02:05Z,INJUSDT,exit_due,LONG,LONG_MAJ,C,+0.979R gross +0.944R net
+2026-11-09T13:02:05Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9530.76 closed=209
