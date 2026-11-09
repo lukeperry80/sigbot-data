@@ -5802,3 +5802,33 @@ SHORT_TAIL, grade A  |  stop was <code>0.074746324</code>
 Entry <code>0.06095</code>  Mark <code>0.0611</code>
 Result <b>-0.01R gross / -0.01R net</b>
 Close this position now.
+===== 2026-11-09 08:03:45 UTC
+<b>🔴 SHORT FILLED  SUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.03499</code>
+Stop    <code>0.03856814</code>  (10.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3317.1</code>
+Exit by <b>2026-11-19 18:00</b>
+Why     mom rank 0.16 | liq rank 130 | BTC_DOWN
+===== 2026-11-09 08:03:46 UTC
+<b>🔴 SHORT FILLED  NILUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.05585</code>
+Stop    <code>0.061911181</code>  (10.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1958.21</code>
+Exit by <b>2026-11-19 18:00</b>
+Why     mom rank 0.04 | liq rank 132 | BTC_DOWN
+===== 2026-11-09 08:03:47 UTC
+⏰ <b>EXIT NOW — ZKUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.011400698</code>
+Entry <code>0.010179</code>  Mark <code>0.008699</code>
+Result <b>+0.74R gross / +0.73R net</b>
+Close this position now.
+===== 2026-11-09 08:03:48 UTC
+⏰ <b>EXIT NOW — RENDERUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>1.6716345</code>
+Entry <code>1.564</code>  Mark <code>1.527</code>
+Result <b>+0.24R gross / +0.24R net</b>
+Close this position now.
