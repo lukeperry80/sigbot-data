@@ -5984,3 +5984,30 @@ Why     mom rank 1.00 | liq rank 33 | BTC_UP
 LONG_MAJ, grade A
 Entry <code>4123.6</code>  Stop <code>4075.0611</code>  Exit <code>4075.0611</code>
 Loss  <b>-1.08R net</b> ≈ 0.14% of equity
+===== 2026-11-10 12:03:35 UTC
+<b>🔴 SHORT FILLED  CTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.107</code>
+Stop    <code>0.1243635</code>  (16.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>683.359</code>
+Exit by <b>2026-11-20 22:00</b>
+Why     mom rank 0.07 | liq rank 101 | BTC_DOWN
+===== 2026-11-10 12:03:36 UTC
+<b>🔴 SHORT FILLED  CASHCATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.06644</code>
+Stop    <code>0.078170162</code>  (17.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1011.54</code>
+Exit by <b>2026-11-20 22:00</b>
+Why     mom rank 0.10 | liq rank 61 | BTC_DOWN
+===== 2026-11-10 12:03:37 UTC
+<b>🟢 LONG FILLED  ARIAUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>0.18252</code>
+Stop    <code>0.15722466</code>  (13.9% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>140.724</code>
+Exit by <b>2026-11-15 21:00</b>
+Why     mom rank 1.00 | liq rank 33 | BTC_UP
