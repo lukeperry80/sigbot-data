@@ -5874,3 +5874,45 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-10 14:00</b>
 Why     mom rank 0.01 | liq rank 64 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-10 00:03:36 UTC
+⏰ <b>EXIT NOW — BMTUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.02647245</code>
+Entry <code>0.024763</code>  Mark <code>0.022839</code>
+Result <b>+0.78R gross / +0.61R net</b>
+Close this position now.
+===== 2026-11-10 00:03:37 UTC
+<b>🟡 LONG SETUP  INITUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.16746</code>  (post-only retest)
+Stop    <code>0.14308114</code>  (14.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-10 22:02</b>
+Why     mom rank 0.94 | liq rank 64 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-10 00:03:38 UTC
+<b>🟡 LONG SETUP  PAXGUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>4123.6</code>  (post-only retest)
+Stop    <code>4075.0611</code>  (1.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-10 22:02</b>
+Why     mom rank 0.82 | liq rank 85 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-10 00:03:39 UTC
+<b>🔴 SHORT FILLED  NIGHTUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.04049</code>
+Stop    <code>0.044539</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>880.336</code>
+Exit by <b>2026-11-11 10:00</b>
+Why     6h ret +2.1% | liq rank 160 | BTC_UP
+===== 2026-11-10 00:03:40 UTC
+<b>🔴 SHORT FILLED  STABLEUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.02911</code>
+Stop    <code>0.032021</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1224.49</code>
+Exit by <b>2026-11-11 10:00</b>
+Why     6h ret +9.6% | liq rank 190 | BTC_UP
