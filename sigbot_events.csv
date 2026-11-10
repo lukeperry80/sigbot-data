@@ -1998,3 +1998,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T00:02:00Z,STABLEUSDT,open,SHORT,XREV_SHORT,C,entry 0.02911
 2026-11-10T00:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_UP signals=5 armed=4 open=18 pending=3 equity=9505.28 closed=213
 2026-11-10T01:02:05Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=18 pending=3 equity=9505.28 closed=213
+2026-11-10T02:02:00Z,PAXGUSDT,fill,LONG,LONG_MAJ,A,entry 4123.6 level 4123.6 bar 2026-11-10T01:00:00Z
+2026-11-10T02:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=19 pending=2 equity=9505.28 closed=213
