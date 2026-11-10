@@ -2021,3 +2021,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T12:02:02Z,ARIAUSDT,fill,LONG,LONG_MAJ,C,entry 0.18252 level 0.18252 bar 2026-11-10T11:00:00Z
 2026-11-10T12:02:02Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=1 armed=0 open=23 pending=0 equity=9492.40 closed=214
 2026-11-10T13:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9492.40 closed=214
+2026-11-10T14:02:07Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9492.40 closed=214
