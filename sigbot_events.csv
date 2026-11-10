@@ -2000,3 +2000,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T01:02:05Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=18 pending=3 equity=9505.28 closed=213
 2026-11-10T02:02:00Z,PAXGUSDT,fill,LONG,LONG_MAJ,A,entry 4123.6 level 4123.6 bar 2026-11-10T01:00:00Z
 2026-11-10T02:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=19 pending=2 equity=9505.28 closed=213
+2026-11-10T03:02:00Z,INITUSDT,fill,LONG,LONG_MAJ,A,entry 0.16746 level 0.16746 bar 2026-11-10T02:00:00Z
+2026-11-10T03:02:00Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=20 pending=1 equity=9505.28 closed=213
