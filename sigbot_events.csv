@@ -2002,3 +2002,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T02:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=19 pending=2 equity=9505.28 closed=213
 2026-11-10T03:02:00Z,INITUSDT,fill,LONG,LONG_MAJ,A,entry 0.16746 level 0.16746 bar 2026-11-10T02:00:00Z
 2026-11-10T03:02:00Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=20 pending=1 equity=9505.28 closed=213
+2026-11-10T04:02:00Z,QUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.02467
+2026-11-10T04:02:00Z,CTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1141
+2026-11-10T04:02:00Z,DOSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.186
+2026-11-10T04:02:00Z,CASHCATUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0683
+2026-11-10T04:02:00Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=4 armed=3 open=21 pending=3 equity=9505.28 closed=213
