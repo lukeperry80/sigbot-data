@@ -5970,3 +5970,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-10 22:00</b>
 Why     mom rank 0.10 | liq rank 61 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-10 08:03:40 UTC
+<b>🟡 LONG SETUP  ARIAUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.18252</code>  (post-only retest)
+Stop    <code>0.15722466</code>  (13.9% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-11 06:02</b>
+Why     mom rank 1.00 | liq rank 33 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

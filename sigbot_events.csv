@@ -2010,3 +2010,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T05:02:07Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=21 pending=3 equity=9505.28 closed=213
 2026-11-10T06:02:07Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=0 armed=0 open=21 pending=3 equity=9505.28 closed=213
 2026-11-10T07:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=0 armed=0 open=21 pending=3 equity=9505.28 closed=213
+2026-11-10T08:02:00Z,ARIAUSDT,setup,LONG,LONG_MAJ,C,limit level 0.18252
+2026-11-10T08:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=2 armed=1 open=21 pending=4 equity=9505.28 closed=213
