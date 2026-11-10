@@ -2013,3 +2013,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T08:02:00Z,ARIAUSDT,setup,LONG,LONG_MAJ,C,limit level 0.18252
 2026-11-10T08:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=2 armed=1 open=21 pending=4 equity=9505.28 closed=213
 2026-11-10T09:02:01Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=0 armed=0 open=21 pending=4 equity=9505.28 closed=213
+2026-11-10T10:02:03Z,PAXGUSDT,stop,LONG,LONG_MAJ,A,stop 4075.0611 exit 4075.0611 bar 2026-11-10T09:00:00Z net -1.084R
+2026-11-10T10:02:03Z,*,scan,,,,v1.1 universe=194 regime=BTC_UP signals=0 armed=0 open=20 pending=4 equity=9492.40 closed=214
