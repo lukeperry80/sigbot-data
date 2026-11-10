@@ -6011,3 +6011,21 @@ Risk    0.04% of equity if stopped
 Qty     <code>140.724</code>
 Exit by <b>2026-11-15 21:00</b>
 Why     mom rank 1.00 | liq rank 33 | BTC_UP
+===== 2026-11-10 16:03:38 UTC
+<b>🟡 SHORT SETUP  CARVUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02728</code>  (needs 4h close confirm)
+Stop    <code>0.029584389</code>  (8.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-11 10:00</b>
+Why     mom rank 0.15 | liq rank 136 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-10 16:03:39 UTC
+<b>🟡 SHORT SETUP  HUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04213</code>  (needs 4h close confirm)
+Stop    <code>0.047105572</code>  (11.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-11 10:00</b>
+Why     mom rank 0.07 | liq rank 155 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

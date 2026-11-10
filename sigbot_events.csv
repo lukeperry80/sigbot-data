@@ -2023,3 +2023,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T13:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9492.40 closed=214
 2026-11-10T14:02:07Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9492.40 closed=214
 2026-11-10T15:02:07Z,*,scan,,,,v1.1 universe=196 regime=BTC_DOWN signals=0 armed=0 open=23 pending=0 equity=9492.40 closed=214
+2026-11-10T16:02:01Z,CARVUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02728
+2026-11-10T16:02:01Z,HUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.04213
+2026-11-10T16:02:01Z,HNTUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-10T16:02:01Z,WAVESUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-10T16:02:01Z,VVVUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-10T16:02:01Z,AEROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-10T16:02:01Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=9 armed=2 open=23 pending=2 equity=9492.40 closed=214
