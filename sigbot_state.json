@@ -18,7 +18,7 @@
    "qty": 1395.258349490982,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "ORCAUSDT": {
    "symbol": "ORCAUSDT",
@@ -36,7 +36,7 @@
    "qty": 96.64363231246456,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "HUMAUSDT": {
    "symbol": "HUMAUSDT",
@@ -46,15 +46,15 @@
    "size_mult": 1.0,
    "entry": 0.02228,
    "entry_ts": 1793649600000,
-   "stop": 0.01675699510901903,
+   "stop": 0.016706995109019032,
    "R": 0.00549799673934602,
    "exit_due_ts": 1794513600000,
-   "best": 0.00851,
+   "best": 0.00846,
    "risk_amt": 12.022800976582303,
    "qty": 2186.760295898684,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "JTOUSDT": {
    "symbol": "JTOUSDT",
@@ -72,7 +72,7 @@
    "qty": 382.8988328484113,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "MARSCOINUSDT": {
    "symbol": "MARSCOINUSDT",
@@ -90,7 +90,7 @@
    "qty": 1362.1282412476316,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "EIGENUSDT": {
    "symbol": "EIGENUSDT",
@@ -108,7 +108,7 @@
    "qty": 578.7072808375099,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "2ZUSDT": {
    "symbol": "2ZUSDT",
@@ -126,7 +126,7 @@
    "qty": 4414.971549911155,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "ALTUSDT": {
    "symbol": "ALTUSDT",
@@ -144,7 +144,7 @@
    "qty": 25523.744098180254,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "BERAUSDT": {
    "symbol": "BERAUSDT",
@@ -162,7 +162,7 @@
    "qty": 657.1824190565145,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "BILLUSDT": {
    "symbol": "BILLUSDT",
@@ -180,7 +180,7 @@
    "qty": 25937.248085892534,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "VETUSDT": {
    "symbol": "VETUSDT",
@@ -198,7 +198,7 @@
    "qty": 29270.45746759912,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "MAGMAUSDT": {
    "symbol": "MAGMAUSDT",
@@ -216,7 +216,7 @@
    "qty": 181.00582830815685,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "CHIPUSDT": {
    "symbol": "CHIPUSDT",
@@ -234,7 +234,7 @@
    "qty": 3012.5259343656194,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "ORDERUSDT": {
    "symbol": "ORDERUSDT",
@@ -252,7 +252,7 @@
    "qty": 4020.278064607745,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "NILUSDT": {
    "symbol": "NILUSDT",
@@ -270,7 +270,7 @@
    "qty": 1958.2091853125935,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "INITUSDT": {
    "symbol": "INITUSDT",
@@ -288,7 +288,7 @@
    "qty": 487.37325036776576,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "QUSDT": {
    "symbol": "QUSDT",
@@ -306,7 +306,7 @@
    "qty": 2346.0180424299,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "CTUSDT": {
    "symbol": "CTUSDT",
@@ -324,7 +324,7 @@
    "qty": 683.3589614962121,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "CASHCATUSDT": {
    "symbol": "CASHCATUSDT",
@@ -342,7 +342,7 @@
    "qty": 1011.5375965484241,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "ARIAUSDT": {
    "symbol": "ARIAUSDT",
@@ -360,7 +360,7 @@
    "qty": 140.72355835364158,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "CARVUSDT": {
    "symbol": "CARVUSDT",
@@ -378,7 +378,7 @@
    "qty": 4874.118872824658,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "PARTIUSDT": {
    "symbol": "PARTIUSDT",
@@ -396,7 +396,7 @@
    "qty": 963.658272600272,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "ICPUSDT": {
    "symbol": "ICPUSDT",
@@ -414,7 +414,7 @@
    "qty": 14.070172565159707,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   },
   "USELESSUSDT": {
    "symbol": "USELESSUSDT",
@@ -432,29 +432,13 @@
    "qty": 250.40473121731893,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794405600000
+   "last_bar_ts": 1794409200000
   }
  },
- "pending": {
-  "HUSDT": {
-   "symbol": "HUSDT",
-   "direction": "SHORT",
-   "module": "SHORT_TAIL",
-   "grade": "A",
-   "size_mult": 1.0,
-   "kind": "confirm",
-   "level": 0.03282,
-   "atr": 0.0026998126070943438,
-   "created_ts": 1794384127849,
-   "expires_ts": 1794412800000,
-   "liq_rank": 130,
-   "regime": "BTC_DOWN",
-   "note": "mom rank 0.03"
-  }
- },
- "last_4h": 1794398400000,
+ "pending": {},
+ "last_4h": 1794412800000,
  "last_day": 1794355200000,
- "last_run_ms": 1794409325333,
+ "last_run_ms": 1794412927885,
  "closed": [
   {
    "symbol": "MAGICUSDT",
