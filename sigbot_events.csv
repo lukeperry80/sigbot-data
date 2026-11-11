@@ -2052,3 +2052,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-11T03:02:07Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9492.68 closed=216
 2026-11-11T04:02:06Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=1 armed=0 open=25 pending=1 equity=9492.68 closed=216
 2026-11-11T05:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9492.68 closed=216
+2026-11-11T06:02:06Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9492.68 closed=216
