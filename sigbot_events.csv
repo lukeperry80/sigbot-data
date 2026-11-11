@@ -2039,3 +2039,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-10T21:02:01Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9492.40 closed=214
 2026-11-10T22:02:05Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9492.40 closed=214
 2026-11-10T23:02:07Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=23 pending=2 equity=9492.40 closed=214
+2026-11-11T00:02:00Z,CARVUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.02715
+2026-11-11T00:02:00Z,NIGHTUSDT,exit_due,SHORT,XREV_SHORT,C,-0.321R gross -0.333R net
+2026-11-11T00:02:00Z,STABLEUSDT,exit_due,SHORT,XREV_SHORT,C,+0.423R gross +0.411R net
+2026-11-11T00:02:00Z,HUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0361
+2026-11-11T00:02:00Z,PARTIUSDT,open,SHORT,XREV_SHORT,C,entry 0.03694
+2026-11-11T00:02:00Z,ICPUSDT,open,SHORT,XREV_SHORT,C,entry 2.53
+2026-11-11T00:02:00Z,USELESSUSDT,open,SHORT,XREV_SHORT,C,entry 0.14216
+2026-11-11T00:02:00Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=5 armed=4 open=25 pending=1 equity=9492.68 closed=216

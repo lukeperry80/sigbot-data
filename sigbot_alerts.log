@@ -6029,3 +6029,60 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-11 10:00</b>
 Why     mom rank 0.07 | liq rank 155 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-11 00:03:36 UTC
+<b>🔴 SHORT FILLED  CARVUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.02715</code>
+Stop    <code>0.029584389</code>  (9.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4874.12</code>
+Exit by <b>2026-11-21 10:00</b>
+Why     mom rank 0.15 | liq rank 136 | BTC_DOWN
+===== 2026-11-11 00:03:37 UTC
+⏰ <b>EXIT NOW — NIGHTUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.044539</code>
+Entry <code>0.04049</code>  Mark <code>0.04179</code>
+Result <b>-0.32R gross / -0.33R net</b>
+Close this position now.
+===== 2026-11-11 00:03:38 UTC
+⏰ <b>EXIT NOW — STABLEUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0313665</code>
+Entry <code>0.02911</code>  Mark <code>0.02788</code>
+Result <b>+0.42R gross / +0.41R net</b>
+Close this position now.
+===== 2026-11-11 00:03:39 UTC
+<b>🟡 SHORT SETUP  HUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0361</code>  (needs 4h close confirm)
+Stop    <code>0.041316488</code>  (14.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-11 18:00</b>
+Why     mom rank 0.07 | liq rank 144 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-11 00:03:41 UTC
+<b>🔴 SHORT FILLED  PARTIUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.03694</code>
+Stop    <code>0.040634</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>963.658</code>
+Exit by <b>2026-11-12 10:00</b>
+Why     6h ret +5.4% | liq rank 127 | BTC_DOWN
+===== 2026-11-11 00:03:42 UTC
+<b>🔴 SHORT FILLED  ICPUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>2.53</code>
+Stop    <code>2.783</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>14.0702</code>
+Exit by <b>2026-11-12 10:00</b>
+Why     6h ret +6.1% | liq rank 82 | BTC_DOWN
+===== 2026-11-11 00:03:43 UTC
+<b>🔴 SHORT FILLED  USELESSUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.14216</code>
+Stop    <code>0.156376</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>250.405</code>
+Exit by <b>2026-11-12 10:00</b>
+Why     6h ret +7.4% | liq rank 55 | BTC_DOWN
