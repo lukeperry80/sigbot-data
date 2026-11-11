@@ -2059,3 +2059,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-11T08:02:07Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=3 armed=1 open=25 pending=1 equity=9492.68 closed=216
 2026-11-11T09:02:07Z,MEGAUSDT,stop,LONG,LONG_MAJ,A,stop 0.047768628 exit 0.047768628 bar 2026-11-11T08:00:00Z net -1.012R
 2026-11-11T09:02:07Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9480.63 closed=217
+2026-11-11T10:02:03Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9480.63 closed=217
