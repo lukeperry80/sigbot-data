@@ -6119,3 +6119,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-12 18:02</b>
 Why     mom rank 0.81 | liq rank 84 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-11 22:03:39 UTC
+<b>🟢 LONG FILLED  ETHFIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.6437</code>
+Stop    <code>0.60756698</code>  (5.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>327.83</code>
+Exit by <b>2026-11-17 07:00</b>
+Why     mom rank 0.81 | liq rank 84 | BTC_UP
