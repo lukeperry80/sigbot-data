@@ -2076,3 +2076,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-11T21:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_UP signals=0 armed=0 open=22 pending=1 equity=9476.38 closed=219
 2026-11-11T22:02:07Z,ETHFIUSDT,fill,LONG,LONG_MAJ,A,entry 0.6437 level 0.6437 bar 2026-11-11T21:00:00Z
 2026-11-11T22:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9476.38 closed=219
+2026-11-11T23:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9476.38 closed=219
