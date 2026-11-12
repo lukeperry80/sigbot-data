@@ -2105,3 +2105,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-12T14:02:07Z,MAGMAUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.32133761 exit 0.32133761 bar 2026-11-12T13:00:00Z net +0.258R
 2026-11-12T14:02:07Z,ARIAUSDT,stop,LONG,LONG_MAJ,C,stop 0.15722466 exit 0.15722466 bar 2026-11-12T13:00:00Z net -1.066R
 2026-11-12T14:02:07Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9467.83 closed=226
+2026-11-12T15:02:07Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9467.83 closed=226
