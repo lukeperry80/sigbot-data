@@ -6128,3 +6128,39 @@ Risk    0.12% of equity if stopped
 Qty     <code>327.83</code>
 Exit by <b>2026-11-17 07:00</b>
 Why     mom rank 0.81 | liq rank 84 | BTC_UP
+===== 2026-11-12 00:03:38 UTC
+⏰ <b>EXIT NOW — PARTIUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.038891</code>
+Entry <code>0.03694</code>  Mark <code>0.03424</code>
+Result <b>+0.73R gross / +0.72R net</b>
+Close this position now.
+===== 2026-11-12 00:03:39 UTC
+⏰ <b>EXIT NOW — ICPUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>2.783</code>
+Entry <code>2.53</code>  Mark <code>2.587</code>
+Result <b>-0.23R gross / -0.24R net</b>
+Close this position now.
+===== 2026-11-12 00:03:40 UTC
+⏰ <b>EXIT NOW — USELESSUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.146994</code>
+Entry <code>0.14216</code>  Mark <code>0.12755</code>
+Result <b>+1.03R gross / +1.02R net</b>
+Close this position now.
+===== 2026-11-12 00:03:41 UTC
+<b>🔴 SHORT FILLED  ARXUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.1988</code>
+Stop    <code>0.21868</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>178.855</code>
+Exit by <b>2026-11-13 10:00</b>
+Why     6h ret +3.3% | liq rank 126 | BTC_UP
+===== 2026-11-12 00:03:42 UTC
+<b>🔴 SHORT FILLED  KGENUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.0897</code>
+Stop    <code>0.09867</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>396.392</code>
+Exit by <b>2026-11-13 10:00</b>
+Why     6h ret +11.0% | liq rank 177 | BTC_UP

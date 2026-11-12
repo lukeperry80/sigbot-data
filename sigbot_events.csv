@@ -2077,3 +2077,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-11T22:02:07Z,ETHFIUSDT,fill,LONG,LONG_MAJ,A,entry 0.6437 level 0.6437 bar 2026-11-11T21:00:00Z
 2026-11-11T22:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9476.38 closed=219
 2026-11-11T23:02:07Z,*,scan,,,,v1.1 universe=190 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9476.38 closed=219
+2026-11-12T00:02:01Z,PARTIUSDT,exit_due,SHORT,XREV_SHORT,C,+0.731R gross +0.718R net
+2026-11-12T00:02:01Z,ICPUSDT,exit_due,SHORT,XREV_SHORT,C,-0.225R gross -0.238R net
+2026-11-12T00:02:01Z,USELESSUSDT,exit_due,SHORT,XREV_SHORT,C,+1.028R gross +1.016R net
+2026-11-12T00:02:01Z,ARXUSDT,open,SHORT,XREV_SHORT,C,entry 0.1988
+2026-11-12T00:02:01Z,KGENUSDT,open,SHORT,XREV_SHORT,C,entry 0.0897
+2026-11-12T00:02:01Z,*,scan,,,,v1.1 universe=191 regime=BTC_UP signals=4 armed=2 open=22 pending=0 equity=9481.70 closed=222
