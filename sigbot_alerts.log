@@ -6183,3 +6183,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-13 02:00</b>
 Why     mom rank 0.19 | liq rank 90 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-12 12:03:38 UTC
+<b>🟡 SHORT SETUP  TIAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.4051</code>  (needs 4h close confirm)
+Stop    <code>0.43017467</code>  (6.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-13 06:00</b>
+Why     mom rank 0.16 | liq rank 52 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
