@@ -2083,3 +2083,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-12T00:02:01Z,ARXUSDT,open,SHORT,XREV_SHORT,C,entry 0.1988
 2026-11-12T00:02:01Z,KGENUSDT,open,SHORT,XREV_SHORT,C,entry 0.0897
 2026-11-12T00:02:01Z,*,scan,,,,v1.1 universe=191 regime=BTC_UP signals=4 armed=2 open=22 pending=0 equity=9481.70 closed=222
+2026-11-12T01:02:06Z,*,scan,,,,v1.1 universe=191 regime=BTC_UP signals=0 armed=0 open=22 pending=0 equity=9481.70 closed=222
