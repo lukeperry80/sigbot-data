@@ -2106,3 +2106,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-12T14:02:07Z,ARIAUSDT,stop,LONG,LONG_MAJ,C,stop 0.15722466 exit 0.15722466 bar 2026-11-12T13:00:00Z net -1.066R
 2026-11-12T14:02:07Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9467.83 closed=226
 2026-11-12T15:02:07Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9467.83 closed=226
+2026-11-12T16:02:07Z,BMTUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.020989 >= level 0.020938
+2026-11-12T16:02:07Z,STONKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0429
+2026-11-12T16:02:07Z,IRYSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0161
+2026-11-12T16:02:07Z,ZILUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-12T16:02:07Z,POPCATUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-12T16:02:07Z,AEROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-12T16:02:07Z,GRASSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-12T16:02:07Z,HUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-12T16:02:07Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=9 armed=2 open=18 pending=3 equity=9467.83 closed=226

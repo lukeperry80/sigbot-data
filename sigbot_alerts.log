@@ -6202,3 +6202,21 @@ Loss  <b>+0.26R net</b> ≈ 0.03% of equity
 LONG_MAJ, grade C
 Entry <code>0.18252</code>  Stop <code>0.15722466</code>  Exit <code>0.15722466</code>
 Loss  <b>-1.07R net</b> ≈ 0.04% of equity
+===== 2026-11-12 16:03:39 UTC
+<b>🟡 SHORT SETUP  STONKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0429</code>  (needs 4h close confirm)
+Stop    <code>0.052214618</code>  (21.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-13 10:00</b>
+Why     mom rank 0.01 | liq rank 103 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-12 16:03:40 UTC
+<b>🟡 SHORT SETUP  IRYSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0161</code>  (needs 4h close confirm)
+Stop    <code>0.017427575</code>  (8.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-13 10:00</b>
+Why     mom rank 0.14 | liq rank 120 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
