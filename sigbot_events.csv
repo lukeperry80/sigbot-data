@@ -2088,3 +2088,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-12T03:02:06Z,*,scan,,,,v1.1 universe=192 regime=BTC_UP signals=0 armed=0 open=22 pending=0 equity=9481.70 closed=222
 2026-11-12T04:02:03Z,ETHFIUSDT,stop,LONG,LONG_MAJ,A,stop 0.60756698 exit 0.60756698 bar 2026-11-12T03:00:00Z net -1.015R
 2026-11-12T04:02:03Z,*,scan,,,,v1.1 universe=192 regime=BTC_UP signals=0 armed=0 open=21 pending=0 equity=9469.68 closed=223
+2026-11-12T05:02:00Z,*,scan,,,,v1.1 universe=191 regime=BTC_UP signals=0 armed=0 open=21 pending=0 equity=9469.68 closed=223
