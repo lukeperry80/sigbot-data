@@ -6220,3 +6220,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-13 10:00</b>
 Why     mom rank 0.14 | liq rank 120 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-12 20:03:37 UTC
+⏰ <b>EXIT NOW — DATAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.10632535</code>
+Entry <code>0.1213</code>  Mark <code>0.0967</code>
+Result <b>+2.85R gross / +2.87R net</b>
+Close this position now.
+===== 2026-11-12 20:03:38 UTC
+⏰ <b>EXIT NOW — ORCAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>1.3915052</code>
+Entry <code>1.4251</code>  Mark <code>1.2389</code>
+Result <b>+1.50R gross / +1.52R net</b>
+Close this position now.
+===== 2026-11-12 20:03:39 UTC
+⏰ <b>EXIT NOW — HUMAUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.015606995</code>
+Entry <code>0.02228</code>  Mark <code>0.00783</code>
+Result <b>+2.63R gross / +1.80R net</b>
+Close this position now.
