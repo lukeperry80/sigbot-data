@@ -2101,3 +2101,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-12T12:02:04Z,AEROUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-12T12:02:04Z,HUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-12T12:02:04Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=4 armed=1 open=20 pending=2 equity=9468.54 closed=224
+2026-11-12T13:02:01Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9468.54 closed=224
