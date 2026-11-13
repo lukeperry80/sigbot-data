@@ -2165,3 +2165,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-13T18:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=20 pending=1 equity=9541.90 closed=230
 2026-11-13T19:02:00Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=20 pending=1 equity=9541.90 closed=230
 2026-11-13T20:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=20 pending=1 equity=9541.90 closed=230
+2026-11-13T21:02:00Z,POPCATUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.033206612 exit 0.033206612 bar 2026-11-13T20:00:00Z net -1.024R
+2026-11-13T21:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=19 pending=1 equity=9529.69 closed=231
