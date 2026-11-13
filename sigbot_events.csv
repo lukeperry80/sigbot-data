@@ -2135,3 +2135,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-13T01:02:07Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=17 pending=0 equity=9541.90 closed=230
 2026-11-13T02:02:01Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=17 pending=0 equity=9541.90 closed=230
 2026-11-13T03:02:07Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=17 pending=0 equity=9541.90 closed=230
+2026-11-13T04:02:07Z,ZILUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.001473
+2026-11-13T04:02:07Z,USUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.00373
+2026-11-13T04:02:07Z,HNTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.2441
+2026-11-13T04:02:07Z,SOONUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.2316
+2026-11-13T04:02:07Z,POPCATUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.03136
+2026-11-13T04:02:07Z,COREUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-13T04:02:07Z,*,scan,,,,v1.1 universe=189 regime=BTC_DOWN signals=11 armed=5 open=17 pending=5 equity=9541.90 closed=230
