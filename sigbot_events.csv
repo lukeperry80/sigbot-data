@@ -2126,3 +2126,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-12T21:02:07Z,*,scan,,,,v1.1 universe=188 regime=BTC_DOWN signals=0 armed=0 open=15 pending=2 equity=9542.25 closed=229
 2026-11-12T22:02:07Z,*,scan,,,,v1.1 universe=189 regime=BTC_DOWN signals=0 armed=0 open=15 pending=2 equity=9542.25 closed=229
 2026-11-12T23:02:07Z,*,scan,,,,v1.1 universe=189 regime=BTC_DOWN signals=0 armed=0 open=15 pending=2 equity=9542.25 closed=229
+2026-11-13T00:02:07Z,STONKUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.0433 >= level 0.0429
+2026-11-13T00:02:07Z,IRYSUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.01596
+2026-11-13T00:02:07Z,ARXUSDT,exit_due,SHORT,XREV_SHORT,C,-0.086R gross -0.098R net
+2026-11-13T00:02:07Z,PLUMEUSDT,open,SHORT,XREV_SHORT,C,entry 0.01379
+2026-11-13T00:02:07Z,USELESSUSDT,open,SHORT,XREV_SHORT,C,entry 0.13252
+2026-11-13T00:02:07Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=2 armed=2 open=17 pending=0 equity=9541.90 closed=230

@@ -6238,3 +6238,36 @@ SHORT_TAIL, grade A  |  stop was <code>0.015606995</code>
 Entry <code>0.02228</code>  Mark <code>0.00783</code>
 Result <b>+2.63R gross / +1.80R net</b>
 Close this position now.
+===== 2026-11-13 00:03:43 UTC
+<b>🔴 SHORT FILLED  IRYSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.01596</code>
+Stop    <code>0.017427575</code>  (9.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>8127.57</code>
+Exit by <b>2026-11-23 10:00</b>
+Why     mom rank 0.14 | liq rank 120 | BTC_DOWN
+===== 2026-11-13 00:03:44 UTC
+⏰ <b>EXIT NOW — ARXUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.21868</code>
+Entry <code>0.1988</code>  Mark <code>0.2005</code>
+Result <b>-0.09R gross / -0.10R net</b>
+Close this position now.
+===== 2026-11-13 00:03:46 UTC
+<b>🔴 SHORT FILLED  PLUMEUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.01379</code>
+Stop    <code>0.015169</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>2594.79</code>
+Exit by <b>2026-11-14 10:00</b>
+Why     6h ret +6.2% | liq rank 158 | BTC_DOWN
+===== 2026-11-13 00:03:47 UTC
+<b>🔴 SHORT FILLED  USELESSUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.13252</code>
+Stop    <code>0.145772</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>270.013</code>
+Exit by <b>2026-11-14 10:00</b>
+Why     6h ret +6.0% | liq rank 57 | BTC_DOWN
