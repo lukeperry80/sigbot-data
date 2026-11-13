@@ -2156,3 +2156,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-13T12:02:00Z,SOONUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.2432 >= level 0.2316
 2026-11-13T12:02:00Z,POPCATUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.03131
 2026-11-13T12:02:00Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9541.90 closed=230
+2026-11-13T13:02:00Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9541.90 closed=230
