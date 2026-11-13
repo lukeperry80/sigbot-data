@@ -2159,3 +2159,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-13T13:02:00Z,*,scan,,,,v1.1 universe=190 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9541.90 closed=230
 2026-11-13T14:02:00Z,*,scan,,,,v1.1 universe=189 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9541.90 closed=230
 2026-11-13T15:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9541.90 closed=230
+2026-11-13T16:02:00Z,HUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02104
+2026-11-13T16:02:00Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=1 armed=1 open=20 pending=1 equity=9541.90 closed=230
