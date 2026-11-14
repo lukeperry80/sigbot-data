@@ -2221,3 +2221,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T16:02:00Z,GRASSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T16:02:00Z,PENGUUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T16:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_DOWN signals=19 armed=1 open=23 pending=1 equity=9526.24 closed=235
+2026-11-14T17:02:00Z,*,scan,,,,v1.1 universe=205 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9526.24 closed=235
