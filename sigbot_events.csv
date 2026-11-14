@@ -2183,3 +2183,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T01:02:00Z,BERAUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.12351994 exit 0.12351994 bar 2026-11-14T00:00:00Z net -0.546R
 2026-11-14T01:02:00Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9525.10 closed=234
 2026-11-14T02:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9525.10 closed=234
+2026-11-14T03:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9525.10 closed=234
