@@ -2184,3 +2184,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T01:02:00Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9525.10 closed=234
 2026-11-14T02:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9525.10 closed=234
 2026-11-14T03:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9525.10 closed=234
+2026-11-14T04:02:00Z,LSKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.15204
+2026-11-14T04:02:00Z,SYRUPUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.11127
+2026-11-14T04:02:00Z,COREUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-14T04:02:00Z,OPUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-14T04:02:00Z,GRASSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-14T04:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=7 armed=2 open=21 pending=4 equity=9525.10 closed=234

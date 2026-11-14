@@ -6437,3 +6437,21 @@ Why     6h ret +17.6% | liq rank 92 | BTC_DOWN
 SHORT_TAIL, grade A
 Entry <code>0.1141</code>  Stop <code>0.12351994</code>  Exit <code>0.12351994</code>
 Loss  <b>-0.55R net</b> ≈ 0.07% of equity
+===== 2026-11-14 04:03:33 UTC
+<b>🟡 SHORT SETUP  LSKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.15204</code>  (needs 4h close confirm)
+Stop    <code>0.16372938</code>  (7.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-14 22:00</b>
+Why     mom rank 0.07 | liq rank 113 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-14 04:03:34 UTC
+<b>🟡 SHORT SETUP  SYRUPUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.11127</code>  (needs 4h close confirm)
+Stop    <code>0.12033036</code>  (8.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-14 22:00</b>
+Why     mom rank 0.12 | liq rank 176 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
