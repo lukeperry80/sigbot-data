@@ -2208,3 +2208,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T12:02:00Z,KAVAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T12:02:00Z,HUMAUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T12:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_DOWN signals=6 armed=0 open=23 pending=1 equity=9526.24 closed=235
+2026-11-14T13:02:00Z,*,scan,,,,v1.1 universe=200 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9526.24 closed=235
