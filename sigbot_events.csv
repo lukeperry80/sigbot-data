@@ -2169,3 +2169,14 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-13T21:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=19 pending=1 equity=9529.69 closed=231
 2026-11-13T22:02:00Z,*,scan,,,,v1.1 universe=195 regime=BTC_DOWN signals=0 armed=0 open=19 pending=1 equity=9529.69 closed=231
 2026-11-13T23:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=0 armed=0 open=19 pending=1 equity=9529.69 closed=231
+2026-11-14T00:02:00Z,HUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.02173 >= level 0.02104
+2026-11-14T00:02:00Z,PLUMEUSDT,exit_due,SHORT,XREV_SHORT,C,-0.036R gross -0.048R net
+2026-11-14T00:02:00Z,USELESSUSDT,exit_due,SHORT,XREV_SHORT,C,+0.595R gross +0.584R net
+2026-11-14T00:02:00Z,DOSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1543
+2026-11-14T00:02:00Z,AEROUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.4699
+2026-11-14T00:02:00Z,NIULAIUSDT,open,SHORT,XREV_SHORT,C,entry 0.06274
+2026-11-14T00:02:00Z,0GUSDT,open,SHORT,XREV_SHORT,C,entry 0.16
+2026-11-14T00:02:00Z,ARXUSDT,open,SHORT,XREV_SHORT,C,entry 0.2221
+2026-11-14T00:02:00Z,MONUSDT,open,SHORT,XREV_SHORT,C,entry 0.01674
+2026-11-14T00:02:00Z,SHELLUSDT,open,SHORT,XREV_SHORT,C,entry 0.03633
+2026-11-14T00:02:00Z,*,scan,,,,v1.1 universe=194 regime=BTC_DOWN signals=8 armed=7 open=22 pending=2 equity=9531.61 closed=233

@@ -6357,3 +6357,78 @@ Why     mom rank 0.02 | liq rank 62 | BTC_DOWN
 SHORT_TAIL, grade A
 Entry <code>0.03131</code>  Stop <code>0.033206612</code>  Exit <code>0.033206612</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-14 00:03:37 UTC
+⏰ <b>EXIT NOW — PLUMEUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0150985</code>
+Entry <code>0.01379</code>  Mark <code>0.01384</code>
+Result <b>-0.04R gross / -0.05R net</b>
+Close this position now.
+===== 2026-11-14 00:03:39 UTC
+⏰ <b>EXIT NOW — USELESSUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.142248</code>
+Entry <code>0.13252</code>  Mark <code>0.12463</code>
+Result <b>+0.60R gross / +0.58R net</b>
+Close this position now.
+===== 2026-11-14 00:03:40 UTC
+<b>🟡 SHORT SETUP  DOSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1543</code>  (needs 4h close confirm)
+Stop    <code>0.17086038</code>  (10.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-14 18:00</b>
+Why     mom rank 0.13 | liq rank 134 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-14 00:03:41 UTC
+<b>🟡 SHORT SETUP  AEROUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.4699</code>  (needs 4h close confirm)
+Stop    <code>0.50538398</code>  (7.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-14 18:00</b>
+Why     mom rank 0.17 | liq rank 64 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-14 00:03:42 UTC
+<b>🔴 SHORT FILLED  NIULAIUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.06274</code>
+Stop    <code>0.069014</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>569.709</code>
+Exit by <b>2026-11-15 10:00</b>
+Why     6h ret +2.1% | liq rank 146 | BTC_DOWN
+===== 2026-11-14 00:03:43 UTC
+<b>🔴 SHORT FILLED  0GUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.16</code>
+Stop    <code>0.176</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>223.397</code>
+Exit by <b>2026-11-15 10:00</b>
+Why     6h ret +2.4% | liq rank 138 | BTC_DOWN
+===== 2026-11-14 00:03:44 UTC
+<b>🔴 SHORT FILLED  ARXUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.2221</code>
+Stop    <code>0.24431</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>160.934</code>
+Exit by <b>2026-11-15 10:00</b>
+Why     6h ret +3.0% | liq rank 127 | BTC_DOWN
+===== 2026-11-14 00:03:45 UTC
+<b>🔴 SHORT FILLED  MONUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.01674</code>
+Stop    <code>0.018414</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>2135.22</code>
+Exit by <b>2026-11-15 10:00</b>
+Why     6h ret +2.0% | liq rank 81 | BTC_DOWN
+===== 2026-11-14 00:03:46 UTC
+<b>🔴 SHORT FILLED  SHELLUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.03633</code>
+Stop    <code>0.039963</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>983.857</code>
+Exit by <b>2026-11-15 10:00</b>
+Why     6h ret +17.6% | liq rank 92 | BTC_DOWN
