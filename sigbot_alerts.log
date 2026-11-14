@@ -6478,3 +6478,21 @@ Why     mom rank 0.02 | liq rank 58 | BTC_DOWN
 XREV_SHORT, grade C
 Entry <code>0.03633</code>  Stop <code>0.0350895</code>  Exit <code>0.0350895</code>
 Loss  <b>+0.32R net</b> ≈ 0.01% of equity
+===== 2026-11-14 12:04:05 UTC
+<b>🔴 SHORT FILLED  LSKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.14934</code>
+Stop    <code>0.16372938</code>  (9.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>827.541</code>
+Exit by <b>2026-11-24 22:00</b>
+Why     mom rank 0.07 | liq rank 113 | BTC_DOWN
+===== 2026-11-14 12:04:06 UTC
+<b>🔴 SHORT FILLED  SYRUPUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.10773</code>
+Stop    <code>0.12033036</code>  (11.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>945.036</code>
+Exit by <b>2026-11-24 22:00</b>
+Why     mom rank 0.12 | liq rank 176 | BTC_DOWN
