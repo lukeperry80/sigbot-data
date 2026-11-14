@@ -2198,3 +2198,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T08:02:00Z,HUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02054
 2026-11-14T08:02:00Z,BIRBUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T08:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=3 armed=1 open=22 pending=3 equity=9525.10 closed=234
+2026-11-14T09:02:00Z,SHELLUSDT,stop,SHORT,XREV_SHORT,C,stop 0.0350895 exit 0.0350895 bar 2026-11-14T08:00:00Z net +0.318R
+2026-11-14T09:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=0 armed=0 open=21 pending=3 equity=9526.24 closed=235
