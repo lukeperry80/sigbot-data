@@ -2190,3 +2190,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T04:02:00Z,OPUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T04:02:00Z,GRASSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-14T04:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=7 armed=2 open=21 pending=4 equity=9525.10 closed=234
+2026-11-14T05:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_DOWN signals=0 armed=0 open=21 pending=4 equity=9525.10 closed=234
