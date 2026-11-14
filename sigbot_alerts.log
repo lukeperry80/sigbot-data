@@ -6455,3 +6455,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-14 22:00</b>
 Why     mom rank 0.12 | liq rank 176 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-14 08:03:33 UTC
+<b>🔴 SHORT FILLED  AEROUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.4578</code>
+Stop    <code>0.50538398</code>  (10.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>250.218</code>
+Exit by <b>2026-11-24 18:00</b>
+Why     mom rank 0.17 | liq rank 64 | BTC_DOWN
+===== 2026-11-14 08:03:34 UTC
+<b>🟡 SHORT SETUP  HUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02054</code>  (needs 4h close confirm)
+Stop    <code>0.025794185</code>  (25.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-15 02:00</b>
+Why     mom rank 0.02 | liq rank 58 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>

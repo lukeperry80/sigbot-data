@@ -2193,3 +2193,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-14T05:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_DOWN signals=0 armed=0 open=21 pending=4 equity=9525.10 closed=234
 2026-11-14T06:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_DOWN signals=0 armed=0 open=21 pending=4 equity=9525.10 closed=234
 2026-11-14T07:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=0 armed=0 open=21 pending=4 equity=9525.10 closed=234
+2026-11-14T08:02:00Z,DOSUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.1674 >= level 0.1543
+2026-11-14T08:02:00Z,AEROUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.4578
+2026-11-14T08:02:00Z,HUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02054
+2026-11-14T08:02:00Z,BIRBUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-14T08:02:00Z,*,scan,,,,v1.1 universe=197 regime=BTC_DOWN signals=3 armed=1 open=22 pending=3 equity=9525.10 closed=234
