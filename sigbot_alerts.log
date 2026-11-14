@@ -6496,3 +6496,12 @@ Risk    0.12% of equity if stopped
 Qty     <code>945.036</code>
 Exit by <b>2026-11-24 22:00</b>
 Why     mom rank 0.12 | liq rank 176 | BTC_DOWN
+===== 2026-11-14 16:04:09 UTC
+<b>🟡 SHORT SETUP  HUMAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.00731</code>  (needs 4h close confirm)
+Stop    <code>0.0082645659</code>  (13.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-15 10:00</b>
+Why     mom rank 0.00 | liq rank 102 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
