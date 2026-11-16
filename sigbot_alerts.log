@@ -6751,3 +6751,12 @@ Why     mom rank 1.00 | liq rank 39 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.0066</code>  Stop <code>0.0075652124</code>  Exit <code>0.0075652124</code>
 Loss  <b>-1.10R net</b> ≈ 0.14% of equity
+===== 2026-11-16 20:03:33 UTC
+<b>🟡 LONG SETUP  HUMAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.00867</code>  (post-only retest)
+Stop    <code>0.0076128232</code>  (12.2% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-17 18:02</b>
+Why     mom rank 0.02 | liq rank 95 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

@@ -2327,3 +2327,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-16T17:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=13 pending=0 equity=9641.11 closed=256
 2026-11-16T18:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=13 pending=0 equity=9641.11 closed=256
 2026-11-16T19:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=13 pending=0 equity=9641.11 closed=256
+2026-11-16T20:02:00Z,HUMAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.00867
+2026-11-16T20:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=1 armed=1 open=13 pending=1 equity=9641.11 closed=256
