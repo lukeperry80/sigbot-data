@@ -2325,3 +2325,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-16T16:02:00Z,HUMAUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.0075652124 exit 0.0075652124 bar 2026-11-16T15:00:00Z net -1.096R
 2026-11-16T16:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=1 armed=0 open=13 pending=0 equity=9641.11 closed=256
 2026-11-16T17:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=13 pending=0 equity=9641.11 closed=256
+2026-11-16T18:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_UP signals=0 armed=0 open=13 pending=0 equity=9641.11 closed=256
