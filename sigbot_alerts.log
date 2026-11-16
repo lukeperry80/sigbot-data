@@ -6723,3 +6723,8 @@ Why     mom rank 0.77 | liq rank 48 | BTC_UP
 XREV_SHORT, grade C
 Entry <code>0.001383</code>  Stop <code>0.0015213</code>  Exit <code>0.0015213</code>
 Loss  <b>-1.01R net</b> ≈ 0.04% of equity
+===== 2026-11-16 06:04:04 UTC
+🛑 <b>STOPPED — RAREUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.012562</code>  Stop <code>0.0132253</code>  Exit <code>0.0132253</code>
+Loss  <b>-0.59R net</b> ≈ 0.02% of equity
