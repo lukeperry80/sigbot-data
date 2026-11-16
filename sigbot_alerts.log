@@ -6737,3 +6737,12 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-17 06:02</b>
 Why     mom rank 1.00 | liq rank 39 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-16 15:04:04 UTC
+<b>🟢 LONG FILLED  EVAAUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>2.9111</code>
+Stop    <code>2.3682311</code>  (18.6% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>6.66886</code>
+Exit by <b>2026-11-22 00:00</b>
+Why     mom rank 1.00 | liq rank 39 | BTC_UP
