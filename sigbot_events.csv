@@ -2285,3 +2285,19 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-15T21:02:00Z,*,scan,,,,v1.1 universe=228 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9546.75 closed=241
 2026-11-15T22:02:00Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9546.75 closed=241
 2026-11-15T23:02:00Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=0 armed=0 open=23 pending=0 equity=9546.75 closed=241
+2026-11-16T00:02:00Z,JTOUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.750R gross +1.746R net
+2026-11-16T00:02:00Z,MARSCOINUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.082R gross +1.107R net
+2026-11-16T00:02:00Z,EIGENUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.597R gross +1.603R net
+2026-11-16T00:02:00Z,2ZUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.736R gross +1.725R net
+2026-11-16T00:02:00Z,ALTUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.220R gross +1.225R net
+2026-11-16T00:02:00Z,BILLUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.153R gross +1.169R net
+2026-11-16T00:02:00Z,VETUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.082R gross +1.089R net
+2026-11-16T00:02:00Z,PORTALUSDT,exit_due,SHORT,XREV_SHORT,C,+0.172R gross +0.160R net
+2026-11-16T00:02:00Z,SENTUSDT,exit_due,SHORT,XREV_SHORT,C,-0.176R gross -0.189R net
+2026-11-16T00:02:00Z,ALLOUSDT,exit_due,SHORT,XREV_SHORT,C,+0.377R gross +0.365R net
+2026-11-16T00:02:00Z,OPGUSDT,exit_due,SHORT,XREV_SHORT,C,+0.143R gross +0.131R net
+2026-11-16T00:02:00Z,VVVUSDT,setup,LONG,LONG_MAJ,C,limit level 20.434
+2026-11-16T00:02:00Z,SKRUSDT,open,SHORT,XREV_SHORT,C,entry 0.009423
+2026-11-16T00:02:00Z,TACUSDT,open,SHORT,XREV_SHORT,C,entry 0.001383
+2026-11-16T00:02:00Z,RAREUSDT,open,SHORT,XREV_SHORT,C,entry 0.012562
+2026-11-16T00:02:00Z,*,scan,,,,v1.1 universe=226 regime=BTC_UP signals=4 armed=4 open=15 pending=1 equity=9663.68 closed=252

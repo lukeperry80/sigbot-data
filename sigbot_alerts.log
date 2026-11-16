@@ -6602,3 +6602,105 @@ Loss  <b>+0.33R net</b> ≈ 0.04% of equity
 XREV_SHORT, grade C
 Entry <code>0.1301</code>  Stop <code>0.14311</code>  Exit <code>0.14311</code>
 Loss  <b>-1.01R net</b> ≈ 0.04% of equity
+===== 2026-11-16 00:03:33 UTC
+⏰ <b>EXIT NOW — JTOUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.30131852</code>
+Entry <code>0.326</code>  Mark <code>0.2715</code>
+Result <b>+1.75R gross / +1.75R net</b>
+Close this position now.
+===== 2026-11-16 00:03:35 UTC
+⏰ <b>EXIT NOW — MARSCOINUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.045042733</code>
+Entry <code>0.04351</code>  Mark <code>0.03404</code>
+Result <b>+1.08R gross / +1.11R net</b>
+Close this position now.
+===== 2026-11-16 00:03:36 UTC
+⏰ <b>EXIT NOW — EIGENUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.15521108</code>
+Entry <code>0.1662</code>  Mark <code>0.1333</code>
+Result <b>+1.60R gross / +1.60R net</b>
+Close this position now.
+===== 2026-11-16 00:03:37 UTC
+⏰ <b>EXIT NOW — 2ZUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.019261774</code>
+Entry <code>0.02099</code>  Mark <code>0.0163</code>
+Result <b>+1.74R gross / +1.73R net</b>
+Close this position now.
+===== 2026-11-16 00:03:38 UTC
+⏰ <b>EXIT NOW — ALTUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.0051598559</code>
+Entry <code>0.005262</code>  Mark <code>0.004692</code>
+Result <b>+1.22R gross / +1.22R net</b>
+Close this position now.
+===== 2026-11-16 00:03:39 UTC
+⏰ <b>EXIT NOW — BILLUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.0044196825</code>
+Entry <code>0.00467</code>  Mark <code>0.00414</code>
+Result <b>+1.15R gross / +1.17R net</b>
+Close this position now.
+===== 2026-11-16 00:03:40 UTC
+⏰ <b>EXIT NOW — VETUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.0050601441</code>
+Entry <code>0.005358</code>  Mark <code>0.004917</code>
+Result <b>+1.08R gross / +1.09R net</b>
+Close this position now.
+===== 2026-11-16 00:03:41 UTC
+⏰ <b>EXIT NOW — PORTALUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0131626</code>
+Entry <code>0.011966</code>  Mark <code>0.01176</code>
+Result <b>+0.17R gross / +0.16R net</b>
+Close this position now.
+===== 2026-11-16 00:03:42 UTC
+⏰ <b>EXIT NOW — SENTUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.018183</code>
+Entry <code>0.01653</code>  Mark <code>0.016821</code>
+Result <b>-0.18R gross / -0.19R net</b>
+Close this position now.
+===== 2026-11-16 00:03:44 UTC
+⏰ <b>EXIT NOW — ALLOUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.168775</code>
+Entry <code>0.1565</code>  Mark <code>0.1506</code>
+Result <b>+0.38R gross / +0.37R net</b>
+Close this position now.
+===== 2026-11-16 00:03:45 UTC
+⏰ <b>EXIT NOW — OPGUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.151932</code>
+Entry <code>0.13812</code>  Mark <code>0.13615</code>
+Result <b>+0.14R gross / +0.13R net</b>
+Close this position now.
+===== 2026-11-16 00:03:46 UTC
+<b>🟡 LONG SETUP  VVVUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>20.434</code>  (post-only retest)
+Stop    <code>18.574254</code>  (9.1% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-16 22:02</b>
+Why     mom rank 0.77 | liq rank 48 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-16 00:03:47 UTC
+<b>🔴 SHORT FILLED  SKRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.009423</code>
+Stop    <code>0.0103653</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3845.78</code>
+Exit by <b>2026-11-17 10:00</b>
+Why     6h ret +8.4% | liq rank 198 | BTC_UP
+===== 2026-11-16 00:03:48 UTC
+<b>🔴 SHORT FILLED  TACUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.001383</code>
+Stop    <code>0.0015213</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>26203</code>
+Exit by <b>2026-11-17 10:00</b>
+Why     6h ret +10.1% | liq rank 176 | BTC_UP
+===== 2026-11-16 00:03:49 UTC
+<b>🔴 SHORT FILLED  RAREUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.012562</code>
+Stop    <code>0.0138182</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>2884.79</code>
+Exit by <b>2026-11-17 10:00</b>
+Why     6h ret +47.1% | liq rank 110 | BTC_UP
