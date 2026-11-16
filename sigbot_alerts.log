@@ -6709,3 +6709,12 @@ Why     6h ret +47.1% | liq rank 110 | BTC_UP
 XREV_SHORT, grade C
 Entry <code>0.009423</code>  Stop <code>0.0103653</code>  Exit <code>0.0103653</code>
 Loss  <b>-1.02R net</b> ≈ 0.04% of equity
+===== 2026-11-16 02:04:02 UTC
+<b>🟢 LONG FILLED  VVVUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>20.434</code>
+Stop    <code>18.574254</code>  (9.1% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1.94785</code>
+Exit by <b>2026-11-21 11:00</b>
+Why     mom rank 0.77 | liq rank 48 | BTC_UP
