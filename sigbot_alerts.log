@@ -6760,3 +6760,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-17 18:02</b>
 Why     mom rank 0.02 | liq rank 95 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-17 04:03:32 UTC
+<b>🟡 SHORT SETUP  APRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0303</code>  (needs 4h close confirm)
+Stop    <code>0.033476957</code>  (10.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-17 22:00</b>
+Why     mom rank 0.05 | liq rank 166 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
