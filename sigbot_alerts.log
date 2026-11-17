@@ -6787,3 +6787,21 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-18 02:00</b>
 Why     mom rank 0.09 | liq rank 181 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-17 12:03:32 UTC
+<b>🔴 SHORT FILLED  APRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.0297</code>
+Stop    <code>0.033476957</code>  (12.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3190.77</code>
+Exit by <b>2026-11-27 22:00</b>
+Why     mom rank 0.05 | liq rank 166 | BTC_DOWN
+===== 2026-11-17 12:03:34 UTC
+<b>🟡 LONG SETUP  ZECUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>939.87</code>  (post-only retest)
+Stop    <code>861.35969</code>  (8.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-18 10:02</b>
+Why     mom rank 0.36 | liq rank 4 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
