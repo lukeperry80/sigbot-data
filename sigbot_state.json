@@ -18,7 +18,7 @@
    "qty": 3012.5259343656194,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "ORDERUSDT": {
    "symbol": "ORDERUSDT",
@@ -36,7 +36,7 @@
    "qty": 4020.278064607745,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "NILUSDT": {
    "symbol": "NILUSDT",
@@ -54,7 +54,7 @@
    "qty": 1958.2091853125935,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "CTUSDT": {
    "symbol": "CTUSDT",
@@ -72,7 +72,7 @@
    "qty": 683.3589614962121,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "CASHCATUSDT": {
    "symbol": "CASHCATUSDT",
@@ -90,7 +90,7 @@
    "qty": 1011.5375965484241,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "CARVUSDT": {
    "symbol": "CARVUSDT",
@@ -108,7 +108,7 @@
    "qty": 4874.118872824658,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "IRYSUSDT": {
    "symbol": "IRYSUSDT",
@@ -126,7 +126,7 @@
    "qty": 8127.566649042065,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "ZILUSDT": {
    "symbol": "ZILUSDT",
@@ -136,15 +136,15 @@
    "size_mult": 1.0,
    "entry": 0.001463,
    "entry_ts": 1794571200000,
-   "stop": 0.0010753865759010684,
+   "stop": 0.0010733865759010685,
    "R": 0.00011159105060071228,
    "exit_due_ts": 1795435200000,
-   "best": 0.000908,
+   "best": 0.000906,
    "risk_amt": 11.927376959428202,
    "qty": 106884.70890112822,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "AEROUSDT": {
    "symbol": "AEROUSDT",
@@ -162,7 +162,7 @@
    "qty": 250.2181314891756,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "LSKUSDT": {
    "symbol": "LSKUSDT",
@@ -180,7 +180,7 @@
    "qty": 827.5408153809232,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "SYRUPUSDT": {
    "symbol": "SYRUPUSDT",
@@ -198,7 +198,7 @@
    "qty": 945.0362591847789,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "VVVUSDT": {
    "symbol": "VVVUSDT",
@@ -216,7 +216,7 @@
    "qty": 1.9478459664255205,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "EVAAUSDT": {
    "symbol": "EVAAUSDT",
@@ -234,7 +234,7 @@
    "qty": 6.6688629602915315,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   },
   "HUMAUSDT": {
    "symbol": "HUMAUSDT",
@@ -252,7 +252,7 @@
    "qty": 11399.594643993742,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794895200000
+   "last_bar_ts": 1794898800000
   }
  },
  "pending": {
@@ -270,11 +270,26 @@
    "liq_rank": 166,
    "regime": "BTC_DOWN",
    "note": "mom rank 0.05"
+  },
+  "MUBARAKUSDT": {
+   "symbol": "MUBARAKUSDT",
+   "direction": "SHORT",
+   "module": "SHORT_TAIL",
+   "grade": "A",
+   "size_mult": 1.0,
+   "kind": "confirm",
+   "level": 0.027691,
+   "atr": 0.0010708628415053531,
+   "created_ts": 1794902520975,
+   "expires_ts": 1794931200000,
+   "liq_rank": 181,
+   "regime": "BTC_DOWN",
+   "note": "mom rank 0.09"
   }
  },
- "last_4h": 1794888000000,
+ "last_4h": 1794902400000,
  "last_day": 1794873600000,
- "last_run_ms": 1794898920868,
+ "last_run_ms": 1794902520975,
  "closed": [
   {
    "symbol": "MAGICUSDT",
