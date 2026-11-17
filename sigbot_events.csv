@@ -2345,3 +2345,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-17T08:02:00Z,MUBARAKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.027691
 2026-11-17T08:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=1 armed=1 open=14 pending=2 equity=9641.11 closed=256
 2026-11-17T09:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=14 pending=2 equity=9641.11 closed=256
+2026-11-17T10:02:00Z,*,scan,,,,v1.1 universe=221 regime=BTC_UP signals=0 armed=0 open=14 pending=2 equity=9641.11 closed=256
