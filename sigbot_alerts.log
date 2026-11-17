@@ -6769,3 +6769,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-17 22:00</b>
 Why     mom rank 0.05 | liq rank 166 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-17 06:03:32 UTC
+<b>🟢 LONG FILLED  HUMAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.00867</code>
+Stop    <code>0.0076128232</code>  (12.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>11399.6</code>
+Exit by <b>2026-11-22 15:00</b>
+Why     mom rank 0.02 | liq rank 95 | BTC_UP
