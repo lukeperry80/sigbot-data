@@ -2362,3 +2362,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-17T16:02:00Z,OPUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.07556
 2026-11-17T16:02:00Z,PENGUUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0046
 2026-11-17T16:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=6 armed=5 open=15 pending=5 equity=9630.36 closed=257
+2026-11-17T17:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9630.36 closed=257
