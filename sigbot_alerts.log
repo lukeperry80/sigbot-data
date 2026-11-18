@@ -6864,3 +6864,48 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-18 10:00</b>
 Why     mom rank 0.07 | liq rank 74 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-18 00:04:07 UTC
+<b>🟡 LONG SETUP  NEARUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>3.351</code>  (post-only retest)
+Stop    <code>3.0910116</code>  (7.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-18 22:02</b>
+Why     mom rank 0.73 | liq rank 7 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-18 00:04:08 UTC
+<b>🟡 LONG SETUP  GRASSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.4159</code>  (post-only retest)
+Stop    <code>0.38279572</code>  (8.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-18 22:02</b>
+Why     mom rank 0.17 | liq rank 78 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-18 00:04:09 UTC
+<b>🟡 LONG SETUP  OPGUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.14286</code>  (post-only retest)
+Stop    <code>0.13212659</code>  (7.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-18 22:02</b>
+Why     mom rank 0.95 | liq rank 90 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-18 00:04:10 UTC
+<b>🟡 LONG SETUP  ICNTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.26</code>  (post-only retest)
+Stop    <code>0.2294778</code>  (11.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-18 22:02</b>
+Why     mom rank 0.96 | liq rank 95 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-18 00:04:11 UTC
+<b>🔴 SHORT FILLED  PENGUUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.004903</code>
+Stop    <code>0.0053933</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>7365.66</code>
+Exit by <b>2026-11-19 10:00</b>
+Why     6h ret +7.9% | liq rank 70 | BTC_UP

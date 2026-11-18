@@ -2369,3 +2369,13 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-17T21:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9630.36 closed=257
 2026-11-17T22:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9630.36 closed=257
 2026-11-17T23:02:01Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9630.36 closed=257
+2026-11-18T00:02:00Z,JTOUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.2658 >= level 0.2546
+2026-11-18T00:02:00Z,HUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.01523 >= level 0.01512
+2026-11-18T00:02:00Z,OPUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.07872 >= level 0.07556
+2026-11-18T00:02:00Z,PENGUUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.004903 >= level 0.0046
+2026-11-18T00:02:00Z,NEARUSDT,setup,LONG,LONG_MAJ,A,limit level 3.351
+2026-11-18T00:02:00Z,GRASSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.4159
+2026-11-18T00:02:00Z,OPGUSDT,setup,LONG,LONG_MAJ,A,limit level 0.14286
+2026-11-18T00:02:00Z,ICNTUSDT,setup,LONG,LONG_MAJ,A,limit level 0.26
+2026-11-18T00:02:00Z,PENGUUSDT,open,SHORT,XREV_SHORT,C,entry 0.004903
+2026-11-18T00:02:00Z,*,scan,,,,v1.1 universe=221 regime=BTC_UP signals=7 armed=5 open=16 pending=4 equity=9630.36 closed=257
