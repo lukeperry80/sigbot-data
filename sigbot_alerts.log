@@ -6941,3 +6941,8 @@ Why     mom rank 0.95 | liq rank 90 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.001463</code>  Stop <code>0.0010353866</code>  Exit <code>0.0010353866</code>
 Loss  <b>+3.76R net</b> ≈ 0.47% of equity
+===== 2026-11-18 07:04:03 UTC
+🛑 <b>STOPPED — IRYSUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.01596</code>  Stop <code>0.015779362</code>  Exit <code>0.015779362</code>
+Loss  <b>+0.12R net</b> ≈ 0.01% of equity
