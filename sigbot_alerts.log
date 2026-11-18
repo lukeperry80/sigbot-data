@@ -6909,3 +6909,30 @@ Risk    0.04% of equity if stopped
 Qty     <code>7365.66</code>
 Exit by <b>2026-11-19 10:00</b>
 Why     6h ret +7.9% | liq rank 70 | BTC_UP
+===== 2026-11-18 02:04:04 UTC
+<b>🟢 LONG FILLED  NEARUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>3.351</code>
+Stop    <code>3.0910116</code>  (7.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>46.3019</code>
+Exit by <b>2026-11-23 11:00</b>
+Why     mom rank 0.73 | liq rank 7 | BTC_UP
+===== 2026-11-18 02:04:05 UTC
+<b>🟢 LONG FILLED  GRASSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.4159</code>
+Stop    <code>0.38279572</code>  (8.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>363.637</code>
+Exit by <b>2026-11-23 11:00</b>
+Why     mom rank 0.17 | liq rank 78 | BTC_UP
+===== 2026-11-18 02:04:06 UTC
+<b>🟢 LONG FILLED  OPGUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.14286</code>
+Stop    <code>0.13212659</code>  (7.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1121.54</code>
+Exit by <b>2026-11-23 11:00</b>
+Why     mom rank 0.95 | liq rank 90 | BTC_UP
