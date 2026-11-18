@@ -2408,3 +2408,10 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-18T13:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9676.63 closed=259
 2026-11-18T14:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9676.63 closed=259
 2026-11-18T15:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9676.63 closed=259
+2026-11-18T16:02:00Z,MEGAUSDT,fill,LONG,LONG_MAJ,A,entry 0.05243 level 0.05243 bar 2026-11-18T15:00:00Z
+2026-11-18T16:02:00Z,CHIPUSDT,exit_due,SHORT,SHORT_TAIL,A,+1.139R gross +1.136R net
+2026-11-18T16:02:00Z,ORDERUSDT,exit_due,SHORT,SHORT_TAIL,A,+0.608R gross +0.624R net
+2026-11-18T16:02:00Z,CTUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.1243635 exit 0.1243635 bar 2026-11-18T15:00:00Z net -0.992R
+2026-11-18T16:02:00Z,MUBARAKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02668
+2026-11-18T16:02:00Z,FILUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.5749
+2026-11-18T16:02:00Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=3 armed=2 open=18 pending=3 equity=9685.80 closed=262
