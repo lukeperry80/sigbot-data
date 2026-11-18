@@ -2405,3 +2405,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-18T12:02:00Z,ICNTUSDT,expired,LONG,LONG_MAJ,A,level 0.26
 2026-11-18T12:02:00Z,XRPUSDT,fill,LONG,LONG_MAJ,A,entry 0.9912 level 0.9912 bar 2026-11-18T11:00:00Z
 2026-11-18T12:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9676.63 closed=259
+2026-11-18T13:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=20 pending=2 equity=9676.63 closed=259
