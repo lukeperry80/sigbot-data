@@ -2384,3 +2384,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-18T02:02:00Z,GRASSUSDT,fill,LONG,LONG_MAJ,A,entry 0.4159 level 0.4159 bar 2026-11-18T01:00:00Z
 2026-11-18T02:02:00Z,OPGUSDT,fill,LONG,LONG_MAJ,A,entry 0.14286 level 0.14286 bar 2026-11-18T01:00:00Z
 2026-11-18T02:02:00Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=19 pending=1 equity=9630.36 closed=257
+2026-11-18T03:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_DOWN signals=0 armed=0 open=19 pending=1 equity=9630.36 closed=257
