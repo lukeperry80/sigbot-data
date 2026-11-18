@@ -6991,3 +6991,21 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-19 06:02</b>
 Why     mom rank 0.99 | liq rank 49 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-18 10:03:33 UTC
+<b>🟢 LONG FILLED  KGENUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.0808</code>
+Stop    <code>0.072626572</code>  (10.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1479.89</code>
+Exit by <b>2026-11-23 19:00</b>
+Why     mom rank 0.91 | liq rank 67 | BTC_UP
+===== 2026-11-18 10:03:34 UTC
+<b>🟢 LONG FILLED  XLMUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>0.1421</code>
+Stop    <code>0.13502125</code>  (5.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>512.624</code>
+Exit by <b>2026-11-23 19:00</b>
+Why     mom rank 0.72 | liq rank 35 | BTC_UP
