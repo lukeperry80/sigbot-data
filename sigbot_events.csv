@@ -2391,3 +2391,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-18T06:02:00Z,*,scan,,,,v1.1 universe=219 regime=BTC_DOWN signals=0 armed=0 open=18 pending=1 equity=9675.22 closed=258
 2026-11-18T07:02:00Z,IRYSUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.015779362 exit 0.015779362 bar 2026-11-18T06:00:00Z net +0.119R
 2026-11-18T07:02:00Z,*,scan,,,,v1.1 universe=218 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9676.63 closed=259
+2026-11-18T08:02:00Z,XRPUSDT,setup,LONG,LONG_MAJ,A,limit level 0.9912
+2026-11-18T08:02:00Z,KGENUSDT,setup,LONG,LONG_MAJ,A,limit level 0.0808
+2026-11-18T08:02:00Z,MEGAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05243
+2026-11-18T08:02:00Z,XLMUSDT,setup,LONG,LONG_MAJ,C,limit level 0.1421
+2026-11-18T08:02:00Z,MMTUSDT,setup,LONG,LONG_MAJ,C,limit level 0.1576
+2026-11-18T08:02:00Z,*,scan,,,,v1.1 universe=217 regime=BTC_UP signals=6 armed=5 open=17 pending=6 equity=9676.63 closed=259
