@@ -1,6 +1,6 @@
 {
  "version": "1.1",
- "equity": 9630.360618090657,
+ "equity": 9675.21594480132,
  "positions": {
   "CHIPUSDT": {
    "symbol": "CHIPUSDT",
@@ -18,7 +18,7 @@
    "qty": 3012.5259343656194,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "ORDERUSDT": {
    "symbol": "ORDERUSDT",
@@ -36,7 +36,7 @@
    "qty": 4020.278064607745,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "NILUSDT": {
    "symbol": "NILUSDT",
@@ -54,7 +54,7 @@
    "qty": 1958.2091853125935,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "CTUSDT": {
    "symbol": "CTUSDT",
@@ -72,7 +72,7 @@
    "qty": 683.3589614962121,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "CASHCATUSDT": {
    "symbol": "CASHCATUSDT",
@@ -90,7 +90,7 @@
    "qty": 1011.5375965484241,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "CARVUSDT": {
    "symbol": "CARVUSDT",
@@ -108,7 +108,7 @@
    "qty": 4874.118872824658,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "IRYSUSDT": {
    "symbol": "IRYSUSDT",
@@ -126,25 +126,7 @@
    "qty": 8127.566649042065,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
-  },
-  "ZILUSDT": {
-   "symbol": "ZILUSDT",
-   "direction": "SHORT",
-   "module": "SHORT_TAIL",
-   "grade": "A",
-   "size_mult": 1.0,
-   "entry": 0.001463,
-   "entry_ts": 1794571200000,
-   "stop": 0.0010353865759010683,
-   "R": 0.00011159105060071228,
-   "exit_due_ts": 1795435200000,
-   "best": 0.000868,
-   "risk_amt": 11.927376959428202,
-   "qty": 106884.70890112822,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "AEROUSDT": {
    "symbol": "AEROUSDT",
@@ -162,7 +144,7 @@
    "qty": 250.2181314891756,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "LSKUSDT": {
    "symbol": "LSKUSDT",
@@ -180,7 +162,7 @@
    "qty": 827.5408153809232,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "SYRUPUSDT": {
    "symbol": "SYRUPUSDT",
@@ -198,7 +180,7 @@
    "qty": 945.0362591847789,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "VVVUSDT": {
    "symbol": "VVVUSDT",
@@ -216,7 +198,7 @@
    "qty": 1.9478459664255205,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "EVAAUSDT": {
    "symbol": "EVAAUSDT",
@@ -234,7 +216,7 @@
    "qty": 6.6688629602915315,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "APRUSDT": {
    "symbol": "APRUSDT",
@@ -252,7 +234,7 @@
    "qty": 3190.7664762887343,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "ZECUSDT": {
    "symbol": "ZECUSDT",
@@ -270,7 +252,7 @@
    "qty": 0.153500702881401,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "PENGUUSDT": {
    "symbol": "PENGUUSDT",
@@ -283,12 +265,12 @@
    "stop": 0.005393300000000001,
    "R": 0.0004903000000000008,
    "exit_due_ts": 1795046400000,
-   "best": 0.004703,
+   "best": 0.00468,
    "risk_amt": 3.6113852317839963,
    "qty": 7365.664351996717,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "NEARUSDT": {
    "symbol": "NEARUSDT",
@@ -306,7 +288,7 @@
    "qty": 46.30188473808723,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "GRASSUSDT": {
    "symbol": "GRASSUSDT",
@@ -324,7 +306,7 @@
    "qty": 363.63732095754835,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   },
   "OPGUSDT": {
    "symbol": "OPGUSDT",
@@ -342,7 +324,7 @@
    "qty": 1121.5400560286812,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1794974400000
+   "last_bar_ts": 1794978000000
   }
  },
  "pending": {
@@ -364,7 +346,7 @@
  },
  "last_4h": 1794974400000,
  "last_day": 1794960000000,
- "last_run_ms": 1794978120743,
+ "last_run_ms": 1794981720583,
  "closed": [
   {
    "symbol": "MAGICUSDT",
@@ -9359,6 +9341,41 @@
    "equity_before": 9641.109992557009,
    "equity_after": 9630.360618090657,
    "hold_h": 11.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "ZILUSDT",
+   "direction": "SHORT",
+   "module": "SHORT_TAIL",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 0.001463,
+   "entry_ts": 1794571200000,
+   "stop": 0.0010353865759010683,
+   "R": 0.00011159105060071228,
+   "exit_due_ts": 1795435200000,
+   "best": 0.000868,
+   "risk_amt": 11.927376959428202,
+   "qty": 106884.70890112822,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.00075,
+   "last_bar_ts": 1794974400000,
+   "exit": 0.0010353865759010683,
+   "exit_ts": 1794981600000,
+   "entry_ts_utc": "2026-11-13T12:00:00Z",
+   "exit_ts_utc": "2026-11-18T06:00:00Z",
+   "reason": "stop",
+   "r": 3.8319687985463093,
+   "gross_r": 3.8319687985463093,
+   "cost_r": 0.016791578911022825,
+   "funding_rate_sum": -0.004155020000000001,
+   "funding_status": "ok",
+   "funding_r": -0.05447385096991998,
+   "net_r": 3.7607033686653666,
+   "pnl_usdt": 44.85532671066331,
+   "equity_before": 9630.360618090657,
+   "equity_after": 9675.21594480132,
+   "hold_h": 114.0,
    "runner_version": "1.1"
   }
  ]
