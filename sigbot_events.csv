@@ -2456,3 +2456,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-19T17:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_UP signals=0 armed=0 open=18 pending=4 equity=9681.17 closed=266
 2026-11-19T18:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=18 pending=4 equity=9681.17 closed=266
 2026-11-19T19:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=18 pending=4 equity=9681.17 closed=266
+2026-11-19T20:02:00Z,CFGUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0627
+2026-11-19T20:02:00Z,STONKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0389
+2026-11-19T20:02:00Z,BERAUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0825
+2026-11-19T20:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=4 armed=3 open=18 pending=7 equity=9681.17 closed=266

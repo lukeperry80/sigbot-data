@@ -7165,3 +7165,30 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-20 10:00</b>
 Why     mom rank 0.18 | liq rank 86 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 20:03:27 UTC
+<b>🟡 SHORT SETUP  CFGUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0627</code>  (needs 4h close confirm)
+Stop    <code>0.069847727</code>  (11.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 14:00</b>
+Why     mom rank 0.05 | liq rank 190 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 20:03:28 UTC
+<b>🟡 SHORT SETUP  STONKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0389</code>  (needs 4h close confirm)
+Stop    <code>0.043720368</code>  (12.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 14:00</b>
+Why     mom rank 0.00 | liq rank 218 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 20:03:29 UTC
+<b>🟡 SHORT SETUP  BERAUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.0825</code>  (needs 4h close confirm)
+Stop    <code>0.088608045</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 14:00</b>
+Why     mom rank 0.11 | liq rank 71 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
