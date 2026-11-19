@@ -2447,3 +2447,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-19T13:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=17 pending=1 equity=9681.17 closed=266
 2026-11-19T14:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9681.17 closed=266
 2026-11-19T15:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=17 pending=1 equity=9681.17 closed=266
+2026-11-19T16:02:00Z,SKYUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.04144
+2026-11-19T16:02:00Z,NIULAIUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.04258
+2026-11-19T16:02:00Z,BATUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.09078
+2026-11-19T16:02:00Z,APTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.4199
+2026-11-19T16:02:00Z,CRVUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1939
+2026-11-19T16:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=6 armed=4 open=18 pending=4 equity=9681.17 closed=266

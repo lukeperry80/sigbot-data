@@ -7120,3 +7120,48 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-20 02:00</b>
 Why     mom rank 0.13 | liq rank 164 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 16:03:30 UTC
+<b>🔴 SHORT FILLED  SKYUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.04144</code>
+Stop    <code>0.051173926</code>  (23.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1243.23</code>
+Exit by <b>2026-11-30 02:00</b>
+Why     mom rank 0.13 | liq rank 164 | BTC_DOWN
+===== 2026-11-19 16:03:31 UTC
+<b>🟡 SHORT SETUP  NIULAIUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04258</code>  (needs 4h close confirm)
+Stop    <code>0.048017834</code>  (12.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 10:00</b>
+Why     mom rank 0.08 | liq rank 170 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 16:03:32 UTC
+<b>🟡 SHORT SETUP  BATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.09078</code>  (needs 4h close confirm)
+Stop    <code>0.096721661</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 10:00</b>
+Why     mom rank 0.07 | liq rank 184 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 16:03:33 UTC
+<b>🟡 SHORT SETUP  APTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.4199</code>  (needs 4h close confirm)
+Stop    <code>0.4469859</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 10:00</b>
+Why     mom rank 0.09 | liq rank 53 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 16:03:34 UTC
+<b>🟡 SHORT SETUP  CRVUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1939</code>  (needs 4h close confirm)
+Stop    <code>0.20564503</code>  (6.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 10:00</b>
+Why     mom rank 0.18 | liq rank 86 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
