@@ -2428,3 +2428,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-19T00:02:00Z,PENGUUSDT,exit_due,SHORT,XREV_SHORT,C,+0.390R gross +0.378R net
 2026-11-19T00:02:00Z,PHAROSUSDT,open,SHORT,XREV_SHORT,C,entry 0.6797
 2026-11-19T00:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=1 armed=1 open=20 pending=0 equity=9687.17 closed=263
+2026-11-19T01:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=20 pending=0 equity=9687.17 closed=263
