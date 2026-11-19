@@ -7105,3 +7105,18 @@ Loss  <b>-1.02R net</b> ≈ 0.04% of equity
 LONG_MAJ, grade A
 Entry <code>0.14286</code>  Stop <code>0.13212659</code>  Exit <code>0.13212659</code>
 Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-19 08:04:09 UTC
+⏰ <b>EXIT NOW — NILUSDT SHORT</b>
+SHORT_TAIL, grade A  |  stop was <code>0.055451772</code>
+Entry <code>0.05585</code>  Mark <code>0.05084</code>
+Result <b>+0.83R gross / +0.84R net</b>
+Close this position now.
+===== 2026-11-19 08:04:10 UTC
+<b>🟡 SHORT SETUP  SKYUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04812</code>  (needs 4h close confirm)
+Stop    <code>0.051173926</code>  (6.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 02:00</b>
+Why     mom rank 0.13 | liq rank 164 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
