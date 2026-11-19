@@ -2441,3 +2441,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-19T08:02:00Z,SKYUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.04812
 2026-11-19T08:02:00Z,*,scan,,,,v1.1 universe=226 regime=BTC_DOWN signals=1 armed=1 open=17 pending=1 equity=9681.17 closed=266
 2026-11-19T09:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=17 pending=1 equity=9681.17 closed=266
+2026-11-19T10:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=17 pending=1 equity=9681.17 closed=266
