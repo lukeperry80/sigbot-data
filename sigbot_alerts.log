@@ -7062,3 +7062,36 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-19 10:00</b>
 Why     mom rank 0.09 | liq rank 80 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-19 00:04:01 UTC
+<b>🔴 SHORT FILLED  MUBARAKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.026526</code>
+Stop    <code>0.028945534</code>  (9.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>5003.96</code>
+Exit by <b>2026-11-29 10:00</b>
+Why     mom rank 0.06 | liq rank 145 | BTC_DOWN
+===== 2026-11-19 00:04:02 UTC
+<b>🔴 SHORT FILLED  FILUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.5691</code>
+Stop    <code>0.61320335</code>  (7.7% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>274.52</code>
+Exit by <b>2026-11-29 10:00</b>
+Why     mom rank 0.09 | liq rank 80 | BTC_DOWN
+===== 2026-11-19 00:04:03 UTC
+⏰ <b>EXIT NOW — PENGUUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.00534745</code>
+Entry <code>0.004903</code>  Mark <code>0.004712</code>
+Result <b>+0.39R gross / +0.38R net</b>
+Close this position now.
+===== 2026-11-19 00:04:04 UTC
+<b>🔴 SHORT FILLED  PHAROSUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.6797</code>
+Stop    <code>0.74767</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>53.4455</code>
+Exit by <b>2026-11-20 10:00</b>
+Why     6h ret +8.2% | liq rank 191 | BTC_DOWN

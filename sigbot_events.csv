@@ -2423,3 +2423,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-18T21:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9685.80 closed=262
 2026-11-18T22:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9685.80 closed=262
 2026-11-18T23:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=18 pending=2 equity=9685.80 closed=262
+2026-11-19T00:02:00Z,MUBARAKUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.026526
+2026-11-19T00:02:00Z,FILUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.5691
+2026-11-19T00:02:00Z,PENGUUSDT,exit_due,SHORT,XREV_SHORT,C,+0.390R gross +0.378R net
+2026-11-19T00:02:00Z,PHAROSUSDT,open,SHORT,XREV_SHORT,C,entry 0.6797
+2026-11-19T00:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=1 armed=1 open=20 pending=0 equity=9687.17 closed=263
