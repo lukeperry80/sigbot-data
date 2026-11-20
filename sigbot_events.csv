@@ -2527,3 +2527,14 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T17:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=21 pending=3 equity=9658.56 closed=275
 2026-11-20T18:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=21 pending=3 equity=9658.56 closed=275
 2026-11-20T19:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=21 pending=3 equity=9658.56 closed=275
+2026-11-20T20:02:00Z,JTOUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.2245
+2026-11-20T20:02:00Z,UAIUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.02989
+2026-11-20T20:02:00Z,ZILUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.000831
+2026-11-20T20:02:00Z,BIRBUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,SUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,USELESSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,PONSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,CASHCATUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,HUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,AXISUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T20:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=15 armed=1 open=23 pending=1 equity=9658.56 closed=275
