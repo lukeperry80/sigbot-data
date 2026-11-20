@@ -2538,3 +2538,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T20:02:00Z,HUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-20T20:02:00Z,AXISUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-20T20:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=15 armed=1 open=23 pending=1 equity=9658.56 closed=275
+2026-11-20T21:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9658.56 closed=275
