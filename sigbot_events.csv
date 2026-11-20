@@ -2471,3 +2471,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T00:02:00Z,RAVEUSDT,open,SHORT,XREV_SHORT,C,entry 0.1287
 2026-11-20T00:02:00Z,HUMAUSDT,open,SHORT,XREV_SHORT,C,entry 0.00957
 2026-11-20T00:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=6 armed=3 open=22 pending=4 equity=9688.49 closed=267
+2026-11-20T01:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=22 pending=4 equity=9688.49 closed=267
