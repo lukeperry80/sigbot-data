@@ -2489,3 +2489,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T04:02:00Z,VIRTUALUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-20T04:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=15 armed=4 open=23 pending=5 equity=9664.10 closed=269
 2026-11-20T05:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=23 pending=5 equity=9664.10 closed=269
+2026-11-20T06:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=23 pending=5 equity=9664.10 closed=269
