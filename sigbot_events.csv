@@ -2514,3 +2514,13 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T14:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=23 pending=3 equity=9674.02 closed=273
 2026-11-20T15:02:00Z,HUMAUSDT,stop,SHORT,XREV_SHORT,C,stop 0.0103865 exit 0.0103865 bar 2026-11-20T14:00:00Z net -0.886R
 2026-11-20T15:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=22 pending=3 equity=9670.80 closed=274
+2026-11-20T16:02:00Z,GRASSUSDT,stop,LONG,LONG_MAJ,A,stop 0.38279572 exit 0.38279572 bar 2026-11-20T15:00:00Z net -1.017R
+2026-11-20T16:02:00Z,WUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,APEUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,CLANKERUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,USELESSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,OPUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,PENGUUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,PONSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,VIRTUALUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T16:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=23 armed=0 open=21 pending=3 equity=9658.56 closed=275
