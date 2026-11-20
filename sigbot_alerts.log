@@ -7192,3 +7192,63 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-20 14:00</b>
 Why     mom rank 0.11 | liq rank 71 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-20 00:03:31 UTC
+<b>🔴 SHORT FILLED  BATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.08842</code>
+Stop    <code>0.096721661</code>  (9.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1457.72</code>
+Exit by <b>2026-11-30 10:00</b>
+Why     mom rank 0.07 | liq rank 184 | BTC_DOWN
+===== 2026-11-20 00:03:32 UTC
+<b>🔴 SHORT FILLED  APTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.4117</code>
+Stop    <code>0.4469859</code>  (8.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>342.955</code>
+Exit by <b>2026-11-30 10:00</b>
+Why     mom rank 0.09 | liq rank 53 | BTC_DOWN
+===== 2026-11-20 00:03:33 UTC
+<b>🔴 SHORT FILLED  CRVUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.1921</code>
+Stop    <code>0.20564503</code>  (7.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>893.425</code>
+Exit by <b>2026-11-30 10:00</b>
+Why     mom rank 0.18 | liq rank 86 | BTC_DOWN
+===== 2026-11-20 00:03:34 UTC
+⏰ <b>EXIT NOW — PHAROSUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.633955</code>
+Entry <code>0.6797</code>  Mark <code>0.542</code>
+Result <b>+2.03R gross / +2.02R net</b>
+Close this position now.
+===== 2026-11-20 00:03:35 UTC
+<b>🟡 SHORT SETUP  NIULAIUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.03729</code>  (needs 4h close confirm)
+Stop    <code>0.042379765</code>  (13.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-20 18:00</b>
+Why     mom rank 0.08 | liq rank 169 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-20 00:03:36 UTC
+<b>🔴 SHORT FILLED  RAVEUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.1287</code>
+Stop    <code>0.14157</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>282.299</code>
+Exit by <b>2026-11-21 10:00</b>
+Why     6h ret +7.2% | liq rank 161 | BTC_DOWN
+===== 2026-11-20 00:03:37 UTC
+<b>🔴 SHORT FILLED  HUMAUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.00957</code>
+Stop    <code>0.010527</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3796.43</code>
+Exit by <b>2026-11-21 10:00</b>
+Why     6h ret +13.0% | liq rank 61 | BTC_DOWN
