@@ -7252,3 +7252,13 @@ Risk    0.04% of equity if stopped
 Qty     <code>3796.43</code>
 Exit by <b>2026-11-21 10:00</b>
 Why     6h ret +13.0% | liq rank 61 | BTC_DOWN
+===== 2026-11-20 02:03:29 UTC
+🛑 <b>STOPPED — ZECUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>939.87</code>  Stop <code>861.35969</code>  Exit <code>861.35969</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-20 02:03:31 UTC
+🛑 <b>STOPPED — NEARUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>3.351</code>  Stop <code>3.0910116</code>  Exit <code>3.0910116</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
