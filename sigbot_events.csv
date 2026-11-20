@@ -2498,3 +2498,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T08:02:00Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=2 armed=0 open=23 pending=4 equity=9651.81 closed=270
 2026-11-20T09:02:00Z,CARVUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.025121583 exit 0.025121583 bar 2026-11-20T08:00:00Z net +0.848R
 2026-11-20T09:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=22 pending=4 equity=9661.88 closed=271
+2026-11-20T10:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=22 pending=4 equity=9661.88 closed=271
