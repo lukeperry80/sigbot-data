@@ -2475,3 +2475,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T02:02:00Z,ZECUSDT,stop,LONG,LONG_MAJ,A,stop 861.35969 exit 861.35969 bar 2026-11-20T01:00:00Z net -1.018R
 2026-11-20T02:02:00Z,NEARUSDT,stop,LONG,LONG_MAJ,A,stop 3.0910116 exit 3.0910116 bar 2026-11-20T01:00:00Z net -1.007R
 2026-11-20T02:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9664.10 closed=269
+2026-11-20T03:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9664.10 closed=269
