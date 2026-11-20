@@ -2476,3 +2476,15 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T02:02:00Z,NEARUSDT,stop,LONG,LONG_MAJ,A,stop 3.0910116 exit 3.0910116 bar 2026-11-20T01:00:00Z net -1.007R
 2026-11-20T02:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9664.10 closed=269
 2026-11-20T03:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9664.10 closed=269
+2026-11-20T04:02:00Z,CFGUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.058
+2026-11-20T04:02:00Z,STONKUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.0358
+2026-11-20T04:02:00Z,BERAUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.0808
+2026-11-20T04:02:00Z,FLUIDUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 1.7409
+2026-11-20T04:02:00Z,POPCATUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.02687
+2026-11-20T04:02:00Z,EIGENUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.123
+2026-11-20T04:02:00Z,MARSCOINUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.03105
+2026-11-20T04:02:00Z,EGLDUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T04:02:00Z,OPUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T04:02:00Z,PONSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T04:02:00Z,VIRTUALUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T04:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=15 armed=4 open=23 pending=5 equity=9664.10 closed=269
