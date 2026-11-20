@@ -2491,3 +2491,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T05:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=23 pending=5 equity=9664.10 closed=269
 2026-11-20T06:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=23 pending=5 equity=9664.10 closed=269
 2026-11-20T07:02:00Z,*,scan,,,,v1.1 universe=222 regime=BTC_DOWN signals=0 armed=0 open=23 pending=5 equity=9664.10 closed=269
+2026-11-20T08:02:00Z,NIULAIUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.03543
+2026-11-20T08:02:00Z,MEGAUSDT,stop,LONG,LONG_MAJ,A,stop 0.048975894 exit 0.048975894 bar 2026-11-20T07:00:00Z net -1.016R
+2026-11-20T08:02:00Z,PONSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T08:02:00Z,HUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-20T08:02:00Z,*,scan,,,,v1.1 universe=221 regime=BTC_DOWN signals=2 armed=0 open=23 pending=4 equity=9651.81 closed=270
