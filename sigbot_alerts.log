@@ -7339,3 +7339,8 @@ Why     mom rank 0.08 | liq rank 169 | BTC_DOWN
 LONG_MAJ, grade A
 Entry <code>0.05243</code>  Stop <code>0.048975894</code>  Exit <code>0.048975894</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-20 09:03:44 UTC
+🛑 <b>STOPPED — CARVUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.02715</code>  Stop <code>0.025121583</code>  Exit <code>0.025121583</code>
+Loss  <b>+0.85R net</b> ≈ 0.11% of equity
