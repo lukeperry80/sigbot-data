@@ -2574,3 +2574,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-21T14:02:00Z,EVAAUSDT,exit_due,LONG,LONG_MAJ,C,+5.838R gross +5.808R net
 2026-11-21T14:02:00Z,*,scan,,,,v1.1 universe=227 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9686.26 closed=278
 2026-11-21T15:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=24 pending=0 equity=9686.26 closed=278
+2026-11-21T16:02:00Z,*,scan,,,,v1.1 universe=220 regime=BTC_UP signals=0 armed=0 open=24 pending=0 equity=9686.26 closed=278
