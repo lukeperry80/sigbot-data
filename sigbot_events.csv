@@ -2550,3 +2550,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-21T01:02:00Z,VVVUSDT,exit_due,LONG,LONG_MAJ,C,+0.252R gross +0.228R net
 2026-11-21T01:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9665.24 closed=277
 2026-11-21T02:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9665.24 closed=277
+2026-11-21T03:02:00Z,*,scan,,,,v1.1 universe=223 regime=BTC_DOWN signals=0 armed=0 open=24 pending=1 equity=9665.24 closed=277
