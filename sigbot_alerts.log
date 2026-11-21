@@ -7494,3 +7494,9 @@ Risk    0.12% of equity if stopped
 Qty     <code>69909.5</code>
 Exit by <b>2026-12-01 14:00</b>
 Why     mom rank 0.03 | liq rank 110 | BTC_DOWN
+===== 2026-11-21 14:03:29 UTC
+⏰ <b>EXIT NOW — EVAAUSDT LONG</b>
+LONG_MAJ, grade C  |  stop was <code>2.3682311</code>
+Entry <code>2.9111</code>  Mark <code>6.0805</code>
+Result <b>+5.84R gross / +5.81R net</b>
+Close this position now.
