@@ -7446,3 +7446,36 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-21 14:00</b>
 Why     mom rank 0.03 | liq rank 110 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-21 00:03:39 UTC
+⏰ <b>EXIT NOW — RAVEUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.125205</code>
+Entry <code>0.1287</code>  Mark <code>0.1079</code>
+Result <b>+1.62R gross / +1.61R net</b>
+Close this position now.
+===== 2026-11-21 00:03:41 UTC
+<b>🔴 SHORT FILLED  PLUMEUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.011</code>
+Stop    <code>0.0121</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3294.69</code>
+Exit by <b>2026-11-22 10:00</b>
+Why     6h ret +5.6% | liq rank 164 | BTC_DOWN
+===== 2026-11-21 00:03:42 UTC
+<b>🔴 SHORT FILLED  DOODUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.001404</code>
+Stop    <code>0.0015444</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>25813.1</code>
+Exit by <b>2026-11-22 10:00</b>
+Why     6h ret +6.4% | liq rank 202 | BTC_DOWN
+===== 2026-11-21 00:03:43 UTC
+<b>🔴 SHORT FILLED  USUALUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.011027</code>
+Stop    <code>0.0121297</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>3286.62</code>
+Exit by <b>2026-11-22 10:00</b>
+Why     6h ret +7.5% | liq rank 111 | BTC_DOWN

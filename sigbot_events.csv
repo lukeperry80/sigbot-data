@@ -2541,3 +2541,9 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-20T21:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9658.56 closed=275
 2026-11-20T22:02:00Z,*,scan,,,,v1.1 universe=225 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9658.56 closed=275
 2026-11-20T23:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9658.56 closed=275
+2026-11-21T00:02:00Z,RAVEUSDT,exit_due,SHORT,XREV_SHORT,C,+1.616R gross +1.611R net
+2026-11-21T00:02:00Z,USELESSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
+2026-11-21T00:02:00Z,PLUMEUSDT,open,SHORT,XREV_SHORT,C,entry 0.011
+2026-11-21T00:02:00Z,DOODUSDT,open,SHORT,XREV_SHORT,C,entry 0.001404
+2026-11-21T00:02:00Z,USUALUSDT,open,SHORT,XREV_SHORT,C,entry 0.011027
+2026-11-21T00:02:00Z,*,scan,,,,v1.1 universe=224 regime=BTC_DOWN signals=4 armed=3 open=25 pending=1 equity=9664.41 closed=276
