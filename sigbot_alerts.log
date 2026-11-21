@@ -7500,3 +7500,21 @@ LONG_MAJ, grade C  |  stop was <code>2.3682311</code>
 Entry <code>2.9111</code>  Mark <code>6.0805</code>
 Result <b>+5.84R gross / +5.81R net</b>
 Close this position now.
+===== 2026-11-21 20:03:29 UTC
+<b>🟡 LONG SETUP  DGAIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.7672</code>  (post-only retest)
+Stop    <code>0.71508695</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-22 18:02</b>
+Why     mom rank 0.87 | liq rank 66 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-21 20:03:30 UTC
+<b>🟡 LONG SETUP  VVVUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>23.686</code>  (post-only retest)
+Stop    <code>21.298001</code>  (10.1% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-22 18:02</b>
+Why     mom rank 0.94 | liq rank 37 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
