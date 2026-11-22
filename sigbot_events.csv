@@ -2591,3 +2591,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T00:02:00Z,DRVUSDT,open,SHORT,XREV_SHORT,C,entry 0.3345
 2026-11-22T00:02:00Z,CAPUSDT,open,SHORT,XREV_SHORT,C,entry 0.09198
 2026-11-22T00:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=5 armed=3 open=24 pending=2 equity=9685.17 closed=281
+2026-11-22T01:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9685.17 closed=281
