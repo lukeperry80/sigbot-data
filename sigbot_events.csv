@@ -2595,3 +2595,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T02:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9685.17 closed=281
 2026-11-22T03:02:00Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9685.17 closed=281
 2026-11-22T04:02:00Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=1 armed=0 open=24 pending=2 equity=9685.17 closed=281
+2026-11-22T05:02:00Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9685.17 closed=281
