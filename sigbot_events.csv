@@ -2604,3 +2604,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T09:02:00Z,DGAIUSDT,expired,LONG,LONG_MAJ,A,level 0.7672
 2026-11-22T09:02:00Z,VVVUSDT,expired,LONG,LONG_MAJ,C,level 23.686
 2026-11-22T09:02:00Z,*,scan,,,,v1.1 universe=205 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9681.69 closed=282
+2026-11-22T10:02:00Z,*,scan,,,,v1.1 universe=203 regime=BTC_UP signals=0 armed=0 open=23 pending=1 equity=9681.69 closed=282
