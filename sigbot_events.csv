@@ -2599,3 +2599,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T06:02:00Z,*,scan,,,,v1.1 universe=205 regime=BTC_UP signals=0 armed=0 open=24 pending=2 equity=9685.17 closed=281
 2026-11-22T07:02:00Z,SKYAI1USDT,stop,SHORT,XREV_SHORT,C,stop 0.041859 exit 0.041859 bar 2026-11-22T06:00:00Z net -0.956R
 2026-11-22T07:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=23 pending=2 equity=9681.69 closed=282
+2026-11-22T08:02:00Z,PIEVERSEUSDT,setup,LONG,LONG_MAJ,A,limit level 3.6386
+2026-11-22T08:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=1 armed=1 open=23 pending=3 equity=9681.69 closed=282
