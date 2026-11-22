@@ -2608,3 +2608,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T11:02:00Z,CRVUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.18461754 exit 0.18461754 bar 2026-11-22T10:00:00Z net +0.533R
 2026-11-22T11:02:00Z,MARSCOINUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.03097324 exit 0.03097324 bar 2026-11-22T10:00:00Z net -0.066R
 2026-11-22T11:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=21 pending=1 equity=9687.35 closed=284
+2026-11-22T12:02:00Z,DRVUSDT,stop,SHORT,XREV_SHORT,C,stop 0.365275 exit 0.365275 bar 2026-11-22T11:00:00Z net -0.973R
+2026-11-22T12:02:00Z,DGAIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.8455
+2026-11-22T12:02:00Z,DRVUSDT,setup,LONG,LONG_MAJ,A,limit level 0.3558
+2026-11-22T12:02:00Z,ELSAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.0753
+2026-11-22T12:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=4 armed=3 open=20 pending=4 equity=9683.82 closed=285

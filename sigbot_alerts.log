@@ -7587,3 +7587,35 @@ Loss  <b>+0.53R net</b> ≈ 0.07% of equity
 SHORT_TAIL, grade A
 Entry <code>0.03077</code>  Stop <code>0.03097324</code>  Exit <code>0.03097324</code>
 Loss  <b>-0.07R net</b> ≈ 0.01% of equity
+===== 2026-11-22 12:03:30 UTC
+🛑 <b>STOPPED — DRVUSDT SHORT</b>
+XREV_SHORT, grade C
+Entry <code>0.3345</code>  Stop <code>0.365275</code>  Exit <code>0.365275</code>
+Loss  <b>-0.97R net</b> ≈ 0.04% of equity
+===== 2026-11-22 12:03:32 UTC
+<b>🟡 LONG SETUP  DGAIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.8455</code>  (post-only retest)
+Stop    <code>0.77760329</code>  (8.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-23 10:02</b>
+Why     mom rank 0.93 | liq rank 60 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-22 12:03:33 UTC
+<b>🟡 LONG SETUP  DRVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.3558</code>  (post-only retest)
+Stop    <code>0.30973168</code>  (12.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-23 10:02</b>
+Why     mom rank 0.93 | liq rank 89 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-22 12:03:34 UTC
+<b>🟡 LONG SETUP  ELSAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.0753</code>  (post-only retest)
+Stop    <code>0.065889632</code>  (12.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-23 10:02</b>
+Why     mom rank 0.83 | liq rank 100 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
