@@ -2616,3 +2616,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T13:02:00Z,PIEVERSEUSDT,fill,LONG,LONG_MAJ,A,entry 3.6386 level 3.6386 bar 2026-11-22T12:00:00Z
 2026-11-22T13:02:00Z,BERAUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.085212068 exit 0.085212068 bar 2026-11-22T12:00:00Z net -0.603R
 2026-11-22T13:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=3 equity=9676.53 closed=286
+2026-11-22T14:02:00Z,PIEVERSEUSDT,stop,LONG,LONG_MAJ,A,stop 3.0478427 exit 3.0478427 bar 2026-11-22T13:00:00Z net -1.005R
+2026-11-22T14:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=19 pending=3 equity=9664.36 closed=287
