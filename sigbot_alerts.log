@@ -7647,3 +7647,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-23 14:02</b>
 Why     mom rank 0.93 | liq rank 98 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-22 18:03:29 UTC
+<b>🟢 LONG FILLED  DRVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.3558</code>
+Stop    <code>0.30973168</code>  (12.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>262.229</code>
+Exit by <b>2026-11-28 03:00</b>
+Why     mom rank 0.93 | liq rank 89 | BTC_UP
