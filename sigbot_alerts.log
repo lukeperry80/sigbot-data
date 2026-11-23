@@ -7723,3 +7723,8 @@ LONG_MAJ, grade A  |  stop was <code>0.072626572</code>
 Entry <code>0.0808</code>  Mark <code>0.08752</code>
 Result <b>+0.82R gross / +0.80R net</b>
 Close this position now.
+===== 2026-11-23 11:03:31 UTC
+🛑 <b>STOPPED — MUBARAKUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.026526</code>  Stop <code>0.0237353</code>  Exit <code>0.0237353</code>
+Loss  <b>+1.15R net</b> ≈ 0.14% of equity

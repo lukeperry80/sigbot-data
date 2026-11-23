@@ -2652,3 +2652,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-23T09:02:00Z,KGENUSDT,exit_due,LONG,LONG_MAJ,A,+0.822R gross +0.796R net
 2026-11-23T09:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=18 pending=1 equity=9680.03 closed=291
 2026-11-23T10:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=18 pending=1 equity=9680.03 closed=291
+2026-11-23T11:02:00Z,MUBARAKUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.0237353 exit 0.0237353 bar 2026-11-23T10:00:00Z net +1.152R
+2026-11-23T11:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=17 pending=1 equity=9693.98 closed=292
