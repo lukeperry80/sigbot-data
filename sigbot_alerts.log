@@ -7776,3 +7776,129 @@ Loss  <b>-0.97R net</b> ≈ 0.12% of equity
 SHORT_TAIL, grade A
 Entry <code>0.2245</code>  Stop <code>0.25628807</code>  Exit <code>0.25628807</code>
 Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-23 16:03:34 UTC
+<b>🟡 LONG SETUP  BTCUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>62325.2</code>  (post-only retest)
+Stop    <code>59370.256</code>  (4.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.49 | liq rank 1 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:37 UTC
+<b>🟡 LONG SETUP  ETHUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1762.62</code>  (post-only retest)
+Stop    <code>1669.1686</code>  (5.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.46 | liq rank 2 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:38 UTC
+<b>🟡 LONG SETUP  SOLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>72.9</code>  (post-only retest)
+Stop    <code>68.872734</code>  (5.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.59 | liq rank 3 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:39 UTC
+<b>🟡 LONG SETUP  XRPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.9726</code>  (post-only retest)
+Stop    <code>0.92081804</code>  (5.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.70 | liq rank 5 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:40 UTC
+<b>🟡 LONG SETUP  HYPEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>66.104</code>  (post-only retest)
+Stop    <code>61.782431</code>  (6.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.64 | liq rank 6 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:41 UTC
+<b>🟡 LONG SETUP  NEARUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>3.061</code>  (post-only retest)
+Stop    <code>2.8244745</code>  (7.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.57 | liq rank 7 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:43 UTC
+<b>🟡 LONG SETUP  DOGEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05771</code>  (post-only retest)
+Stop    <code>0.054660967</code>  (5.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.48 | liq rank 9 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:45 UTC
+<b>🟡 LONG SETUP  ENAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.10621</code>  (post-only retest)
+Stop    <code>0.097644506</code>  (8.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.09 | liq rank 12 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:46 UTC
+<b>🟡 LONG SETUP  SUIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.7017</code>  (post-only retest)
+Stop    <code>0.65863269</code>  (6.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.44 | liq rank 16 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:47 UTC
+<b>🟡 LONG SETUP  XAUTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>3627.44</code>  (post-only retest)
+Stop    <code>3555.6258</code>  (2.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.71 | liq rank 17 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:48 UTC
+<b>🟡 LONG SETUP  ADAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.1505</code>  (post-only retest)
+Stop    <code>0.14206597</code>  (5.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.53 | liq rank 18 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:49 UTC
+<b>🟡 LONG SETUP  BCHUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>205.67</code>  (post-only retest)
+Stop    <code>194.67539</code>  (5.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.56 | liq rank 55 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:50 UTC
+<b>🟡 LONG SETUP  JUPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.2456</code>  (post-only retest)
+Stop    <code>0.22691382</code>  (7.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.83 | liq rank 63 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 16:03:51 UTC
+<b>🟡 LONG SETUP  XPLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.04688</code>  (post-only retest)
+Stop    <code>0.043875204</code>  (6.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 14:02</b>
+Why     mom rank 0.68 | liq rank 65 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
