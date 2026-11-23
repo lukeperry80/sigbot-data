@@ -2705,3 +2705,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-23T16:02:00Z,FARTCOINUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-11-23T16:02:00Z,HBARUSDT,skip_module_cap,LONG,LONG_MAJ,C,
 2026-11-23T16:02:00Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=41 armed=14 open=11 pending=17 equity=9672.59 closed=298
+2026-11-23T17:02:00Z,ELSAUSDT,expired,LONG,LONG_MAJ,A,level 0.09099
+2026-11-23T17:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=11 pending=16 equity=9672.59 closed=298
