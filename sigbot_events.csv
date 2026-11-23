@@ -2639,3 +2639,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-23T02:02:00Z,ARIAUSDT,fill,LONG,LONG_MAJ,C,entry 0.27107 level 0.27107 bar 2026-11-23T01:00:00Z
 2026-11-23T02:02:00Z,*,scan,,,,v1.1 universe=205 regime=BTC_UP signals=0 armed=0 open=20 pending=2 equity=9663.63 closed=288
 2026-11-23T03:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=2 equity=9663.63 closed=288
+2026-11-23T04:02:00Z,NIGHTUSDT,expired,LONG,LONG_MAJ,A,level 0.04771
+2026-11-23T04:02:00Z,ELSAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09099
+2026-11-23T04:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=3 armed=1 open=20 pending=2 equity=9663.63 closed=288
