@@ -8037,3 +8037,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-24 18:02</b>
 Why     mom rank 0.96 | liq rank 51 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 21:03:29 UTC
+<b>🟢 LONG FILLED  XAUTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>3627.44</code>
+Stop    <code>3555.6258</code>  (2.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>0.168362</code>
+Exit by <b>2026-11-29 06:00</b>
+Why     mom rank 0.71 | liq rank 17 | BTC_UP
