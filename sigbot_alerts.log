@@ -7761,3 +7761,18 @@ Loss  <b>+0.40R net</b> ≈ 0.05% of equity
 SHORT_TAIL, grade A
 Entry <code>0.02581</code>  Stop <code>0.026818931</code>  Exit <code>0.026818931</code>
 Loss  <b>-0.39R net</b> ≈ 0.05% of equity
+===== 2026-11-23 15:03:27 UTC
+🛑 <b>STOPPED — AEROUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.4578</code>  Stop <code>0.43817597</code>  Exit <code>0.43817597</code>
+Loss  <b>+0.40R net</b> ≈ 0.05% of equity
+===== 2026-11-23 15:03:29 UTC
+🛑 <b>STOPPED — NIULAIUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.03543</code>  Stop <code>0.042104647</code>  Exit <code>0.042104647</code>
+Loss  <b>-0.97R net</b> ≈ 0.12% of equity
+===== 2026-11-23 15:03:37 UTC
+🛑 <b>STOPPED — JTOUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.2245</code>  Stop <code>0.25628807</code>  Exit <code>0.25628807</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
