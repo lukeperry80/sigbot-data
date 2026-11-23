@@ -7665,3 +7665,18 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-23 18:02</b>
 Why     mom rank 0.95 | liq rank 33 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 00:03:55 UTC
+⏰ <b>EXIT NOW — CAPUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.101178</code>
+Entry <code>0.09198</code>  Mark <code>0.09372</code>
+Result <b>-0.19R gross / -0.20R net</b>
+Close this position now.
+===== 2026-11-23 00:03:56 UTC
+<b>🟡 LONG SETUP  ARIAUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.27107</code>  (post-only retest)
+Stop    <code>0.23254005</code>  (14.2% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-23 22:02</b>
+Why     mom rank 0.98 | liq rank 42 | BTC_UP
+<i>No position yet — waiting for the fill.</i>

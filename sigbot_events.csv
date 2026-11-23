@@ -2630,3 +2630,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-22T21:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=4 equity=9664.36 closed=287
 2026-11-22T22:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=4 equity=9664.36 closed=287
 2026-11-22T23:02:01Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=4 equity=9664.36 closed=287
+2026-11-23T00:02:00Z,DGAIUSDT,expired,LONG,LONG_MAJ,A,level 0.8455
+2026-11-23T00:02:00Z,ELSAUSDT,expired,LONG,LONG_MAJ,A,level 0.0753
+2026-11-23T00:02:00Z,CAPUSDT,exit_due,SHORT,XREV_SHORT,C,-0.189R gross -0.201R net
+2026-11-23T00:02:00Z,ARIAUSDT,setup,LONG,LONG_MAJ,C,limit level 0.27107
+2026-11-23T00:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=2 armed=1 open=19 pending=3 equity=9663.63 closed=288
