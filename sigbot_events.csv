@@ -2643,3 +2643,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-23T04:02:00Z,ELSAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.09099
 2026-11-23T04:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=3 armed=1 open=20 pending=2 equity=9663.63 closed=288
 2026-11-23T05:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=2 equity=9663.63 closed=288
+2026-11-23T06:02:00Z,VVVUSDT,fill,LONG,LONG_MAJ,C,entry 25.855 level 25.855 bar 2026-11-23T05:00:00Z
+2026-11-23T06:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=21 pending=1 equity=9663.63 closed=288
