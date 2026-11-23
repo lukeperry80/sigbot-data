@@ -7728,3 +7728,21 @@ Close this position now.
 SHORT_TAIL, grade A
 Entry <code>0.026526</code>  Stop <code>0.0237353</code>  Exit <code>0.0237353</code>
 Loss  <b>+1.15R net</b> ≈ 0.14% of equity
+===== 2026-11-23 12:03:29 UTC
+<b>🟡 LONG SETUP  MNTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.4001</code>  (post-only retest)
+Stop    <code>0.38217426</code>  (4.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 10:02</b>
+Why     mom rank 0.73 | liq rank 60 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-23 12:03:30 UTC
+<b>🟡 LONG SETUP  QNTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>149.84</code>  (post-only retest)
+Stop    <code>138.839</code>  (7.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 10:02</b>
+Why     mom rank 0.25 | liq rank 64 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
