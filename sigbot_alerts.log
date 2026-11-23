@@ -8010,3 +8010,30 @@ Risk    0.12% of equity if stopped
 Qty     <code>4023.82</code>
 Exit by <b>2026-11-29 03:00</b>
 Why     mom rank 0.68 | liq rank 65 | BTC_UP
+===== 2026-11-23 20:03:32 UTC
+<b>🟢 LONG FILLED  MNTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.4001</code>
+Stop    <code>0.38217426</code>  (4.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>674.49</code>
+Exit by <b>2026-11-29 05:00</b>
+Why     mom rank 0.73 | liq rank 60 | BTC_UP
+===== 2026-11-23 20:03:33 UTC
+<b>🟢 LONG FILLED  SOLUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>72.9</code>
+Stop    <code>68.872734</code>  (5.5% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3.00222</code>
+Exit by <b>2026-11-29 05:00</b>
+Why     mom rank 0.59 | liq rank 3 | BTC_UP
+===== 2026-11-23 20:03:35 UTC
+<b>🟡 LONG SETUP  DGAIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>1.048</code>  (post-only retest)
+Stop    <code>0.94509523</code>  (9.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-24 18:02</b>
+Why     mom rank 0.96 | liq rank 51 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
