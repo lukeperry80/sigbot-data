@@ -7717,3 +7717,9 @@ Loss  <b>+0.66R net</b> ≈ 0.08% of equity
 SHORT_TAIL, grade A
 Entry <code>0.14934</code>  Stop <code>0.14578407</code>  Exit <code>0.14578407</code>
 Loss  <b>-0.10R net</b> ≈ 0.01% of equity
+===== 2026-11-23 09:03:57 UTC
+⏰ <b>EXIT NOW — KGENUSDT LONG</b>
+LONG_MAJ, grade A  |  stop was <code>0.072626572</code>
+Entry <code>0.0808</code>  Mark <code>0.08752</code>
+Result <b>+0.82R gross / +0.80R net</b>
+Close this position now.

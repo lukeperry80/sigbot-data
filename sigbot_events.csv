@@ -2649,3 +2649,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-23T07:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=1 equity=9671.61 closed=289
 2026-11-23T08:02:00Z,LSKUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.14578407 exit 0.14578407 bar 2026-11-23T07:00:00Z net -0.102R
 2026-11-23T08:02:00Z,*,scan,,,,v1.1 universe=205 regime=BTC_UP signals=1 armed=0 open=19 pending=1 equity=9670.39 closed=290
+2026-11-23T09:02:00Z,KGENUSDT,exit_due,LONG,LONG_MAJ,A,+0.822R gross +0.796R net
+2026-11-23T09:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=18 pending=1 equity=9680.03 closed=291
