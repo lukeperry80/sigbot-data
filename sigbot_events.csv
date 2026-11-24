@@ -2760,3 +2760,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T12:02:00Z,SYRUPUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.08005
 2026-11-24T12:02:00Z,0GUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1025
 2026-11-24T12:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=2 armed=2 open=24 pending=2 equity=9638.84 closed=304
+2026-11-24T13:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9638.84 closed=304
