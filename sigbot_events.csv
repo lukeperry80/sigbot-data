@@ -2774,3 +2774,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T16:02:00Z,METUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.2145
 2026-11-24T16:02:00Z,MONUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.01123
 2026-11-24T16:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=7 armed=3 open=17 pending=5 equity=9554.08 closed=311
+2026-11-24T17:02:00Z,BCHUSDT,stop,LONG,LONG_MAJ,A,stop 194.67539 exit 194.67539 bar 2026-11-24T16:00:00Z net -1.009R
+2026-11-24T17:02:00Z,XAUTUSDT,stop,LONG,LONG_MAJ,A,stop 3555.6258 exit 3555.6258 bar 2026-11-24T16:00:00Z net -1.052R
+2026-11-24T17:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9529.16 closed=313

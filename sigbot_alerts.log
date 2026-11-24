@@ -8211,3 +8211,13 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-25 10:00</b>
 Why     mom rank 0.06 | liq rank 71 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-24 17:04:03 UTC
+🛑 <b>STOPPED — BCHUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>205.67</code>  Stop <code>194.67539</code>  Exit <code>194.67539</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-24 17:04:04 UTC
+🛑 <b>STOPPED — XAUTUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>3627.44</code>  Stop <code>3555.6258</code>  Exit <code>3555.6258</code>
+Loss  <b>-1.05R net</b> ≈ 0.13% of equity
