@@ -2738,3 +2738,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T01:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=28 pending=1 equity=9672.59 closed=298
 2026-11-24T02:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=0 armed=0 open=28 pending=1 equity=9672.59 closed=298
 2026-11-24T03:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=28 pending=1 equity=9672.59 closed=298
+2026-11-24T04:02:00Z,ETHUSDT,stop,LONG,LONG_MAJ,A,stop 1669.1686 exit 1669.1686 bar 2026-11-24T03:00:00Z net -1.016R
+2026-11-24T04:02:00Z,SUIUSDT,stop,LONG,LONG_MAJ,A,stop 0.65863269 exit 0.65863269 bar 2026-11-24T03:00:00Z net -1.014R
+2026-11-24T04:02:00Z,BIRBUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.05466
+2026-11-24T04:02:00Z,GRVTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1299
+2026-11-24T04:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=2 armed=2 open=26 pending=3 equity=9648.05 closed=300
