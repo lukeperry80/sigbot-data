@@ -2779,3 +2779,12 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T17:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9529.16 closed=313
 2026-11-24T18:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9529.16 closed=313
 2026-11-24T19:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=15 pending=5 equity=9529.16 closed=313
+2026-11-24T20:02:00Z,SYRUPUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.07225
+2026-11-24T20:02:00Z,0GUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.0936
+2026-11-24T20:02:00Z,BANKUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.01508
+2026-11-24T20:02:00Z,GRVTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1274
+2026-11-24T20:02:00Z,USELESSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.06974
+2026-11-24T20:02:00Z,VIRTUALUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.3524
+2026-11-24T20:02:00Z,PONSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0863
+2026-11-24T20:02:00Z,JCTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.001451
+2026-11-24T20:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=13 armed=6 open=17 pending=9 equity=9529.16 closed=313
