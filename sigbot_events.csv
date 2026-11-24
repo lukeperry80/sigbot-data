@@ -2766,3 +2766,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T14:02:00Z,ENAUSDT,stop,LONG,LONG_MAJ,A,stop 0.097644506 exit 0.097644506 bar 2026-11-24T13:00:00Z net -1.009R
 2026-11-24T14:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9602.14 closed=307
 2026-11-24T15:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9602.14 closed=307
+2026-11-24T16:02:00Z,DRVUSDT,stop,LONG,LONG_MAJ,A,stop 0.30973168 exit 0.30973168 bar 2026-11-24T15:00:00Z net -0.933R
+2026-11-24T16:02:00Z,NEARUSDT,stop,LONG,LONG_MAJ,A,stop 2.8244745 exit 2.8244745 bar 2026-11-24T15:00:00Z net -1.012R
+2026-11-24T16:02:00Z,DOGEUSDT,stop,LONG,LONG_MAJ,A,stop 0.054660967 exit 0.054660967 bar 2026-11-24T15:00:00Z net -1.017R
+2026-11-24T16:02:00Z,SOLUSDT,stop,LONG,LONG_MAJ,A,stop 68.872734 exit 68.872734 bar 2026-11-24T15:00:00Z net -1.013R
+2026-11-24T16:02:00Z,DOSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1174
+2026-11-24T16:02:00Z,METUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.2145
+2026-11-24T16:02:00Z,MONUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.01123
+2026-11-24T16:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=7 armed=3 open=17 pending=5 equity=9554.08 closed=311

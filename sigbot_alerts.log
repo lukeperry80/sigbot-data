@@ -8164,3 +8164,50 @@ Loss  <b>-1.01R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade A
 Entry <code>0.10621</code>  Stop <code>0.097644506</code>  Exit <code>0.097644506</code>
 Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-24 16:04:04 UTC
+🛑 <b>STOPPED — DRVUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.3558</code>  Stop <code>0.30973168</code>  Exit <code>0.30973168</code>
+Loss  <b>-0.93R net</b> ≈ 0.12% of equity
+===== 2026-11-24 16:04:06 UTC
+🛑 <b>STOPPED — NEARUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>3.061</code>  Stop <code>2.8244745</code>  Exit <code>2.8244745</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-24 16:04:07 UTC
+🛑 <b>STOPPED — DOGEUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.05771</code>  Stop <code>0.054660967</code>  Exit <code>0.054660967</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-24 16:04:09 UTC
+🛑 <b>STOPPED — SOLUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>72.9</code>  Stop <code>68.872734</code>  Exit <code>68.872734</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-24 16:04:10 UTC
+<b>🟡 SHORT SETUP  DOSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.1174</code>  (needs 4h close confirm)
+Stop    <code>0.1413165</code>  (20.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 10:00</b>
+Why     mom rank 0.09 | liq rank 117 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-24 16:04:11 UTC
+<b>🟡 SHORT SETUP  METUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.2145</code>  (needs 4h close confirm)
+Stop    <code>0.23045597</code>  (7.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 10:00</b>
+Why     mom rank 0.17 | liq rank 209 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-24 16:04:12 UTC
+<b>🟡 SHORT SETUP  MONUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.01123</code>  (needs 4h close confirm)
+Stop    <code>0.013072909</code>  (16.4% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 10:00</b>
+Why     mom rank 0.06 | liq rank 71 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
