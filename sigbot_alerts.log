@@ -8149,3 +8149,18 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-25 06:00</b>
 Why     mom rank 0.13 | liq rank 160 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-24 14:03:28 UTC
+🛑 <b>STOPPED — XRPUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.9726</code>  Stop <code>0.92081804</code>  Exit <code>0.92081804</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-24 14:03:29 UTC
+🛑 <b>STOPPED — HYPEUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>66.104</code>  Stop <code>61.782431</code>  Exit <code>61.782431</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity
+===== 2026-11-24 14:03:30 UTC
+🛑 <b>STOPPED — ENAUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.10621</code>  Stop <code>0.097644506</code>  Exit <code>0.097644506</code>
+Loss  <b>-1.01R net</b> ≈ 0.13% of equity

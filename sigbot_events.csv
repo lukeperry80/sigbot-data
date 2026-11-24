@@ -2761,3 +2761,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T12:02:00Z,0GUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1025
 2026-11-24T12:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=2 armed=2 open=24 pending=2 equity=9638.84 closed=304
 2026-11-24T13:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=24 pending=2 equity=9638.84 closed=304
+2026-11-24T14:02:00Z,XRPUSDT,stop,LONG,LONG_MAJ,A,stop 0.92081804 exit 0.92081804 bar 2026-11-24T13:00:00Z net -1.013R
+2026-11-24T14:02:00Z,HYPEUSDT,stop,LONG,LONG_MAJ,A,stop 61.782431 exit 61.782431 bar 2026-11-24T13:00:00Z net -1.014R
+2026-11-24T14:02:00Z,ENAUSDT,stop,LONG,LONG_MAJ,A,stop 0.097644506 exit 0.097644506 bar 2026-11-24T13:00:00Z net -1.009R
+2026-11-24T14:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_DOWN signals=0 armed=0 open=21 pending=2 equity=9602.14 closed=307
