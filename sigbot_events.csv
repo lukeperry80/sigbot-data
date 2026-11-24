@@ -2788,3 +2788,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T20:02:00Z,PONSUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.0863
 2026-11-24T20:02:00Z,JCTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.001451
 2026-11-24T20:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=13 armed=6 open=17 pending=9 equity=9529.16 closed=313
+2026-11-24T21:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=17 pending=9 equity=9529.16 closed=313
