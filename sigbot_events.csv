@@ -2752,3 +2752,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T10:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=0 armed=0 open=27 pending=2 equity=9648.05 closed=300
 2026-11-24T11:02:00Z,BTCUSDT,stop,LONG,LONG_MAJ,A,stop 59370.256 exit 59370.256 bar 2026-11-24T10:00:00Z net -1.020R
 2026-11-24T11:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=0 armed=0 open=26 pending=2 equity=9635.71 closed=301
+2026-11-24T12:02:00Z,BIRBUSDT,fill,SHORT,SHORT_TAIL,A,confirmed 0.0546
+2026-11-24T12:02:00Z,GRVTUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.1348 >= level 0.1299
+2026-11-24T12:02:00Z,SYRUPUSDT,exit_due,SHORT,SHORT_TAIL,A,+2.309R gross +2.322R net
+2026-11-24T12:02:00Z,JUPUSDT,stop,LONG,LONG_MAJ,A,stop 0.22691382 exit 0.22691382 bar 2026-11-24T11:00:00Z net -1.006R
+2026-11-24T12:02:00Z,MNTUSDT,stop,LONG,LONG_MAJ,A,stop 0.38217426 exit 0.38217426 bar 2026-11-24T11:00:00Z net -1.022R
+2026-11-24T12:02:00Z,SYRUPUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.08005
+2026-11-24T12:02:00Z,0GUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1025
+2026-11-24T12:02:00Z,*,scan,,,,v1.1 universe=212 regime=BTC_DOWN signals=2 armed=2 open=24 pending=2 equity=9638.84 closed=304
