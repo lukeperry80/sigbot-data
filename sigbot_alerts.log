@@ -8092,3 +8092,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-24 22:00</b>
 Why     mom rank 0.06 | liq rank 189 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-24 06:03:29 UTC
+<b>🟢 LONG FILLED  DGAIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>1.048</code>
+Stop    <code>0.94509523</code>  (9.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>117.196</code>
+Exit by <b>2026-11-29 15:00</b>
+Why     mom rank 0.96 | liq rank 51 | BTC_UP
