@@ -2729,3 +2729,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-23T21:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=0 armed=0 open=26 pending=2 equity=9672.59 closed=298
 2026-11-23T22:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_UP signals=0 armed=0 open=26 pending=2 equity=9672.59 closed=298
 2026-11-23T23:02:01Z,*,scan,,,,v1.1 universe=209 regime=BTC_UP signals=0 armed=0 open=26 pending=2 equity=9672.59 closed=298
+2026-11-24T00:02:00Z,LSKUSDT,open,SHORT,XREV_SHORT,C,entry 0.15946
+2026-11-24T00:02:00Z,NIULAIUSDT,open,SHORT,XREV_SHORT,C,entry 0.04369
+2026-11-24T00:02:00Z,MUBARAKUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-11-24T00:02:00Z,CYSUSDT,skip_cap,SHORT,XREV_SHORT,C,
+2026-11-24T00:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=4 armed=2 open=28 pending=2 equity=9672.59 closed=298
