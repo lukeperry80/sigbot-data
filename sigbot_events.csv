@@ -2789,3 +2789,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T20:02:00Z,JCTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.001451
 2026-11-24T20:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=13 armed=6 open=17 pending=9 equity=9529.16 closed=313
 2026-11-24T21:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=17 pending=9 equity=9529.16 closed=313
+2026-11-24T22:02:00Z,XPLUSDT,stop,LONG,LONG_MAJ,A,stop 0.043875204 exit 0.043875204 bar 2026-11-24T21:00:00Z net -1.020R
+2026-11-24T22:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=16 pending=9 equity=9516.83 closed=314

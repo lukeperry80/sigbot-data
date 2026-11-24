@@ -1,6 +1,6 @@
 {
  "version": "1.1",
- "equity": 9529.156594321305,
+ "equity": 9516.829692954972,
  "positions": {
   "SKYUSDT": {
    "symbol": "SKYUSDT",
@@ -18,7 +18,7 @@
    "qty": 1243.2251766165093,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "BATUSDT": {
    "symbol": "BATUSDT",
@@ -36,7 +36,7 @@
    "qty": 1457.715760005832,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "CFGUSDT": {
    "symbol": "CFGUSDT",
@@ -46,15 +46,15 @@
    "size_mult": 1.0,
    "entry": 0.058,
    "entry_ts": 1795147200000,
-   "stop": 0.06255159077822696,
+   "stop": 0.06208159077822696,
    "R": 0.011847727185484637,
    "exit_due_ts": 1796011200000,
-   "best": 0.04478,
+   "best": 0.04431,
    "risk_amt": 12.080127080815773,
    "qty": 1019.6155677534391,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "STONKUSDT": {
    "symbol": "STONKUSDT",
@@ -72,7 +72,7 @@
    "qty": 1525.1977278977229,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "EIGENUSDT": {
    "symbol": "EIGENUSDT",
@@ -90,7 +90,7 @@
    "qty": 857.2232581611489,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "UAIUSDT": {
    "symbol": "UAIUSDT",
@@ -108,7 +108,7 @@
    "qty": 2086.781960428973,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "ZILUSDT": {
    "symbol": "ZILUSDT",
@@ -126,7 +126,7 @@
    "qty": 69909.50980771809,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "ARIAUSDT": {
    "symbol": "ARIAUSDT",
@@ -144,7 +144,7 @@
    "qty": 94.0531178345311,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "VVVUSDT": {
    "symbol": "VVVUSDT",
@@ -162,7 +162,7 @@
    "qty": 1.6320254297999404,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "ADAUSDT": {
    "symbol": "ADAUSDT",
@@ -180,25 +180,7 @@
    "qty": 1433.5668610845312,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1795550400000
-  },
-  "XPLUSDT": {
-   "symbol": "XPLUSDT",
-   "direction": "LONG",
-   "module": "LONG_MAJ",
-   "grade": "A",
-   "size_mult": 1.0,
-   "entry": 0.04688,
-   "entry_ts": 1795453200000,
-   "stop": 0.04387520431150705,
-   "R": 0.0030047956884929478,
-   "exit_due_ts": 1795885200000,
-   "best": 0.04688,
-   "risk_amt": 12.090742039946672,
-   "qty": 4023.8150255103606,
-   "exit_alerted": false,
-   "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "LSKUSDT": {
    "symbol": "LSKUSDT",
@@ -216,7 +198,7 @@
    "qty": 227.4691215341777,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "NIULAIUSDT": {
    "symbol": "NIULAIUSDT",
@@ -234,7 +216,7 @@
    "qty": 830.218038906843,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "DGAIUSDT": {
    "symbol": "DGAIUSDT",
@@ -252,7 +234,7 @@
    "qty": 117.19630031797959,
    "exit_alerted": false,
    "entry_fee_rate": 0.0002,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "BIRBUSDT": {
    "symbol": "BIRBUSDT",
@@ -270,7 +252,7 @@
    "qty": 2675.3978035488713,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "SYRUPUSDT": {
    "symbol": "SYRUPUSDT",
@@ -283,12 +265,12 @@
    "stop": 0.0873707420273349,
    "R": 0.015120742027334905,
    "exit_due_ts": 1796414400000,
-   "best": 0.07059,
+   "best": 0.06957,
    "risk_amt": 11.91144574290163,
    "qty": 787.7553708256124,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   },
   "0GUSDT": {
    "symbol": "0GUSDT",
@@ -301,12 +283,12 @@
    "stop": 0.11036653691525562,
    "R": 0.01676653691525562,
    "exit_due_ts": 1796414400000,
-   "best": 0.0925,
+   "best": 0.0922,
    "risk_amt": 11.91144574290163,
    "qty": 710.4296971465577,
    "exit_alerted": false,
    "entry_fee_rate": 0.00075,
-   "last_bar_ts": 1795550400000
+   "last_bar_ts": 1795554000000
   }
  },
  "pending": {
@@ -448,7 +430,7 @@
  },
  "last_4h": 1795550400000,
  "last_day": 1795478400000,
- "last_run_ms": 1795554120919,
+ "last_run_ms": 1795557720914,
  "closed": [
   {
    "symbol": "MAGICUSDT",
@@ -11403,6 +11385,41 @@
    "equity_before": 9541.878652289328,
    "equity_after": 9529.156594321305,
    "hold_h": 21.0,
+   "runner_version": "1.1"
+  },
+  {
+   "symbol": "XPLUSDT",
+   "direction": "LONG",
+   "module": "LONG_MAJ",
+   "grade": "A",
+   "size_mult": 1.0,
+   "entry": 0.04688,
+   "entry_ts": 1795453200000,
+   "stop": 0.04387520431150705,
+   "R": 0.0030047956884929478,
+   "exit_due_ts": 1795885200000,
+   "best": 0.04688,
+   "risk_amt": 12.090742039946672,
+   "qty": 4023.8150255103606,
+   "exit_alerted": false,
+   "entry_fee_rate": 0.0002,
+   "last_bar_ts": 1795550400000,
+   "exit": 0.04387520431150705,
+   "exit_ts": 1795557600000,
+   "entry_ts_utc": "2026-11-23T17:00:00Z",
+   "exit_ts_utc": "2026-11-24T22:00:00Z",
+   "reason": "stop",
+   "r": -1.0,
+   "gross_r": -1.0,
+   "cost_r": 0.014071640010518315,
+   "funding_rate_sum": 0.00035000000000000005,
+   "funding_status": "ok",
+   "funding_r": -0.005460604214401485,
+   "net_r": -1.0195322442249197,
+   "pnl_usdt": -12.326901366331414,
+   "equity_before": 9529.156594321305,
+   "equity_after": 9516.829692954972,
+   "hold_h": 29.0,
    "runner_version": "1.1"
   }
  ]
