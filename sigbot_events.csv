@@ -2743,3 +2743,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-24T04:02:00Z,BIRBUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.05466
 2026-11-24T04:02:00Z,GRVTUSDT,setup,SHORT,SHORT_TAIL,A,confirm level 0.1299
 2026-11-24T04:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=2 armed=2 open=26 pending=3 equity=9648.05 closed=300
+2026-11-24T05:02:00Z,*,scan,,,,v1.1 universe=211 regime=BTC_DOWN signals=0 armed=0 open=26 pending=3 equity=9648.05 closed=300
