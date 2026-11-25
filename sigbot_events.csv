@@ -2843,3 +2843,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-25T16:02:00Z,DOSUSDT,skip_module_cap,SHORT,SHORT_TAIL,A,
 2026-11-25T16:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=13 armed=0 open=23 pending=1 equity=9506.03 closed=318
 2026-11-25T17:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9506.03 closed=318
+2026-11-25T18:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=0 armed=0 open=23 pending=1 equity=9506.03 closed=318
