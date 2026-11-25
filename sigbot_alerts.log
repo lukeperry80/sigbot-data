@@ -8356,3 +8356,75 @@ Loss  <b>-1.01R net</b> ≈ 0.04% of equity
 LONG_MAJ, grade A
 Entry <code>0.1505</code>  Stop <code>0.14206597</code>  Exit <code>0.14206597</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-25 04:04:10 UTC
+<b>🔴 SHORT FILLED  GRVTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.1263</code>
+Stop    <code>0.14198941</code>  (12.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>757.36</code>
+Exit by <b>2026-12-05 14:00</b>
+Why     mom rank 0.08 | liq rank 209 | BTC_DOWN
+===== 2026-11-25 04:04:11 UTC
+<b>🔴 SHORT FILLED  USELESSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.06812</code>
+Stop    <code>0.078769638</code>  (15.6% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1115.77</code>
+Exit by <b>2026-12-05 14:00</b>
+Why     mom rank 0.02 | liq rank 58 | BTC_DOWN
+===== 2026-11-25 04:04:12 UTC
+<b>🔴 SHORT FILLED  VIRTUALUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.3489</code>
+Stop    <code>0.37833954</code>  (8.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>403.625</code>
+Exit by <b>2026-12-05 14:00</b>
+Why     mom rank 0.12 | liq rank 74 | BTC_DOWN
+===== 2026-11-25 04:04:13 UTC
+<b>🔴 SHORT FILLED  PONSUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.0839</code>
+Stop    <code>0.096395711</code>  (14.9% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>950.929</code>
+Exit by <b>2026-12-05 14:00</b>
+Why     mom rank 0.04 | liq rank 80 | BTC_DOWN
+===== 2026-11-25 04:04:14 UTC
+<b>🔴 SHORT FILLED  JCTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.001426</code>
+Stop    <code>0.0016516112</code>  (15.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>52668.2</code>
+Exit by <b>2026-12-05 14:00</b>
+Why     mom rank 0.00 | liq rank 90 | BTC_DOWN
+===== 2026-11-25 04:04:15 UTC
+<b>🟡 SHORT SETUP  ZKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.006257</code>  (needs 4h close confirm)
+Stop    <code>0.0067110443</code>  (7.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 22:00</b>
+Why     mom rank 0.14 | liq rank 155 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 04:04:16 UTC
+<b>🟡 SHORT SETUP  AVNTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.05575</code>  (needs 4h close confirm)
+Stop    <code>0.059650358</code>  (7.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 22:00</b>
+Why     mom rank 0.15 | liq rank 176 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 04:04:17 UTC
+<b>🟡 SHORT SETUP  MARSCOINUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02705</code>  (needs 4h close confirm)
+Stop    <code>0.029757147</code>  (10.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 22:00</b>
+Why     mom rank 0.09 | liq rank 204 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
