@@ -2799,3 +2799,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-25T00:02:00Z,HMSTRUSDT,open,SHORT,XREV_SHORT,C,entry 0.0001355
 2026-11-25T00:02:00Z,OPGUSDT,open,SHORT,XREV_SHORT,C,entry 0.1695
 2026-11-25T00:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=6 armed=3 open=17 pending=7 equity=9522.00 closed=316
+2026-11-25T01:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=17 pending=7 equity=9522.00 closed=316
