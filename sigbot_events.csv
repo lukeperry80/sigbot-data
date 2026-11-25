@@ -2817,3 +2817,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-25T05:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9506.03 closed=318
 2026-11-25T06:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9506.03 closed=318
 2026-11-25T07:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_DOWN signals=0 armed=0 open=20 pending=4 equity=9506.03 closed=318
+2026-11-25T08:02:00Z,MONUSDT,confirm_failed,SHORT,SHORT_TAIL,A,close 0.01051 >= level 0.00954
+2026-11-25T08:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=2 armed=0 open=20 pending=3 equity=9506.03 closed=318
