@@ -8428,3 +8428,39 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-25 22:00</b>
 Why     mom rank 0.09 | liq rank 204 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 12:04:06 UTC
+<b>🔴 SHORT FILLED  ZKUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.006144</code>
+Stop    <code>0.0067110443</code>  (9.2% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>20955.2</code>
+Exit by <b>2026-12-05 22:00</b>
+Why     mom rank 0.14 | liq rank 155 | BTC_DOWN
+===== 2026-11-25 12:04:08 UTC
+<b>🔴 SHORT FILLED  AVNTUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.05483</code>
+Stop    <code>0.059650358</code>  (8.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>2465.07</code>
+Exit by <b>2026-12-05 22:00</b>
+Why     mom rank 0.15 | liq rank 176 | BTC_DOWN
+===== 2026-11-25 12:04:10 UTC
+<b>🔴 SHORT FILLED  MARSCOINUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.02685</code>
+Stop    <code>0.029757147</code>  (10.8% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>4087.35</code>
+Exit by <b>2026-12-05 22:00</b>
+Why     mom rank 0.09 | liq rank 204 | BTC_DOWN
+===== 2026-11-25 12:04:13 UTC
+<b>🟡 SHORT SETUP  PYTHUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.04723</code>  (needs 4h close confirm)
+Stop    <code>0.050798339</code>  (7.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-26 06:00</b>
+Why     mom rank 0.19 | liq rank 122 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
