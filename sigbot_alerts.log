@@ -8464,3 +8464,39 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-26 06:00</b>
 Why     mom rank 0.19 | liq rank 122 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 20:04:02 UTC
+<b>🟡 LONG SETUP  MMTUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.2893</code>  (post-only retest)
+Stop    <code>0.23641142</code>  (18.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-26 18:02</b>
+Why     mom rank 1.00 | liq rank 17 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 20:04:05 UTC
+<b>🟡 LONG SETUP  BLURUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.009871</code>  (post-only retest)
+Stop    <code>0.0087131451</code>  (11.7% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-26 18:02</b>
+Why     mom rank 0.98 | liq rank 89 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 20:04:07 UTC
+<b>🟡 LONG SETUP  VVVUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>27.043</code>  (post-only retest)
+Stop    <code>24.314275</code>  (10.1% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-26 18:02</b>
+Why     mom rank 0.97 | liq rank 24 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 20:04:08 UTC
+<b>🟡 LONG SETUP  XMRUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>519.16</code>  (post-only retest)
+Stop    <code>491.34429</code>  (5.4% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-26 18:02</b>
+Why     mom rank 0.68 | liq rank 30 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
