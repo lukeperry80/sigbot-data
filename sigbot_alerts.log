@@ -8298,3 +8298,51 @@ Why     mom rank 0.00 | liq rank 90 | BTC_DOWN
 LONG_MAJ, grade A
 Entry <code>0.04688</code>  Stop <code>0.043875204</code>  Exit <code>0.043875204</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-25 00:04:06 UTC
+<b>🔴 SHORT FILLED  METUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Entry   <code>0.2088</code>
+Stop    <code>0.23045597</code>  (10.4% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>549.319</code>
+Exit by <b>2026-12-05 10:00</b>
+Why     mom rank 0.17 | liq rank 209 | BTC_DOWN
+===== 2026-11-25 00:04:07 UTC
+⏰ <b>EXIT NOW — LSKUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.171279</code>
+Entry <code>0.15946</code>  Mark <code>0.15142</code>
+Result <b>+0.50R gross / +0.49R net</b>
+Close this position now.
+===== 2026-11-25 00:04:08 UTC
+⏰ <b>EXIT NOW — NIULAIUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.0456735</code>
+Entry <code>0.04369</code>  Mark <code>0.03954</code>
+Result <b>+0.95R gross / +0.94R net</b>
+Close this position now.
+===== 2026-11-25 00:04:10 UTC
+<b>🟡 SHORT SETUP  MONUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.00954</code>  (needs 4h close confirm)
+Stop    <code>0.011305774</code>  (18.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-25 18:00</b>
+Why     mom rank 0.04 | liq rank 59 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-25 00:04:11 UTC
+<b>🔴 SHORT FILLED  HMSTRUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.0001355</code>
+Stop    <code>0.00014905</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>263524</code>
+Exit by <b>2026-11-26 10:00</b>
+Why     6h ret +0.7% | liq rank 133 | BTC_DOWN
+===== 2026-11-25 00:04:12 UTC
+<b>🔴 SHORT FILLED  OPGUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>0.1695</code>
+Stop    <code>0.18645</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>210.664</code>
+Exit by <b>2026-11-26 10:00</b>
+Why     6h ret +17.2% | liq rank 139 | BTC_DOWN
