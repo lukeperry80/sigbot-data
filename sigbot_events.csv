@@ -2801,3 +2801,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-25T00:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_DOWN signals=6 armed=3 open=17 pending=7 equity=9522.00 closed=316
 2026-11-25T01:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=17 pending=7 equity=9522.00 closed=316
 2026-11-25T02:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=17 pending=7 equity=9522.00 closed=316
+2026-11-25T03:02:00Z,VVVUSDT,stop,LONG,LONG_MAJ,C,stop 23.634531 exit 23.634531 bar 2026-11-25T02:00:00Z net -1.012R
+2026-11-25T03:02:00Z,ADAUSDT,stop,LONG,LONG_MAJ,A,stop 0.14206597 exit 0.14206597 bar 2026-11-25T02:00:00Z net -1.018R
+2026-11-25T03:02:00Z,*,scan,,,,v1.1 universe=209 regime=BTC_DOWN signals=0 armed=0 open=15 pending=7 equity=9506.03 closed=318
