@@ -2852,3 +2852,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-25T20:02:00Z,XMRUSDT,setup,LONG,LONG_MAJ,C,limit level 519.16
 2026-11-25T20:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=4 armed=4 open=23 pending=4 equity=9506.03 closed=318
 2026-11-25T21:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9506.03 closed=318
+2026-11-25T22:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=0 armed=0 open=23 pending=4 equity=9506.03 closed=318
