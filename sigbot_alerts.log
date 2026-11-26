@@ -8610,3 +8610,30 @@ Why     mom rank 0.62 | liq rank 49 | BTC_UP
 LONG_MAJ, grade C
 Entry <code>519.16</code>  Stop <code>491.34429</code>  Exit <code>491.34429</code>
 Loss  <b>-1.02R net</b> ≈ 0.04% of equity
+===== 2026-11-26 16:04:03 UTC
+<b>🟡 LONG SETUP  SSVUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>2.646</code>  (post-only retest)
+Stop    <code>2.3393851</code>  (11.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-27 14:02</b>
+Why     mom rank 0.94 | liq rank 57 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-26 16:04:04 UTC
+<b>🟡 LONG SETUP  WIFUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.1347</code>  (post-only retest)
+Stop    <code>0.12647746</code>  (6.1% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-27 14:02</b>
+Why     mom rank 0.60 | liq rank 75 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-26 16:04:05 UTC
+<b>🟡 LONG SETUP  SEIUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.03729</code>  (post-only retest)
+Stop    <code>0.03476242</code>  (6.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-27 14:02</b>
+Why     mom rank 0.65 | liq rank 92 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
