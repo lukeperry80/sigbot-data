@@ -8577,3 +8577,12 @@ Why     mom rank 1.00 | liq rank 17 | BTC_UP
 XREV_SHORT, grade C
 Entry <code>2.312</code>  Stop <code>2.5432</code>  Exit <code>2.5432</code>
 Loss  <b>-1.02R net</b> ≈ 0.04% of equity
+===== 2026-11-26 06:04:02 UTC
+<b>🟢 LONG FILLED  LTCUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>43.65</code>
+Stop    <code>41.504908</code>  (4.9% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>1.65652</code>
+Exit by <b>2026-12-01 15:00</b>
+Why     mom rank 0.56 | liq rank 31 | BTC_UP

@@ -2871,3 +2871,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-26T05:02:00Z,MMTUSDT,fill,LONG,LONG_MAJ,A,entry 0.2893 level 0.2893 bar 2026-11-26T04:00:00Z
 2026-11-26T05:02:00Z,SSVUSDT,stop,SHORT,XREV_SHORT,C,stop 2.5432 exit 2.5432 bar 2026-11-26T04:00:00Z net -1.016R
 2026-11-26T05:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=21 pending=2 equity=9475.69 closed=324
+2026-11-26T06:02:00Z,LTCUSDT,fill,LONG,LONG_MAJ,C,entry 43.65 level 43.65 bar 2026-11-26T05:00:00Z
+2026-11-26T06:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=22 pending=1 equity=9475.69 closed=324
