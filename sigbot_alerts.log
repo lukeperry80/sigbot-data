@@ -8596,3 +8596,12 @@ Loss  <b>-1.00R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade A
 Entry <code>1.048</code>  Stop <code>0.94509523</code>  Exit <code>0.94509523</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-26 12:04:00 UTC
+<b>🟡 LONG SETUP  INITUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Limit   <code>0.09245</code>  (post-only retest)
+Stop    <code>0.079448486</code>  (14.1% away = 1R)
+Risk    0.04% of equity if stopped
+Valid until <b>2026-11-27 10:02</b>
+Why     mom rank 0.62 | liq rank 49 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
