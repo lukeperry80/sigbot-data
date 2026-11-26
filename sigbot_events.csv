@@ -2863,3 +2863,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-26T01:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=22 pending=3 equity=9496.14 closed=321
 2026-11-26T02:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=0 armed=0 open=22 pending=3 equity=9496.14 closed=321
 2026-11-26T03:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=22 pending=3 equity=9496.14 closed=321
+2026-11-26T04:02:00Z,VVVUSDT,fill,LONG,LONG_MAJ,C,entry 27.043 level 27.043 bar 2026-11-26T03:00:00Z
+2026-11-26T04:02:00Z,BIRBUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.056333 exit 0.056333 bar 2026-11-26T03:00:00Z net -0.399R
+2026-11-26T04:02:00Z,MARSCOINUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.029757147 exit 0.029757147 bar 2026-11-26T03:00:00Z net -1.012R
+2026-11-26T04:02:00Z,LTCUSDT,setup,LONG,LONG_MAJ,C,limit level 43.65
+2026-11-26T04:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=1 armed=1 open=21 pending=3 equity=9479.31 closed=323
