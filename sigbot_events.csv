@@ -2891,3 +2891,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-26T16:02:00Z,WIFUSDT,setup,LONG,LONG_MAJ,A,limit level 0.1347
 2026-11-26T16:02:00Z,SEIUSDT,setup,LONG,LONG_MAJ,A,limit level 0.03729
 2026-11-26T16:02:00Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=4 armed=3 open=19 pending=4 equity=9447.88 closed=327
+2026-11-26T17:02:00Z,*,scan,,,,v1.1 universe=206 regime=BTC_UP signals=0 armed=0 open=19 pending=4 equity=9447.88 closed=327
