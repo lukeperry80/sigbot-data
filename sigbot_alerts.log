@@ -8500,3 +8500,33 @@ Risk    0.04% of equity if stopped
 Valid until <b>2026-11-26 18:02</b>
 Why     mom rank 0.68 | liq rank 30 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-26 00:04:06 UTC
+<b>🟢 LONG FILLED  XMRUSDT</b>
+Grade <b>C</b>  (LONG_MAJ)
+Entry   <code>519.16</code>
+Stop    <code>491.34429</code>  (5.4% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>0.128156</code>
+Exit by <b>2026-12-01 09:00</b>
+Why     mom rank 0.68 | liq rank 30 | BTC_UP
+===== 2026-11-26 00:04:07 UTC
+⏰ <b>EXIT NOW — HMSTRUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.00014905</code>
+Entry <code>0.0001355</code>  Mark <code>0.0001382</code>
+Result <b>-0.20R gross / -0.21R net</b>
+Close this position now.
+===== 2026-11-26 00:04:08 UTC
+⏰ <b>EXIT NOW — OPGUSDT SHORT</b>
+XREV_SHORT, grade C  |  stop was <code>0.179325</code>
+Entry <code>0.1695</code>  Mark <code>0.1552</code>
+Result <b>+0.84R gross / +0.83R net</b>
+Close this position now.
+===== 2026-11-26 00:04:09 UTC
+<b>🔴 SHORT FILLED  SSVUSDT</b>
+Grade <b>C</b>  (XREV_SHORT)
+Entry   <code>2.312</code>
+Stop    <code>2.5432</code>  (10.0% away = 1R)
+Risk    0.04% of equity if stopped
+Qty     <code>15.4221</code>
+Exit by <b>2026-11-27 10:00</b>
+Why     6h ret +13.3% | liq rank 149 | BTC_UP
