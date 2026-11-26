@@ -8530,3 +8530,8 @@ Risk    0.04% of equity if stopped
 Qty     <code>15.4221</code>
 Exit by <b>2026-11-27 10:00</b>
 Why     6h ret +13.3% | liq rank 149 | BTC_UP
+===== 2026-11-26 01:04:03 UTC
+🛑 <b>STOPPED — AVNTUSDT SHORT</b>
+SHORT_TAIL, grade A
+Entry <code>0.05483</code>  Stop <code>0.059650358</code>  Exit <code>0.059650358</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
