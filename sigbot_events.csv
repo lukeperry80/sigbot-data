@@ -2862,3 +2862,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-26T01:02:00Z,AVNTUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.059650358 exit 0.059650358 bar 2026-11-26T00:00:00Z net -1.018R
 2026-11-26T01:02:00Z,*,scan,,,,v1.1 universe=210 regime=BTC_UP signals=0 armed=0 open=22 pending=3 equity=9496.14 closed=321
 2026-11-26T02:02:00Z,*,scan,,,,v1.1 universe=208 regime=BTC_UP signals=0 armed=0 open=22 pending=3 equity=9496.14 closed=321
+2026-11-26T03:02:00Z,*,scan,,,,v1.1 universe=207 regime=BTC_UP signals=0 armed=0 open=22 pending=3 equity=9496.14 closed=321
