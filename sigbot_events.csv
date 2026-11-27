@@ -2932,3 +2932,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T08:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_UP signals=13 armed=6 open=18 pending=10 equity=9412.29 closed=330
 2026-11-27T09:02:00Z,DRVUSDT,expired,LONG,LONG_MAJ,A,level 0.3723
 2026-11-27T09:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_UP signals=0 armed=0 open=18 pending=9 equity=9412.29 closed=330
+2026-11-27T10:02:00Z,BCHUSDT,fill,LONG,LONG_MAJ,C,entry 211.39 level 211.39 bar 2026-11-27T09:00:00Z
+2026-11-27T10:02:00Z,CFGUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.061711591 exit 0.061711591 bar 2026-11-27T09:00:00Z net -0.336R
+2026-11-27T10:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_UP signals=0 armed=0 open=18 pending=8 equity=9408.23 closed=331
