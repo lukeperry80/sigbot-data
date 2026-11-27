@@ -2918,3 +2918,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T06:02:00Z,ORCAUSDT,fill,LONG,LONG_MAJ,A,entry 1.225 level 1.225 bar 2026-11-27T05:00:00Z
 2026-11-27T06:02:00Z,VIRTUALUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.37725931 exit 0.37725931 bar 2026-11-27T05:00:00Z net -0.981R
 2026-11-27T06:02:00Z,*,scan,,,,v1.1 universe=200 regime=BTC_UP signals=0 armed=0 open=18 pending=4 equity=9412.29 closed=330
+2026-11-27T07:02:00Z,*,scan,,,,v1.1 universe=200 regime=BTC_UP signals=0 armed=0 open=18 pending=4 equity=9412.29 closed=330
