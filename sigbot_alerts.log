@@ -8828,3 +8828,12 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-28 10:02</b>
 Why     mom rank 0.99 | liq rank 98 | BTC_UP
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-27 14:03:45 UTC
+<b>🟢 LONG FILLED  OPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.07254</code>
+Stop    <code>0.068824888</code>  (5.1% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>3165.53</code>
+Exit by <b>2026-12-02 23:00</b>
+Why     mom rank 0.19 | liq rank 71 | BTC_UP
