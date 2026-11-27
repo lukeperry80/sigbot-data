@@ -8783,3 +8783,12 @@ Why     mom rank 0.77 | liq rank 47 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.058</code>  Stop <code>0.061711591</code>  Exit <code>0.061711591</code>
 Loss  <b>-0.34R net</b> ≈ 0.04% of equity
+===== 2026-11-27 11:03:28 UTC
+<b>🟢 LONG FILLED  ADAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Entry   <code>0.1522</code>
+Stop    <code>0.14457648</code>  (5.0% away = 1R)
+Risk    0.12% of equity if stopped
+Qty     <code>1542.63</code>
+Exit by <b>2026-12-02 20:00</b>
+Why     mom rank 0.56 | liq rank 15 | BTC_UP
