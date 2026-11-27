@@ -2906,3 +2906,8 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T02:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_DOWN signals=0 armed=0 open=20 pending=3 equity=9447.88 closed=327
 2026-11-27T03:02:00Z,PONSUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.096395711 exit 0.096395711 bar 2026-11-27T02:00:00Z net -1.008R
 2026-11-27T03:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_UP signals=0 armed=0 open=19 pending=3 equity=9435.91 closed=328
+2026-11-27T04:02:00Z,ORCAUSDT,setup,LONG,LONG_MAJ,A,limit level 1.225
+2026-11-27T04:02:00Z,CASHCATUSDT,setup,LONG,LONG_MAJ,A,limit level 0.04422
+2026-11-27T04:02:00Z,LINKUSDT,setup,LONG,LONG_MAJ,C,limit level 9.413
+2026-11-27T04:02:00Z,BCHUSDT,setup,LONG,LONG_MAJ,C,limit level 211.39
+2026-11-27T04:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_UP signals=5 armed=4 open=19 pending=7 equity=9435.91 closed=328
