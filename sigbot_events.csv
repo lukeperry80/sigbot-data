@@ -2911,3 +2911,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T04:02:00Z,LINKUSDT,setup,LONG,LONG_MAJ,C,limit level 9.413
 2026-11-27T04:02:00Z,BCHUSDT,setup,LONG,LONG_MAJ,C,limit level 211.39
 2026-11-27T04:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_UP signals=5 armed=4 open=19 pending=7 equity=9435.91 closed=328
+2026-11-27T05:02:00Z,WIFUSDT,expired,LONG,LONG_MAJ,A,level 0.1347
+2026-11-27T05:02:00Z,SEIUSDT,expired,LONG,LONG_MAJ,A,level 0.03729
+2026-11-27T05:02:00Z,0GUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.11036654 exit 0.11036654 bar 2026-11-27T04:00:00Z net -1.005R
+2026-11-27T05:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_UP signals=0 armed=0 open=18 pending=5 equity=9423.94 closed=329
