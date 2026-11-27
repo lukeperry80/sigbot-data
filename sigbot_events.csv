@@ -2947,3 +2947,11 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T13:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_UP signals=0 armed=0 open=19 pending=11 equity=9408.23 closed=331
 2026-11-27T14:02:00Z,OPUSDT,fill,LONG,LONG_MAJ,A,entry 0.07254 level 0.07254 bar 2026-11-27T13:00:00Z
 2026-11-27T14:02:00Z,*,scan,,,,v1.1 universe=195 regime=BTC_UP signals=0 armed=0 open=20 pending=10 equity=9408.23 closed=331
+2026-11-27T15:02:00Z,LINKUSDT,fill,LONG,LONG_MAJ,C,entry 9.413 level 9.413 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,XRPUSDT,fill,LONG,LONG_MAJ,A,entry 0.9668 level 0.9668 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,DOGEUSDT,fill,LONG,LONG_MAJ,A,entry 0.05802 level 0.05802 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,ENAUSDT,fill,LONG,LONG_MAJ,A,entry 0.10487 level 0.10487 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,PENGUUSDT,fill,LONG,LONG_MAJ,A,entry 0.004517 level 0.004517 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,VIRTUALUSDT,fill,LONG,LONG_MAJ,A,entry 0.3804 level 0.3804 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,JUPUSDT,fill,LONG,LONG_MAJ,A,entry 0.251 level 0.251 bar 2026-11-27T14:00:00Z
+2026-11-27T15:02:00Z,*,scan,,,,v1.1 universe=196 regime=BTC_DOWN signals=0 armed=0 open=27 pending=3 equity=9408.23 closed=331
