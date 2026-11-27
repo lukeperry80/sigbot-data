@@ -2965,3 +2965,5 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T19:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=29 pending=1 equity=9408.23 closed=331
 2026-11-27T20:02:00Z,HUSDT,skip_cap,SHORT,SHORT_TAIL,A,
 2026-11-27T20:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=1 armed=0 open=29 pending=1 equity=9408.23 closed=331
+2026-11-27T21:02:00Z,SKYUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.050660889 exit 0.050660889 bar 2026-11-27T20:00:00Z net -0.957R
+2026-11-27T21:02:00Z,*,scan,,,,v1.1 universe=192 regime=BTC_DOWN signals=0 armed=0 open=28 pending=1 equity=9396.64 closed=332
