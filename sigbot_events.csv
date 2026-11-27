@@ -2919,3 +2919,14 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T06:02:00Z,VIRTUALUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.37725931 exit 0.37725931 bar 2026-11-27T05:00:00Z net -0.981R
 2026-11-27T06:02:00Z,*,scan,,,,v1.1 universe=200 regime=BTC_UP signals=0 armed=0 open=18 pending=4 equity=9412.29 closed=330
 2026-11-27T07:02:00Z,*,scan,,,,v1.1 universe=200 regime=BTC_UP signals=0 armed=0 open=18 pending=4 equity=9412.29 closed=330
+2026-11-27T08:02:00Z,XRPUSDT,setup,LONG,LONG_MAJ,A,limit level 0.9668
+2026-11-27T08:02:00Z,DOGEUSDT,setup,LONG,LONG_MAJ,A,limit level 0.05802
+2026-11-27T08:02:00Z,ENAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.10487
+2026-11-27T08:02:00Z,ADAUSDT,setup,LONG,LONG_MAJ,A,limit level 0.1522
+2026-11-27T08:02:00Z,PONSUSDT,setup,LONG,LONG_MAJ,A,limit level 0.0977
+2026-11-27T08:02:00Z,PENGUUSDT,setup,LONG,LONG_MAJ,A,limit level 0.004517
+2026-11-27T08:02:00Z,WLDUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-11-27T08:02:00Z,ONDOUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-11-27T08:02:00Z,LITUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-11-27T08:02:00Z,HBARUSDT,skip_c_cap,LONG,LONG_MAJ,C,5 C-grade already open
+2026-11-27T08:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_UP signals=13 armed=6 open=18 pending=10 equity=9412.29 closed=330

@@ -8715,3 +8715,57 @@ Why     mom rank 0.81 | liq rank 87 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.3489</code>  Stop <code>0.37725931</code>  Exit <code>0.37725931</code>
 Loss  <b>-0.98R net</b> ≈ 0.12% of equity
+===== 2026-11-27 08:03:29 UTC
+<b>🟡 LONG SETUP  XRPUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.9668</code>  (post-only retest)
+Stop    <code>0.9228269</code>  (4.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 06:02</b>
+Why     mom rank 0.72 | liq rank 5 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-27 08:03:30 UTC
+<b>🟡 LONG SETUP  DOGEUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.05802</code>  (post-only retest)
+Stop    <code>0.055496214</code>  (4.3% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 06:02</b>
+Why     mom rank 0.59 | liq rank 9 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-27 08:03:31 UTC
+<b>🟡 LONG SETUP  ENAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.10487</code>  (post-only retest)
+Stop    <code>0.097683729</code>  (6.9% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 06:02</b>
+Why     mom rank 0.18 | liq rank 13 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-27 08:03:32 UTC
+<b>🟡 LONG SETUP  ADAUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.1522</code>  (post-only retest)
+Stop    <code>0.14457648</code>  (5.0% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 06:02</b>
+Why     mom rank 0.56 | liq rank 15 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-27 08:03:33 UTC
+<b>🟡 LONG SETUP  PONSUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.0977</code>  (post-only retest)
+Stop    <code>0.086131872</code>  (11.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 06:02</b>
+Why     mom rank 0.05 | liq rank 77 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-27 08:03:34 UTC
+<b>🟡 LONG SETUP  PENGUUSDT</b>
+Grade <b>A</b>  (LONG_MAJ)
+Limit   <code>0.004517</code>  (post-only retest)
+Stop    <code>0.004266107</code>  (5.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 06:02</b>
+Why     mom rank 0.13 | liq rank 81 | BTC_UP
+<i>No position yet — waiting for the fill.</i>
