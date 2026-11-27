@@ -2902,3 +2902,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T00:02:00Z,INITUSDT,expired,LONG,LONG_MAJ,C,level 0.09245
 2026-11-27T00:02:00Z,SSVUSDT,fill,LONG,LONG_MAJ,A,entry 2.646 level 2.646 bar 2026-11-26T23:00:00Z
 2026-11-27T00:02:00Z,*,scan,,,,v1.1 universe=204 regime=BTC_UP signals=0 armed=0 open=20 pending=3 equity=9447.88 closed=327
+2026-11-27T01:02:00Z,*,scan,,,,v1.1 universe=203 regime=BTC_UP signals=0 armed=0 open=20 pending=3 equity=9447.88 closed=327
