@@ -2944,3 +2944,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T12:02:00Z,INJUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-11-27T12:02:00Z,LITUSDT,skip_cap,LONG,LONG_MAJ,C,
 2026-11-27T12:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_UP signals=10 armed=4 open=19 pending=11 equity=9408.23 closed=331
+2026-11-27T13:02:00Z,*,scan,,,,v1.1 universe=198 regime=BTC_UP signals=0 armed=0 open=19 pending=11 equity=9408.23 closed=331
