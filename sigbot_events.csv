@@ -2915,3 +2915,6 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T05:02:00Z,SEIUSDT,expired,LONG,LONG_MAJ,A,level 0.03729
 2026-11-27T05:02:00Z,0GUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.11036654 exit 0.11036654 bar 2026-11-27T04:00:00Z net -1.005R
 2026-11-27T05:02:00Z,*,scan,,,,v1.1 universe=199 regime=BTC_UP signals=0 armed=0 open=18 pending=5 equity=9423.94 closed=329
+2026-11-27T06:02:00Z,ORCAUSDT,fill,LONG,LONG_MAJ,A,entry 1.225 level 1.225 bar 2026-11-27T05:00:00Z
+2026-11-27T06:02:00Z,VIRTUALUSDT,stop,SHORT,SHORT_TAIL,A,stop 0.37725931 exit 0.37725931 bar 2026-11-27T05:00:00Z net -0.981R
+2026-11-27T06:02:00Z,*,scan,,,,v1.1 universe=200 regime=BTC_UP signals=0 armed=0 open=18 pending=4 equity=9412.29 closed=330
