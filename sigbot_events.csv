@@ -2955,3 +2955,7 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-27T15:02:00Z,VIRTUALUSDT,fill,LONG,LONG_MAJ,A,entry 0.3804 level 0.3804 bar 2026-11-27T14:00:00Z
 2026-11-27T15:02:00Z,JUPUSDT,fill,LONG,LONG_MAJ,A,entry 0.251 level 0.251 bar 2026-11-27T14:00:00Z
 2026-11-27T15:02:00Z,*,scan,,,,v1.1 universe=196 regime=BTC_DOWN signals=0 armed=0 open=27 pending=3 equity=9408.23 closed=331
+2026-11-27T16:02:00Z,CASHCATUSDT,fill,LONG,LONG_MAJ,A,entry 0.04422 level 0.04422 bar 2026-11-27T15:00:00Z
+2026-11-27T16:02:00Z,ETHFIUSDT,skip_cap,SHORT,SHORT_TAIL,A,
+2026-11-27T16:02:00Z,HUSDT,skip_cap,SHORT,SHORT_TAIL,A,
+2026-11-27T16:02:00Z,*,scan,,,,v1.1 universe=193 regime=BTC_DOWN signals=2 armed=0 open=28 pending=2 equity=9408.23 closed=331
