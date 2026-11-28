@@ -2976,3 +2976,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-28T00:02:00Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=3 armed=1 open=28 pending=1 equity=9396.64 closed=332
 2026-11-28T01:02:00Z,ARIAUSDT,exit_due,LONG,LONG_MAJ,C,+1.544R gross +1.507R net
 2026-11-28T01:02:00Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=0 armed=0 open=27 pending=1 equity=9402.10 closed=333
+2026-11-28T02:02:00Z,*,scan,,,,v1.1 universe=191 regime=BTC_DOWN signals=0 armed=0 open=27 pending=1 equity=9402.10 closed=333
