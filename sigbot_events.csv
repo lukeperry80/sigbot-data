@@ -2983,3 +2983,4 @@ ts,symbol,event,direction,module,grade,detail
 2026-11-28T06:02:00Z,OPUSDT,stop,LONG,LONG_MAJ,A,stop 0.068824888 exit 0.068824888 bar 2026-11-28T05:00:00Z net -1.021R
 2026-11-28T06:02:00Z,VIRTUALUSDT,stop,LONG,LONG_MAJ,A,stop 0.35862948 exit 0.35862948 bar 2026-11-28T05:00:00Z net -1.018R
 2026-11-28T06:02:00Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9378.13 closed=335
+2026-11-28T07:02:00Z,*,scan,,,,v1.1 universe=187 regime=BTC_DOWN signals=0 armed=0 open=25 pending=1 equity=9378.13 closed=335
