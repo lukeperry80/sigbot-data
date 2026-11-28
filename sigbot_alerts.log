@@ -8938,3 +8938,13 @@ LONG_MAJ, grade C  |  stop was <code>0.23254005</code>
 Entry <code>0.27107</code>  Mark <code>0.33055</code>
 Result <b>+1.54R gross / +1.51R net</b>
 Close this position now.
+===== 2026-11-28 06:04:01 UTC
+🛑 <b>STOPPED — OPUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.07254</code>  Stop <code>0.068824888</code>  Exit <code>0.068824888</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-28 06:04:02 UTC
+🛑 <b>STOPPED — VIRTUALUSDT LONG</b>
+LONG_MAJ, grade A
+Entry <code>0.3804</code>  Stop <code>0.35862948</code>  Exit <code>0.35862948</code>
+Loss  <b>-1.02R net</b> ≈ 0.13% of equity
