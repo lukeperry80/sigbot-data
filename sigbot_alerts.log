@@ -8923,3 +8923,12 @@ Why     mom rank 0.05 | liq rank 77 | BTC_UP
 SHORT_TAIL, grade A
 Entry <code>0.04144</code>  Stop <code>0.050660889</code>  Exit <code>0.050660889</code>
 Loss  <b>-0.96R net</b> ≈ 0.12% of equity
+===== 2026-11-28 00:04:09 UTC
+<b>🟡 SHORT SETUP  WLFIUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.03582</code>  (needs 4h close confirm)
+Stop    <code>0.037912913</code>  (5.8% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-28 18:00</b>
+Why     mom rank 0.15 | liq rank 70 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
