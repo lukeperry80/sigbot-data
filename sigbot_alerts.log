@@ -8932,3 +8932,9 @@ Risk    0.12% of equity if stopped
 Valid until <b>2026-11-28 18:00</b>
 Why     mom rank 0.15 | liq rank 70 | BTC_DOWN
 <i>No position yet — waiting for the fill.</i>
+===== 2026-11-28 01:04:03 UTC
+⏰ <b>EXIT NOW — ARIAUSDT LONG</b>
+LONG_MAJ, grade C  |  stop was <code>0.23254005</code>
+Entry <code>0.27107</code>  Mark <code>0.33055</code>
+Result <b>+1.54R gross / +1.51R net</b>
+Close this position now.
