@@ -8948,3 +8948,21 @@ Loss  <b>-1.02R net</b> ≈ 0.13% of equity
 LONG_MAJ, grade A
 Entry <code>0.3804</code>  Stop <code>0.35862948</code>  Exit <code>0.35862948</code>
 Loss  <b>-1.02R net</b> ≈ 0.13% of equity
+===== 2026-11-28 08:04:05 UTC
+<b>🟡 SHORT SETUP  BEATUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.06007</code>  (needs 4h close confirm)
+Stop    <code>0.065747105</code>  (9.5% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-29 02:00</b>
+Why     mom rank 0.12 | liq rank 179 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
+===== 2026-11-28 08:04:06 UTC
+<b>🟡 SHORT SETUP  APRUSDT</b>
+Grade <b>A</b>  (SHORT_TAIL)
+Level   <code>0.02928</code>  (needs 4h close confirm)
+Stop    <code>0.031806579</code>  (8.6% away = 1R)
+Risk    0.12% of equity if stopped
+Valid until <b>2026-11-29 02:00</b>
+Why     mom rank 0.18 | liq rank 181 | BTC_DOWN
+<i>No position yet — waiting for the fill.</i>
